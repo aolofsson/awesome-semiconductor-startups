@@ -81,11 +81,11 @@ A curated list of awesome semiconductor startups.
 
 ## Acquired
 
-* Annapurna Labs (Amazon)
-* Habana Labs (Intel)
-* Movidius (Intel)
-* Nervana (Intel)
-* Nuvia (Qualcomm)
+* [Annapurna Labs (Amazon)](https://www.extremetech.com/computing/198140-amazon-buys-secretive-chip-maker-annapurna-labs-for-350-million)
+* [Habana Labs (Intel)](https://www.forbes.com/sites/moorinsights/2019/12/16/intel-acquires-habana-labs-for-2b/?sh=27bc9bc319f9)
+* [Movidius (Intel)](https://newsroom.intel.com/editorials/josh-walden-intel-editorial/)
+* [Nervana (Intel)](https://venturebeat.com/2016/08/09/intel-acquires-deep-learning-startup-nervana/)
+* [Nuvia (Qualcomm)](https://www.qualcomm.com/news/releases/2021/03/16/qualcomm-completes-acquisition-nuvia)
 
 ## IPO
 
@@ -95,5 +95,11 @@ A curated list of awesome semiconductor startups.
 
 * [Indie Semiconductor](https://www.indiesemi.com/)
 
+## Shut Down
 
-## SHUT DOWN
+* [Ambric](https://www.oregonlive.com/siliconforest/2008/11/ambric_suspends_operation_plan.html)
+* [Calxeda](https://semiengineering.com/chip-startup-shuts-doors/)
+* [Mathstar](https://www.oregonlive.com/business/2008/05/mathstar_calls_it_quits.html)
+* [Tabula](https://semiwiki.com/fpga/4232-tabula-closes-its-doors/)
+* [SiCortex](https://www.bizjournals.com/boston/blog/mass-high-tech/2009/05/supercomputer-firm-sicortex-closes-doors.html)
+* [Stream Processors](https://venturebeat.com/2009/11/07/chip-design-firm-stream-processors-shutting-down-and-selling-assets/)
