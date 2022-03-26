@@ -22,6 +22,8 @@ A curated list of awesome semiconductor startups.
 * [Ayar Labs](https://ayarlabs.com/)
 * [Blaize](https://www.blaize.com/)
 * [Blue Cheetah](https://www.bcanalog.com/)
+* [Bluespec](https://www.bluespec.com)
+    * RISC-V CPU IP, System IP and System Development Tools
 * [BrainChip](https://brainchipinc.com/)
 * [Celestial AI](https://www.celestial.ai/)
 * [Cerebras](https://cerebras.net/)
