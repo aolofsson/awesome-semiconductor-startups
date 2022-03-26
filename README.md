@@ -10,7 +10,9 @@ A curated list of awesome semiconductor startups.
 ## Active
 
 * [Achronix](https://www.achronix.com/)
+* [Agile Analog](https://www.agileanalog.com/)
 * [Ampere Computing](https://amperecomputing.com/)
+* [Analog Inference](https://www.analog-inference.com/)
 * [Anari](https://anari.ai/)
 * [Arbe](https://arberobotics.com/)
 * [Aspinity](https://www.aspinity.com/)
@@ -31,6 +33,7 @@ A curated list of awesome semiconductor startups.
 * [Efinix](https://www.efinixinc.com/)
 * [Esperanto](https://www.esperanto.ai/)
 * [Espressif](https://www.espressif.com/)
+* [Eta Compute](https://etacompute.com/)
 * [Flex Logix](https://www.flex-logix.com/)
 * [Fungible](https://www.fungible.com/)
 * [GaN Systems](https://gansystems.com/)
@@ -58,6 +61,7 @@ A curated list of awesome semiconductor startups.
 * [Occuli](https://www.oculii.com/)
 * [Ozark Integrated Circuits](https://www.ozarkic.com/)
 * [Pensando](https://pensando.io/)
+* [Picocom](https://picocom.com/)
 * [Rain Neuromorphics](https://rain.ai/)
 * [Ramon Space](https://ramon.space/)
 * [RapidSilicon](https://rapidsilicon.com/)
@@ -67,6 +71,7 @@ A curated list of awesome semiconductor startups.
 * [SiFive](https://www.sifive.com/)
 * [SiMa.ai](https://sima.ai/)
 * [SiPearl](https://sipearl.com/en)
+* [Spark Micro](https://www.sparkmicro.com/)
 * [Speedata](https://www.speedata.io/)
 * [Syntiant](https://www.syntiant.com/)
 * [Tachyum](https://www.tachyum.com/)
@@ -77,18 +82,28 @@ A curated list of awesome semiconductor startups.
 * [Wavious](https://wavious.com/)
 * [Xsight Labs](https://xsightlabs.com/)
 * [Zendar](https://www.zendar.io/)
-* [Zero ASIC](https://zeroasic.com): Reducing the silicon energy barrier
+* [Zero ASIC](https://zeroasic.com): Removing the barrrier to silicon
 
-## Acquired
+## Acquisitions
 
+* [Agnilux (Google)](https://techcrunch.com/2010/04/20/google-agnilux-apple)
+* [Altair Semiconductor (Sony)](https://www.jvpvc.com/case-studies/altair/)
+* [Anobit (Apple)](https://techcrunch.com/2012/01/11/why-apple-bought-anobit)
 * [Annapurna Labs (Amazon)](https://www.extremetech.com/computing/198140-amazon-buys-secretive-chip-maker-annapurna-labs-for-350-million)
+* [Aquantia (Marvell)](https://www.marvell.com/company/newsroom/marvell-completes-acquisition-of-aquantia.html)
 * [Habana Labs (Intel)](https://www.forbes.com/sites/moorinsights/2019/12/16/intel-acquires-habana-labs-for-2b/?sh=27bc9bc319f9)
-* [Movidius (Intel)](https://newsroom.intel.com/editorials/josh-walden-intel-editorial/)
-* [Nervana (Intel)](https://venturebeat.com/2016/08/09/intel-acquires-deep-learning-startup-nervana/)
+* [Innovium (Marvell)](https://www.marvell.com/company/newsroom/marvell-to-acquire-innovium-accelerates-cloud-growth-with-expanded-ethernet-switching-portfolio.html)
+* [MixComm (Sivers)](https://www.eetimes.com/mixcomm-acquired-by-sivers-semiconductors/)
+* [Movidius (Intel)](https://newsroom.intel.com/editorials/josh-walden-intel-editorial)
+* [Nervana (Intel)](https://venturebeat.com/2016/08/09/intel-acquires-deep-learning-startup-nervana)
 * [Nuvia (Qualcomm)](https://www.qualcomm.com/news/releases/2021/03/16/qualcomm-completes-acquisition-nuvia)
+* [PA Semi (Apple)](https://www.cnet.com/tech/tech-industry/apple-acquires-low-power-chip-designer-pa-semi)
+* [PrimeSense (Apple)](https://techcrunch.com/2013/11/24/apple-primesense-acquisition-confirmed)
+* [Soft Machines (Intel)](https://www.theregister.com/2016/09/09/intel_soft_machines/)
 
 ## IPO
 
+* [Acacia](https://acacia-inc.com/)
 * [Alphawave](https://www.awaveip.com/en/home/)
 
 ## SPAC
