@@ -1,4 +1,4 @@
-# awesome-semi-startups
+# awesome-semiconductor-startups
 
 A curated list of awesome semiconductor startups.
 
