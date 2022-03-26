@@ -47,6 +47,7 @@ A curated list of awesome semiconductor startups.
 * [Grog](https://groq.com)
 * [Gyrfalcon](https://www.gyrfalcontech.ai/)
 * [Hailo](https://hailo.ai/)
+* [InCore Semi](https://incoresemi.com/)
 * [Innatera](https://www.innatera.com/)
 * [Innoviz](https://innoviz.tech/)
 * [Kalray](https://www.kalrayinc.com/)
