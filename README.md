@@ -55,7 +55,7 @@ A curated list of awesome semiconductor startups.
 * [NextSilicon](https://www.nextsilicon.com/home)
 * [Novumind](https://www.novumind.com/)
 * [Nyriad](https://www.nyriad.io/)
-* [Object Automation](http://object-automation.com/)
+* [Object Automation](https://object-automation.com/)
 * [Occuli](https://www.oculii.com/)
 * [Ozark Integrated Circuits](https://www.ozarkic.com/)
 * [Pensando](https://pensando.io/)
