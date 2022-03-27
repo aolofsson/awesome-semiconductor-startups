@@ -100,37 +100,30 @@ A curated list of awesome semiconductor startups.
 * [Zero ASIC](https://zeroasic.com) (2020)
 	* Removing the barrrier to silicon.
 
-## Acquisitions
+## Alumni
 
-* [Agnilux (Google)](https://techcrunch.com/2010/04/20/google-agnilux-apple)
-* [Altair Semiconductor (Sony)](https://www.jvpvc.com/case-studies/altair/)
-* [Anobit (Apple)](https://techcrunch.com/2012/01/11/why-apple-bought-anobit)
-* [Annapurna Labs (Amazon)](https://www.extremetech.com/computing/198140-amazon-buys-secretive-chip-maker-annapurna-labs-for-350-million)
-* [Aquantia (Marvell)](https://www.marvell.com/company/newsroom/marvell-completes-acquisition-of-aquantia.html)
-* [Habana Labs (Intel)](https://www.forbes.com/sites/moorinsights/2019/12/16/intel-acquires-habana-labs-for-2b/?sh=27bc9bc319f9)
-* [Innovium (Marvell)](https://www.marvell.com/company/newsroom/marvell-to-acquire-innovium-accelerates-cloud-growth-with-expanded-ethernet-switching-portfolio.html)
-* [MixComm (Sivers)](https://www.eetimes.com/mixcomm-acquired-by-sivers-semiconductors/)
-* [Movidius (Intel)](https://newsroom.intel.com/editorials/josh-walden-intel-editorial)
-* [Nervana (Intel)](https://venturebeat.com/2016/08/09/intel-acquires-deep-learning-startup-nervana)
-* [Nuvia (Qualcomm)](https://www.qualcomm.com/news/releases/2021/03/16/qualcomm-completes-acquisition-nuvia)
-* [PA Semi (Apple)](https://www.cnet.com/tech/tech-industry/apple-acquires-low-power-chip-designer-pa-semi)
-* [PrimeSense (Apple)](https://techcrunch.com/2013/11/24/apple-primesense-acquisition-confirmed)
-* [Soft Machines (Intel)](https://www.theregister.com/2016/09/09/intel_soft_machines/)
-
-## IPO
-
-* [Acacia](https://acacia-inc.com/)
-* [Alphawave](https://www.awaveip.com/en/home/)
-
-## SPAC
-
-* [Indie Semiconductor](https://www.indiesemi.com/)
-
-## Shut Down
-
-* [Ambric](https://www.oregonlive.com/siliconforest/2008/11/ambric_suspends_operation_plan.html)
-* [Calxeda](https://semiengineering.com/chip-startup-shuts-doors/)
-* [Mathstar](https://www.oregonlive.com/business/2008/05/mathstar_calls_it_quits.html)
-* [Tabula](https://semiwiki.com/fpga/4232-tabula-closes-its-doors/)
-* [SiCortex](https://www.bizjournals.com/boston/blog/mass-high-tech/2009/05/supercomputer-firm-sicortex-closes-doors.html)
-* [Stream Processors](https://venturebeat.com/2009/11/07/chip-design-firm-stream-processors-shutting-down-and-selling-assets/)
+| Company                          |  Exit   | Value  | Year |
+|--------------------------------- | ------- | ------ | -----|
+| [Acacia](https://www.bizjournals.com/boston/news/2016/12/29/the-best-performing-ipo-nationwide-of-2016-is.html) | IPO | $1B | 2016 |
+| [Agnilux](https://techcrunch.com/2010/04/20/google-agnilux-apple) | Google  | N/A   | 2010 |
+| [Alphawave](https://www.marketwatch.com/story/chip-maker-alphawave-set-for-4-3-billion-london-ipo-after-shunning-the-nasdaq-11620840007) | IPO | $4.3B | 2021 |
+| [Altair Semiconductor](https://www.jvpvc.com/case-studies/altair/) | Sony  | $212M | 2016 |
+| [Ambric](https://www.oregonlive.com/siliconforest/2008/11/ambric_suspends_operation_plan.html) | Shutdown | $0 | 2008 |
+| [Anobit](https://techcrunch.com/2012/01/11/why-apple-bought-anobit) | Apple | $500M | 2012 |
+| [Annapurna Labs](https://www.extremetech.com/computing/198140-amazon-buys-secretive-chip-maker-annapurna-labs-for-350-million) | Amazon  | $375M | 2015 |
+| [Aquantia](https://www.thestreet.com/investing/earnings/marvell-technology-to-purchase-aquantia-14949381) | Marvell  | $452M   | 2019 |
+| [Calxeda](https://semiengineering.com/chip-startup-shuts-doors/) | Shutdown | $0 | 2013 |
+| [Habana Labs](https://www.forbes.com/sites/moorinsights/2019/12/16/intel-acquires-habana-labs-for-2b/?sh=27bc9bc319f9) | Intel  | $2B | 2019 |
+| [Indie Semiconductor](https://www.marketwatch.com/story/indie-semiconductor-to-go-public-through-spac-buyout-deal-that-values-company-at-14-billion-2020-12-15) | SPAC | $1.4B | 2020 |
+| [Innovium](https://techcrunch.com/2021/08/03/marvell-nabs-innovium-for-1-1b-as-it-delves-deeper-into-cloud-ethernet-switches/) | Marvell | $1.1B|  2021 |
+| [Mathstar](https://www.oregonlive.com/business/2008/05/mathstar_calls_it_quits.html) | Shutdown | $0 | 2008 |
+| [MixComm](https://www.eetimes.com/mixcomm-acquired-by-sivers-semiconductors/) | Sivers | $155M | 2021 |
+| [Movidius](https://siliconangle.com/2016/09/06/intel-buys-movidius-to-boost-machine-vision/) | Intel | $400M | 2016 |
+| [Nervana](https://venturebeat.com/2016/08/09/intel-acquires-deep-learning-startup-nervana) | Intel | $350M | 2016 |
+| [Nuvia](https://www.fiercewireless.com/devices/qualcomm-to-acquire-nuvia-for-1-4b)| Qualcomm | $1.4B | 2021 |
+| [PA Semi](https://www.cnet.com/tech/tech-industry/apple-acquires-low-power-chip-designer-pa-semi) | Apple | $278M | 2009 |
+| [PrimeSense](https://techcrunch.com/2013/11/24/apple-primesense-acquisition-confirmed) | Apple | $350M | 2013 |
+| [SiCortex](https://www.bizjournals.com/boston/blog/mass-high-tech/2009/05/supercomputer-firm-sicortex-closes-doors.html) | Shutdown | $0 | 2009 |
+| [Soft Machines](https://www.theregister.com/2016/09/09/intel_soft_machines/) | Intel | $250M | 2016 |
+| [Stream Processors](https://venturebeat.com/2009/11/07/chip-design-firm-stream-processors-shutting-down-and-selling-assets/) | Shutdown | $0 | 2009 |
+| [Tabula](https://semiwiki.com/fpga/4232-tabula-closes-its-doors/) | Shutdown | $0 | 2015 |
