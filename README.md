@@ -3,13 +3,17 @@
 A curated list of awesome semiconductor startups.
 
 * Alphabetical
-* Max 80 char line width
-* Tag lines from confirmed company reps only
+* Requirements
+	* startup (ie not public, steady state)
+	* semi company (ie not application software)
+	* product company (ie. not services)
+* Optional, include year of founding in parentheses
+* Up to 3 bullets per company (confirmed company reps only)
 * All entries must be confirmed with public link
+* Max 80 char line width
 
 ## Active
 
-* [Achronix](https://www.achronix.com/)
 * [Agile Analog](https://www.agileanalog.com/)
 * [Ampere Computing](https://amperecomputing.com/)
 * [Analog Inference](https://www.analog-inference.com/)
@@ -23,7 +27,7 @@ A curated list of awesome semiconductor startups.
 * [Blaize](https://www.blaize.com/)
 * [Blue Cheetah](https://www.bcanalog.com/)
 * [Bluespec](https://www.bluespec.com)
-    * RISC-V CPU IP, System IP and System Development Tools
+	* RISC-V CPU IP, System IP and System Development Tools
 * [BrainChip](https://brainchipinc.com/)
 * [Celestial AI](https://www.celestial.ai/)
 * [Cerebras](https://cerebras.net/)
@@ -48,6 +52,7 @@ A curated list of awesome semiconductor startups.
 * [Grog](https://groq.com)
 * [Gyrfalcon](https://www.gyrfalcontech.ai/)
 * [Hailo](https://hailo.ai/)
+* [HawAI.tech](https://hawai.tech/)
 * [InCore Semi](https://incoresemi.com/)
 * [Innatera](https://www.innatera.com/)
 * [Innoviz](https://innoviz.tech/)
@@ -70,6 +75,7 @@ A curated list of awesome semiconductor startups.
 * [Ozark Integrated Circuits](https://www.ozarkic.com/)
 * [Pensando](https://pensando.io/)
 * [Picocom](https://picocom.com/)
+* [Qadric](https://www.quadric.io/)
 * [Rain Neuromorphics](https://rain.ai/)
 * [Ramon Space](https://ramon.space/)
 * [RapidSilicon](https://rapidsilicon.com/)
@@ -86,11 +92,13 @@ A curated list of awesome semiconductor startups.
 * [Tenstorrent](https://tenstorrent.com/)
 * [Tetramem](https://www.tetramem.com/about-us)
 * [TriEye](https://trieye.tech/)
+* [Vayyar](https://vayyar.com/)
 * [Ventana Micro](https://www.ventanamicro.com/)
 * [Wavious](https://wavious.com/)
 * [Xsight Labs](https://xsightlabs.com/)
 * [Zendar](https://www.zendar.io/)
-* [Zero ASIC](https://zeroasic.com): Removing the barrrier to silicon
+* [Zero ASIC](https://zeroasic.com) (2020)
+	* Removing the barrrier to silicon.
 
 ## Acquisitions
 
