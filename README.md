@@ -39,6 +39,7 @@ A curated list of awesome semiconductor startups.
 * [Eta Compute](https://etacompute.com/)
 * [Flex Logix](https://www.flex-logix.com/)
 * [Fungible](https://www.fungible.com/)
+* [Furiosa](https://www.furiosa.ai/)
 * [GaN Systems](https://gansystems.com/)
 * [Gowin](https://www.gowinsemi.com/en/)
 * [Graphcore](https://www.graphcore.ai/)
