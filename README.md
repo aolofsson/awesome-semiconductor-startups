@@ -39,7 +39,6 @@ A curated list of awesome semiconductor startups.
 * [Efabless](https://efabless.com/)
 * [Efinix](https://www.efinixinc.com/)
 * [Esperanto](https://www.esperanto.ai/)
-* [Espressif](https://www.espressif.com/)
 * [Eta Compute](https://etacompute.com/)
 * [Flex Logix](https://www.flex-logix.com/)
 * [Fungible](https://www.fungible.com/)
@@ -113,6 +112,7 @@ A curated list of awesome semiconductor startups.
 | [Annapurna Labs](https://www.extremetech.com/computing/198140-amazon-buys-secretive-chip-maker-annapurna-labs-for-350-million) | Amazon  | $375M | 2015 |
 | [Aquantia](https://www.thestreet.com/investing/earnings/marvell-technology-to-purchase-aquantia-14949381) | Marvell  | $452M   | 2019 |
 | [Calxeda](https://semiengineering.com/chip-startup-shuts-doors/) | Shutdown | $0 | 2013 |
+| [Espressif](https://www.cnx-software.com/2019/07/25/espressif-systems-gets-listed-on-the-shanghai-stock-market/) | IPO | $1.8B | 2017 |
 | [Habana Labs](https://www.forbes.com/sites/moorinsights/2019/12/16/intel-acquires-habana-labs-for-2b/?sh=27bc9bc319f9) | Intel  | $2B | 2019 |
 | [Indie Semiconductor](https://www.marketwatch.com/story/indie-semiconductor-to-go-public-through-spac-buyout-deal-that-values-company-at-14-billion-2020-12-15) | SPAC | $1.4B | 2020 |
 | [Innovium](https://techcrunch.com/2021/08/03/marvell-nabs-innovium-for-1-1b-as-it-delves-deeper-into-cloud-ethernet-switches/) | Marvell | $1.1B|  2021 |
