@@ -64,6 +64,7 @@ A curated list of awesome semiconductor startups.
 * [Luminous Computing](https://www.luminous.com/)
 * [Minima](https://minimaprocessor.com/)
 * [Movellus](https://www.movellus.com/)
+* [Morse Micro](https://www.morsemicro.com/)
 * [Mythic](https://www.mythic-ai.com/)
 * [Neuchips](https://www.neuchips.ai/)
 * [NeuroBlade](https://www.neuroblade.com/)
@@ -123,6 +124,7 @@ A curated list of awesome semiconductor startups.
 | [Nuvia](https://www.fiercewireless.com/devices/qualcomm-to-acquire-nuvia-for-1-4b)| Qualcomm | $1.4B | 2021 |
 | [PA Semi](https://www.cnet.com/tech/tech-industry/apple-acquires-low-power-chip-designer-pa-semi) | Apple | $278M | 2009 |
 | [PrimeSense](https://techcrunch.com/2013/11/24/apple-primesense-acquisition-confirmed) | Apple | $350M | 2013 |
+| [Provigent](https://en.globes.co.il/en/article-1000631723) | Broadcom | $360M | 2011 |
 | [SiCortex](https://www.bizjournals.com/boston/blog/mass-high-tech/2009/05/supercomputer-firm-sicortex-closes-doors.html) | Shutdown | $0 | 2009 |
 | [Soft Machines](https://www.theregister.com/2016/09/09/intel_soft_machines/) | Intel | $250M | 2016 |
 | [Stream Processors](https://venturebeat.com/2009/11/07/chip-design-firm-stream-processors-shutting-down-and-selling-assets/) | Shutdown | $0 | 2009 |
