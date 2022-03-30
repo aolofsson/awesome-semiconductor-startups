@@ -31,6 +31,7 @@ A curated list of awesome semiconductor startups.
 	* RISC-V CPU IP, System IP and System Development Tools
 * [BrainChip](https://brainchipinc.com/)
 * [Celestial AI](https://www.celestial.ai/)
+* [Celtro](https://celtro.de/)
 * [Cerebras](https://cerebras.net/)
 * [Ceremorphic](https://ceremorphic.com/)
 * [Cerfe Labs](https://cerfelabs.com/)
