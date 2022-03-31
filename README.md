@@ -67,6 +67,7 @@ A curated list of awesome semiconductor startups.
 * [Ligthmatter](https://lightmatter.co/)
 * [Lighton](https://lighton.ai/)
 * [Luminous Computing](https://www.luminous.com/)
+* [Master Micro](https://adt.master-micro.com/)
 * [Minima](https://minimaprocessor.com/)
 * [Movellus](https://www.movellus.com/)
 * [Morse Micro](https://www.morsemicro.com/)
