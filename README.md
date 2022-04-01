@@ -95,6 +95,7 @@ A curated list of awesome semiconductor startups.
 * [Speedata](https://www.speedata.io/)
 * [Syntiant](https://www.syntiant.com/)
 * [Tachyum](https://www.tachyum.com/)
+* [Tensil.ai](https://www.tensil.ai/)
 * [Tenstorrent](https://tenstorrent.com/)
 * [Tetramem](https://www.tetramem.com/about-us)
 * [TriEye](https://trieye.tech/)
