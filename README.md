@@ -35,6 +35,9 @@ A curated list of awesome semiconductor startups.
 * [Cerebras](https://cerebras.net/)
 * [Ceremorphic](https://ceremorphic.com/)
 * [Cerfe Labs](https://cerfelabs.com/)
+* [Chipflow](https://chipflow.io) (2021)
+	* Helping product companies to make their own chips
+	* Open source is changing the rules of the game
 * [Cornami](https://cornami.com/)
 * [d-Matrix](https://www.d-matrix.ai/)
 * [Diakopto](https://diakopto.com/)
