@@ -83,6 +83,7 @@ A curated list of awesome semiconductor startups.
 * [Occuli](https://www.oculii.com/)
 * [Ozark Integrated Circuits](https://www.ozarkic.com/)
 * [Pensando](https://pensando.io/)
+* [Perceive](https://perceive.io)
 * [Picocom](https://picocom.com/)
 * [Qadric](https://www.quadric.io/)
 * [Rain Neuromorphics](https://rain.ai/)
