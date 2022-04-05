@@ -4,7 +4,7 @@ A curated list of awesome semiconductor startups.
 
 * Alphabetical
 * Requirements
-	* startup (ie not public, steady state)
+	* startup (ie not steady state)
 	* semi company (ie not application software)
 	* product company (ie. not services)
 * Optional, include year of founding in parentheses
@@ -88,6 +88,7 @@ A curated list of awesome semiconductor startups.
 * [Rain Neuromorphics](https://rain.ai/)
 * [Ramon Space](https://ramon.space/)
 * [RapidSilicon](https://rapidsilicon.com/)
+* [Rivos](https://www.rivosinc.com/)
 * [RoboSense](https://www.robosense.ai/en)
 * [SambaNova Systems](https://sambanova.ai)
 * [Semifive](https://semifive.com:4438/)
