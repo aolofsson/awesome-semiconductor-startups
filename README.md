@@ -82,6 +82,7 @@ A curated list of awesome semiconductor startups.
 * [Nyriad](https://www.nyriad.io/)
 * [Occuli](https://www.oculii.com/)
 * [Ozark Integrated Circuits](https://www.ozarkic.com/)
+* [ProteanTecs](https://www.proteantecs.com/)
 * [Pensando](https://pensando.io/)
 * [Perceive](https://perceive.io)
 * [Picocom](https://picocom.com/)
