@@ -15,6 +15,7 @@ A curated list of awesome semiconductor startups.
 ## Active
 
 * [Agile Analog](https://www.agileanalog.com/)
+* [Alif Semiconductor](https://alifsemi.com/)
 * [Ampere Computing](https://amperecomputing.com/)
 * [Analog Inference](https://www.analog-inference.com/)
 * [Anari](https://anari.ai/)
@@ -52,6 +53,7 @@ A curated list of awesome semiconductor startups.
 * [Fungible](https://www.fungible.com/)
 * [Furiosa](https://www.furiosa.ai/)
 * [GaN Systems](https://gansystems.com/)
+* [Genapsys](https://genapsys.com/)
 * [Gowin](https://www.gowinsemi.com/en/)
 * [Graphcore](https://www.graphcore.ai/)
 * [GrAI Matter Labs](https://www.graimatterlabs.ai/)
