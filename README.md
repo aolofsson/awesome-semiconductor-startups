@@ -96,6 +96,8 @@ A curated list of awesome semiconductor startups.
 * [Pensando](https://pensando.io/)
 * [Perceive](https://perceive.io)
 * [Picocom](https://picocom.com/)
+* [PQShield](https://pqshield.com/)
+	* Hardware co-processors and sub-systems for Post-quantum Cryptography.
 * [PragmatiC](https://www.pragmaticsemi.com/)
 * [proteanTecs](https://www.proteantecs.com/)
 * [Qadric](https://www.quadric.io/)
