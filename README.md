@@ -42,7 +42,6 @@ A curated list of awesome semiconductor startups.
 * [Cerfe Labs](https://cerfelabs.com/)
 * [Chipflow](https://chipflow.io) (2021)
 	* Helping product companies to make their own chips
-	* Open source is changing the rules of the game
 * [Cornami](https://cornami.com/)
 * [d-Matrix](https://www.d-matrix.ai/)
 * [Diakopto](https://diakopto.com/)
@@ -108,11 +107,12 @@ A curated list of awesome semiconductor startups.
 * [RoboSense](https://www.robosense.ai/en)
 * [SambaNova Systems](https://sambanova.ai)
 * [Semifive](https://semifive.com:4438/)
-* [SiFive](https://www.sifive.com/)
+* [SiFive](https://www.sifive.com/) (2015)
 * [SiMa.ai](https://sima.ai/)
 * [SiPearl](https://sipearl.com/en)
 * [Spark Micro](https://www.sparkmicro.com/)
 * [Speedata](https://www.speedata.io/)
+* [SWIR Vision Systems](https://www.swirvisionsystems.com/) (2018)
 * [Syntiant](https://www.syntiant.com/)
 * [Tachyum](https://www.tachyum.com/)
 * [Tensil.ai](https://www.tensil.ai/)
@@ -127,7 +127,7 @@ A curated list of awesome semiconductor startups.
 * [Xsight Labs](https://xsightlabs.com/)
 * [Zendar](https://www.zendar.io/)
 * [Zero ASIC](https://zeroasic.com) (2020)
-	* Removing the barrrier to silicon.
+	* Removing the barrrier to custom silicon.
 
 ## Alumni
 
