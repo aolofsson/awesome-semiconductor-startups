@@ -14,6 +14,7 @@ A curated list of awesome semiconductor startups.
 
 ## Active
 
+* [Acceleration Robotics](https://accelerationrobotics.com/)
 * [Agile Analog](https://www.agileanalog.com/)
 * [Aistorm](https://aistorm.ai/)
 * [Alif Semiconductor](https://alifsemi.com/)
