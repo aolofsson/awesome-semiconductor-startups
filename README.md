@@ -15,7 +15,7 @@ A curated list of awesome semiconductor startups.
 ## Active
 
 * [Acceleration Robotics](https://accelerationrobotics.com/)
-  * Hardware Acceleration for robots
+  * Faster robots, hardware acceleration for robots
   * Robot IP cores, ROBOTCORE framework
   * Robot Operating System (ROS)
 * [Agile Analog](https://www.agileanalog.com/)
