@@ -131,7 +131,7 @@ A curated list of awesome semiconductor startups.
 * [Xsight Labs](https://xsightlabs.com/)
 * [Zendar](https://www.zendar.io/)
 * [Zero ASIC](https://zeroasic.com) (2020)
-	* Removing the barrrier to custom silicon.
+	* Removing the barrier to custom silicon.
 
 ## Alumni
 
