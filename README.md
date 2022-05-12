@@ -105,6 +105,7 @@ A curated list of awesome semiconductor startups.
 * [RapidSilicon](https://rapidsilicon.com/)
 * [Rivos](https://www.rivosinc.com/)
 * [RoboSense](https://www.robosense.ai/en)
+* [Salience Labs](https://saliencelabs.ai/)
 * [SambaNova Systems](https://sambanova.ai)
 * [Semifive](https://semifive.com:4438/)
 * [SiFive](https://www.sifive.com/) (2015)
