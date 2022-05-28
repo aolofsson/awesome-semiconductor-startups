@@ -35,6 +35,8 @@ A curated list of awesome semiconductor startups.
 	* RISC-V CPU IP, System IP and System Development Tools
 * [BrainChip](https://brainchipinc.com/)
 * [Cambricon](https://www.cambricon.com/)
+* [Celera](https://www.celeratechnologies.com/) (2018)
+	* Fully-automated analog/mixed-signal IC development tool.
 * [Celestial AI](https://www.celestial.ai/)
 * [Celtro](https://celtro.de/)
 * [Cerebras](https://cerebras.net/)
@@ -42,12 +44,16 @@ A curated list of awesome semiconductor startups.
 * [Cerfe Labs](https://cerfelabs.com/)
 * [Chipflow](https://chipflow.io) (2021)
 	* Helping product companies to make their own chips
+* [Codasip](https://codasip.com/) (2014)
+	* Supplier of RISC-V IP core.
 * [Cornami](https://cornami.com/)
 * [d-Matrix](https://www.d-matrix.ai/)
 * [Diakopto](https://diakopto.com/)
 * [EdgeCortix](https://www.edgecortix.com/)
 * [Efabless](https://efabless.com/)
 * [Efinix](https://www.efinixinc.com/)
+* [Eridan](https://eridan.io/) (2013)
+	* Creating a power-efficient GaN-based RF Front End Module for wireless telecommunications.
 * [Esperanto](https://www.esperanto.ai/)
 * [Eta Compute](https://etacompute.com/)
 * [eTopus](https://etopus.com/)
@@ -71,9 +77,12 @@ A curated list of awesome semiconductor startups.
 * [InCore Semi](https://incoresemi.com/)
 * [Innatera](https://www.innatera.com/)
 * [Innoviz](https://innoviz.tech/)
+* [Jeejio](https://www.jeejio.com/en/) (2018)
+	* AI-based processors and intelligent OS for IoT-enabled devices.
 * [Jeeva Wireless](https://www.jeevawireless.com/)
 * [Kalray](https://www.kalrayinc.com/)
 * [Kandou](https://kandou.com/)
+* [Kepler Computing](https://www.keplercompute.com/) (2018)
 * [Kneron](https://www.kneron.com/)
 * [Lightelligence](https://www.lightelligence.ai/)
 * [Ligthmatter](https://lightmatter.co/)
@@ -81,6 +90,8 @@ A curated list of awesome semiconductor startups.
 * [Luminous Computing](https://www.luminous.com/)
 * [Master Micro](https://adt.master-micro.com/)
 * [Minima](https://minimaprocessor.com/)
+* [Mobix Labs](https://mobixlabs.com/) (2020)
+	* Developing RF and mixed-signal ICs for mmWave 5G.
 * [Movellus](https://www.movellus.com/)
 * [Morse Micro](https://www.morsemicro.com/)
 * [Mythic](https://www.mythic-ai.com/)
@@ -113,6 +124,8 @@ A curated list of awesome semiconductor startups.
 * [SiPearl](https://sipearl.com/en)
 * [Spark Micro](https://www.sparkmicro.com/)
 * [Speedata](https://www.speedata.io/)
+* [StarFive](https://www.starfivetech.com/en/) (2018)
+	* Customizable RISC-V processor core IP and agile chip design platform.
 * [SWIR Vision Systems](https://www.swirvisionsystems.com/) (2018)
 * [Syntiant](https://www.syntiant.com/)
 * [Tachyum](https://www.tachyum.com/)
