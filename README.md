@@ -44,6 +44,7 @@ A curated list of awesome semiconductor startups.
 * [Cerfe Labs](https://cerfelabs.com/)
 * [Chipflow](https://chipflow.io) (2021)
 	* Helping product companies to make their own chips
+* [Chipletz](https://chipletz.com)
 * [Codasip](https://codasip.com/) (2014)
 	* Supplier of RISC-V IP core.
 * [Cornami](https://cornami.com/)
@@ -114,6 +115,7 @@ A curated list of awesome semiconductor startups.
 * [Rain Neuromorphics](https://rain.ai/)
 * [Ramon Space](https://ramon.space/)
 * [RapidSilicon](https://rapidsilicon.com/)
+* [Recogni](https://www.recogni.com/)
 * [Rivos](https://www.rivosinc.com/)
 * [RoboSense](https://www.robosense.ai/en)
 * [Salience Labs](https://saliencelabs.ai/)
