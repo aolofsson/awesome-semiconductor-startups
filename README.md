@@ -15,14 +15,21 @@ A curated list of awesome semiconductor startups.
 ## Active
 
 * [Agile Analog](https://www.agileanalog.com/)
+    * Automating the design of analog circuitry
 * [Aistorm](https://aistorm.ai/)
+    * Charge domain based AI processing
 * [Alif Semiconductor](https://alifsemi.com/)
+    * Integrated SoC for AI at the edge
 * [Alpha ICs](https://alphaics.ai/)
 * [Ampere Computing](https://amperecomputing.com/)
+    * Cloud native manycore CPUs.
 * [Analog Inference](https://www.analog-inference.com/)
+    * Analog in-memory AI inference accelerators
 * [Andapt](https://www.andapt.com/)
+    * Programmabale power management ICs
 * [Anari](https://anari.ai/)
 * [Arbe](https://arberobotics.com/)
+    * Sensor processing solutions
 * [Aspinity](https://www.aspinity.com/)
 * [Astera Labs](https://www.asteralabs.com/)
 * [Atmosic](https://atmosic.com/)
@@ -70,7 +77,9 @@ A curated list of awesome semiconductor startups.
 * [Graphcore](https://www.graphcore.ai/)
 * [GrAI Matter Labs](https://www.graimatterlabs.ai/)
 * [Greenwaves](https://greenwaves-technologies.com/)
+    * Low power SoCs for edge/IoT/AI
 * [Groq](https://groq.com)
+    * AI processors
 * [Gyrfalcon](https://www.gyrfalcontech.ai/)
 * [Hailo](https://hailo.ai/)
 * [HawAI.tech](https://hawai.tech/)
