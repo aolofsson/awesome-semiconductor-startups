@@ -98,6 +98,7 @@ A curated list of awesome semiconductor startups.
 * [Ligthmatter](https://lightmatter.co/)
 * [Lighton](https://lighton.ai/)
 * [Luminous Computing](https://www.luminous.com/)
+* [Mabrains](https://mabrains.com/)
 * [Master Micro](https://adt.master-micro.com/)
 * [Minima](https://minimaprocessor.com/)
 * [Mobix Labs](https://mobixlabs.com/) (2020)
