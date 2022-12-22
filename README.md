@@ -49,11 +49,13 @@ A curated list of awesome semiconductor startups.
 * [Cerebras](https://cerebras.net/)
 * [Ceremorphic](https://ceremorphic.com/)
 * [Cerfe Labs](https://cerfelabs.com/)
+* [Cellium](https://cellium.net/)
 * [Chipflow](https://chipflow.io) (2021)
 	* Helping product companies to make their own chips
 * [Chipletz](https://chipletz.com)
 * [Codasip](https://codasip.com/) (2014)
 	* Supplier of RISC-V IP core.
+* [Cornelis Networks](https://www.cornelisnetworks.com)
 * [Cornami](https://cornami.com/)
 * [d-Matrix](https://www.d-matrix.ai/)
 * [Diakopto](https://diakopto.com/)
@@ -63,6 +65,7 @@ A curated list of awesome semiconductor startups.
 * [Eridan](https://eridan.io/) (2013)
 	* Creating a power-efficient GaN-based RF Front End Module for wireless telecommunications.
 * [Esperanto](https://www.esperanto.ai/)
+* [Eliyan](https://eliyan.com/)
 * [Eta Compute](https://etacompute.com/)
 * [eTopus](https://etopus.com/)
 * [Exo Imaging](https://www.exo.inc/technology/)
@@ -91,6 +94,7 @@ A curated list of awesome semiconductor startups.
 	* AI-based processors and intelligent OS for IoT-enabled devices.
 * [Jeeva Wireless](https://www.jeevawireless.com/)
 * [Kalray](https://www.kalrayinc.com/)
+* [Kameleon](https://www.kameleonsec.com/)
 * [Kandou](https://kandou.com/)
 * [Kepler Computing](https://www.keplercompute.com/) (2018)
 * [Kneron](https://www.kneron.com/)
@@ -106,6 +110,7 @@ A curated list of awesome semiconductor startups.
 * [Morse Micro](https://www.morsemicro.com/)
 * [Mythic](https://www.mythic-ai.com/)
 * [Neuchips](https://www.neuchips.ai/)
+* [Neureality](https://www.neureality.ai/)
 * [NeuroBlade](https://www.neuroblade.com/)
 * [NextSilicon](https://www.nextsilicon.com/home)
 * [Novumind](https://www.novumind.com/)
@@ -116,6 +121,7 @@ A curated list of awesome semiconductor startups.
 * [Pensando](https://pensando.io/)
 * [Perceive](https://perceive.io)
 * [Picocom](https://picocom.com/)
+* [Pliops](https://pliops.com/)
 * [PQShield](https://pqshield.com/)
 	* Hardware co-processors and sub-systems for Post-quantum Cryptography.
 * [PragmatiC](https://www.pragmaticsemi.com/)
@@ -128,6 +134,7 @@ A curated list of awesome semiconductor startups.
 * [Rivos](https://www.rivosinc.com/)
 * [RoboSense](https://www.robosense.ai/en)
 * [Salience Labs](https://saliencelabs.ai/)
+* [SensiEDGE](https://www.sensiedge.com)
 * [SambaNova Systems](https://sambanova.ai)
 * [Semifive](https://semifive.com:4438/)
 * [SiFive](https://www.sifive.com/) (2015)
@@ -142,11 +149,13 @@ A curated list of awesome semiconductor startups.
 * [Tachyum](https://www.tachyum.com/)
 * [Tensil.ai](https://www.tensil.ai/)
 * [Tenstorrent](https://tenstorrent.com/)
+* [Teramount](https://teramount.com/)
 * [Tetramem](https://www.tetramem.com/about-us)
 * [TriEye](https://trieye.tech/)
 * [Upmem](https://www.upmem.com/)
 * [Vayyar](https://vayyar.com/)
 * [Ventana Micro](https://www.ventanamicro.com/)
+* [Unifabrix](https://www.unifabrix.com/)
 * [Unthether AI](https://www.untether.ai/)
 * [Wavious](https://wavious.com/)
 * [Xsight Labs](https://xsightlabs.com/)
@@ -166,6 +175,7 @@ A curated list of awesome semiconductor startups.
 | [Anobit](https://techcrunch.com/2012/01/11/why-apple-bought-anobit) | Apple | $500M | 2012 |
 | [Annapurna Labs](https://www.extremetech.com/computing/198140-amazon-buys-secretive-chip-maker-annapurna-labs-for-350-million) | Amazon  | $375M | 2015 |
 | [Aquantia](https://www.thestreet.com/investing/earnings/marvell-technology-to-purchase-aquantia-14949381) | Marvell  | $452M   | 2019 |
+| [Banias](https://www.calcalistech.com/ctechnews/article/hynfz2sxs) | Alphawave | $240M | 2022 |
 | [Calxeda](https://semiengineering.com/chip-startup-shuts-doors/) | Shutdown | $0 | 2013 |
 | [Espressif](https://www.cnx-software.com/2019/07/25/espressif-systems-gets-listed-on-the-shanghai-stock-market/) | IPO | $1.8B | 2017 |
 | [Habana Labs](https://www.forbes.com/sites/moorinsights/2019/12/16/intel-acquires-habana-labs-for-2b/?sh=27bc9bc319f9) | Intel  | $2B | 2019 |
