@@ -140,6 +140,8 @@ A curated list of awesome semiconductor startups.
 * [SiFive](https://www.sifive.com/) (2015)
 * [SiMa.ai](https://sima.ai/)
 * [SiPearl](https://sipearl.com/en)
+* [Skycore Semiconductors](https://www.skycore-semi.com)
+	* Next Generation Power Semiconductors
 * [Spark Micro](https://www.sparkmicro.com/)
 * [Speedata](https://www.speedata.io/)
 * [StarFive](https://www.starfivetech.com/en/) (2018)
