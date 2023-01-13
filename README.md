@@ -108,7 +108,6 @@ A curated list of awesome semiconductor startups.
 	* Developing RF and mixed-signal ICs for mmWave 5G.
 * [Movellus](https://www.movellus.com/)
 * [Morse Micro](https://www.morsemicro.com/)
-* [Mythic](https://www.mythic-ai.com/)
 * [Neuchips](https://www.neuchips.ai/)
 * [Neureality](https://www.neureality.ai/)
 * [NeuroBlade](https://www.neuroblade.com/)
@@ -186,6 +185,7 @@ A curated list of awesome semiconductor startups.
 | [Mathstar](https://www.oregonlive.com/business/2008/05/mathstar_calls_it_quits.html) | Shutdown | $0 | 2008 |
 | [MixComm](https://www.eetimes.com/mixcomm-acquired-by-sivers-semiconductors/) | Sivers | $155M | 2021 |
 | [Movidius](https://siliconangle.com/2016/09/06/intel-buys-movidius-to-boost-machine-vision/) | Intel | $400M | 2016 |
+| [Mythic](https://www.theregister.com/2022/11/09/mythic_analog_ai_chips/) | Shutdown | $0 | 2022 |
 | [Nervana](https://venturebeat.com/2016/08/09/intel-acquires-deep-learning-startup-nervana) | Intel | $350M | 2016 |
 | [Nuvia](https://www.fiercewireless.com/devices/qualcomm-to-acquire-nuvia-for-1-4b)| Qualcomm | $1.4B | 2021 |
 | [PA Semi](https://www.cnet.com/tech/tech-industry/apple-acquires-low-power-chip-designer-pa-semi) | Apple | $278M | 2009 |
