@@ -62,6 +62,7 @@ A curated list of awesome semiconductor startups.
 * [EdgeCortix](https://www.edgecortix.com/)
 * [Efabless](https://efabless.com/)
 * [Efinix](https://www.efinixinc.com/)
+* [EnCharge AI] (https://enchargeai.com/)
 * [Eridan](https://eridan.io/) (2013)
 	* Creating a power-efficient GaN-based RF Front End Module for wireless telecommunications.
 * [Esperanto](https://www.esperanto.ai/)
