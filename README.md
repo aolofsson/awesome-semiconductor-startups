@@ -64,10 +64,12 @@ A curated list of awesome semiconductor startups.
 * [Efinix](https://www.efinixinc.com/)
 * [EnCharge AI] (https://enchargeai.com/)
 * [Eridan](https://eridan.io/) (2013)
-	* Creating a power-efficient GaN-based RF Front End Module for wireless telecommunications.
+   * Creating a power-efficient GaN-based RF Front End Module for wireless telecommunications.
 * [Esperanto](https://www.esperanto.ai/)
 * [Eliyan](https://eliyan.com/)
 * [Eta Compute](https://etacompute.com/)
+* [Ethernovia](https://www.ethernovia.com/)
+   * In vehicle networking
 * [eTopus](https://etopus.com/)
 * [Exo Imaging](https://www.exo.inc/technology/)
 * [Ferric](https://www.ferric.com/)
