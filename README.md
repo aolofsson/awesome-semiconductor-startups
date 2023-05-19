@@ -62,11 +62,14 @@ A curated list of awesome semiconductor startups.
 * [EdgeCortix](https://www.edgecortix.com/)
 * [Efabless](https://efabless.com/)
 * [Efinix](https://www.efinixinc.com/)
+* [EnCharge AI] (https://enchargeai.com/)
 * [Eridan](https://eridan.io/) (2013)
-	* Creating a power-efficient GaN-based RF Front End Module for wireless telecommunications.
+   * Creating a power-efficient GaN-based RF Front End Module for wireless telecommunications.
 * [Esperanto](https://www.esperanto.ai/)
 * [Eliyan](https://eliyan.com/)
 * [Eta Compute](https://etacompute.com/)
+* [Ethernovia](https://www.ethernovia.com/)
+   * In vehicle networking
 * [eTopus](https://etopus.com/)
 * [Exo Imaging](https://www.exo.inc/technology/)
 * [Ferric](https://www.ferric.com/)
@@ -140,6 +143,8 @@ A curated list of awesome semiconductor startups.
 * [SiFive](https://www.sifive.com/) (2015)
 * [SiMa.ai](https://sima.ai/)
 * [SiPearl](https://sipearl.com/en)
+* [Skycore Semiconductors](https://www.skycore-semi.com)
+	* Next Generation Power Semiconductors
 * [Spark Micro](https://www.sparkmicro.com/)
 * [Speedata](https://www.speedata.io/)
 * [StarFive](https://www.starfivetech.com/en/) (2018)
