@@ -14,6 +14,8 @@ A curated list of awesome semiconductor startups.
 
 ## Active
 
+* [Accelercom](https://www.accelercomm.com/)
+    * Advanced L1 Physical layer for high-performance networks
 * [Agile Analog](https://www.agileanalog.com/)
     * Automating the design of analog circuitry
 * [Aistorm](https://aistorm.ai/)
@@ -116,6 +118,8 @@ A curated list of awesome semiconductor startups.
 * [Neureality](https://www.neureality.ai/)
 * [NeuroBlade](https://www.neuroblade.com/)
 * [NextSilicon](https://www.nextsilicon.com/home)
+* [Novelda](https://novelda.com/)
+    * Wireless low-power ultra wideband for high resolution impulse radar
 * [Novumind](https://www.novumind.com/)
 * [Nyriad](https://www.nyriad.io/)
 * [Occuli](https://www.oculii.com/)
@@ -129,6 +133,8 @@ A curated list of awesome semiconductor startups.
 	* Hardware co-processors and sub-systems for Post-quantum Cryptography.
 * [PragmatiC](https://www.pragmaticsemi.com/)
 * [proteanTecs](https://www.proteantecs.com/)
+* [Forefrontrf](https://www.forefrontrf.com/)
+    * RF front end technology company for wirless communication
 * [Qadric](https://www.quadric.io/)
 * [Rain Neuromorphics](https://rain.ai/)
 * [Ramon Space](https://ramon.space/)
@@ -137,6 +143,8 @@ A curated list of awesome semiconductor startups.
 * [Rivos](https://www.rivosinc.com/)
 * [RoboSense](https://www.robosense.ai/en)
 * [Salience Labs](https://saliencelabs.ai/)
+* [Scintil](https://www.scintil-photonics.com/)
+    * Augmented silicon photonics with integrated lasers
 * [SensiEDGE](https://www.sensiedge.com)
 * [SambaNova Systems](https://sambanova.ai)
 * [Semifive](https://semifive.com:4438/)
@@ -162,6 +170,8 @@ A curated list of awesome semiconductor startups.
 * [Ventana Micro](https://www.ventanamicro.com/)
 * [Unifabrix](https://www.unifabrix.com/)
 * [Unthether AI](https://www.untether.ai/)
+* [Usound](https://usound.com/)
+    * High-performance silicon speakers and sound solutions based on MEMS technology
 * [Wavious](https://wavious.com/)
 * [Xsight Labs](https://xsightlabs.com/)
 * [Zendar](https://www.zendar.io/)
