@@ -37,6 +37,7 @@ A curated list of awesome semiconductor startups.
 * [Atmosic](https://atmosic.com/)
 * [Axelera](https://www.axelera.ai/)
 * [Ayar Labs](https://ayarlabs.com/)
+* [Black Sesame Technologies](https://bst.ai/)
 * [Blaize](https://www.blaize.com/)
 * [Blue Cheetah](https://www.bcanalog.com/)
 * [Blue Ocean Smart System](http://www.blueoceansmart.com/)
