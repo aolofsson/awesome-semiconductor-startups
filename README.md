@@ -122,6 +122,8 @@ A curated list of awesome semiconductor startups.
     * Wireless low-power ultra wideband for high resolution impulse radar
 * [Novumind](https://www.novumind.com/)
 * [Nyriad](https://www.nyriad.io/)
+* [OpenMachine](https://www.openmachine.ai/)
+    * Next generation computers for AI/ML
 * [Occuli](https://www.oculii.com/)
 * [Ozark Integrated Circuits](https://www.ozarkic.com/)
 * [ProteanTecs](https://www.proteantecs.com/)
