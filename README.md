@@ -7,33 +7,25 @@ A curated list of awesome semiconductor startups.
 	* startup (ie not steady state)
 	* semi company (ie not application software)
 	* product company (ie. not services)
-* Optional, include year of founding in parentheses
-* Up to 3 bullets per company (confirmed company reps only)
+* One line description of company
 * All entries must be confirmed with public link
-* Max 80 char line width
+* Max 80 char display width
 
 ## Active
+| Company | Type | Description |
+|---------|------|-------------|
+|[Accelercom](https://www.accelercomm.com/) | 5G| Advanced L1 5G L1 Physical layer for  high-performance networks
+|[Agile Analog](https://www.agileanalog.com/) | EDA | Automating the design of analog circuitry
+|[Aistorm](https://aistorm.ai/) | AI | Charge domain based AI processing
+|[Alif Semiconductor](https://alifsemi.com/) | AI | Integrated SoC for AI at the edge
+|[Alpha ICs](https://alphaics.ai/) | AI | Artificial Intelligence (AI) co-processors for edge devices
+|[Ampere Computing](https://amperecomputing.com/) | DC | Cloud native manycore CPUs.
+|[Analog Inference](https://www.analog-inference.com/) | AI | Analog in-memory AI inference accelerators
+|[Andapt](https://www.andapt.com/) | Analog | Programmabale power management ICs 
+|[Arbe](https://arberobotics.com/) | Sensor | Sensor processing solutions
+|[Aspinity](https://www.aspinity.com/) | AI | Analog AI
+|[Astera Labs](https://www.asteralabs.com/) | DC | PCIe, XCL, aEthernet connectivity solutions
 
-* [Accelercom](https://www.accelercomm.com/)
-    * Advanced L1 Physical layer for high-performance networks
-* [Agile Analog](https://www.agileanalog.com/)
-    * Automating the design of analog circuitry
-* [Aistorm](https://aistorm.ai/)
-    * Charge domain based AI processing
-* [Alif Semiconductor](https://alifsemi.com/)
-    * Integrated SoC for AI at the edge
-* [Alpha ICs](https://alphaics.ai/)
-* [Ampere Computing](https://amperecomputing.com/)
-    * Cloud native manycore CPUs.
-* [Analog Inference](https://www.analog-inference.com/)
-    * Analog in-memory AI inference accelerators
-* [Andapt](https://www.andapt.com/)
-    * Programmabale power management ICs
-* [Anari](https://anari.ai/)
-* [Arbe](https://arberobotics.com/)
-    * Sensor processing solutions
-* [Aspinity](https://www.aspinity.com/)
-* [Astera Labs](https://www.asteralabs.com/)
 * [Atmosic](https://atmosic.com/)
 * [Axelera](https://www.axelera.ai/)
 * [Ayar Labs](https://ayarlabs.com/)
