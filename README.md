@@ -187,7 +187,7 @@
 |Mobix Labs | SPAC | 2023 | N/A | [Source](https://mobixlabs.com) |
 |Movidius | Intel | 2016 | $400M | [Source](https://siliconangle.com/2016/09/06/intel-buys-movidius-to-boost-machine-vision/) |
 |Nervana | Intel | 2016 | $350M | [Source](https://venturebeat.com/2016/08/09/intel-acquires-deep-learning-startup-nervana) |
-|Nuvia | Qualcomm | 2021 | $1.4B | [Source](https://www.fiercewireless.com/devices/qualcomm-to-acquire-nuvia-for-1-4b)) |
+|Nuvia | Qualcomm | 2021 | $1.4B | [Source](https://www.fiercewireless.com/devices/qualcomm-to-acquire-nuvia-for-1-4b) |
 |Occuli | Ambarella | 2021 | $307M | [Source](https://www.ambarella.com/news/ambarella-closes-acquisition-of-oculii/) |
 |PA Semi | Apple | 2009 | $278M | [Source](https://www.cnet.com/tech/tech-industry/apple-acquires-low-power-chip-designer-pa-semi) |
 |Pensando | AMD | 2022 | $1.9B | [Source](https://www.amd.com/en/press-releases/2022-05-26-amd-expands-data-center-solutions-capabilities-acquisition-pensando) |
