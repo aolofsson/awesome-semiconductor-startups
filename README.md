@@ -18,6 +18,7 @@
 |AI         | General AI (edge or hpc)
 |ANALOG     | All things analog (IP & chips)
 |CHIPLETS   | Chiplet centric startups
+|COM        | Communication (interface, solutions)
 |EDA        | Design automation tools
 |HEALTH     | Health centric devices
 |HPC        | High Performance Computing (data center)
@@ -49,7 +50,7 @@
 |[Axelera](https://axelera.ai) | AI | NL | 2021 |Low power AI edge processors |
 |[Ayar Labs](https://ayarlabs.com) | PHOTONICS | US | 2015 |Electronic-photonic communication chipsets |
 |[Blaize](https://blaize.com) | AI | US | 2010 |Graph streaming processor for AI applications |
-|[Blue Cheetah](https://bcanalog.com) | CONNECTIVITY | US | 2018 |Rapidly customizable die-to-die interconnect solutions |
+|[Blue Cheetah](https://bcanalog.com) | COM | US | 2018 |Rapidly customizable die-to-die interconnect solutions |
 |[Bluespec](https://bluespec.com) | RISC-V | US | 2003 |RISC-V IP and System Development Tools |
 |[Celera](https://celeratechnologies.com) | ASIC | US | 2018 |Fully-automated analog/mixed-signal IC development tool. |
 |[Celestial AI](https://celestial.ai) | PHOTONICS | US | 2020 |Photonic fabric optical interconnect technoology |
@@ -71,8 +72,8 @@
 |[EnCharge AI](https://enchargeai.com) | AI | US | 2021 |AI processing platform |
 |[Eridan](https://eridan.io) | RF | US | 2013 |RF Front End Module for wireless telecommunications |
 |[Esperanto](https://esperanto.ai) | HPC | US | 2014 |Manycore RISC-V compute platform |
-|[Ethernovia](https://ethernovia.com) | CONNECTIVITY | US | 2018 |In vehicle networking |
-|[eTopus](https://etopus.com) | CONNECTIVITY | US | 2013 |High speed interconnect solutions |
+|[Ethernovia](https://ethernovia.com) | COM | US | 2018 |In vehicle networking |
+|[eTopus](https://etopus.com) | COM | US | 2013 |High speed interconnect solutions |
 |[Exo Imaging](https://exo.inc) | HEALTH | US | 2015 |Handheld ultrasound device |
 |[Ferric](https://ferric.com) | ANALOG | US | 2010 |Single-chip power converters |
 |[Flex Logix](https://flex-logix.com) | FPGA | US | 2014 |Embedded FPGA IP |
@@ -90,7 +91,7 @@
 |[InCore Semi](https://incoresemi.com) | RISC-V | IN | 2018 |RISC-V IP cores |
 |[Innatera](https://innatera.com) | AI | NL | 2018 |Neuromorphic processors |
 |[Jeeva Wireless](https://jeevawireless.com) | RF | US | 2015 |Battery-free wireless sensing technology |
-|[Kandou](https://kandou.com) | CONNECTIVITY | CH | 2011 |Chip-to-chip connectivity solutions |
+|[Kandou](https://kandou.com) | COM | CH | 2011 |Chip-to-chip connectivity solutions |
 |[Kepler Computing](https://keplercompute.com) | HPC | US | 2018 |Stealth |
 |[Kneron](https://kneron.com) | AI | US | 2015 |Edge AI devices |
 |[Lightelligence](https://lightelligence.ai) | PHOTONICS | US | 2017 |Optical computing platform |
