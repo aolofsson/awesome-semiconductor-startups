@@ -1,0 +1,44 @@
+Company,Exit,Year,Value,Link
+Acacia,IPO,2016,$1B,https://www.bizjournals.com/boston/news/2016/12/29/the-best-performing-ipo-nationwide-of-2016-is.html
+Agnilux,Google,2010,N/A,https://techcrunch.com/2010/04/20/google-agnilux-apple
+Alphawave,IPO,2021,$4.3B,https://www.marketwatch.com/story/chip-maker-alphawave-set-for-4-3-billion-london-ipo-after-shunning-the-nasdaq-11620840007
+Altair Semiconductor,Sony,2016,$212M,https://www.jvpvc.com/case-studies/altair/
+Ambric,Shutdown,2008,$0,https://www.oregonlive.com/siliconforest/2008/11/ambric_suspends_operation_plan.html
+Annapurna Labs,Amazon,2015,$375M,https://www.extremetech.com/computing/198140-amazon-buys-secretive-chip-maker-annapurna-labs-for-350-million
+Anobit,Apple,2012,$500M,https://techcrunch.com/2012/01/11/why-apple-bought-anobit
+Aquantia,Marvell,2019,$452M,https://www.thestreet.com/investing/earnings/marvell-technology-to-purchase-aquantia-14949381
+Arbe,IPO,2021,$525M,https://en.globes.co.il/en/article-arbe-robotics-lists-on-nasdaq-friday-as-spac-merger-completed-1001386505
+Banias,Alphawave,2022,$240M,https://www.calcalistech.com/ctechnews/article/hynfz2sxs
+BrainChip,IPO,2011,N/A,https://finance.yahoo.com/quote/BRN.AX/
+Calxeda,Shutdown,2013,$0,https://semiengineering.com/chip-startup-shuts-doors/
+Cambricon,IPO,2020,$5B,https://techcrunch.com/2020/06/24/chip-cambricon-ipo/
+Diakopto,Ansys,2023,N/A,https://www.prnewswire.com/news-releases/ansys-signs-definitive-agreement-to-acquire-diakopto-expands-multiphysics-simulation-portfolio-for-semiconductor-designers-301826540.html
+Espressif,IPO,2017,$1.8B,https://www.cnx-software.com/2019/07/25/espressif-systems-gets-listed-on-the-shanghai-stock-market/
+ETA Compute,N/A,N/A,N/A,
+Fungible,Microsoft,2023,$190M,https://blogs.microsoft.com/blog/2023/01/09/microsoft-announces-acquisition-of-fungible-to-accelerate-datacenter-innovation/
+GaN Systems,Infineon,2023,$830M,https://www.infineon.com/cms/en/about-infineon/press/press-releases/2023/INFXX202303-073.html
+Genapsys,Shutdown,2022,$0,https://cases.ra.kroll.com/genapsys/Home-Index
+Habana Labs,Intel,2019,$2B,https://www.forbes.com/sites/moorinsights/2019/12/16/intel-acquires-habana-labs-for-2b/?sh=27bc9bc319f9
+Indie Semiconductor,SPAC,2020,$1.4B,https://www.marketwatch.com/story/indie-semiconductor-to-go-public-through-spac-buyout-deal-that-values-company-at-14-billion-2020-12-15
+Innovium,Marvell,2021,$1.1B,https://techcrunch.com/2021/08/03/marvell-nabs-innovium-for-1-1b-as-it-delves-deeper-into-cloud-ethernet-switches/
+Innoviz,SPAC,2021,371M,https://www.prnewswire.com/news-releases/innoviz-technologies-and-collective-growth-corporation-announce-closing-of-business-combination-301262031.html
+Kalray,IPO,2018,$100M,https://www.euronext.com/en/about/media/euronext-press-releases/kalray-sintroduit-sur-euronext-growth
+Kameleon,RAMON SPACE,2022,N/A,https://www.startuphub.ai/ai-exit-events/ramon-space-merges-with-kameleon/
+Mathstar,Shutdown,2008,$0,https://www.oregonlive.com/business/2008/05/mathstar_calls_it_quits.html
+Minima,Acquired,NA,NA,https://www.acuity.co.uk/successes/acuity-advises-minima-on-its-sale-to-bosch/
+MixComm,Sivers,2021,$155M,https://www.eetimes.com/mixcomm-acquired-by-sivers-semiconductors/
+Mobix Labs,SPAC,2023,N/A,"https://mobixlabs.com/mobix-labs-inc-and-chavant-capital-acquisition-corp-announce-filing-of-registration-statement-on-form-s-4-in-connection-with-proposed-business-combination/#:~:text=Upon%20the%20closing%20of%20the,(the%20%E2%80%9CNasdaq%E2%80%9D)."
+Movidius,Intel,2016,$400M,https://siliconangle.com/2016/09/06/intel-buys-movidius-to-boost-machine-vision/
+Nervana,Intel,2016,$350M,https://venturebeat.com/2016/08/09/intel-acquires-deep-learning-startup-nervana
+Nuvia,Qualcomm,2021,$1.4B,https://www.fiercewireless.com/devices/qualcomm-to-acquire-nuvia-for-1-4b)
+Occuli,Ambarella,2021,$307M,https://www.ambarella.com/news/ambarella-closes-acquisition-of-oculii/
+PA Semi,Apple,2009,$278M,https://www.cnet.com/tech/tech-industry/apple-acquires-low-power-chip-designer-pa-semi
+Pensando,AMD,2022,$1.9B,https://www.amd.com/en/press-releases/2022-05-26-amd-expands-data-center-solutions-capabilities-acquisition-pensando
+PrimeSense,Apple,2013,$350M,https://techcrunch.com/2013/11/24/apple-primesense-acquisition-confirmed
+Provigent,Broadcom,2011,$360M,https://en.globes.co.il/en/article-1000631723
+SiCortex,Shutdown,2009,$0,https://www.bizjournals.com/boston/blog/mass-high-tech/2009/05/supercomputer-firm-sicortex-closes-doors.html
+Soft Machines,Intel,2016,$250M,https://www.theregister.com/2016/09/09/intel_soft_machines/
+Stream Processors,Shutdown,2009,$0,https://venturebeat.com/2009/11/07/chip-design-firm-stream-processors-shutting-down-and-selling-assets/
+Tabula,Shutdown,2015,$0,https://semiwiki.com/fpga/4232-tabula-closes-its-doors/
+Tensil.ai,N/A,N/A,N/A,
+Wavious,Shutdown,2022,$0,https://pitchbook.com/profiles/company/169888-60#overview
