@@ -1,12 +1,13 @@
 # List of awesome semiconductor startups
 
-To add a company:
- 1. Create a branch
- 2. Add entry to './startups.csv'
- 3. Run '$ python ./update.py'
- 4. Submit PR
+## Adding a company:
 
-Guidelines:
+1. Create a branch
+2. Add entry to './startups.csv'
+3. Run '$ python ./update.py'
+4. Submit a Pull Request
+
+## Submission Guidelines:
 
 * Startup requirements
 	* startup (ie not steady state)
