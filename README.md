@@ -1,16 +1,23 @@
 # List of awesome semiconductor startups
 
-* Alphabetical
-* Requirements
+To add a company:
+ 1. Create a branch
+ 2. Add entry to './startups.csv'
+ 3. Run '$ python ./update.py'
+ 4. Submit PR
+
+Guidelines:
+
+* Startup requirements
 	* startup (ie not steady state)
 	* semi company (ie not application software)
 	* product company (ie. not services)
-* One line description of company
+* Alphabetical listing
+* Short single sentence description
 * All entries must be confirmed with public link
 * Max 80 char display width
 * Categorize the startup based on technology table below
-* Use a two letter country code
-* Add a company to the file './startups.csv'
+* Use standard two letter country codes
 
 | Technology| Description                                      |
 |-----------|--------------------------------------------------|
@@ -142,7 +149,7 @@
 |[Tetramem](https://tetramem.com) | AI | 2018 | US |AI accelerator for edge inference |
 |[TriEye](https://trieye.tech) | SENSORS | 2017 | IL |Short-wave infrared imaging systems |
 |[Unifabrix](https://unifabrix.com) | HPC | 2020 | IL |CXL based secure connectivity solution |
-|[Unthether AI](https://untether.ai) | AI | 2018 | CA |AI processing devices |
+|[Untether AI](https://untether.ai) | AI | 2018 | CA |AI processing devices |
 |[Upmem](https://upmem.com) | AI | 2015 | FR |In memory processsing devices for big data and AI |
 |[Usound](https://usound.com) | MEMS | 2012 | AU |Sound solutions based on MEMS technology |
 |[Vayyar](https://vayyar.com) | SENSORS | 2011 | IL |High resolution image sensors |

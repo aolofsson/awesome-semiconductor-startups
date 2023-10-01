@@ -1,16 +1,23 @@
 # List of awesome semiconductor startups
 
-* Alphabetical
-* Requirements
+To add a company:
+ 1. Create a branch
+ 2. Add entry to './startups.csv'
+ 3. Run '$ python ./update.py'
+ 4. Submit PR
+
+Guidelines:
+
+* Startup requirements
 	* startup (ie not steady state)
 	* semi company (ie not application software)
 	* product company (ie. not services)
-* One line description of company
+* Alphabetical listing
+* Short single sentence description
 * All entries must be confirmed with public link
 * Max 80 char display width
 * Categorize the startup based on technology table below
-* Use a two letter country code
-* Add a company to the file './startups.csv'
+* Use standard two letter country codes
 
 | Technology| Description                                      |
 |-----------|--------------------------------------------------|
