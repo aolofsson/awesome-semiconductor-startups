@@ -171,6 +171,7 @@
 |Cambricon | IPO | 2020 | $5B | [Source](https://techcrunch.com/2020/06/24/chip-cambricon-ipo/) |
 |Diakopto | Ansys | 2023 | N/A | [Source](https://www.prnewswire.com/news-releases/ansys-signs-definitive-agreement-to-acquire-diakopto-expands-multiphysics-simulation-portfolio-for-semiconductor-designers-301826540.html) |
 |Espressif | IPO | 2017 | $1.8B | [Source](https://www.cnx-software.com/2019/07/25/espressif-systems-gets-listed-on-the-shanghai-stock-market/) |
+|ETA Compute | N/A | N/A | N/A | NA |
 |Fungible | Microsoft | 2023 | $190M | [Source](https://blogs.microsoft.com/blog/2023/01/09/microsoft-announces-acquisition-of-fungible-to-accelerate-datacenter-innovation/) |
 |GaN Systems | Infineon | 2023 | $830M | [Source](https://www.infineon.com/cms/en/about-infineon/press/press-releases/2023/INFXX202303-073.html) |
 |Genapsys | Shutdown | 2022 | $0 | [Source](https://cases.ra.kroll.com/genapsys/Home-Index) |
@@ -197,5 +198,6 @@
 |Soft Machines | Intel | 2016 | $250M | [Source](https://www.theregister.com/2016/09/09/intel_soft_machines/) |
 |Stream Processors | Shutdown | 2009 | $0 | [Source](https://venturebeat.com/2009/11/07/chip-design-firm-stream-processors-shutting-down-and-selling-assets/) |
 |Tabula | Shutdown | 2015 | $0 | [Source](https://semiwiki.com/fpga/4232-tabula-closes-its-doors/) |
+|Tensil.ai | N/A | N/A | N/A | NA |
 |Tilera |  EZchip | 2014 | $50M | [Source]( https://www.prnewswire.com/news-releases/ezchip-completes-acquisition-of-tilera-a-leader-in-high-performance-multi-core-processors-281754771.html) |
 |Wavious | Shutdown | 2022 | $0 | [Source](https://pitchbook.com/profiles/company/169888-60#overview) |
