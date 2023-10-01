@@ -32,7 +32,7 @@ def main():
         print("\n| Company | Technology | Founded | Country | Description |", file=f)
         print("|---------|------------|---------|---------|-------------|", file=f)
         for x in startups:
-            print(f"|[{x['Company']}](https://{x['Website']}) | {x['Technology']} | {x['Country']} | {x['Founded']} |{x['Description']} |", file=f)
+            print(f"|[{x['Company']}](https://{x['Website']}) | {x['Technology']} | {x['Founded']} | {x['Country']} |{x['Description']} |", file=f)
 
         ################################
         # Printing out exits
