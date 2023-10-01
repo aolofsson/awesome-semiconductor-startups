@@ -36,6 +36,7 @@
 |PHOTONICS  | Light centric chip startups
 |QUANTUM    | Quantum chip startups
 |RISC-V     | RISC-V based startups (IP + chips)
+|SEC        | Security techhnology
 |SENSORS    | Sensing devices
 |SPACE      | Space technology
 
@@ -45,6 +46,7 @@
 |---------|------------|---------|---------|-------------|
 |[Accelercom](https://accelercomm.com) | RF | 2016 | UK |5G physical layer for high-performance networks |
 |[Agile Analog](https://agileanalog.com) | EDA | 2017 | UK |Automating design of analog circuitry |
+|[Agita Labs](https:// agitalabs.com) |  SECURITY | 2018 |  US | Processing security technology/IP |
 |[Aistorm](https://aistorm.ai) | AI | 2011 | US |Charge domain based AI processing |
 |[Alif Semiconductor](https://alifsemi.com) | AI | 2019 | US |Integrated SoC for AI at the edge |
 |[Alpha ICs](https://alphaics.ai) | AI | 2016 | US |AI co-processors for edge devices |
