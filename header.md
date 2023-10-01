@@ -36,6 +36,6 @@
 |PHOTONICS  | Light centric chip startups
 |QUANTUM    | Quantum chip startups
 |RISC-V     | RISC-V based startups (IP + chips)
-|SEC        | Security techhnology
+|SECURITY   | Security techhnology
 |SENSORS    | Sensing devices
 |SPACE      | Space technology
