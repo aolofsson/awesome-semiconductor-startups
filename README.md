@@ -14,9 +14,6 @@ A curated list of awesome semiconductor startups.
 * Use a two letter country code
 * Add a company to the file './startups.csv'
 
- the startup_active.csv'
-
-
 | Technology| Description                                      |
 |-----------|--------------------------------------------------|
 |ASIC       | Custom silicon platform
