@@ -44,5 +44,5 @@ A curated list of awesome semiconductor startups.
 
 [List of Inactive Startups(csv)](alumni.csv)
 
-| Company |  Exit   | Value  | Year |
-|---------| ------- | ------ | -----|
+| Company |  Exit   | Year   | Value | Link |
+|---------| ------- | ------ | ------|------|
