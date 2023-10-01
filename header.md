@@ -18,6 +18,7 @@
 |AI         | General AI (edge or hpc)
 |ANALOG     | All things analog (IP & chips)
 |CHIPLETS   | Chiplet centric startups
+|COM        | Communication (interface, solutions)
 |EDA        | Design automation tools
 |HEALTH     | Health centric devices
 |HPC        | High Performance Computing (data center)

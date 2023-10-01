@@ -14,7 +14,7 @@ Atmosic,atmosic.com,RF,US,2016,Battery free wireless devices
 Axelera,axelera.ai,AI,NL,2021,Low power AI edge processors
 Ayar Labs,ayarlabs.com,PHOTONICS,US,2015,Electronic-photonic communication chipsets
 Blaize,blaize.com,AI,US,2010,Graph streaming processor for AI applications
-Blue Cheetah,bcanalog.com,CONNECTIVITY,US,2018,Rapidly customizable die-to-die interconnect solutions
+Blue Cheetah,bcanalog.com,COM,US,2018,Rapidly customizable die-to-die interconnect solutions
 Bluespec,bluespec.com,RISC-V,US,2003,RISC-V IP and System Development Tools
 Celera,celeratechnologies.com,ASIC,US,2018,Fully-automated analog/mixed-signal IC development tool.
 Celestial AI,celestial.ai,PHOTONICS,US,2020,Photonic fabric optical interconnect technoology
@@ -36,8 +36,8 @@ Eliyan,eliyan.com,CHIPLETS,US,2021,Interconnect technology
 EnCharge AI,enchargeai.com,AI,US,2021,AI processing platform
 Eridan,eridan.io,RF,US,2013,RF Front End Module for wireless telecommunications
 Esperanto,esperanto.ai,HPC,US,2014,Manycore RISC-V compute platform
-Ethernovia,ethernovia.com,CONNECTIVITY,US,2018,In vehicle networking
-eTopus,etopus.com,CONNECTIVITY,US,2013,High speed interconnect solutions
+Ethernovia,ethernovia.com,COM,US,2018,In vehicle networking
+eTopus,etopus.com,COM,US,2013,High speed interconnect solutions
 Exo Imaging,exo.inc,HEALTH,US,2015,Handheld ultrasound device
 Ferric,ferric.com,ANALOG,US,2010,Single-chip power converters
 Flex Logix,flex-logix.com,FPGA,US,2014,Embedded FPGA IP
@@ -55,7 +55,7 @@ HawAI.tech,hawai.tech,AI,FR,2019,AI accelerators
 InCore Semi,incoresemi.com,RISC-V,IN,2018,RISC-V IP cores
 Innatera,innatera.com,AI,NL,2018,Neuromorphic processors
 Jeeva Wireless,jeevawireless.com,RF,US,2015,Battery-free wireless sensing technology
-Kandou,kandou.com,CONNECTIVITY,CH,2011,Chip-to-chip connectivity solutions
+Kandou,kandou.com,COM,CH,2011,Chip-to-chip connectivity solutions
 Kepler Computing,keplercompute.com,HPC,US,2018,Stealth
 Kneron,kneron.com,AI,US,2015,Edge AI devices
 Lightelligence,lightelligence.ai,PHOTONICS,US,2017,Optical computing platform
