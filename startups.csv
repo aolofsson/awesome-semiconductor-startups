@@ -14,6 +14,7 @@ Astrus,astrus.ai,EDA,CA,2022,AI platform designed to automate microchip design
 Atmosic,atmosic.com,RF,US,2016,Battery free wireless devices
 Axelera,axelera.ai,AI,NL,2021,Low power AI edge processors
 Ayar Labs,ayarlabs.com,PHOTONICS,US,2015,Electronic-photonic communication chipsets
+Beam,beamshaping.io,RF,IL,2015,Phased array antennas
 Blaize,blaize.com,AI,US,2010,Graph streaming processor for AI applications
 Blue Cheetah,bcanalog.com,COM,US,2018,Rapidly customizable die-to-die interconnect solutions
 Bluespec,bluespec.com,RISC-V,US,2003,RISC-V IP and System Development Tools
@@ -29,6 +30,7 @@ Chipletz,chipletz.com,CHIPLETS,US,2021,Smart substrate enabling multiple ICs in 
 Codasip,codasip.com,RISC-V,DE,2014,Supplier of RISC-V IP cores
 Cornami,cornami.com,HPC,US,2011,Configurable acceleration for full homomorphic enctryption
 d-Matrix,d-matrix.ai,AI,US,2019,Computing platform for datacenter AI infererence
+Dover,dovermicrosystems.com,SECURITY,US,2017,SoC security IP
 EdgeCortix,edgecortix.com,AI,US,2019,AI accelerators for edge devices
 EdgeQ,edgeq.io,RF,US,2018,Base station-on-a-chip
 Efabless,efabless.com,ASIC,US,2011,Community powered ASIC platform
@@ -69,12 +71,17 @@ Mythic,mythic-ai.com,AI,US,2012,Analog ML accelerators
 Neureality,neureality.ai,AI,IL,2019,Purpose-built AI-centric architecture
 NeuroBlade,neuroblade.com,AI,IL,2018,Accelerators for high throughput data analytics
 NextSilicon,nextsilicon.com,HPC,IL,2017,High performance computing architecture
+Niobium Microsystems,niobiummicrosystems.com,SECURITY,US,2021,"Secure collection, processing, and distribution of critical data"
 Novelda,novelda.com,RF,NO,2004,Wireless ultra wideband for high resolution impulse radar
 Novumind,novumind.com,AI,US,2015,Domain specific acceleration for AI applications
+One Silicon Chip Photonics,onesiliconchipphotonics.com,PHOTONICS,,2016,Optical chips for precision motion sensing
+Optalysys,optalysys.com,PHOTONICS,UK,2013,Optical computing next-gen cryptography
+Owl,owlai.us,SENSORS,US,2018,Monocular 3D thermal ranging solutions
 Ozark ICs,ozarkic.com,ANALOG,US,2011,High temperature ruggedized electronics
 Perceive,perceive.io,AI,US,2015,AI processing for edge devices
 Picocom,picocom.com,RF,UK,2019,Semiconductor products designed for 5G small cell infrastructure.
 Pliops,pliops.com,HPC,IL,2017,Scalable data handling/acceleration
+Polyn Technology,polyn.ai,AI,IL,2019,Neuromorphic Analog Signal Processor chips
 PQShield,pqshield.com,QUANTUM,UK,2018,Hardware co-processors Post-quantum Cryptography
 PragmatiC,pragmaticsemi.com,MFG,UK,2010,Manufacturer of low-cost flexible integrated circuits
 proteanTecs,proteantecs.com,ANALOG,IL,2017,Analytics platform for increasing performance and reliability of electronic systems
@@ -100,11 +107,13 @@ Spark Micro,sparkmicro.com,RF,CA,2016,Transceiver technology for ultra-low power
 Speedata,speedata.io,AI,IL,2019,Analytics Processing Unit to accelerate big data and analytics workloads
 StarFive,starfivetech.com,RISC-V,CN,2018,RISC-V processor core IP and devices
 SWIR Vision Systems,swirvisionsystems.com,SENSORS,US,2018,Image sensor technology designed for short-wave infrared cameras
+Synthara,synthara.ai,AI,CH,2020,In memory computation chips for AI
 Syntiant,syntiant.com,AI,US,2017,Neuromorphic processing for edge devices
 Tachyum,tachyum.com,HPC,US,2016,High performance processor architecture
 Tenstorrent,tenstorrent.com,AI,CA,2016,AI processing devices
 Teramount,teramount.com,MFG,IL,2013,Packaging technology for photonic devices
 Tetramem,tetramem.com,AI,US,2018,AI accelerator for edge inference
+Trameto,trameto.com,ANALOG,UK,2016,Energy harvesting PMICs
 TriEye,trieye.tech,SENSORS,IL,2017,Short-wave infrared imaging systems
 Unifabrix,unifabrix.com,HPC,IL,2020,CXL based secure connectivity solution
 Untether AI,untether.ai,AI,CA,2018,AI processing devices

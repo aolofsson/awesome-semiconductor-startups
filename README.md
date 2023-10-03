@@ -36,7 +36,7 @@
 |PHOTONICS  | Light centric chip startups
 |QUANTUM    | Quantum chip startups
 |RISC-V     | RISC-V based startups (IP + chips)
-|SEC        | Security techhnology
+|SECURITY   | Security techhnology
 |SENSORS    | Sensing devices
 |SPACE      | Space technology
 
@@ -59,6 +59,7 @@
 |[Atmosic](https://atmosic.com) | RF | 2016 | US |Battery free wireless devices |
 |[Axelera](https://axelera.ai) | AI | 2021 | NL |Low power AI edge processors |
 |[Ayar Labs](https://ayarlabs.com) | PHOTONICS | 2015 | US |Electronic-photonic communication chipsets |
+|[Beam](https://beamshaping.io) | RF | 2015 | IL |Phased array antennas |
 |[Blaize](https://blaize.com) | AI | 2010 | US |Graph streaming processor for AI applications |
 |[Blue Cheetah](https://bcanalog.com) | COM | 2018 | US |Rapidly customizable die-to-die interconnect solutions |
 |[Bluespec](https://bluespec.com) | RISC-V | 2003 | US |RISC-V IP and System Development Tools |
@@ -74,6 +75,7 @@
 |[Codasip](https://codasip.com) | RISC-V | 2014 | DE |Supplier of RISC-V IP cores |
 |[Cornami](https://cornami.com) | HPC | 2011 | US |Configurable acceleration for full homomorphic enctryption |
 |[d-Matrix](https://d-matrix.ai) | AI | 2019 | US |Computing platform for datacenter AI infererence |
+|[Dover](https://dovermicrosystems.com) | SECURITY | 2017 | US |SoC security IP |
 |[EdgeCortix](https://edgecortix.com) | AI | 2019 | US |AI accelerators for edge devices |
 |[EdgeQ](https://edgeq.io) | RF | 2018 | US |Base station-on-a-chip |
 |[Efabless](https://efabless.com) | ASIC | 2011 | US |Community powered ASIC platform |
@@ -114,12 +116,17 @@
 |[Neureality](https://neureality.ai) | AI | 2019 | IL |Purpose-built AI-centric architecture |
 |[NeuroBlade](https://neuroblade.com) | AI | 2018 | IL |Accelerators for high throughput data analytics |
 |[NextSilicon](https://nextsilicon.com) | HPC | 2017 | IL |High performance computing architecture |
+|[Niobium Microsystems](https://niobiummicrosystems.com) | SECURITY | 2021 | US |Secure collection, processing, and distribution of critical data |
 |[Novelda](https://novelda.com) | RF | 2004 | NO |Wireless ultra wideband for high resolution impulse radar |
 |[Novumind](https://novumind.com) | AI | 2015 | US |Domain specific acceleration for AI applications |
+|[One Silicon Chip Photonics](https://onesiliconchipphotonics.com) | PHOTONICS | 2016 |  |Optical chips for precision motion sensing |
+|[Optalysys](https://optalysys.com) | PHOTONICS | 2013 | UK |Optical computing next-gen cryptography |
+|[Owl](https://owlai.us) | SENSORS | 2018 | US |Monocular 3D thermal ranging solutions |
 |[Ozark ICs](https://ozarkic.com) | ANALOG | 2011 | US |High temperature ruggedized electronics |
 |[Perceive](https://perceive.io) | AI | 2015 | US |AI processing for edge devices |
 |[Picocom](https://picocom.com) | RF | 2019 | UK |Semiconductor products designed for 5G small cell infrastructure. |
 |[Pliops](https://pliops.com) | HPC | 2017 | IL |Scalable data handling/acceleration |
+|[Polyn Technology](https://polyn.ai) | AI | 2019 | IL |Neuromorphic Analog Signal Processor chips |
 |[PQShield](https://pqshield.com) | QUANTUM | 2018 | UK |Hardware co-processors Post-quantum Cryptography |
 |[PragmatiC](https://pragmaticsemi.com) | MFG | 2010 | UK |Manufacturer of low-cost flexible integrated circuits |
 |[proteanTecs](https://proteantecs.com) | ANALOG | 2017 | IL |Analytics platform for increasing performance and reliability of electronic systems |
@@ -145,11 +152,13 @@
 |[Speedata](https://speedata.io) | AI | 2019 | IL |Analytics Processing Unit to accelerate big data and analytics workloads |
 |[StarFive](https://starfivetech.com) | RISC-V | 2018 | CN |RISC-V processor core IP and devices |
 |[SWIR Vision Systems](https://swirvisionsystems.com) | SENSORS | 2018 | US |Image sensor technology designed for short-wave infrared cameras |
+|[Synthara](https://synthara.ai) | AI | 2020 | CH |In memory computation chips for AI |
 |[Syntiant](https://syntiant.com) | AI | 2017 | US |Neuromorphic processing for edge devices |
 |[Tachyum](https://tachyum.com) | HPC | 2016 | US |High performance processor architecture |
 |[Tenstorrent](https://tenstorrent.com) | AI | 2016 | CA |AI processing devices |
 |[Teramount](https://teramount.com) | MFG | 2013 | IL |Packaging technology for photonic devices |
 |[Tetramem](https://tetramem.com) | AI | 2018 | US |AI accelerator for edge inference |
+|[Trameto](https://trameto.com) | ANALOG | 2016 | UK |Energy harvesting PMICs |
 |[TriEye](https://trieye.tech) | SENSORS | 2017 | IL |Short-wave infrared imaging systems |
 |[Unifabrix](https://unifabrix.com) | HPC | 2020 | IL |CXL based secure connectivity solution |
 |[Untether AI](https://untether.ai) | AI | 2018 | CA |AI processing devices |
