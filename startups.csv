@@ -8,6 +8,7 @@ Alpha ICs,alphaics.ai,AI,US,2016,AI co-processors for edge devices
 Ampere Computing,amperecomputing.com,HPC,US,2017,Cloud native manycore CPUs
 Analog Inference,analog-inference.com,AI,US,2018,Analog in-memory AI inference accelerators
 Andapt,andapt.com,ANALOG,IE,2014,Programmabale power management ICs
+Applied Brain Research,appliedbrainresearch.com,AI,CA,2013,AI solutions for edge devices
 Aspinity,aspinity.com,AI,US,2015,Analog in-memory AI inference accelerators
 Astera Labs,asteralabs.com,HPC,US,2017,High performance connectivity semiconductor solutions
 Astrus,astrus.ai,EDA,CA,2022,AI platform designed to automate microchip design
@@ -28,8 +29,10 @@ Cerfe Labs,cerfelabs.com,MFG,US,2020,Electronics materials and device research
 Chipflow,chipflow.io,ASIC,UK,2021,ASIC design platform
 Chipletz,chipletz.com,CHIPLETS,US,2021,Smart substrate enabling multiple ICs in a single package
 Codasip,codasip.com,RISC-V,DE,2014,Supplier of RISC-V IP cores
+Condor Computing,condorcomputing.com,RISC-V,US,2023,High performance RISC-V processors
 Cornami,cornami.com,HPC,US,2011,Configurable acceleration for full homomorphic enctryption
 d-Matrix,d-matrix.ai,AI,US,2019,Computing platform for datacenter AI infererence
+DeGirum,degirum.ai,AI,US,2017,AI hardware and software to accelerate AI edge adoption
 Dover,dovermicrosystems.com,SECURITY,US,2017,SoC security IP
 EdgeCortix,edgecortix.com,AI,US,2019,AI accelerators for edge devices
 EdgeQ,edgeq.io,RF,US,2018,Base station-on-a-chip
@@ -42,6 +45,7 @@ Esperanto,esperanto.ai,HPC,US,2014,Manycore RISC-V compute platform
 Ethernovia,ethernovia.com,COM,US,2018,In vehicle networking
 eTopus,etopus.com,COM,US,2013,High speed interconnect solutions
 Exo Imaging,exo.inc,HEALTH,US,2015,Handheld ultrasound device
+Fabric Cryptography,fabriccryptography.com,SECURITY,US,2021,Cryptography hardware accelerators
 Ferric,ferric.com,ANALOG,US,2010,Single-chip power converters
 Flex Logix,flex-logix.com,FPGA,US,2014,Embedded FPGA IP
 FMC,ferroelectric-memory.com,MFG,DE,2015,Ferroelectric non-volatile random access memory technology
@@ -53,6 +57,7 @@ Graphcore,graphcore.ai,AI,UK,2016,Intelligence processing unit for AI applicatio
 Greenwaves,greenwaves-technologies.com,AI,FR,2014,Low power edge AI SoCs
 Groq,groq.com,AI,US,2016,AI processors
 Gyrfalcon,gyrfalcontech.ai,AI,US,2017,AI processors
+HaiLa,haila.io,RF,CA,2017,Low power wireless communication for IoT
 Hailo,hailo.ai,AI,IL,2017,AI acceleration for edge devices
 HawAI.tech,hawai.tech,AI,FR,2019,AI accelerators
 InCore Semi,incoresemi.com,RISC-V,IN,2018,RISC-V IP cores
@@ -74,7 +79,7 @@ NextSilicon,nextsilicon.com,HPC,IL,2017,High performance computing architecture
 Niobium Microsystems,niobiummicrosystems.com,SECURITY,US,2021,"Secure collection, processing, and distribution of critical data"
 Novelda,novelda.com,RF,NO,2004,Wireless ultra wideband for high resolution impulse radar
 Novumind,novumind.com,AI,US,2015,Domain specific acceleration for AI applications
-One Silicon Chip Photonics,onesiliconchipphotonics.com,PHOTONICS,,2016,Optical chips for precision motion sensing
+One Silicon Chip Photonics,onesiliconchipphotonics.com,PHOTONICS,CA,2016,Optical chips for precision motion sensing
 Optalysys,optalysys.com,PHOTONICS,UK,2013,Optical computing next-gen cryptography
 Owl,owlai.us,SENSORS,US,2018,Monocular 3D thermal ranging solutions
 Ozark ICs,ozarkic.com,ANALOG,US,2011,High temperature ruggedized electronics
@@ -97,6 +102,7 @@ Salience Labs,saliencelabs.ai,PHOTONICS,UK,2020,Photonic computing platform
 SambaNova,sambanova.ai,AI,US,2017,AI processing
 Saras Micro Devices,sarasmicro.com,HPC,US,2021,Packaing solutions for effective power delivery
 Scintil,scintil-photonics.com,PHOTONICS,FR,2018,Photonic computing platform
+Semidynamics,semidynamics.com,RISC-V,ES,2016,High performance RISC-V IP cores
 Semifive,semifive.com,ASIC,KR,2019,ASIC platform
 SiFive,sifive.com,RISC-V,US,2015,RISC-V based IP provider
 Silimate,silimate.com,EDA,US,2023,Co-pilot for chip designers
@@ -106,6 +112,7 @@ Skycore Semiconductors,skycore-semi.com,ANALOG,DK,2021,Switched capacitor based 
 Spark Micro,sparkmicro.com,RF,CA,2016,Transceiver technology for ultra-low power wireless communication
 Speedata,speedata.io,AI,IL,2019,Analytics Processing Unit to accelerate big data and analytics workloads
 StarFive,starfivetech.com,RISC-V,CN,2018,RISC-V processor core IP and devices
+Swave,swave.io,PHOTONICS,BE,2022,Holographic chips based on diffractive photonics technology
 SWIR Vision Systems,swirvisionsystems.com,SENSORS,US,2018,Image sensor technology designed for short-wave infrared cameras
 Synthara,synthara.ai,AI,CH,2020,In memory computation chips for AI
 Syntiant,syntiant.com,AI,US,2017,Neuromorphic processing for edge devices
