@@ -20,6 +20,8 @@
 * Categorize the startup based on technology table below
 * Use standard two letter country codes
 
+![Startups](piechart.png)
+
 | Technology| Description                                      |
 |-----------|--------------------------------------------------|
 |ASIC       | Custom silicon platform
