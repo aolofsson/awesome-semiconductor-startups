@@ -20,8 +20,6 @@
 * Categorize the startup based on technology table below
 * Use standard two letter country codes
 
-![Startups](piechart.png)
-
 | Technology| Description                                      |
 |-----------|--------------------------------------------------|
 |ASIC       | Custom silicon platform
@@ -98,6 +96,7 @@
 |[FMC](https://ferroelectric-memory.com) | MFG | 2015 | DE |Ferroelectric non-volatile random access memory technology |
 |[Forefrontrf](https://forefrontrf.com) | RF | 2020 | UK |Wireless communication devices |
 |[Furiosa](https://furiosa.ai) | AI | 2017 | KR |AI coprocessors |
+|[Gemesys](https://gemesys.tech) | AI | 2021 | DE |Analog AI processors |
 |[Gowin](https://gowinsemi.com) | FPGA | 2014 | CN |FPGA chip products |
 |[GrAI Matter Labs](https://graimatterlabs.ai) | AI | 2016 | FR |Programmable neuromorphic computing chips |
 |[Graphcore](https://graphcore.ai) | AI | 2016 | UK |Intelligence processing unit for AI applications |
@@ -108,6 +107,7 @@
 |[Hailo](https://hailo.ai) | AI | 2017 | IL |AI acceleration for edge devices |
 |[HawAI.tech](https://hawai.tech) | AI | 2019 | FR |AI accelerators |
 |[InCore Semi](https://incoresemi.com) | RISC-V | 2018 | IN |RISC-V IP cores |
+|[Ingonyma](https://ingonyma.com) | SECURITY | 2021 | IL |Hardware accelerators for cryptographic computation |
 |[Innatera](https://innatera.com) | AI | 2018 | NL |Neuromorphic processors |
 |[Jeeva Wireless](https://jeevawireless.com) | RF | 2015 | US |Battery-free wireless sensing technology |
 |[Kandou](https://kandou.com) | COM | 2011 | CH |Chip-to-chip connectivity solutions |
@@ -123,6 +123,7 @@
 |[NcodiN](https://ncodin.com) | PHOTONICS | 2023 | FR |Optical interposers |
 |[Neureality](https://neureality.ai) | AI | 2019 | IL |Purpose-built AI-centric architecture |
 |[NeuroBlade](https://neuroblade.com) | AI | 2018 | IL |Accelerators for high throughput data analytics |
+|[Neurxcore](https://neurxcore.com) | AI | 2023 | FR |AI accelerator IP based NVDLA |
 |[NextSilicon](https://nextsilicon.com) | HPC | 2017 | IL |High performance computing architecture |
 |[Niobium Microsystems](https://niobiummicrosystems.com) | SECURITY | 2021 | US |Secure collection, processing, and distribution of critical data |
 |[Novelda](https://novelda.com) | RF | 2004 | NO |Wireless ultra wideband for high resolution impulse radar |
