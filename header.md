@@ -19,6 +19,9 @@
 * Max 80 char display width
 * Categorize the startup based on technology table below
 * Use standard two letter country codes
+* Do NOT edit the README directly, it's auto-generated
+
+![Startups](piechart.png)
 
 | Technology| Description                                      |
 |-----------|--------------------------------------------------|
