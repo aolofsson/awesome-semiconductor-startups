@@ -19,9 +19,9 @@
 * Max 80 char display width
 * Categorize the startup based on technology table below
 * Use standard two letter country codes
+* Do NOT edit the README directly, it's auto-generated
 
 ![Startups](piechart.png)
-
 
 | Technology| Description                                      |
 |-----------|--------------------------------------------------|
@@ -234,3 +234,4 @@
 |Tensil.ai | N/A | N/A | N/A | NA |
 |Tilera |  EZchip | 2014 | $50M | [Source]( https://www.prnewswire.com/news-releases/ezchip-completes-acquisition-of-tilera-a-leader-in-high-performance-multi-core-processors-281754771.html) |
 |Wavious | Shutdown | 2022 | $0 | [Source](https://pitchbook.com/profiles/company/169888-60#overview) |
+|zGlue | Sold | 2021 | N/A | [Source](https://www.reuters.com/technology/chip-wars-how-chiplets-are-emerging-core-part-chinas-tech-strategy-2023-07-13) |
