@@ -55,7 +55,7 @@
 |[Alpha ICs](https://alphaics.ai) | AI | 2016 | US |AI co-processors for edge devices |
 |[Ampere Computing](https://amperecomputing.com) | HPC | 2017 | US |Cloud native manycore CPUs |
 |[Analog Inference](https://analog-inference.com) | AI | 2018 | US |Analog in-memory AI inference accelerators |
-|[Andapt](https://andapt.com) | ANALOG | 2014 | IE |Programmabale power management ICs |
+|[Andapt](https://andapt.com) | ANALOG | 2014 | IE |Programmable power management ICs |
 |[Applied Brain Research](https://appliedbrainresearch.com) | AI | 2013 | CA |AI solutions for edge devices |
 |[Aspinity](https://aspinity.com) | AI | 2015 | US |Analog in-memory AI inference accelerators |
 |[Astera Labs](https://asteralabs.com) | HPC | 2017 | US |High performance connectivity semiconductor solutions |
@@ -63,6 +63,7 @@
 |[Atmosic](https://atmosic.com) | RF | 2016 | US |Battery free wireless devices |
 |[Axelera](https://axelera.ai) | AI | 2021 | NL |Low power AI edge processors |
 |[Ayar Labs](https://ayarlabs.com) | PHOTONICS | 2015 | US |Electronic-photonic communication chipsets |
+|[Baya Systems](https://bayasystems.com) | CHIPLETS | 2023 | US |Chiplet Based Semiconductor Design |
 |[Beam](https://beamshaping.io) | RF | 2015 | IL |Phased array antennas |
 |[Blaize](https://blaize.com) | AI | 2010 | US |Graph streaming processor for AI applications |
 |[Blue Cheetah](https://bcanalog.com) | COM | 2018 | US |Rapidly customizable die-to-die interconnect solutions |
