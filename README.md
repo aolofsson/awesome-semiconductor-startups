@@ -158,6 +158,7 @@
 |[Scintil](https://scintil-photonics.com) | PHOTONICS | 2018 | FR |Photonic computing platform |
 |[Semidynamics](https://semidynamics.com) | RISC-V | 2016 | ES |High performance RISC-V IP cores |
 |[Semifive](https://semifive.com) | ASIC | 2019 | KR |ASIC platform |
+|[semify](https://semify-eda.com) | FPGA | 2021 | A |FPGA based platforms |
 |[SiFive](https://sifive.com) | RISC-V | 2015 | US |RISC-V based IP provider |
 |[Silimate](https://silimate.com) | EDA | 2023 | US |Co-pilot for chip designers |
 |[SiMa.ai](https://sima.ai) | AI | 2018 | US |AI processing for edge devices |
