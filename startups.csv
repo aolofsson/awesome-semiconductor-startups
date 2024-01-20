@@ -3,8 +3,9 @@ Accelercom,accelercomm.com,RF,UK,2016,5G physical layer for high-performance net
 Agile Analog,agileanalog.com,EDA,UK,2017,Automating design of analog circuitry
 Agita Labs,agitalabs.com,SECURITY,US,2018,Processing security technology/IP
 Aistorm,aistorm.ai,AI,US,2011,Charge domain based AI processing
-Akhetonics,akhetonics.com,PHOTONICS,DE,2021,Optical computing devices 
+Akhetonics,akhetonics.com,PHOTONICS,DE,2021,Optical computing devices
 Alif Semiconductor,alifsemi.com,AI,US,2019,Integrated SoC for AI at the edge
+Allspice.io,allspice.io,EDA,US,2018,Design platform for streamlined hardware development
 Alpha ICs,alphaics.ai,AI,US,2016,AI co-processors for edge devices
 Ampere Computing,amperecomputing.com,HPC,US,2017,Cloud native manycore CPUs
 Anabrid,anabrid.com,ANALOG,DE,2023,Analog computer on a chip
@@ -42,6 +43,7 @@ Cornami,cornami.com,HPC,US,2011,Configurable acceleration for full homomorphic e
 d-Matrix,d-matrix.ai,AI,US,2019,Computing platform for datacenter AI infererence
 DeGirum,degirum.ai,AI,US,2017,AI hardware and software to accelerate AI edge adoption
 Dover,dovermicrosystems.com,SECURITY,US,2017,SoC security IP
+DreamBig,dreambigsemi.com,CHIPLETS,US,2019,Chiplet based ASIC platform
 EdgeCortix,edgecortix.com,AI,US,2019,AI accelerators for edge devices
 EdgeQ,edgeq.io,RF,US,2018,Base station-on-a-chip
 Efabless,efabless.com,ASIC,US,2011,Community powered ASIC platform
@@ -53,6 +55,7 @@ Esperanto,esperanto.ai,HPC,US,2014,Manycore RISC-V compute platform
 Ethernovia,ethernovia.com,COM,US,2018,In vehicle networking
 eTopus,etopus.com,COM,US,2013,High speed interconnect solutions
 Exo Imaging,exo.inc,HEALTH,US,2015,Handheld ultrasound device
+Extropic,extropic.ai,AI,US,2022,Physics based generative AI
 Fabric Cryptography,fabriccryptography.com,SECURITY,US,2021,Cryptography hardware accelerators
 Falcomm ,myfalcomm.com,RF,US,2021,Solid state power amplifiers
 Ferric,ferric.com,ANALOG,US,2010,Single-chip power converters
@@ -82,7 +85,7 @@ Lemurian Labs,lemurianlabs.com,AI,CA,2018,AI computing platform
 Lightelligence,lightelligence.ai,PHOTONICS,US,2017,Optical computing platform
 Lighton,lighton.ai,PHOTONICS,FR,2015,Optical computing platform
 Ligthmatter,lightmatter.co,PHOTONICS,US,2017,Optical computing platform
-Light Solver,lightsolver.com,PHOTONICS,IL,2019,Optical computing platform 
+Light Solver,lightsolver.com,PHOTONICS,IL,2019,Optical computing platform
 Luminous Computing,luminous.com,PHOTONICS,US,2018,Optical computing platform
 MangoBoost,mangoboost.io,HPC,US,2022,Data processing units for data center
 Morse Micro,morsemicro.com,RF,AU,2016,Low-power Wi-Fi chips
@@ -92,6 +95,7 @@ NcodiN,ncodin.com,PHOTONICS,FR,2023,Optical interposers
 Neologic,neologic.com,MFG,IL,2021,Quasi-CMOS transistor technology
 Neureality,neureality.ai,AI,IL,2019,Purpose-built AI-centric architecture
 NeuroBlade,neuroblade.com,AI,IL,2018,Accelerators for high throughput data analytics
+Neurophos,neurophos.com,PHOTONICS,US,2020,Optical computing platform
 Neurxcore,neurxcore.com,AI,FR,2023,AI accelerator IP based NVDLA
 NextSilicon,nextsilicon.com,HPC,IL,2017,High performance computing architecture
 Niobium Microsystems,niobiummicrosystems.com,SECURITY,US,2021,"Secure collection, processing, and distribution of critical data"
@@ -122,14 +126,16 @@ Rivos,rivosinc.com,RISC-V,US,2021,Stealth
 RoboSense,robosense.ai,SENSORS,CN,2014,Advanced LiDAR environment perception technologies
 Salience Labs,saliencelabs.ai,PHOTONICS,UK,2020,Photonic computing platform
 SambaNova,sambanova.ai,AI,US,2017,AI processing
-Saras Micro Devices,sarasmicro.com,HPC,US,2021,Packaing solutions for effective power delivery
+Saras Micro Devices,sarasmicro.com,HPC,US,2021,Packaging solutions for effective power delivery
+Scalinx,sclinx.com,RF,FR,2015, Wideband RFIC frontends
 Scintil,scintil-photonics.com,PHOTONICS,FR,2018,Photonic computing platform
 Semidynamics,semidynamics.com,RISC-V,ES,2016,High performance RISC-V IP cores
 Semifive,semifive.com,ASIC,KR,2019,ASIC platform
-semify,semify-eda.com,FPGA,A,2021,FPGA based platforms
+Semify,semify-eda.com,FPGA,A,2021,FPGA based platforms
 SiFive,sifive.com,RISC-V,US,2015,RISC-V based IP provider
 SiLC,silc.com,PHOTONICS,US,2018,Photonics based imaging sensors
 Silimate,silimate.com,EDA,US,2023,Co-pilot for chip designers
+Silicon Box,Silicon-box.com,MFG,SG,2021,Manufacturer of semiconductor design and device integration services
 SiMa.ai,sima.ai,AI,US,2018,AI processing for edge devices
 SiPearl,sipearl.com,HPC,FR,2019,Manycore processors for EU exascale supercomputing project
 Skycore Semiconductors,skycore-semi.com,ANALOG,DK,2021,Switched capacitor based integrated power converters
