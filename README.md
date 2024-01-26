@@ -54,7 +54,7 @@
 |[Aistorm](https://aistorm.ai) | AI | 2011 | US |Charge domain based AI processing |
 |[Akhetonics](https://akhetonics.com) | PHOTONICS | 2021 | DE |Optical computing devices |
 |[Alif Semiconductor](https://alifsemi.com) | AI | 2019 | US |Integrated SoC for AI at the edge |
-|[Allspice.io](https://allspice.io) | EDA | 2018 | US |Design platform for streamlined hardware development |
+|[Allspice.io](https://allspice.io) | EDA | 2018 | US |PCB tools|
 |[Alpha ICs](https://alphaics.ai) | AI | 2016 | US |AI co-processors for edge devices |
 |[Ampere Computing](https://amperecomputing.com) | HPC | 2017 | US |Cloud native manycore CPUs |
 |[Anabrid](https://anabrid.com) | ANALOG | 2023 | DE |Analog computer on a chip |
