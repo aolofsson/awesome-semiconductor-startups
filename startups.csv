@@ -58,6 +58,7 @@ Ethernovia,ethernovia.com,COM,US,2018,In vehicle networking
 eTopus,etopus.com,COM,US,2013,High speed interconnect solutions
 Exo Imaging,exo.inc,HEALTH,US,2015,Handheld ultrasound device
 Extropic,extropic.ai,AI,US,2022,Physics based generative AI
+Evacorp,evacorp.ai,AI,US,2023,AI processing 
 Fabric Cryptography,fabriccryptography.com,SECURITY,US,2021,Cryptography hardware accelerators
 Falcomm ,myfalcomm.com,RF,US,2021,Solid state power amplifiers
 Ferric,ferric.com,ANALOG,US,2010,Single-chip power converters
@@ -116,6 +117,7 @@ Pliops,pliops.com,HPC,IL,2017,Scalable data handling/acceleration
 Polyn Technology,polyn.ai,AI,IL,2019,Neuromorphic Analog Signal Processor chips
 PQShield,pqshield.com,QUANTUM,UK,2018,Hardware co-processors Post-quantum Cryptography
 PragmatiC,pragmaticsemi.com,MFG,UK,2010,Manufacturer of low-cost flexible integrated circuits
+Primemas,primemas.com,CHIPLETS,US,2023,SoC infrastructure for accelerated system development
 proteanTecs,proteantecs.com,ANALOG,IL,2017,Analytics platform for increasing performance and reliability of electronic systems
 PseudolithIC,pseudolithic.com,MFG,US,2019,Heterogeneous integration process for RF applications
 PsiQuantum,psiquantum.com,QUANTUM,US,2015,Quantum computers
@@ -135,7 +137,8 @@ Scalinx,sclinx.com,RF,FR,2015, Wideband RFIC frontends
 Scintil,scintil-photonics.com,PHOTONICS,FR,2018,Photonic computing platform
 Semidynamics,semidynamics.com,RISC-V,ES,2016,High performance RISC-V IP cores
 Semifive,semifive.com,ASIC,KR,2019,ASIC platform
-Semify,semify-eda.com,FPGA,A,2021,FPGA based platforms
+Semify,semify-eda.com,FPGA,DE,2021,FPGA based platforms
+Semron,semron.ai,AI,DE,2020,AI processing
 SiFive,sifive.com,RISC-V,US,2015,RISC-V based IP provider
 SiLC,silc.com,PHOTONICS,US,2018,Photonics based imaging sensors
 Silimate,silimate.com,EDA,US,2023,Co-pilot for chip designers
@@ -162,7 +165,7 @@ Upmem,upmem.com,AI,FR,2015,In memory processsing devices for big data and AI
 Usound,usound.com,MEMS,AU,2012,Sound solutions based on MEMS technology
 Vayyar,vayyar.com,SENSORS,IL,2011,High resolution image sensors
 Ventana Micro,ventanamicro.com,RISC-V,US,2018,RISC-V CPU cores and compute subsystems
-Xanadu,xanadu.ai,PHOTONICS,US,2016,Photonic based quantum computer
+Xanadu,xanadu.ai,PHOTONICS,US,2016,RISC-V CPU cores and compute subsystems
 Xsight Labs,xsightlabs.com,HPC,IL,2017,Chipsets for accelerating data-intensive workloads
 Yorchip,yorchip.com,CHIPLETS,US,2023,Chiplet technology
 Zendar,zendar.io,SENSORS,US,2017,High resolution software defined radar
