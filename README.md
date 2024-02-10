@@ -54,7 +54,7 @@
 |[Aistorm](https://aistorm.ai) | AI | 2011 | US |Charge domain based AI processing |
 |[Akhetonics](https://akhetonics.com) | PHOTONICS | 2021 | DE |Optical computing devices |
 |[Alif Semiconductor](https://alifsemi.com) | AI | 2019 | US |Integrated SoC for AI at the edge |
-|[Allspice.io](https://allspice.io) | EDA | 2018 | US |PCB tools|
+|[Allspice.io](https://allspice.io) | EDA | 2018 | US |Design platform for streamlined hardware development |
 |[Alpha ICs](https://alphaics.ai) | AI | 2016 | US |AI co-processors for edge devices |
 |[Ampere Computing](https://amperecomputing.com) | HPC | 2017 | US |Cloud native manycore CPUs |
 |[Anabrid](https://anabrid.com) | ANALOG | 2023 | DE |Analog computer on a chip |
@@ -107,6 +107,7 @@
 |[eTopus](https://etopus.com) | COM | 2013 | US |High speed interconnect solutions |
 |[Exo Imaging](https://exo.inc) | HEALTH | 2015 | US |Handheld ultrasound device |
 |[Extropic](https://extropic.ai) | AI | 2022 | US |Physics based generative AI |
+|[Evacorp](https://evacorp.ai) | AI | 2023 | US |AI processing  |
 |[Fabric Cryptography](https://fabriccryptography.com) | SECURITY | 2021 | US |Cryptography hardware accelerators |
 |[Falcomm ](https://myfalcomm.com) | RF | 2021 | US |Solid state power amplifiers |
 |[Ferric](https://ferric.com) | ANALOG | 2010 | US |Single-chip power converters |
@@ -141,6 +142,7 @@
 |[Light Solver](https://lightsolver.com) | PHOTONICS | 2019 | IL |Optical computing platform |
 |[Luminous Computing](https://luminous.com) | PHOTONICS | 2018 | US |Optical computing platform |
 |[MangoBoost](https://mangoboost.io) | HPC | 2022 | US |Data processing units for data center |
+|[Memryx](https://memryx.com) | AI | 2019 | US |AI computing platform |
 |[Morse Micro](https://morsemicro.com) | RF | 2016 | AU |Low-power Wi-Fi chips |
 |[Movellus](https://movellus.com) | ANALOG | 2014 | US |Clock distribution IP |
 |[Mythic](https://mythic-ai.com) | AI | 2012 | US |Analog ML accelerators |
@@ -165,6 +167,7 @@
 |[Polyn Technology](https://polyn.ai) | AI | 2019 | IL |Neuromorphic Analog Signal Processor chips |
 |[PQShield](https://pqshield.com) | QUANTUM | 2018 | UK |Hardware co-processors Post-quantum Cryptography |
 |[PragmatiC](https://pragmaticsemi.com) | MFG | 2010 | UK |Manufacturer of low-cost flexible integrated circuits |
+|[Primemas](https://primemas.com) | CHIPLETS | 2023 | US |SoC infrastructure for accelerated system development |
 |[proteanTecs](https://proteantecs.com) | ANALOG | 2017 | IL |Analytics platform for increasing performance and reliability of electronic systems |
 |[PseudolithIC](https://pseudolithic.com) | MFG | 2019 | US |Heterogeneous integration process for RF applications |
 |[PsiQuantum](https://psiquantum.com) | QUANTUM | 2015 | US |Quantum computers |
@@ -184,7 +187,8 @@
 |[Scintil](https://scintil-photonics.com) | PHOTONICS | 2018 | FR |Photonic computing platform |
 |[Semidynamics](https://semidynamics.com) | RISC-V | 2016 | ES |High performance RISC-V IP cores |
 |[Semifive](https://semifive.com) | ASIC | 2019 | KR |ASIC platform |
-|[Semify](https://semify-eda.com) | FPGA | 2021 | A |FPGA based platforms |
+|[Semify](https://semify-eda.com) | FPGA | 2021 | DE |FPGA based platforms |
+|[Semron](https://semron.ai) | AI | 2020 | DE |AI processing |
 |[SiFive](https://sifive.com) | RISC-V | 2015 | US |RISC-V based IP provider |
 |[SiLC](https://silc.com) | PHOTONICS | 2018 | US |Photonics based imaging sensors |
 |[Silimate](https://silimate.com) | EDA | 2023 | US |Co-pilot for chip designers |
@@ -211,7 +215,7 @@
 |[Usound](https://usound.com) | MEMS | 2012 | AU |Sound solutions based on MEMS technology |
 |[Vayyar](https://vayyar.com) | SENSORS | 2011 | IL |High resolution image sensors |
 |[Ventana Micro](https://ventanamicro.com) | RISC-V | 2018 | US |RISC-V CPU cores and compute subsystems |
-|[Xanadu](https://xanadu.ai) | PHOTONICS | 2016 | US |Photonic based quantum computer |
+|[Xanadu](https://xanadu.ai) | PHOTONICS | 2016 | US |RISC-V CPU cores and compute subsystems |
 |[Xsight Labs](https://xsightlabs.com) | HPC | 2017 | IL |Chipsets for accelerating data-intensive workloads |
 |[Yorchip](https://yorchip.com) | CHIPLETS | 2023 | US |Chiplet technology |
 |[Zendar](https://zendar.io) | SENSORS | 2017 | US |High resolution software defined radar |
