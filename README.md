@@ -173,6 +173,7 @@
 |[PsiQuantum](https://psiquantum.com) | QUANTUM | 2015 | US |Quantum computers |
 |[Qadric.io](https://quadric.io) | AI | 2016 | US |Edge processing for edge devices |
 |[Qualinx](https://qualinx.io) | RF | 2015 | NL |IoT GNSS based tracking and connectivity |
+|[Quilter](https://quilter.ai) | EDA | 2020 | US |AI driven PCB design |
 |[Rain Neuromorphics](https://rain.ai) | AI | 2017 | US |Brain-inspired hardware for AI applications |
 |[Ramon Space](https://ramon.space) | SPACE | 2004 | IL |Computer system designed for computing in space |
 |[RapidSilicon](https://rapidsilicon.com) | FPGA | 2021 | US |FPGA devices |
@@ -182,7 +183,7 @@
 |[RoboSense](https://robosense.ai) | SENSORS | 2014 | CN |Advanced LiDAR environment perception technologies |
 |[Salience Labs](https://saliencelabs.ai) | PHOTONICS | 2020 | UK |Photonic computing platform |
 |[SambaNova](https://sambanova.ai) | AI | 2017 | US |AI processing |
-|[Saras Micro Devices](https://sarasmicro.com) | HPC | 2021 | US |Packaging solutions for effective power delivery |
+|[Saras Micro Devices](https://sarasmicro.com) | MFG | 2021 | US |Packaging solutions for effective power delivery |
 |[Scalinx](https://sclinx.com) | RF | 2015 | FR | Wideband RFIC frontends |
 |[Scintil](https://scintil-photonics.com) | PHOTONICS | 2018 | FR |Photonic computing platform |
 |[Semidynamics](https://semidynamics.com) | RISC-V | 2016 | ES |High performance RISC-V IP cores |
