@@ -20,7 +20,7 @@
 * Categorize the startup based on technology table below
 * Use standard two letter country codes
 * Do NOT edit the README directly, it's auto-generated
-* Pie-chart is from Nov 2, 2023 (not auto-generated)
+* Pie-chart is from March 5, 2024 (not auto-generated)
 
 ![Startups](piechart.png)
 
