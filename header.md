@@ -26,20 +26,20 @@
 
 | Technology| Description                                      |
 |-----------|--------------------------------------------------|
-|ASIC       | Custom silicon platform
-|AI         | General AI (edge or hpc)
-|ANALOG     | All things analog (IP & chips)
-|CHIPLETS   | Chiplet centric startups
-|COM        | Communication (interface, solutions)
+|ASIC       | Custom silicon provider
+|AI         | AI related computing
+|ANALOG     | All things analog
+|CHIPLETS   | Chiplet related
 |EDA        | Design automation tools
 |HEALTH     | Health centric devices
-|HPC        | High Performance Computing (data center)
+|HPC        | High Performance Computing
 |MEMS       | MEMS based technology
-|MFG        | Manufacturing related (materials, processes)
-|RF         | Wireless communication (20KHz to THz)
+|MFG        | Manufacturing related
+|NETWORKING | Various connectivity pieces
+|RF         | Wireless communication
 |PHOTONICS  | Light centric chip startups
 |QUANTUM    | Quantum chip startups
-|RISC-V     | RISC-V based startups (IP + chips)
+|RISC-V     | RISC-V based startups
 |SECURITY   | Security techhnology
 |SENSORS    | Sensing devices
 |SPACE      | Space technology
