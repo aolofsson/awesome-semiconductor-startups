@@ -71,13 +71,13 @@
 |[Axelera](https://axelera.ai) | AI | 2021 | NL |Low power AI edge processors |
 |[Ayar Labs](https://ayarlabs.com) | PHOTONICS | 2015 | US |Electronic-photonic communication chipsets |
 |[Baya Systems](https://bayasystems.com) | CHIPLETS | 2023 | US |Chiplet Based Semiconductor Design |
-|[Beam](https://beamshaping.io) | RF | 2015 | IL |Phased array antennas |
 |[Beacon Photonics](https://beaconphotonics) | PHOTONICS | 2023 | US |Integrated photonics platform |
+|[Beam](https://beamshaping.io) | RF | 2015 | IL |Phased array antennas |
 |[Blaize](https://blaize.com) | AI | 2010 | US |Graph streaming processor for AI applications |
 |[Blue Cheetah](https://bcanalog.com) | CHIPLETS | 2018 | US |Rapidly customizable die-to-die interconnect solutions |
 |[Bluespec](https://bluespec.com) | RISC-V | 2003 | US |RISC-V IP and System Development Tools |
 |[CADLAB.io](https://cadlab.io) | EDA | 2015 | US |Collaboration tools for PCB design |
-|[Celera](https://celeratechnologies.com) | ASIC | 2018 | US |Fully-automated analog/mixed-signal IC development tool. |
+|[Celera](https://celeratechnologies.com) | EDA | 2018 | US |Fully-automated analog/mixed-signal IC development tool. |
 |[Celestial AI](https://celestial.ai) | PHOTONICS | 2020 | US |Photonic fabric optical interconnect technoology |
 |[Cellium](https://cellium.net) | RF | 2016 | IL |Wireless infrastructurefor indoor connectivity |
 |[Celtro](https://celtro.de) | HEALTH | 2019 | DE |Energy harvesting self powering implantable medical devices |
@@ -103,11 +103,11 @@
 |[EnCharge AI](https://enchargeai.com) | AI | 2021 | US |AI processing platform |
 |[Eridan](https://eridan.io) | RF | 2013 | US |RF Front End Module for wireless telecommunications |
 |[Esperanto](https://esperanto.ai) | HPC | 2014 | US |Manycore RISC-V compute platform |
-|[Ethernovia](https://ethernovia.com) | COM | 2018 | US |In vehicle networking |
-|[eTopus](https://etopus.com) | COM | 2013 | US |High speed interconnect solutions |
+|[Ethernovia](https://ethernovia.com) | NETWORKING | 2018 | US |In vehicle networking |
+|[eTopus](https://etopus.com) | NETWORKING | 2013 | US |High speed interconnect solutions |
+|[Evacorp](https://evacorp.ai) | AI | 2023 | US |AI processing  |
 |[Exo Imaging](https://exo.inc) | HEALTH | 2015 | US |Handheld ultrasound device |
 |[Extropic](https://extropic.ai) | AI | 2022 | US |Physics based generative AI |
-|[Evacorp](https://evacorp.ai) | AI | 2023 | US |AI processing  |
 |[Fabric Cryptography](https://fabriccryptography.com) | SECURITY | 2021 | US |Cryptography hardware accelerators |
 |[Falcomm ](https://myfalcomm.com) | RF | 2021 | US |Solid state power amplifiers |
 |[Ferric](https://ferric.com) | ANALOG | 2010 | US |Single-chip power converters |
@@ -132,17 +132,19 @@
 |[Ipronics](https://ipronics.com) | PHOTONICS | 2019 | ES |Programmable photonics products |
 |[Jeeva Wireless](https://jeevawireless.com) | RF | 2015 | US |Battery-free wireless sensing technology |
 |[Jitx](https://jitx.com) | EDA | 2016 | US |PCB design tools |
-|[Kandou](https://kandou.com) | COM | 2011 | CH |Chip-to-chip connectivity solutions |
+|[Kandou](https://kandou.com) | NETWORKING | 2011 | CH |Chip-to-chip connectivity solutions |
 |[Kepler Computing](https://keplercompute.com) | HPC | 2018 | US |Stealth |
 |[Kneron](https://kneron.com) | AI | 2015 | US |Edge AI devices |
+|[Krutrim](https://olakrutrim.com) | AI | 2023 | IN |AI hardware |
 |[Lemurian Labs](https://lemurianlabs.com) | AI | 2018 | CA |AI computing platform |
+|[Light Solver](https://lightsolver.com) | PHOTONICS | 2019 | IL |Optical computing platform |
 |[Lightelligence](https://lightelligence.ai) | PHOTONICS | 2017 | US |Optical computing platform |
 |[Lighton](https://lighton.ai) | PHOTONICS | 2015 | FR |Optical computing platform |
 |[Ligthmatter](https://lightmatter.co) | PHOTONICS | 2017 | US |Optical computing platform |
-|[Light Solver](https://lightsolver.com) | PHOTONICS | 2019 | IL |Optical computing platform |
 |[Luminous Computing](https://luminous.com) | PHOTONICS | 2018 | US |Optical computing platform |
 |[MangoBoost](https://mangoboost.io) | HPC | 2022 | US |Data processing units for data center |
 |[Memryx](https://memryx.com) | AI | 2019 | US |AI computing platform |
+|[Mobilint](https://mobilint.com) | AI | 2019 | KR |AI inference accelerators |
 |[Morse Micro](https://morsemicro.com) | RF | 2016 | AU |Low-power Wi-Fi chips |
 |[Movellus](https://movellus.com) | ANALOG | 2014 | US |Clock distribution IP |
 |[Mythic](https://mythic-ai.com) | AI | 2012 | US |Analog ML accelerators |
@@ -159,8 +161,8 @@
 |[One Silicon Chip Photonics](https://onesiliconchipphotonics.com) | PHOTONICS | 2016 | CA |Optical chips for precision motion sensing |
 |[Optalysys](https://optalysys.com) | PHOTONICS | 2013 | UK |Optical computing next-gen cryptography |
 |[Owl](https://owlai.us) | SENSORS | 2018 | US |Monocular 3D thermal ranging solutions |
-|[Ozark ICs](https://ozarkic.com) | ANALOG | 2011 | US |High temperature ruggedized electronics |
 |[Oxford Quantum Circuits](https://oxfordquantumcircuits.com) | QUANTUM | 2017 | UK |Quantum computing platform |
+|[Ozark ICs](https://ozarkic.com) | ANALOG | 2011 | US |High temperature ruggedized electronics |
 |[Perceive](https://perceive.io) | AI | 2015 | US |AI processing for edge devices |
 |[Picocom](https://picocom.com) | RF | 2019 | UK |Semiconductor products designed for 5G small cell infrastructure. |
 |[Pliops](https://pliops.com) | HPC | 2017 | IL |Scalable data handling/acceleration |
@@ -188,12 +190,12 @@
 |[Scintil](https://scintil-photonics.com) | PHOTONICS | 2018 | FR |Photonic computing platform |
 |[Semidynamics](https://semidynamics.com) | RISC-V | 2016 | ES |High performance RISC-V IP cores |
 |[Semifive](https://semifive.com) | ASIC | 2019 | KR |ASIC platform |
-|[Semify](https://semify-eda.com) | FPGA | 2021 | DE |FPGA based platforms |
+|[Semify](https://semify-eda.com) | EDA | 2021 | DE |FPGA based platforms |
 |[Semron](https://semron.ai) | AI | 2020 | DE |AI processing |
 |[SiFive](https://sifive.com) | RISC-V | 2015 | US |RISC-V based IP provider |
 |[SiLC](https://silc.com) | PHOTONICS | 2018 | US |Photonics based imaging sensors |
-|[Silimate](https://silimate.com) | EDA | 2023 | US |Co-pilot for chip designers |
 |[Silicon Box](https://Silicon-box.com) | MFG | 2021 | SG |Manufacturer of semiconductor design and device integration services |
+|[Silimate](https://silimate.com) | EDA | 2023 | US |Co-pilot for chip designers |
 |[SiMa.ai](https://sima.ai) | AI | 2018 | US |AI processing for edge devices |
 |[SiPearl](https://sipearl.com) | HPC | 2019 | FR |Manycore processors for EU exascale supercomputing project |
 |[Skycore Semiconductors](https://skycore-semi.com) | ANALOG | 2021 | DK |Switched capacitor based integrated power converters |
@@ -216,12 +218,13 @@
 |[Usound](https://usound.com) | MEMS | 2012 | AU |Sound solutions based on MEMS technology |
 |[Vayyar](https://vayyar.com) | SENSORS | 2011 | IL |High resolution image sensors |
 |[Ventana Micro](https://ventanamicro.com) | RISC-V | 2018 | US |RISC-V CPU cores and compute subsystems |
+|[VyperCore](https://vypercore.com) | RISC_V | 2022 | UK |RISC-V processors |
 |[Xanadu](https://xanadu.ai) | PHOTONICS | 2016 | US |RISC-V CPU cores and compute subsystems |
 |[Xsight Labs](https://xsightlabs.com) | HPC | 2017 | IL |Chipsets for accelerating data-intensive workloads |
 |[Yorchip](https://yorchip.com) | CHIPLETS | 2023 | US |Chiplet technology |
 |[Zendar](https://zendar.io) | SENSORS | 2017 | US |High resolution software defined radar |
-|[zeroRISC](https://zerorisc.com) | SECURITY | 2023 | US |RoT components |
 |[Zero ASIC](https://zeroasic.com) | CHIPLETS | 2020 | US |Chiplet based ASIC platform |
+|[zeroRISC](https://zerorisc.com) | SECURITY | 2023 | US |RoT components |
 
 ## Alumni
 
@@ -250,6 +253,7 @@
 |Innovium | Marvell | 2021 | $1.1B | [Source](https://techcrunch.com/2021/08/03/marvell-nabs-innovium-for-1-1b-as-it-delves-deeper-into-cloud-ethernet-switches/) |
 |Innoviz | SPAC | 2021 | 371M | [Source](https://www.prnewswire.com/news-releases/innoviz-technologies-and-collective-growth-corporation-announce-closing-of-business-combination-301262031.html) |
 |Kalray | IPO | 2018 | $100M | [Source](https://www.euronext.com/en/about/media/euronext-press-releases/kalray-sintroduit-sur-euronext-growth) |
+|Lucata |  Shutdown | 2024 |  n/a | [Source]( https://www.linkedin.com/posts/marty-deneroff-2a554_sadly-lucata-emu-technology-ceased-operations-activity-7168985090331500544-xy_D) |
 |Kameleon | Ramon Space | 2022 | N/A | [Source](https://www.startuphub.ai/ai-exit-events/ramon-space-merges-with-kameleon/) |
 |Mathstar | Shutdown | 2008 | $0 | [Source](https://www.oregonlive.com/business/2008/05/mathstar_calls_it_quits.html) |
 |Minima | Acquired | NA | NA | [Source](https://www.acuity.co.uk/successes/acuity-advises-minima-on-its-sale-to-bosch/) |

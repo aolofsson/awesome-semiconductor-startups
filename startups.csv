@@ -22,13 +22,13 @@ Atmosic,atmosic.com,RF,US,2016,Battery free wireless devices
 Axelera,axelera.ai,AI,NL,2021,Low power AI edge processors
 Ayar Labs,ayarlabs.com,PHOTONICS,US,2015,Electronic-photonic communication chipsets
 Baya Systems,bayasystems.com,CHIPLETS,US,2023,Chiplet Based Semiconductor Design
-Beam,beamshaping.io,RF,IL,2015,Phased array antennas
 Beacon Photonics,beaconphotonics,PHOTONICS,US,2023,Integrated photonics platform
+Beam,beamshaping.io,RF,IL,2015,Phased array antennas
 Blaize,blaize.com,AI,US,2010,Graph streaming processor for AI applications
 Blue Cheetah,bcanalog.com,CHIPLETS,US,2018,Rapidly customizable die-to-die interconnect solutions
 Bluespec,bluespec.com,RISC-V,US,2003,RISC-V IP and System Development Tools
 CADLAB.io,cadlab.io,EDA,US,2015,Collaboration tools for PCB design
-Celera,celeratechnologies.com,ASIC,US,2018,Fully-automated analog/mixed-signal IC development tool.
+Celera,celeratechnologies.com,EDA,US,2018,Fully-automated analog/mixed-signal IC development tool.
 Celestial AI,celestial.ai,PHOTONICS,US,2020,Photonic fabric optical interconnect technoology
 Cellium,cellium.net,RF,IL,2016,Wireless infrastructurefor indoor connectivity
 Celtro,celtro.de,HEALTH,DE,2019,Energy harvesting self powering implantable medical devices
@@ -54,11 +54,11 @@ Eliyan,eliyan.com,CHIPLETS,US,2021,Interconnect technology
 EnCharge AI,enchargeai.com,AI,US,2021,AI processing platform
 Eridan,eridan.io,RF,US,2013,RF Front End Module for wireless telecommunications
 Esperanto,esperanto.ai,HPC,US,2014,Manycore RISC-V compute platform
-Ethernovia,ethernovia.com,COM,US,2018,In vehicle networking
-eTopus,etopus.com,COM,US,2013,High speed interconnect solutions
+Ethernovia,ethernovia.com,NETWORKING,US,2018,In vehicle networking
+eTopus,etopus.com,NETWORKING,US,2013,High speed interconnect solutions
+Evacorp,evacorp.ai,AI,US,2023,AI processing 
 Exo Imaging,exo.inc,HEALTH,US,2015,Handheld ultrasound device
 Extropic,extropic.ai,AI,US,2022,Physics based generative AI
-Evacorp,evacorp.ai,AI,US,2023,AI processing 
 Fabric Cryptography,fabriccryptography.com,SECURITY,US,2021,Cryptography hardware accelerators
 Falcomm ,myfalcomm.com,RF,US,2021,Solid state power amplifiers
 Ferric,ferric.com,ANALOG,US,2010,Single-chip power converters
@@ -83,17 +83,19 @@ Innatera,innatera.com,AI,NL,2018,Neuromorphic processors
 Ipronics,ipronics.com,PHOTONICS,ES,2019,Programmable photonics products
 Jeeva Wireless,jeevawireless.com,RF,US,2015,Battery-free wireless sensing technology
 Jitx,jitx.com,EDA,US,2016,PCB design tools
-Kandou,kandou.com,COM,CH,2011,Chip-to-chip connectivity solutions
+Kandou,kandou.com,NETWORKING,CH,2011,Chip-to-chip connectivity solutions
 Kepler Computing,keplercompute.com,HPC,US,2018,Stealth
 Kneron,kneron.com,AI,US,2015,Edge AI devices
+Krutrim,olakrutrim.com,AI,IN,2023,AI hardware
 Lemurian Labs,lemurianlabs.com,AI,CA,2018,AI computing platform
+Light Solver,lightsolver.com,PHOTONICS,IL,2019,Optical computing platform
 Lightelligence,lightelligence.ai,PHOTONICS,US,2017,Optical computing platform
 Lighton,lighton.ai,PHOTONICS,FR,2015,Optical computing platform
 Ligthmatter,lightmatter.co,PHOTONICS,US,2017,Optical computing platform
-Light Solver,lightsolver.com,PHOTONICS,IL,2019,Optical computing platform
 Luminous Computing,luminous.com,PHOTONICS,US,2018,Optical computing platform
 MangoBoost,mangoboost.io,HPC,US,2022,Data processing units for data center
 Memryx,memryx.com,AI,US,2019,AI computing platform
+Mobilint,mobilint.com,AI,KR,2019,AI inference accelerators
 Morse Micro,morsemicro.com,RF,AU,2016,Low-power Wi-Fi chips
 Movellus,movellus.com,ANALOG,US,2014,Clock distribution IP
 Mythic,mythic-ai.com,AI,US,2012,Analog ML accelerators
@@ -110,8 +112,8 @@ Novumind,novumind.com,AI,US,2015,Domain specific acceleration for AI application
 One Silicon Chip Photonics,onesiliconchipphotonics.com,PHOTONICS,CA,2016,Optical chips for precision motion sensing
 Optalysys,optalysys.com,PHOTONICS,UK,2013,Optical computing next-gen cryptography
 Owl,owlai.us,SENSORS,US,2018,Monocular 3D thermal ranging solutions
-Ozark ICs,ozarkic.com,ANALOG,US,2011,High temperature ruggedized electronics
 Oxford Quantum Circuits,oxfordquantumcircuits.com,QUANTUM,UK,2017,Quantum computing platform
+Ozark ICs,ozarkic.com,ANALOG,US,2011,High temperature ruggedized electronics
 Perceive,perceive.io,AI,US,2015,AI processing for edge devices
 Picocom,picocom.com,RF,UK,2019,Semiconductor products designed for 5G small cell infrastructure.
 Pliops,pliops.com,HPC,IL,2017,Scalable data handling/acceleration
@@ -139,12 +141,12 @@ Scalinx,sclinx.com,RF,FR,2015, Wideband RFIC frontends
 Scintil,scintil-photonics.com,PHOTONICS,FR,2018,Photonic computing platform
 Semidynamics,semidynamics.com,RISC-V,ES,2016,High performance RISC-V IP cores
 Semifive,semifive.com,ASIC,KR,2019,ASIC platform
-Semify,semify-eda.com,FPGA,DE,2021,FPGA based platforms
+Semify,semify-eda.com,EDA,DE,2021,FPGA based platforms
 Semron,semron.ai,AI,DE,2020,AI processing
 SiFive,sifive.com,RISC-V,US,2015,RISC-V based IP provider
 SiLC,silc.com,PHOTONICS,US,2018,Photonics based imaging sensors
-Silimate,silimate.com,EDA,US,2023,Co-pilot for chip designers
 Silicon Box,Silicon-box.com,MFG,SG,2021,Manufacturer of semiconductor design and device integration services
+Silimate,silimate.com,EDA,US,2023,Co-pilot for chip designers
 SiMa.ai,sima.ai,AI,US,2018,AI processing for edge devices
 SiPearl,sipearl.com,HPC,FR,2019,Manycore processors for EU exascale supercomputing project
 Skycore Semiconductors,skycore-semi.com,ANALOG,DK,2021,Switched capacitor based integrated power converters
@@ -167,9 +169,10 @@ Upmem,upmem.com,AI,FR,2015,In memory processsing devices for big data and AI
 Usound,usound.com,MEMS,AU,2012,Sound solutions based on MEMS technology
 Vayyar,vayyar.com,SENSORS,IL,2011,High resolution image sensors
 Ventana Micro,ventanamicro.com,RISC-V,US,2018,RISC-V CPU cores and compute subsystems
+VyperCore,vypercore.com,RISC_V,UK,2022,RISC-V processors
 Xanadu,xanadu.ai,PHOTONICS,US,2016,RISC-V CPU cores and compute subsystems
 Xsight Labs,xsightlabs.com,HPC,IL,2017,Chipsets for accelerating data-intensive workloads
 Yorchip,yorchip.com,CHIPLETS,US,2023,Chiplet technology
 Zendar,zendar.io,SENSORS,US,2017,High resolution software defined radar
-zeroRISC,zerorisc.com,SECURITY,US,2023,RoT components
 Zero ASIC,zeroasic.com,CHIPLETS,US,2020,Chiplet based ASIC platform
+zeroRISC,zerorisc.com,SECURITY,US,2023,RoT components
