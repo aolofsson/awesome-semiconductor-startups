@@ -141,6 +141,7 @@
 |[Ligthmatter](https://lightmatter.co) | PHOTONICS | 2017 | US |Optical computing platform |
 |[Light Solver](https://lightsolver.com) | PHOTONICS | 2019 | IL |Optical computing platform |
 |[Luminous Computing](https://luminous.com) | PHOTONICS | 2018 | US |Optical computing platform |
+|[Matx](https://matx.com) | AI | 2022 | US |Platform for AGI |
 |[MangoBoost](https://mangoboost.io) | HPC | 2022 | US |Data processing units for data center |
 |[Memryx](https://memryx.com) | AI | 2019 | US |AI computing platform |
 |[Morse Micro](https://morsemicro.com) | RF | 2016 | AU |Low-power Wi-Fi chips |
