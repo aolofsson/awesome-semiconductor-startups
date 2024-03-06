@@ -20,7 +20,7 @@
 * Categorize the startup based on technology table below
 * Use standard two letter country codes
 * Do NOT edit the README directly, it's auto-generated
-* Pie-chart is from Nov 2, 2023 (not auto-generated)
+* Pie-chart is from March 5, 2024 (not auto-generated)
 
 ![Startups](piechart.png)
 
@@ -172,6 +172,7 @@
 |[PQShield](https://pqshield.com) | QUANTUM | 2018 | UK |Hardware co-processors Post-quantum Cryptography |
 |[PragmatiC](https://pragmaticsemi.com) | MFG | 2010 | UK |Manufacturer of low-cost flexible integrated circuits |
 |[Primemas](https://primemas.com) | CHIPLETS | 2023 | US |SoC infrastructure for accelerated system development |
+|[Primis](https://primis.ai) | EDA | 2023 | US |Generative-AI driven hardware design |
 |[proteanTecs](https://proteantecs.com) | ANALOG | 2017 | IL |Analytics platform for increasing performance and reliability of electronic systems |
 |[PseudolithIC](https://pseudolithic.com) | MFG | 2019 | US |Heterogeneous integration process for RF applications |
 |[PsiQuantum](https://psiquantum.com) | QUANTUM | 2015 | US |Quantum computers |
