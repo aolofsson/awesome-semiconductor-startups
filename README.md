@@ -126,6 +126,7 @@
 |[HaiLa](https://haila.io) | RF | 2017 | CA |Low power wireless communication for IoT |
 |[Hailo](https://hailo.ai) | AI | 2017 | IL |AI acceleration for edge devices |
 |[HawAI.tech](https://hawai.tech) | AI | 2019 | FR |AI accelerators |
+|[HyperAccel](https://hyperaccel.ai) | AI | 2023 | KR |AI processors |
 |[InCore Semi](https://incoresemi.com) | RISC-V | 2018 | IN |RISC-V IP cores |
 |[Ingonyma](https://ingonyma.com) | SECURITY | 2021 | IL |Hardware accelerators for cryptographic computation |
 |[Innatera](https://innatera.com) | AI | 2018 | NL |Neuromorphic processors |
