@@ -44,6 +44,7 @@ Condor Computing,condorcomputing.com,RISC-V,US,2023,High performance RISC-V proc
 Cornami,cornami.com,HPC,US,2011,Configurable acceleration for full homomorphic enctryption
 d-Matrix,d-matrix.ai,AI,US,2019,Computing platform for datacenter AI infererence
 DeGirum,degirum.ai,AI,US,2017,AI hardware and software to accelerate AI edge adoption
+Dfiant,dfiant.works,EDA,US,2022,Chip design tools
 Dover,dovermicrosystems.com,SECURITY,US,2017,SoC security IP
 DreamBig,dreambigsemi.com,CHIPLETS,US,2019,Chiplet based ASIC platform
 EdgeCortix,edgecortix.com,AI,US,2019,AI accelerators for edge devices
@@ -52,6 +53,7 @@ Efabless,efabless.com,ASIC,US,2011,Community powered ASIC platform
 Efinix,efinixinc.com,FPGA,US,2012,Programmable FPGA products
 Eliyan,eliyan.com,CHIPLETS,US,2021,Interconnect technology
 EnCharge AI,enchargeai.com,AI,US,2021,AI processing platform
+enzzo,enzzo.ai,EDA,US,2024,AI driven hardware development
 Eridan,eridan.io,RF,US,2013,RF Front End Module for wireless telecommunications
 Esperanto,esperanto.ai,HPC,US,2014,Manycore RISC-V compute platform
 Ethernovia,ethernovia.com,NETWORKING,US,2018,In vehicle networking
@@ -86,13 +88,14 @@ Jeeva Wireless,jeevawireless.com,RF,US,2015,Battery-free wireless sensing techno
 Jitx,jitx.com,EDA,US,2016,PCB design tools
 Kandou,kandou.com,NETWORKING,CH,2011,Chip-to-chip connectivity solutions
 Kepler Computing,keplercompute.com,HPC,US,2018,Stealth
+Kittycad,zoo.dev,EDA,US,2021,AI driven CAD
 Kneron,kneron.com,AI,US,2015,Edge AI devices
 Krutrim,olakrutrim.com,AI,IN,2023,AI hardware
 Lemurian Labs,lemurianlabs.com,AI,CA,2018,AI computing platform
 Light Solver,lightsolver.com,PHOTONICS,IL,2019,Optical computing platform
 Lightelligence,lightelligence.ai,PHOTONICS,US,2017,Optical computing platform
 Lighton,lighton.ai,PHOTONICS,FR,2015,Optical computing platform
-Ligthmatter,lightmatter.co,PHOTONICS,US,2017,Optical computing platform
+Lightmatter,lightmatter.co,PHOTONICS,US,2017,Optical computing platform
 Luminous Computing,luminous.com,PHOTONICS,US,2018,Optical computing platform
 Matx,matx.com,AI,US,2022,Platform for AGI
 MangoBoost,mangoboost.io,HPC,US,2022,Data processing units for data center
@@ -111,6 +114,7 @@ NextSilicon,nextsilicon.com,HPC,IL,2017,High performance computing architecture
 Niobium Microsystems,niobiummicrosystems.com,SECURITY,US,2021,"Secure collection, processing, and distribution of critical data"
 Novelda,novelda.com,RF,NO,2004,Wireless ultra wideband for high resolution impulse radar
 Novumind,novumind.com,AI,US,2015,Domain specific acceleration for AI applications
+OmniDesign,omnidesigntech.com,ANALOG,US,2015,Low power analog IP
 One Silicon Chip Photonics,onesiliconchipphotonics.com,PHOTONICS,CA,2016,Optical chips for precision motion sensing
 Optalysys,optalysys.com,PHOTONICS,UK,2013,Optical computing next-gen cryptography
 Owl,owlai.us,SENSORS,US,2018,Monocular 3D thermal ranging solutions
@@ -118,6 +122,7 @@ Oxford Quantum Circuits,oxfordquantumcircuits.com,QUANTUM,UK,2017,Quantum comput
 Ozark ICs,ozarkic.com,ANALOG,US,2011,High temperature ruggedized electronics
 Perceive,perceive.io,AI,US,2015,AI processing for edge devices
 Phanofi,phanofi.com,PHOTONICS,DK,2022,Optical transceivers for data centers & HPCs
+Pharrowtech,pharrowtech.com,RF,BE,2018,RF ICs for fixed-wireless access and high-capacity wireless links
 Picocom,picocom.com,RF,UK,2019,Semiconductor products designed for 5G small cell infrastructure.
 Pliops,pliops.com,HPC,IL,2017,Scalable data handling/acceleration
 Polyn Technology,polyn.ai,AI,IL,2019,Neuromorphic Analog Signal Processor chips
@@ -136,6 +141,7 @@ Ramon Space,ramon.space,SPACE,IL,2004,Computer system designed for computing in 
 RapidSilicon,rapidsilicon.com,FPGA,US,2021,FPGA devices
 rebellions_,rebellions.ai,AI,KR,2020,AI processors
 Recogni,recogni.com,AI,US,2017,Visual perception platform for autonomous vehicles
+Redwood EDA,redwoodeda.com,EDA,US,2015,Transaction level hardware design platform
 Rivos,rivosinc.com,RISC-V,US,2021,Stealth
 RoboSense,robosense.ai,SENSORS,CN,2014,Advanced LiDAR environment perception technologies
 Salience Labs,saliencelabs.ai,PHOTONICS,UK,2020,Photonic computing platform
@@ -178,5 +184,6 @@ Xanadu,xanadu.ai,PHOTONICS,US,2016,Photonic based quantum computer
 Xsight Labs,xsightlabs.com,HPC,IL,2017,Chipsets for accelerating data-intensive workloads
 Yorchip,yorchip.com,CHIPLETS,US,2023,Chiplet technology
 Zendar,zendar.io,SENSORS,US,2017,High resolution software defined radar
-Zero ASIC,zeroasic.com,CHIPLETS,US,2020,Chiplet based ASIC platform
+ZeroASIC,zeroasic.com,CHIPLETS,US,2020,Chiplet based ASIC platform
 zeroRISC,zerorisc.com,SECURITY,US,2023,RoT components
+ZeroPoint,zeropoint-tech.com,MEMORY,US,2015,Memory compression technology

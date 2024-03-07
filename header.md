@@ -26,19 +26,20 @@
 
 | Technology| Description                                      |
 |-----------|--------------------------------------------------|
-|ASIC       | Custom silicon provider
-|AI         | AI related computing
+|ASIC       | Custom silicon
+|AI         | AI hardware
 |ANALOG     | All things analog
 |CHIPLETS   | Chiplet related
 |EDA        | Design automation tools
 |HEALTH     | Health centric devices
-|HPC        | High Performance Computing
+|HPC        | High performance computing
+|MEMORY     | Memory
 |MEMS       | MEMS based technology
 |MFG        | Manufacturing related
 |NETWORKING | Various connectivity pieces
-|RF         | Wireless communication
-|PHOTONICS  | Light centric chip startups
-|QUANTUM    | Quantum chip startups
+|RF         | Wireless
+|PHOTONICS  | Photonic based startups
+|QUANTUM    | Quantum computing
 |RISC-V     | RISC-V based startups
 |SECURITY   | Security techhnology
 |SENSORS    | Sensing devices
