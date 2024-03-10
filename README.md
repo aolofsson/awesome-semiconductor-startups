@@ -221,6 +221,7 @@
 |[Tachyum](https://tachyum.com) | HPC | 2016 | US |High performance processor architecture |
 |[Tenstorrent](https://tenstorrent.com) | ASIC | 2016 | CA |AI processing devices |
 |[Teramount](https://teramount.com) | MFG | 2013 | IL |Packaging technology for photonic devices |
+|[TESDA](https://tes-da.com) | EDA | 2021 | TW |SoC Level Verification |
 |[Tetramem](https://tetramem.com) | AI | 2018 | US |AI accelerator for edge inference |
 |[Trameto](https://trameto.com) | ANALOG | 2016 | UK |Energy harvesting PMICs |
 |[TriEye](https://trieye.tech) | SENSORS | 2017 | IL |Short-wave infrared imaging systems |
@@ -244,7 +245,7 @@
 | Company |  Exit   | Year   | Value | Link |
 |---------| ------- | ------ | ------|------|
 |Acacia | IPO | 2016 | $1B | [Source](https://www.bizjournals.com/boston/news/2016/12/29/the-best-performing-ipo-nationwide-of-2016-is.html) |
-|Agnilux | Google | 2010 | N/A | [Source](https://techcrunch.com/2010/04/20/google-agnilux-apple) |
+|Agnilux | Google | 2010 | NA | [Source](https://techcrunch.com/2010/04/20/google-agnilux-apple) |
 |Alphawave | IPO | 2021 | $4.3B | [Source](https://www.marketwatch.com/story/chip-maker-alphawave-set-for-4-3-billion-london-ipo-after-shunning-the-nasdaq-11620840007) |
 |Altair Semiconductor | Sony | 2016 | $212M | [Source](https://www.jvpvc.com/case-studies/altair/) |
 |Ambric | Shutdown | 2008 | $0 | [Source](https://www.oregonlive.com/siliconforest/2008/11/ambric_suspends_operation_plan.html) |
@@ -253,10 +254,10 @@
 |Aquantia | Marvell | 2019 | $452M | [Source](https://www.thestreet.com/investing/earnings/marvell-technology-to-purchase-aquantia-14949381) |
 |Arbe | IPO | 2021 | $525M | [Source](https://en.globes.co.il/en/article-arbe-robotics-lists-on-nasdaq-friday-as-spac-merger-completed-1001386505) |
 |Banias | Alphawave | 2022 | $240M | [Source](https://www.calcalistech.com/ctechnews/article/hynfz2sxs) |
-|BrainChip | IPO | 2011 | N/A | [Source](https://finance.yahoo.com/quote/BRN.AX/) |
+|BrainChip | IPO | 2011 | NA | [Source](https://finance.yahoo.com/quote/BRN.AX/) |
 |Calxeda | Shutdown | 2013 | $0 | [Source](https://semiengineering.com/chip-startup-shuts-doors/) |
 |Cambricon | IPO | 2020 | $5B | [Source](https://techcrunch.com/2020/06/24/chip-cambricon-ipo/) |
-|Diakopto | Ansys | 2023 | N/A | [Source](https://www.prnewswire.com/news-releases/ansys-signs-definitive-agreement-to-acquire-diakopto-expands-multiphysics-simulation-portfolio-for-semiconductor-designers-301826540.html) |
+|Diakopto | Ansys | 2023 | NA | [Source](https://www.prnewswire.com/news-releases/ansys-signs-definitive-agreement-to-acquire-diakopto-expands-multiphysics-simulation-portfolio-for-semiconductor-designers-301826540.html) |
 |Espressif | IPO | 2017 | $1.8B | [Source](https://www.cnx-software.com/2019/07/25/espressif-systems-gets-listed-on-the-shanghai-stock-market/) |
 |Fungible | Microsoft | 2023 | $190M | [Source](https://blogs.microsoft.com/blog/2023/01/09/microsoft-announces-acquisition-of-fungible-to-accelerate-datacenter-innovation/) |
 |GaN Systems | Infineon | 2023 | $830M | [Source](https://www.infineon.com/cms/en/about-infineon/press/press-releases/2023/INFXX202303-073.html) |
@@ -264,14 +265,15 @@
 |Habana Labs | Intel | 2019 | $2B | [Source](https://www.forbes.com/sites/moorinsights/2019/12/16/intel-acquires-habana-labs-for-2b/?sh=27bc9bc319f9) |
 |Indie Semiconductor | SPAC | 2020 | $1.4B | [Source](https://www.marketwatch.com/story/indie-semiconductor-to-go-public-through-spac-buyout-deal-that-values-company-at-14-billion-2020-12-15) |
 |Innovium | Marvell | 2021 | $1.1B | [Source](https://techcrunch.com/2021/08/03/marvell-nabs-innovium-for-1-1b-as-it-delves-deeper-into-cloud-ethernet-switches/) |
-|Innoviz | SPAC | 2021 | 371M | [Source](https://www.prnewswire.com/news-releases/innoviz-technologies-and-collective-growth-corporation-announce-closing-of-business-combination-301262031.html) |
+|Innoviz | SPAC | 2021 | $371M | [Source](https://www.prnewswire.com/news-releases/innoviz-technologies-and-collective-growth-corporation-announce-closing-of-business-combination-301262031.html) |
 |Kalray | IPO | 2018 | $100M | [Source](https://www.euronext.com/en/about/media/euronext-press-releases/kalray-sintroduit-sur-euronext-growth) |
-|Lucata |  Shutdown | 2024 |  n/a | [Source]( https://www.linkedin.com/posts/marty-deneroff-2a554_sadly-lucata-emu-technology-ceased-operations-activity-7168985090331500544-xy_D) |
-|Kameleon | Ramon Space | 2022 | N/A | [Source](https://www.startuphub.ai/ai-exit-events/ramon-space-merges-with-kameleon/) |
+|Lucata | Shutdown | 2024 | NA | [Source](https://www.linkedin.com/posts/marty-deneroff-2a554_sadly-lucata-emu-technology-ceased-operations-activity-7168985090331500544-xy_D) |
+|Lyric | ADI | 2011 | NA | [Source](https://www.eetimes.com/adi-buys-lyric-probability-processing-specialist/) |
+|Kameleon | Ramon Space | 2022 | NA | [Source](https://www.startuphub.ai/ai-exit-events/ramon-space-merges-with-kameleon/) |
 |Mathstar | Shutdown | 2008 | $0 | [Source](https://www.oregonlive.com/business/2008/05/mathstar_calls_it_quits.html) |
 |Minima | Acquired | NA | NA | [Source](https://www.acuity.co.uk/successes/acuity-advises-minima-on-its-sale-to-bosch/) |
 |MixComm | Sivers | 2021 | $155M | [Source](https://www.eetimes.com/mixcomm-acquired-by-sivers-semiconductors/) |
-|Mobix Labs | SPAC | 2023 | N/A | [Source](https://mobixlabs.com) |
+|Mobix Labs | SPAC | 2023 | NA | [Source](https://mobixlabs.com) |
 |Movidius | Intel | 2016 | $400M | [Source](https://siliconangle.com/2016/09/06/intel-buys-movidius-to-boost-machine-vision/) |
 |Nervana | Intel | 2016 | $350M | [Source](https://venturebeat.com/2016/08/09/intel-acquires-deep-learning-startup-nervana) |
 |Nuvia | Qualcomm | 2021 | $1.4B | [Source](https://www.fiercewireless.com/devices/qualcomm-to-acquire-nuvia-for-1-4b) |
@@ -280,13 +282,14 @@
 |Pensando | AMD | 2022 | $1.9B | [Source](https://www.amd.com/en/press-releases/2022-05-26-amd-expands-data-center-solutions-capabilities-acquisition-pensando) |
 |PrimeSense | Apple | 2013 | $350M | [Source](https://techcrunch.com/2013/11/24/apple-primesense-acquisition-confirmed) |
 |Provigent | Broadcom | 2011 | $360M | [Source](https://en.globes.co.il/en/article-1000631723) |
-|SiByte |  Broadcom | 2000 |  $2B | [Source](https://www.eetimes.com/broadcom-acquires-mips-core-provider-sibyte) |
+|Sand 9 | ADI | 2015 | $30M | [Source](https://www.eenewseurope.com/en/analog-devices-is-sand-9-buyer/) |
+|SiByte | Broadcom | 2000 | $2B | [Source](https://www.eetimes.com/broadcom-acquires-mips-core-provider-sibyte) |
 |SiCortex | Shutdown | 2009 | $0 | [Source](https://www.bizjournals.com/boston/blog/mass-high-tech/2009/05/supercomputer-firm-sicortex-closes-doors.html) |
 |Soft Machines | Intel | 2016 | $250M | [Source](https://www.theregister.com/2016/09/09/intel_soft_machines/) |
 |Stream Processors | Shutdown | 2009 | $0 | [Source](https://venturebeat.com/2009/11/07/chip-design-firm-stream-processors-shutting-down-and-selling-assets/) |
 |Tabula | Shutdown | 2015 | $0 | [Source](https://semiwiki.com/fpga/4232-tabula-closes-its-doors/) |
-|Tensil.ai | N/A | N/A | N/A | NA |
+|Tensil.ai | NA | 2022 | NA | NA |
 |Tilera | Ezchip | 2014 | $50M | [Source](https://www.prnewswire.com/news-releases/ezchip-completes-acquisition-of-tilera-a-leader-in-high-performance-multi-core-processors-281754771.html) |
 |Upverter | Altium | 2017 | $2.8M | [Source](https://pitchbook.com/profiles/company/56161-81#overview) |
 |Wavious | Shutdown | 2022 | $0 | [Source](https://pitchbook.com/profiles/company/169888-60#overview) |
-|zGlue | Sold | 2021 | N/A | [Source](https://www.reuters.com/technology/chip-wars-how-chiplets-are-emerging-core-part-chinas-tech-strategy-2023-07-13) |
+|zGlue | Sold | 2021 | NA | [Source](https://www.reuters.com/technology/chip-wars-how-chiplets-are-emerging-core-part-chinas-tech-strategy-2023-07-13) |
