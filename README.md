@@ -115,6 +115,7 @@
 |[Evacorp](https://evacorp.ai) | AI | 2023 | US |AI processing  |
 |[Exo Imaging](https://exo.inc) | HEALTH | 2015 | US |Handheld ultrasound device |
 |[Extropic](https://extropic.ai) | AI | 2022 | US |Physics based generative AI |
+|[Everactive](https://everactive.com) | SENSORS | 2012 | US |Battery-less IoT sensing technology |
 |[Fabric Cryptography](https://fabriccryptography.com) | SECURITY | 2021 | US |Cryptography hardware accelerators |
 |[Falcomm ](https://myfalcomm.com) | RF | 2021 | US |Solid state power amplifiers |
 |[Ferric](https://ferric.com) | ANALOG | 2010 | US |Single-chip power converters |
@@ -168,6 +169,7 @@
 |[Niobium Microsystems](https://niobiummicrosystems.com) | SECURITY | 2021 | US |Secure collection, processing, and distribution of critical data |
 |[Novelda](https://novelda.com) | RF | 2004 | NO |Wireless ultra wideband for high resolution impulse radar |
 |[Novumind](https://novumind.com) | AI | 2015 | US |Domain specific acceleration for AI applications |
+|[Nubis Communication](https://Nubis-inc.com) | NETWORKING | 2020 | US |Optical communications technology |
 |[OmniDesign](https://omnidesigntech.com) | ANALOG | 2015 | US |Low power analog IP |
 |[One Silicon Chip Photonics](https://onesiliconchipphotonics.com) | PHOTONICS | 2016 | CA |Optical chips for precision motion sensing |
 |[Optalysys](https://optalysys.com) | PHOTONICS | 2013 | UK |Optical computing next-gen cryptography |
