@@ -251,7 +251,7 @@
 
 ## Alumni
 
-| Company |  Exit   | Year   | Value | Link |
+| Company |  Exit   | Year   | Value($M) | Link |
 |---------| ------- | ------ | ------|------|
 |Acacia | IPO | 2016 | 1000 | [Source](https://www.bizjournals.com/boston/news/2016/12/29/the-best-performing-ipo-nationwide-of-2016-is.html) |
 |Agnilux | Google | 2010 | NA | [Source](https://techcrunch.com/2010/04/20/google-agnilux-apple) |
