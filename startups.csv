@@ -24,6 +24,7 @@ Ayar Labs,ayarlabs.com,PHOTONICS,US,2015,Electronic-photonic communication chips
 Baya Systems,bayasystems.com,CHIPLETS,US,2023,Chiplet Based Semiconductor Design
 Beacon Photonics,beaconphotonics,PHOTONICS,US,2023,Integrated photonics platform
 Beam,beamshaping.io,RF,IL,2015,Phased array antennas
+Black Semiconductor,blacksemiconductor.de,MFG,DE,2021,Graphene based devices for transalating between electronics and photonics
 Blaize,blaize.com,AI,US,2010,Graph streaming processor for AI applications
 Blue Cheetah,bcanalog.com,CHIPLETS,US,2018,Rapidly customizable die-to-die interconnect solutions
 Bluespec,bluespec.com,RISC-V,US,2003,RISC-V IP and System Development Tools
@@ -43,6 +44,7 @@ Classiq,classiq.io,EDA,IL,2020,Quantum computing software
 Codasip,codasip.com,RISC-V,DE,2014,Supplier of RISC-V IP cores
 Condor Computing,condorcomputing.com,RISC-V,US,2023,High performance RISC-V processors
 Cornami,cornami.com,HPC,US,2011,Configurable acceleration for full homomorphic enctryption
+DASH Tech IC,dashtechic.com,HPC,US,2021,Flexible processors for embedded applications
 d-Matrix,d-matrix.ai,AI,US,2019,Computing platform for datacenter AI infererence
 DeGirum,degirum.ai,AI,US,2017,AI hardware and software to accelerate AI edge adoption
 Dfiant,dfiant.works,EDA,US,2022,Chip design tools
@@ -54,6 +56,7 @@ Efabless,efabless.com,ASIC,US,2011,Community powered ASIC platform
 Efinix,efinixinc.com,FPGA,US,2012,Programmable FPGA products
 Eliyan,eliyan.com,CHIPLETS,US,2021,Interconnect technology
 EnCharge AI,enchargeai.com,AI,US,2021,AI processing platform
+Enosemi,enosemi.com,PHOTONICS,US,2023,Photonics subsystems
 enzzo,enzzo.ai,EDA,US,2024,AI driven hardware development
 Eridan,eridan.io,RF,US,2013,RF Front End Module for wireless telecommunications
 Esperanto,esperanto.ai,HPC,US,2014,Manycore RISC-V compute platform
@@ -125,7 +128,9 @@ Perceive,perceive.io,AI,US,2015,AI processing for edge devices
 Phanofi,phanofi.com,PHOTONICS,DK,2022,Optical transceivers for data centers & HPCs
 Pharrowtech,pharrowtech.com,RF,BE,2018,RF ICs for fixed-wireless access and high-capacity wireless links
 Picocom,picocom.com,RF,UK,2019,Semiconductor products designed for 5G small cell infrastructure.
+Plaid Semiconductor,plaidsemi.com,CHIPLETS,US,2023,Interposers for chiplet integration
 Pliops,pliops.com,HPC,IL,2017,Scalable data handling/acceleration
+PointCloud,point.cloud,SENSORS,US,2017,4D imaging sensors
 Polyn Technology,polyn.ai,AI,IL,2019,Neuromorphic Analog Signal Processor chips
 PQShield,pqshield.com,QUANTUM,UK,2018,Hardware co-processors Post-quantum Cryptography
 PragmatiC,pragmaticsemi.com,MFG,UK,2010,Manufacturer of low-cost flexible integrated circuits
@@ -137,6 +142,7 @@ PsiQuantum,psiquantum.com,QUANTUM,US,2015,Quantum computers
 Qadric.io,quadric.io,AI,US,2016,Edge processing for edge devices
 Qualinx,qualinx.io,RF,NL,2015,IoT GNSS based tracking and connectivity
 Quilter,quilter.ai,EDA,US,2020,AI driven PCB design
+Quintessent,quintessent.com,PHOTONICS,US,2019,Optical interconnect
 Rain Neuromorphics,rain.ai,AI,US,2017,Brain-inspired hardware for AI applications
 Ramon Space,ramon.space,SPACE,IL,2004,Computer system designed for computing in space
 RapidSilicon,rapidsilicon.com,FPGA,US,2021,FPGA devices
@@ -153,11 +159,13 @@ Scintil,scintil-photonics.com,PHOTONICS,FR,2018,Photonic computing platform
 Semidynamics,semidynamics.com,RISC-V,ES,2016,High performance RISC-V IP cores
 Semifive,semifive.com,ASIC,KR,2019,ASIC platform
 Semify,semify-eda.com,EDA,DE,2021,FPGA based platforms
+SemiQon,semiqon.tech,QUANTUM,FI,2023,Quantum processors
 Semron,semron.ai,AI,DE,2020,AI processing
 SiFive,sifive.com,RISC-V,US,2015,RISC-V based IP provider
 SiLC,silc.com,PHOTONICS,US,2018,Photonics based imaging sensors
 Silicon Box,Silicon-box.com,MFG,SG,2021,Manufacturer of semiconductor design and device integration services
 Silimate,silimate.com,EDA,US,2023,Co-pilot for chip designers
+Silogy,silogy.io,EDA,US,2023,Collaborative CI/CD platform for integrated circuit design 
 SiMa.ai,sima.ai,AI,US,2018,AI processing for edge devices
 SiPearl,sipearl.com,HPC,FR,2019,Manycore processors for EU exascale supercomputing project
 Skycore Semiconductors,skycore-semi.com,ANALOG,DK,2021,Switched capacitor based integrated power converters
@@ -168,6 +176,7 @@ Swave,swave.io,PHOTONICS,BE,2022,Holographic chips based on diffractive photonic
 SWIR Vision Systems,swirvisionsystems.com,SENSORS,US,2018,Image sensor technology designed for short-wave infrared cameras
 Synthara,synthara.ai,AI,CH,2020,In memory computation chips for AI
 Syntiant,syntiant.com,AI,US,2017,Neuromorphic processing for edge devices
+Taalas,taalas.com,AI,CA,2023,Platform for quickly turning any AI model into custom silicon 
 Tachyum,tachyum.com,HPC,US,2016,High performance processor architecture
 Tenstorrent,tenstorrent.com,ASIC,CA,2016,AI processing devices
 Teramount,teramount.com,MFG,IL,2013,Packaging technology for photonic devices
@@ -182,6 +191,7 @@ Vayyar,vayyar.com,SENSORS,IL,2011,High resolution image sensors
 Ventana Micro,ventanamicro.com,RISC-V,US,2018,RISC-V CPU cores and compute subsystems
 VyperCore,vypercore.com,RISC_V,UK,2022,RISC-V processors
 Xanadu,xanadu.ai,PHOTONICS,US,2016,Photonic based quantum computer
+Xscape Photonics,xscapephotonics.com,PHOTONICS,US,2022,Photonic communication chips
 Xsight Labs,xsightlabs.com,HPC,IL,2017,Chipsets for accelerating data-intensive workloads
 Yorchip,yorchip.com,CHIPLETS,US,2023,Chiplet technology
 Zendar,zendar.io,SENSORS,US,2017,High resolution software defined radar
