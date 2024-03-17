@@ -74,6 +74,7 @@
 |[Baya Systems](https://bayasystems.com) | CHIPLETS | 2023 | US |Chiplet Based Semiconductor Design |
 |[Beacon Photonics](https://beaconphotonics) | PHOTONICS | 2023 | US |Integrated photonics platform |
 |[Beam](https://beamshaping.io) | RF | 2015 | IL |Phased array antennas |
+|[Black Semiconductor](https://blacksemiconductor.de) | MFG | 2021 | DE |Graphene based devices for transalating between electronics and photonics |
 |[Blaize](https://blaize.com) | AI | 2010 | US |Graph streaming processor for AI applications |
 |[Blue Cheetah](https://bcanalog.com) | CHIPLETS | 2018 | US |Rapidly customizable die-to-die interconnect solutions |
 |[Bluespec](https://bluespec.com) | RISC-V | 2003 | US |RISC-V IP and System Development Tools |
@@ -87,12 +88,13 @@
 |[Cerebras](https://cerebras.net) | HPC | 2016 | US |Wafer scale processors |
 |[Ceremorphic](https://ceremorphic.com) | HPC | 2020 | US |Analog computing architecture |
 |[Cerfe Labs](https://cerfelabs.com) | MFG | 2020 | US |Electronics materials and device research |
-|[ChipFlow](https://chipflow.io) | ASIC | 2021 | UK |ASIC design platform |
+|[Chipflow](https://chipflow.io) | ASIC | 2021 | UK |ASIC design platform |
 |[Chipletz](https://chipletz.com) | CHIPLETS | 2021 | US |Smart substrate enabling multiple ICs in a single package |
 |[Classiq](https://classiq.io) | EDA | 2020 | IL |Quantum computing software |
 |[Codasip](https://codasip.com) | RISC-V | 2014 | DE |Supplier of RISC-V IP cores |
 |[Condor Computing](https://condorcomputing.com) | RISC-V | 2023 | US |High performance RISC-V processors |
 |[Cornami](https://cornami.com) | HPC | 2011 | US |Configurable acceleration for full homomorphic enctryption |
+|[DASH Tech IC](https://dashtechic.com) | HPC | 2021 | US |Flexible processors for embedded applications |
 |[d-Matrix](https://d-matrix.ai) | AI | 2019 | US |Computing platform for datacenter AI infererence |
 |[DeGirum](https://degirum.ai) | AI | 2017 | US |AI hardware and software to accelerate AI edge adoption |
 |[Dfiant](https://dfiant.works) | EDA | 2022 | US |Chip design tools |
@@ -104,6 +106,7 @@
 |[Efinix](https://efinixinc.com) | FPGA | 2012 | US |Programmable FPGA products |
 |[Eliyan](https://eliyan.com) | CHIPLETS | 2021 | US |Interconnect technology |
 |[EnCharge AI](https://enchargeai.com) | AI | 2021 | US |AI processing platform |
+|[Enosemi](https://enosemi.com) | PHOTONICS | 2023 | US |Photonics subsystems |
 |[enzzo](https://enzzo.ai) | EDA | 2024 | US |AI driven hardware development |
 |[Eridan](https://eridan.io) | RF | 2013 | US |RF Front End Module for wireless telecommunications |
 |[Esperanto](https://esperanto.ai) | HPC | 2014 | US |Manycore RISC-V compute platform |
@@ -175,7 +178,9 @@
 |[Phanofi](https://phanofi.com) | PHOTONICS | 2022 | DK |Optical transceivers for data centers & HPCs |
 |[Pharrowtech](https://pharrowtech.com) | RF | 2018 | BE |RF ICs for fixed-wireless access and high-capacity wireless links |
 |[Picocom](https://picocom.com) | RF | 2019 | UK |Semiconductor products designed for 5G small cell infrastructure. |
+|[Plaid Semiconductor](https://plaidsemi.com) | CHIPLETS | 2023 | US |Interposers for chiplet integration |
 |[Pliops](https://pliops.com) | HPC | 2017 | IL |Scalable data handling/acceleration |
+|[PointCloud](https://point.cloud) | SENSORS | 2017 | US |4D imaging sensors |
 |[Polyn Technology](https://polyn.ai) | AI | 2019 | IL |Neuromorphic Analog Signal Processor chips |
 |[PQShield](https://pqshield.com) | QUANTUM | 2018 | UK |Hardware co-processors Post-quantum Cryptography |
 |[PragmatiC](https://pragmaticsemi.com) | MFG | 2010 | UK |Manufacturer of low-cost flexible integrated circuits |
@@ -187,6 +192,7 @@
 |[Qadric.io](https://quadric.io) | AI | 2016 | US |Edge processing for edge devices |
 |[Qualinx](https://qualinx.io) | RF | 2015 | NL |IoT GNSS based tracking and connectivity |
 |[Quilter](https://quilter.ai) | EDA | 2020 | US |AI driven PCB design |
+|[Quintessent](https://quintessent.com) | PHOTONICS | 2019 | US |Optical interconnect |
 |[Rain Neuromorphics](https://rain.ai) | AI | 2017 | US |Brain-inspired hardware for AI applications |
 |[Ramon Space](https://ramon.space) | SPACE | 2004 | IL |Computer system designed for computing in space |
 |[RapidSilicon](https://rapidsilicon.com) | FPGA | 2021 | US |FPGA devices |
@@ -203,11 +209,13 @@
 |[Semidynamics](https://semidynamics.com) | RISC-V | 2016 | ES |High performance RISC-V IP cores |
 |[Semifive](https://semifive.com) | ASIC | 2019 | KR |ASIC platform |
 |[Semify](https://semify-eda.com) | EDA | 2021 | DE |FPGA based platforms |
+|[SemiQon](https://semiqon.tech) | QUANTUM | 2023 | FI |Quantum processors |
 |[Semron](https://semron.ai) | AI | 2020 | DE |AI processing |
 |[SiFive](https://sifive.com) | RISC-V | 2015 | US |RISC-V based IP provider |
 |[SiLC](https://silc.com) | PHOTONICS | 2018 | US |Photonics based imaging sensors |
 |[Silicon Box](https://Silicon-box.com) | MFG | 2021 | SG |Manufacturer of semiconductor design and device integration services |
 |[Silimate](https://silimate.com) | EDA | 2023 | US |Co-pilot for chip designers |
+|[Silogy](https://silogy.io) | EDA | 2023 | US |Collaborative CI/CD platform for integrated circuit design  |
 |[SiMa.ai](https://sima.ai) | AI | 2018 | US |AI processing for edge devices |
 |[SiPearl](https://sipearl.com) | HPC | 2019 | FR |Manycore processors for EU exascale supercomputing project |
 |[Skycore Semiconductors](https://skycore-semi.com) | ANALOG | 2021 | DK |Switched capacitor based integrated power converters |
@@ -218,6 +226,7 @@
 |[SWIR Vision Systems](https://swirvisionsystems.com) | SENSORS | 2018 | US |Image sensor technology designed for short-wave infrared cameras |
 |[Synthara](https://synthara.ai) | AI | 2020 | CH |In memory computation chips for AI |
 |[Syntiant](https://syntiant.com) | AI | 2017 | US |Neuromorphic processing for edge devices |
+|[Taalas](https://taalas.com) | AI | 2023 | CA |Platform for quickly turning any AI model into custom silicon  |
 |[Tachyum](https://tachyum.com) | HPC | 2016 | US |High performance processor architecture |
 |[Tenstorrent](https://tenstorrent.com) | ASIC | 2016 | CA |AI processing devices |
 |[Teramount](https://teramount.com) | MFG | 2013 | IL |Packaging technology for photonic devices |
@@ -231,7 +240,8 @@
 |[Vayyar](https://vayyar.com) | SENSORS | 2011 | IL |High resolution image sensors |
 |[Ventana Micro](https://ventanamicro.com) | RISC-V | 2018 | US |RISC-V CPU cores and compute subsystems |
 |[VyperCore](https://vypercore.com) | RISC_V | 2022 | UK |RISC-V processors |
-|[Xanadu](https://xanadu.ai) | PHOTONICS | 2016 | CA |Photonic based quantum computer |
+|[Xanadu](https://xanadu.ai) | PHOTONICS | 2016 | US |Photonic based quantum computer |
+|[Xscape Photonics](https://xscapephotonics.com) | PHOTONICS | 2022 | US |Photonic communication chips |
 |[Xsight Labs](https://xsightlabs.com) | HPC | 2017 | IL |Chipsets for accelerating data-intensive workloads |
 |[Yorchip](https://yorchip.com) | CHIPLETS | 2023 | US |Chiplet technology |
 |[Zendar](https://zendar.io) | SENSORS | 2017 | US |High resolution software defined radar |
@@ -243,50 +253,60 @@
 
 | Company |  Exit   | Year   | Value | Link |
 |---------| ------- | ------ | ------|------|
-|Acacia | IPO | 2016 | $1B | [Source](https://www.bizjournals.com/boston/news/2016/12/29/the-best-performing-ipo-nationwide-of-2016-is.html) |
-|Agnilux | Google | 2010 | N/A | [Source](https://techcrunch.com/2010/04/20/google-agnilux-apple) |
-|Alphawave | IPO | 2021 | $4.3B | [Source](https://www.marketwatch.com/story/chip-maker-alphawave-set-for-4-3-billion-london-ipo-after-shunning-the-nasdaq-11620840007) |
-|Altair Semiconductor | Sony | 2016 | $212M | [Source](https://www.jvpvc.com/case-studies/altair/) |
-|Ambric | Shutdown | 2008 | $0 | [Source](https://www.oregonlive.com/siliconforest/2008/11/ambric_suspends_operation_plan.html) |
-|Annapurna Labs | Amazon | 2015 | $375M | [Source](https://www.extremetech.com/computing/198140-amazon-buys-secretive-chip-maker-annapurna-labs-for-350-million) |
-|Anobit | Apple | 2012 | $500M | [Source](https://techcrunch.com/2012/01/11/why-apple-bought-anobit) |
-|Aquantia | Marvell | 2019 | $452M | [Source](https://www.thestreet.com/investing/earnings/marvell-technology-to-purchase-aquantia-14949381) |
-|Arbe | IPO | 2021 | $525M | [Source](https://en.globes.co.il/en/article-arbe-robotics-lists-on-nasdaq-friday-as-spac-merger-completed-1001386505) |
-|Banias | Alphawave | 2022 | $240M | [Source](https://www.calcalistech.com/ctechnews/article/hynfz2sxs) |
-|BrainChip | IPO | 2011 | N/A | [Source](https://finance.yahoo.com/quote/BRN.AX/) |
-|Calxeda | Shutdown | 2013 | $0 | [Source](https://semiengineering.com/chip-startup-shuts-doors/) |
-|Cambricon | IPO | 2020 | $5B | [Source](https://techcrunch.com/2020/06/24/chip-cambricon-ipo/) |
-|Diakopto | Ansys | 2023 | N/A | [Source](https://www.prnewswire.com/news-releases/ansys-signs-definitive-agreement-to-acquire-diakopto-expands-multiphysics-simulation-portfolio-for-semiconductor-designers-301826540.html) |
-|Espressif | IPO | 2017 | $1.8B | [Source](https://www.cnx-software.com/2019/07/25/espressif-systems-gets-listed-on-the-shanghai-stock-market/) |
-|Fungible | Microsoft | 2023 | $190M | [Source](https://blogs.microsoft.com/blog/2023/01/09/microsoft-announces-acquisition-of-fungible-to-accelerate-datacenter-innovation/) |
-|GaN Systems | Infineon | 2023 | $830M | [Source](https://www.infineon.com/cms/en/about-infineon/press/press-releases/2023/INFXX202303-073.html) |
-|Genapsys | Shutdown | 2022 | $0 | [Source](https://cases.ra.kroll.com/genapsys/Home-Index) |
-|Habana Labs | Intel | 2019 | $2B | [Source](https://www.forbes.com/sites/moorinsights/2019/12/16/intel-acquires-habana-labs-for-2b/?sh=27bc9bc319f9) |
-|Indie Semiconductor | SPAC | 2020 | $1.4B | [Source](https://www.marketwatch.com/story/indie-semiconductor-to-go-public-through-spac-buyout-deal-that-values-company-at-14-billion-2020-12-15) |
-|Innovium | Marvell | 2021 | $1.1B | [Source](https://techcrunch.com/2021/08/03/marvell-nabs-innovium-for-1-1b-as-it-delves-deeper-into-cloud-ethernet-switches/) |
-|Innoviz | SPAC | 2021 | 371M | [Source](https://www.prnewswire.com/news-releases/innoviz-technologies-and-collective-growth-corporation-announce-closing-of-business-combination-301262031.html) |
-|Kalray | IPO | 2018 | $100M | [Source](https://www.euronext.com/en/about/media/euronext-press-releases/kalray-sintroduit-sur-euronext-growth) |
-|Lucata |  Shutdown | 2024 |  n/a | [Source]( https://www.linkedin.com/posts/marty-deneroff-2a554_sadly-lucata-emu-technology-ceased-operations-activity-7168985090331500544-xy_D) |
-|Kameleon | Ramon Space | 2022 | N/A | [Source](https://www.startuphub.ai/ai-exit-events/ramon-space-merges-with-kameleon/) |
-|Mathstar | Shutdown | 2008 | $0 | [Source](https://www.oregonlive.com/business/2008/05/mathstar_calls_it_quits.html) |
+|Acacia | IPO | 2016 | 1000 | [Source](https://www.bizjournals.com/boston/news/2016/12/29/the-best-performing-ipo-nationwide-of-2016-is.html) |
+|Agnilux | Google | 2010 | NA | [Source](https://techcrunch.com/2010/04/20/google-agnilux-apple) |
+|Alphawave | IPO | 2021 | 4300 | [Source](https://www.marketwatch.com/story/chip-maker-alphawave-set-for-4-3-billion-london-ipo-after-shunning-the-nasdaq-11620840007) |
+|Altair Semiconductor | Sony | 2016 | 212 | [Source](https://www.jvpvc.com/case-studies/altair/) |
+|Ambric | Shutdown | 2008 | 0 | [Source](https://www.oregonlive.com/siliconforest/2008/11/ambric_suspends_operation_plan.html) |
+|Annapurna Labs | Amazon | 2015 | 375 | [Source](https://www.extremetech.com/computing/198140-amazon-buys-secretive-chip-maker-annapurna-labs-for-350-million) |
+|Anobit | Apple | 2012 | 500 | [Source](https://techcrunch.com/2012/01/11/why-apple-bought-anobit) |
+|Aquantia | Marvell | 2019 | 452 | [Source](https://www.thestreet.com/investing/earnings/marvell-technology-to-purchase-aquantia-14949381) |
+|Arbe | IPO | 2021 | 525 | [Source](https://en.globes.co.il/en/article-arbe-robotics-lists-on-nasdaq-friday-as-spac-merger-completed-1001386505) |
+|Axis Semiconductor | Shutdown | 2022 | 0 | [Source](http://www.axissemi.com/) |
+|Banias | Alphawave | 2022 | 240 | [Source](https://www.calcalistech.com/ctechnews/article/hynfz2sxs) |
+|BrainChip | IPO | 2011 | NA | [Source](https://finance.yahoo.com/quote/BRN.AX/) |
+|Calxeda | Shutdown | 2013 | 0 | [Source](https://semiengineering.com/chip-startup-shuts-doors/) |
+|Cambricon | IPO | 2020 | 5000 | [Source](https://techcrunch.com/2020/06/24/chip-cambricon-ipo/) |
+|Clearspeed | IPO | 2007 | 20 | [Source](https://en.wikipedia.org/wiki/ClearSpeed) |
+|Diakopto | Ansys | 2023 | NA | [Source](https://www.prnewswire.com/news-releases/ansys-signs-definitive-agreement-to-acquire-diakopto-expands-multiphysics-simulation-portfolio-for-semiconductor-designers-301826540.html) |
+|Element14 | Broadcom | 2000 | 600 | [Source](https://www.eetimes.com/broadcom-acquires-element-14-for-600-million-enters-adsl-chip-market/) |
+|Espressif | IPO | 2017 | 1800 | [Source](https://www.cnx-software.com/2019/07/25/espressif-systems-gets-listed-on-the-shanghai-stock-market/) |
+|Fungible | Microsoft | 2023 | 190 | [Source](https://blogs.microsoft.com/blog/2023/01/09/microsoft-announces-acquisition-of-fungible-to-accelerate-datacenter-innovation/) |
+|GaN Systems | Infineon | 2023 | 830 | [Source](https://www.infineon.com/cms/en/about-infineon/press/press-releases/2023/INFXX202303-073.html) |
+|Genapsys | Shutdown | 2022 | 0 | [Source](https://cases.ra.kroll.com/genapsys/Home-Index) |
+|Habana Labs | Intel | 2019 | 2000 | [Source](https://www.forbes.com/sites/moorinsights/2019/12/16/intel-acquires-habana-labs-for-2b/?sh=27bc9bc319f9) |
+|Icera | Nvidia | 2011 | 367 | [Source](https://nvidianews.nvidia.com/news/nvidia-completes-acquisition-of-icera-a-leader-in-wireless-modem-rf-technology-6622906) |
+|Immedia | Amazon | 2017 | 90 | [Source](https://www.theverge.com/22704290/amazon-blink-ring-camera-doorbell-brands-smart-home-why) |
+|Indie Semiconductor | SPAC | 2020 | 1400 | [Source](https://www.marketwatch.com/story/indie-semiconductor-to-go-public-through-spac-buyout-deal-that-values-company-at-14-billion-2020-12-15) |
+|Innovium | Marvell | 2021 | 1100 | [Source](https://techcrunch.com/2021/08/03/marvell-nabs-innovium-for-1-1b-as-it-delves-deeper-into-cloud-ethernet-switches/) |
+|Innoviz | SPAC | 2021 | 371 | [Source](https://www.prnewswire.com/news-releases/innoviz-technologies-and-collective-growth-corporation-announce-closing-of-business-combination-301262031.html) |
+|Kalray | IPO | 2018 | 100 | [Source](https://www.euronext.com/en/about/media/euronext-press-releases/kalray-sintroduit-sur-euronext-growth) |
+|Lucata | Shutdown | 2024 | NA | [Source](https://www.linkedin.com/posts/marty-deneroff-2a554_sadly-lucata-emu-technology-ceased-operations-activity-7168985090331500544-xy_D) |
+|Lion Semiconductor | Cirrus | 2021 | 335 | [Source](https://www.ednasia.com/cirrus-logic-to-acquire-lion-semiconductor/) |
+|Lyric | ADI | 2011 | NA | [Source](https://www.eetimes.com/adi-buys-lyric-probability-processing-specialist/) |
+|Kameleon | Ramon Space | 2022 | NA | [Source](https://www.startuphub.ai/ai-exit-events/ramon-space-merges-with-kameleon/) |
+|Mathstar | Shutdown | 2008 | 0 | [Source](https://www.oregonlive.com/business/2008/05/mathstar_calls_it_quits.html) |
 |Minima | Acquired | NA | NA | [Source](https://www.acuity.co.uk/successes/acuity-advises-minima-on-its-sale-to-bosch/) |
-|MixComm | Sivers | 2021 | $155M | [Source](https://www.eetimes.com/mixcomm-acquired-by-sivers-semiconductors/) |
-|Mobix Labs | SPAC | 2023 | N/A | [Source](https://mobixlabs.com) |
-|Movidius | Intel | 2016 | $400M | [Source](https://siliconangle.com/2016/09/06/intel-buys-movidius-to-boost-machine-vision/) |
-|Nervana | Intel | 2016 | $350M | [Source](https://venturebeat.com/2016/08/09/intel-acquires-deep-learning-startup-nervana) |
-|Nuvia | Qualcomm | 2021 | $1.4B | [Source](https://www.fiercewireless.com/devices/qualcomm-to-acquire-nuvia-for-1-4b) |
-|Occuli | Ambarella | 2021 | $307M | [Source](https://www.ambarella.com/news/ambarella-closes-acquisition-of-oculii/) |
-|PA Semi | Apple | 2009 | $278M | [Source](https://www.cnet.com/tech/tech-industry/apple-acquires-low-power-chip-designer-pa-semi) |
-|Pensando | AMD | 2022 | $1.9B | [Source](https://www.amd.com/en/press-releases/2022-05-26-amd-expands-data-center-solutions-capabilities-acquisition-pensando) |
-|PrimeSense | Apple | 2013 | $350M | [Source](https://techcrunch.com/2013/11/24/apple-primesense-acquisition-confirmed) |
-|Provigent | Broadcom | 2011 | $360M | [Source](https://en.globes.co.il/en/article-1000631723) |
-|SiByte |  Broadcom | 2000 |  $2B | [Source](https://www.eetimes.com/broadcom-acquires-mips-core-provider-sibyte) |
-|SiCortex | Shutdown | 2009 | $0 | [Source](https://www.bizjournals.com/boston/blog/mass-high-tech/2009/05/supercomputer-firm-sicortex-closes-doors.html) |
-|Soft Machines | Intel | 2016 | $250M | [Source](https://www.theregister.com/2016/09/09/intel_soft_machines/) |
-|Stream Processors | Shutdown | 2009 | $0 | [Source](https://venturebeat.com/2009/11/07/chip-design-firm-stream-processors-shutting-down-and-selling-assets/) |
-|Tabula | Shutdown | 2015 | $0 | [Source](https://semiwiki.com/fpga/4232-tabula-closes-its-doors/) |
-|Tensil.ai | N/A | N/A | N/A | NA |
-|Tilera | Ezchip | 2014 | $50M | [Source](https://www.prnewswire.com/news-releases/ezchip-completes-acquisition-of-tilera-a-leader-in-high-performance-multi-core-processors-281754771.html) |
-|Upverter | Altium | 2017 | $2.8M | [Source](https://pitchbook.com/profiles/company/56161-81#overview) |
-|Wavious | Shutdown | 2022 | $0 | [Source](https://pitchbook.com/profiles/company/169888-60#overview) |
-|zGlue | Sold | 2021 | N/A | [Source](https://www.reuters.com/technology/chip-wars-how-chiplets-are-emerging-core-part-chinas-tech-strategy-2023-07-13) |
+|MixComm | Sivers | 2021 | 155 | [Source](https://www.eetimes.com/mixcomm-acquired-by-sivers-semiconductors/) |
+|Mobix Labs | SPAC | 2023 | NA | [Source](https://mobixlabs.com) |
+|Movidius | Intel | 2016 | 400 | [Source](https://siliconangle.com/2016/09/06/intel-buys-movidius-to-boost-machine-vision/) |
+|Nervana | Intel | 2016 | 350 | [Source](https://venturebeat.com/2016/08/09/intel-acquires-deep-learning-startup-nervana) |
+|Nuvia | Qualcomm | 2021 | 1400 | [Source](https://www.fiercewireless.com/devices/qualcomm-to-acquire-nuvia-for-1-4b) |
+|Occuli | Ambarella | 2021 | 307 | [Source](https://www.ambarella.com/news/ambarella-closes-acquisition-of-oculii/) |
+|PA Semi | Apple | 2009 | 278 | [Source](https://www.cnet.com/tech/tech-industry/apple-acquires-low-power-chip-designer-pa-semi) |
+|Pensando | AMD | 2022 | 1900 | [Source](https://www.amd.com/en/press-releases/2022-05-26-amd-expands-data-center-solutions-capabilities-acquisition-pensando) |
+|PrimeSense | Apple | 2013 | 350 | [Source](https://techcrunch.com/2013/11/24/apple-primesense-acquisition-confirmed) |
+|Provigent | Broadcom | 2011 | 360 | [Source](https://en.globes.co.il/en/article-1000631723) |
+|Sand 9 | ADI | 2015 | 30 | [Source](https://www.eenewseurope.com/en/analog-devices-is-sand-9-buyer/) |
+|SiByte | Broadcom | 2000 | 2000 | [Source](https://www.eetimes.com/broadcom-acquires-mips-core-provider-sibyte) |
+|SiCortex | Shutdown | 2009 | 0 | [Source](https://www.bizjournals.com/boston/blog/mass-high-tech/2009/05/supercomputer-firm-sicortex-closes-doors.html) |
+|Silicon Hive | Intel | 2011 | NA | [Source](https://www.theregister.com/2011/03/17/intel_buys_silicon_hive/) |
+|Soft Machines | Intel | 2016 | 250 | [Source](https://www.theregister.com/2016/09/09/intel_soft_machines/) |
+|Stream Processors | Shutdown | 2009 | 0 | [Source](https://venturebeat.com/2009/11/07/chip-design-firm-stream-processors-shutting-down-and-selling-assets/) |
+|Stretch | Exar | 2014 | NA | [Source](https://www.prnewswire.com/news-releases/exar-acquires-stretch-incorporated-240074341.html) |
+|Tabula | Shutdown | 2015 | 0 | [Source](https://semiwiki.com/fpga/4232-tabula-closes-its-doors/) |
+|Tensil.ai | NA | 2022 | NA | NA |
+|Tilera | Ezchip | 2014 | 50 | [Source](https://www.prnewswire.com/news-releases/ezchip-completes-acquisition-of-tilera-a-leader-in-high-performance-multi-core-processors-281754771.html) |
+|Upverter | Altium | 2017 | 2.8 | [Source](https://pitchbook.com/profiles/company/56161-81#overview) |
+|Wavious | Shutdown | 2022 | 0 | [Source](https://pitchbook.com/profiles/company/169888-60#overview) |
+|zGlue | Sold | 2021 | NA | [Source](https://www.reuters.com/technology/chip-wars-how-chiplets-are-emerging-core-part-chinas-tech-strategy-2023-07-13) |

@@ -45,7 +45,7 @@ def main():
                 link = "NA"
             else:
                 link = f"[Source]({x['Link']})"
-            print(f"|{x['Company']} | {x['Exit']} | {x['Year']} | {x['Value']} | {link} |", file=f)
+            print(f"|{x['Company']} | {x['Exit']} | {x['Year']} | {x['Value($M)']} | {link} |", file=f)
 
 if __name__ == '__main__':
     main()
