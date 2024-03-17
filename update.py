@@ -38,7 +38,7 @@ def main():
         # Printing out exits
         ################################
         print("\n## Alumni", file=f)
-        print("\n| Company |  Exit   | Year   | Value | Link |", file=f)
+        print("\n| Company |  Exit   | Year   | Value($M) | Link |", file=f)
         print("|---------| ------- | ------ | ------|------|", file=f)
         for x in alumni:
             if not re.search(r'http', x['Link']):
