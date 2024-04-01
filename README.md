@@ -65,7 +65,6 @@
 |[Anello](https://anellophotonics.com) | PHOTONICS | 2018 | US |Photonic based gyroscopes for navigation |
 |[Applied Brain Research](https://appliedbrainresearch.com) | AI | 2013 | CA |AI solutions for edge devices |
 |[Aspinity](https://aspinity.com) | AI | 2015 | US |Analog in-memory AI inference accelerators |
-|[Astera Labs](https://asteralabs.com) | HPC | 2017 | US |High performance connectivity semiconductor solutions |
 |[Astrus](https://astrus.ai) | EDA | 2022 | CA |AI platform designed to automate microchip design |
 |[Atlantic Quantum](https://atlantic-quantum.com) | QUANTUM | 2022 | US |Scalable quantum computers |
 |[Atmosic](https://atmosic.com) | RF | 2016 | US |Battery free wireless devices |
@@ -112,7 +111,7 @@
 |[Esperanto](https://esperanto.ai) | HPC | 2014 | US |Manycore RISC-V compute platform |
 |[Ethernovia](https://ethernovia.com) | NETWORKING | 2018 | US |In vehicle networking |
 |[eTopus](https://etopus.com) | NETWORKING | 2013 | US |High speed interconnect solutions |
-|[Evacorp](https://evacorp.ai) | AI | 2023 | US |AI processing  |
+|[Evacorp](https://evacorp.ai) | AI | 2023 | US |AI processing |
 |[Exo Imaging](https://exo.inc) | HEALTH | 2015 | US |Handheld ultrasound device |
 |[Extropic](https://extropic.ai) | AI | 2022 | US |Physics based generative AI |
 |[Everactive](https://everactive.com) | SENSORS | 2012 | US |Battery-less IoT sensing technology |
@@ -217,7 +216,7 @@
 |[SiLC](https://silc.com) | PHOTONICS | 2018 | US |Photonics based imaging sensors |
 |[Silicon Box](https://Silicon-box.com) | MFG | 2021 | SG |Manufacturer of semiconductor design and device integration services |
 |[Silimate](https://silimate.com) | EDA | 2023 | US |Co-pilot for chip designers |
-|[Silogy](https://silogy.io) | EDA | 2023 | US |Collaborative CI/CD platform for integrated circuit design  |
+|[Silogy](https://silogy.io) | EDA | 2023 | US |Collaborative CI/CD platform for integrated circuit design |
 |[SiMa.ai](https://sima.ai) | AI | 2018 | US |AI processing for edge devices |
 |[SiPearl](https://sipearl.com) | HPC | 2019 | FR |Manycore processors for EU exascale supercomputing project |
 |[Skycore Semiconductors](https://skycore-semi.com) | ANALOG | 2021 | DK |Switched capacitor based integrated power converters |
@@ -228,7 +227,7 @@
 |[SWIR Vision Systems](https://swirvisionsystems.com) | SENSORS | 2018 | US |Image sensor technology designed for short-wave infrared cameras |
 |[Synthara](https://synthara.ai) | AI | 2020 | CH |In memory computation chips for AI |
 |[Syntiant](https://syntiant.com) | AI | 2017 | US |Neuromorphic processing for edge devices |
-|[Taalas](https://taalas.com) | AI | 2023 | CA |Platform for quickly turning any AI model into custom silicon  |
+|[Taalas](https://taalas.com) | AI | 2023 | CA |Platform for quickly turning any AI model into custom silicon |
 |[Tachyum](https://tachyum.com) | HPC | 2016 | US |High performance processor architecture |
 |[Tenstorrent](https://tenstorrent.com) | ASIC | 2016 | CA |AI processing devices |
 |[Teramount](https://teramount.com) | MFG | 2013 | IL |Packaging technology for photonic devices |
@@ -264,6 +263,7 @@
 |Anobit | Apple | 2012 | 500 | [Source](https://techcrunch.com/2012/01/11/why-apple-bought-anobit) |
 |Aquantia | Marvell | 2019 | 452 | [Source](https://www.thestreet.com/investing/earnings/marvell-technology-to-purchase-aquantia-14949381) |
 |Arbe | IPO | 2021 | 525 | [Source](https://en.globes.co.il/en/article-arbe-robotics-lists-on-nasdaq-friday-as-spac-merger-completed-1001386505) |
+|Astera | IPO | 2024 | 5500 | [Source](https://www.axios.com/2024/03/30/ipo-ipos-astera-reddit-watch) |
 |Axis Semiconductor | Shutdown | 2022 | 0 | [Source](http://www.axissemi.com/) |
 |Banias | Alphawave | 2022 | 240 | [Source](https://www.calcalistech.com/ctechnews/article/hynfz2sxs) |
 |BrainChip | IPO | 2011 | NA | [Source](https://finance.yahoo.com/quote/BRN.AX/) |
