@@ -249,6 +249,7 @@
 |[ZeroASIC](https://zeroasic.com) | CHIPLETS | 2020 | US |Chiplet based ASIC platform |
 |[zeroRISC](https://zerorisc.com) | SECURITY | 2023 | US |RoT components |
 |[ZeroPoint](https://zeropoint-tech.com) | MEMORY | 2015 | US |Memory compression technology |
+|[ONiO AS](https://www.onio.com) | RISC-V | 2019 | NORWAY | Ultra low power RISC-V running from harvested energy ONLY |
 
 ## Alumni
 
