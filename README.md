@@ -74,15 +74,15 @@
 |[Baya Systems](https://bayasystems.com) | CHIPLETS | 2023 | US |Chiplet Based Semiconductor Design |
 |[Beacon Photonics](https://beaconphotonics) | PHOTONICS | 2023 | US |Integrated photonics platform |
 |[Beam](https://beamshaping.io) | RF | 2015 | IL |Phased array antennas |
-|[Black Semiconductor](https://blacksemiconductor.de) | MFG | 2021 | DE |Graphene based devices for transalating between electronics and photonics |
+|[Black Semiconductor](https://blacksemiconductor.de) | MFG | 2021 | DE |Graphene based devices for translating between electronics and photonics |
 |[Blaize](https://blaize.com) | AI | 2010 | US |Graph streaming processor for AI applications |
 |[Blue Cheetah](https://bcanalog.com) | CHIPLETS | 2018 | US |Rapidly customizable die-to-die interconnect solutions |
 |[Bluespec](https://bluespec.com) | RISC-V | 2003 | US |RISC-V IP and System Development Tools |
 |[BoolSi](https://boolsi.com) | EDA | 2023 | US |Distributed simulation of synchronous boolean networks |
 |[cadlab.io](https://cadlab.io) | EDA | 2015 | US |Collaboration tools for PCB design |
 |[Celera](https://celeratechnologies.com) | EDA | 2018 | US |Fully-automated analog/mixed-signal IC development tool. |
-|[Celestial AI](https://celestial.ai) | PHOTONICS | 2020 | US |Photonic fabric optical interconnect technoology |
-|[Cellium](https://cellium.net) | RF | 2016 | IL |Wireless infrastructurefor indoor connectivity |
+|[Celestial AI](https://celestial.ai) | PHOTONICS | 2020 | US |Photonic fabric optical interconnect technology |
+|[Cellium](https://cellium.net) | RF | 2016 | IL |Wireless infrastructure for indoor connectivity |
 |[Celtro](https://celtro.de) | HEALTH | 2019 | DE |Energy harvesting self powering implantable medical devices |
 |[Celus](https://celus.io) | EDA | 2016 | DE |PCB design tools |
 |[Cerebras](https://cerebras.net) | HPC | 2016 | US |Wafer scale processors |
@@ -93,9 +93,9 @@
 |[Classiq](https://classiq.io) | EDA | 2020 | IL |Quantum computing software |
 |[Codasip](https://codasip.com) | RISC-V | 2014 | DE |Supplier of RISC-V IP cores |
 |[Condor Computing](https://condorcomputing.com) | RISC-V | 2023 | US |High performance RISC-V processors |
-|[Cornami](https://cornami.com) | HPC | 2011 | US |Configurable acceleration for full homomorphic enctryption |
+|[Cornami](https://cornami.com) | HPC | 2011 | US |Configurable acceleration for full homomorphic encryption |
 |[DASH Tech IC](https://dashtechic.com) | HPC | 2021 | US |Flexible processors for embedded applications |
-|[d-Matrix](https://d-matrix.ai) | AI | 2019 | US |Computing platform for datacenter AI infererence |
+|[d-Matrix](https://d-matrix.ai) | AI | 2019 | US |Computing platform for data center AI inference |
 |[DeGirum](https://degirum.ai) | AI | 2017 | US |AI hardware and software to accelerate AI edge adoption |
 |[Dfiant](https://dfiant.works) | EDA | 2022 | US |Chip design tools |
 |[Dover](https://dovermicrosystems.com) | SECURITY | 2017 | US |SoC security IP |
@@ -237,7 +237,7 @@
 |[TriEye](https://trieye.tech) | SENSORS | 2017 | IL |Short-wave infrared imaging systems |
 |[Unifabrix](https://unifabrix.com) | NETWORKING | 2020 | IL |CXL based secure connectivity solution |
 |[Untether AI](https://untether.ai) | AI | 2018 | CA |AI processing devices |
-|[Upmem](https://upmem.com) | AI | 2015 | FR |In memory processsing devices for big data and AI |
+|[Upmem](https://upmem.com) | AI | 2015 | FR |In memory processing devices for big data and AI |
 |[Usound](https://usound.com) | MEMS | 2012 | AU |Sound solutions based on MEMS technology |
 |[Vayyar](https://vayyar.com) | SENSORS | 2011 | IL |High resolution image sensors |
 |[Ventana Micro](https://ventanamicro.com) | RISC-V | 2018 | US |RISC-V CPU cores and compute subsystems |
