@@ -63,6 +63,7 @@
 |[Analog Photonics](https://analogphotonics.com) | PHOTONICS | 2012 | US |LIDAR and other optical technologies |
 |[Andapt](https://andapt.com) | ANALOG | 2014 | IE |Programmable power management ICs |
 |[Anello](https://anellophotonics.com) | PHOTONICS | 2018 | US |Photonic based gyroscopes for navigation |
+|[Aniah](https://aniah.fr) | EDA | 2019 | FR |Circuit analysis software |
 |[Applied Brain Research](https://appliedbrainresearch.com) | AI | 2013 | CA |AI solutions for edge devices |
 |[Aspinity](https://aspinity.com) | AI | 2015 | US |Analog in-memory AI inference accelerators |
 |[Astrus](https://astrus.ai) | EDA | 2022 | CA |AI platform designed to automate microchip design |
@@ -174,6 +175,7 @@
 |[OmniDesign](https://omnidesigntech.com) | ANALOG | 2015 | US |Low power analog IP |
 |[One Silicon Chip Photonics](https://onesiliconchipphotonics.com) | PHOTONICS | 2016 | CA |Optical chips for precision motion sensing |
 |[Optalysys](https://optalysys.com) | PHOTONICS | 2013 | UK |Optical computing next-gen cryptography |
+|[Oso Semiconductor](https://ososemi.com) | RF | 2022 | US |Low power RF chipset |
 |[Owl](https://owlai.us) | SENSORS | 2018 | US |Monocular 3D thermal ranging solutions |
 |[Oxford Quantum Circuits](https://oxfordquantumcircuits.com) | QUANTUM | 2017 | UK |Quantum computing platform |
 |[Ozark ICs](https://ozarkic.com) | ANALOG | 2011 | US |High temperature ruggedized electronics |
@@ -302,6 +304,7 @@
 |Pensando | AMD | 2022 | 1900 | [Source](https://www.amd.com/en/press-releases/2022-05-26-amd-expands-data-center-solutions-capabilities-acquisition-pensando) |
 |PrimeSense | Apple | 2013 | 350 | [Source](https://techcrunch.com/2013/11/24/apple-primesense-acquisition-confirmed) |
 |Provigent | Broadcom | 2011 | 360 | [Source](https://en.globes.co.il/en/article-1000631723) |
+|Quantenna | Onsemi | 2019 | 1000 | [Source](https://www.bizjournals.com/phoenix/news/2022/09/20/onsemi-close-down-quantenna.html) |
 |Sand 9 | ADI | 2015 | 30 | [Source](https://www.eenewseurope.com/en/analog-devices-is-sand-9-buyer/) |
 |SiByte | Broadcom | 2000 | 2000 | [Source](https://www.eetimes.com/broadcom-acquires-mips-core-provider-sibyte) |
 |SiCortex | Shutdown | 2009 | 0 | [Source](https://www.bizjournals.com/boston/blog/mass-high-tech/2009/05/supercomputer-firm-sicortex-closes-doors.html) |
