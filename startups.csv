@@ -25,15 +25,15 @@ Ayar Labs,ayarlabs.com,PHOTONICS,US,2015,Electronic-photonic communication chips
 Baya Systems,bayasystems.com,CHIPLETS,US,2023,Chiplet Based Semiconductor Design
 Beacon Photonics,beaconphotonics,PHOTONICS,US,2023,Integrated photonics platform
 Beam,beamshaping.io,RF,IL,2015,Phased array antennas
-Black Semiconductor,blacksemiconductor.de,MFG,DE,2021,Graphene based devices for transalating between electronics and photonics
+Black Semiconductor,blacksemiconductor.de,MFG,DE,2021,Graphene based devices for translating between electronics and photonics
 Blaize,blaize.com,AI,US,2010,Graph streaming processor for AI applications
 Blue Cheetah,bcanalog.com,CHIPLETS,US,2018,Rapidly customizable die-to-die interconnect solutions
 Bluespec,bluespec.com,RISC-V,US,2003,RISC-V IP and System Development Tools
 BoolSi,boolsi.com,EDA,US,2023,Distributed simulation of synchronous boolean networks
 cadlab.io,cadlab.io,EDA,US,2015,Collaboration tools for PCB design
 Celera,celeratechnologies.com,EDA,US,2018,Fully-automated analog/mixed-signal IC development tool.
-Celestial AI,celestial.ai,PHOTONICS,US,2020,Photonic fabric optical interconnect technoology
-Cellium,cellium.net,RF,IL,2016,Wireless infrastructurefor indoor connectivity
+Celestial AI,celestial.ai,PHOTONICS,US,2020,Photonic fabric optical interconnect technology
+Cellium,cellium.net,RF,IL,2016,Wireless infrastructure for indoor connectivity
 Celtro,celtro.de,HEALTH,DE,2019,Energy harvesting self powering implantable medical devices
 Celus,celus.io,EDA,DE,2016,PCB design tools
 Cerebras,cerebras.net,HPC,US,2016,Wafer scale processors
@@ -45,9 +45,9 @@ Circuit Mind,circuitmind.io,EDA,UK,2018,PCB design tools
 Classiq,classiq.io,EDA,IL,2020,Quantum computing software
 Codasip,codasip.com,RISC-V,DE,2014,Supplier of RISC-V IP cores
 Condor Computing,condorcomputing.com,RISC-V,US,2023,High performance RISC-V processors
-Cornami,cornami.com,HPC,US,2011,Configurable acceleration for full homomorphic enctryption
+Cornami,cornami.com,HPC,US,2011,Configurable acceleration for full homomorphic encryption
 DASH Tech IC,dashtechic.com,HPC,US,2021,Flexible processors for embedded applications
-d-Matrix,d-matrix.ai,AI,US,2019,Computing platform for datacenter AI infererence
+d-Matrix,d-matrix.ai,AI,US,2019,Computing platform for data center AI inference
 DeGirum,degirum.ai,AI,US,2017,AI hardware and software to accelerate AI edge adoption
 Dfiant,dfiant.works,EDA,US,2022,Chip design tools
 Dover,dovermicrosystems.com,SECURITY,US,2017,SoC security IP
@@ -190,7 +190,7 @@ Trameto,trameto.com,ANALOG,UK,2016,Energy harvesting PMICs
 TriEye,trieye.tech,SENSORS,IL,2017,Short-wave infrared imaging systems
 Unifabrix,unifabrix.com,NETWORKING,IL,2020,CXL based secure connectivity solution
 Untether AI,untether.ai,AI,CA,2018,AI processing devices
-Upmem,upmem.com,AI,FR,2015,In memory processsing devices for big data and AI
+Upmem,upmem.com,AI,FR,2015,In memory processing devices for big data and AI
 Usound,usound.com,MEMS,AU,2012,Sound solutions based on MEMS technology
 Vayyar,vayyar.com,SENSORS,IL,2011,High resolution image sensors
 Ventana Micro,ventanamicro.com,RISC-V,US,2018,RISC-V CPU cores and compute subsystems
