@@ -79,7 +79,7 @@
 |[Blaize](https://blaize.com) | AI | 2010 | US |Graph streaming processor for AI applications |
 |[Blue Cheetah](https://bcanalog.com) | CHIPLETS | 2018 | US |Rapidly customizable die-to-die interconnect solutions |
 |[Bluespec](https://bluespec.com) | RISC-V | 2003 | US |RISC-V IP and System Development Tools |
-|[BoolSi](https://boolsi.com) | EDA | 2023 | US |Distributed simulation of synchronous boolean networks |
+|[BoolSi](https://boolsi.com) | EDA | 2023 | US |Generate RTL from any codebase, in any language |
 |[cadlab.io](https://cadlab.io) | EDA | 2015 | US |Collaboration tools for PCB design |
 |[Celera](https://celeratechnologies.com) | EDA | 2018 | US |Fully-automated analog/mixed-signal IC development tool. |
 |[Celestial AI](https://celestial.ai) | PHOTONICS | 2020 | US |Photonic fabric optical interconnect technology |
