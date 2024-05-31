@@ -62,6 +62,7 @@ Enosemi,enosemi.com,PHOTONICS,US,2023,Photonics subsystems
 enzzo,enzzo.ai,EDA,US,2024,AI driven hardware development
 Eridan,eridan.io,RF,US,2013,RF Front End Module for wireless telecommunications
 Esperanto,esperanto.ai,HPC,US,2014,Manycore RISC-V compute platform
+Etched,etched.com,AI,US,2022,AI processors
 Ethernovia,ethernovia.com,NETWORKING,US,2018,In vehicle networking
 eTopus,etopus.com,NETWORKING,US,2013,High speed interconnect solutions
 Evacorp,evacorp.ai,AI,US,2023,AI processing
@@ -148,7 +149,9 @@ Qadric.io,quadric.io,AI,US,2016,Edge processing for edge devices
 Qualinx,qualinx.io,RF,NL,2015,IoT GNSS based tracking and connectivity
 Quilter,quilter.ai,EDA,US,2020,AI driven PCB design
 Quintessent,quintessent.com,PHOTONICS,US,2019,Optical interconnect
+Raaam,Raaam-tech.com,MEMORY,IL,2021,High capacity memory technology
 Rain Neuromorphics,rain.ai,AI,US,2017,Brain-inspired hardware for AI applications
+RaiderChip,raiderchip.ai,AI,ES,2024,AI hardware
 Ramon Space,ramon.space,SPACE,IL,2004,Computer system designed for computing in space
 RapidSilicon,rapidsilicon.com,FPGA,US,2021,FPGA devices
 rebellions_,rebellions.ai,AI,KR,2020,AI processors
@@ -186,14 +189,17 @@ Tachyum,tachyum.com,HPC,US,2016,High performance processor architecture
 Tenstorrent,tenstorrent.com,ASIC,CA,2016,AI processing devices
 Teramount,teramount.com,MFG,IL,2013,Packaging technology for photonic devices
 Tetramem,tetramem.com,AI,US,2018,AI accelerator for edge inference
+Thintronics,thintronics.com,MFG,US,2019,Thin film materials
 Trameto,trameto.com,ANALOG,UK,2016,Energy harvesting PMICs
 TriEye,trieye.tech,SENSORS,IL,2017,Short-wave infrared imaging systems
 Unifabrix,unifabrix.com,NETWORKING,IL,2020,CXL based secure connectivity solution
 Untether AI,untether.ai,AI,CA,2018,AI processing devices
 Upmem,upmem.com,AI,FR,2015,In memory processsing devices for big data and AI
 Usound,usound.com,MEMS,AU,2012,Sound solutions based on MEMS technology
+Vaire Computing,vaire.co,ANALOG,UK,2021,Near zero energy computing
 Vayyar,vayyar.com,SENSORS,IL,2011,High resolution image sensors
 Ventana Micro,ventanamicro.com,RISC-V,US,2018,RISC-V CPU cores and compute subsystems
+Volantis Semiconductor,volantissemi.ai,AI,US,2022,AI processors
 VyperCore,vypercore.com,RISC_V,UK,2022,RISC-V processors
 Xanadu,xanadu.ai,PHOTONICS,US,2016,Photonic based quantum computer
 Xscape Photonics,xscapephotonics.com,PHOTONICS,US,2022,Photonic communication chips
@@ -203,4 +209,4 @@ Zendar,zendar.io,SENSORS,US,2017,High resolution software defined radar
 ZeroASIC,zeroasic.com,CHIPLETS,US,2020,Chiplet based ASIC platform
 zeroRISC,zerorisc.com,SECURITY,US,2023,RoT components
 ZeroPoint,zeropoint-tech.com,MEMORY,US,2015,Memory compression technology
-ONiO AS,www.onio.com,RISC-V,NORWAY,2019, Ultra low power RISC-V running from harvested energy ONLY
+ONiO AS,www.onio.com,RF,NO,2019,Wireless microcontroller

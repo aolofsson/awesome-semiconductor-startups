@@ -112,6 +112,7 @@
 |[enzzo](https://enzzo.ai) | EDA | 2024 | US |AI driven hardware development |
 |[Eridan](https://eridan.io) | RF | 2013 | US |RF Front End Module for wireless telecommunications |
 |[Esperanto](https://esperanto.ai) | HPC | 2014 | US |Manycore RISC-V compute platform |
+|[Etched](https://etched.com) | AI | 2022 | US |AI processors |
 |[Ethernovia](https://ethernovia.com) | NETWORKING | 2018 | US |In vehicle networking |
 |[eTopus](https://etopus.com) | NETWORKING | 2013 | US |High speed interconnect solutions |
 |[Evacorp](https://evacorp.ai) | AI | 2023 | US |AI processing |
@@ -198,7 +199,9 @@
 |[Qualinx](https://qualinx.io) | RF | 2015 | NL |IoT GNSS based tracking and connectivity |
 |[Quilter](https://quilter.ai) | EDA | 2020 | US |AI driven PCB design |
 |[Quintessent](https://quintessent.com) | PHOTONICS | 2019 | US |Optical interconnect |
+|[Raaam](https://Raaam-tech.com) | MEMORY | 2021 | IL |High capacity memory technology |
 |[Rain Neuromorphics](https://rain.ai) | AI | 2017 | US |Brain-inspired hardware for AI applications |
+|[RaiderChip](https://raiderchip.ai) | AI | 2024 | ES |AI hardware |
 |[Ramon Space](https://ramon.space) | SPACE | 2004 | IL |Computer system designed for computing in space |
 |[RapidSilicon](https://rapidsilicon.com) | FPGA | 2021 | US |FPGA devices |
 |[rebellions_](https://rebellions.ai) | AI | 2020 | KR |AI processors |
@@ -236,14 +239,17 @@
 |[Tenstorrent](https://tenstorrent.com) | ASIC | 2016 | CA |AI processing devices |
 |[Teramount](https://teramount.com) | MFG | 2013 | IL |Packaging technology for photonic devices |
 |[Tetramem](https://tetramem.com) | AI | 2018 | US |AI accelerator for edge inference |
+|[Thintronics](https://thintronics.com) | MFG | 2019 | US |Thin film materials |
 |[Trameto](https://trameto.com) | ANALOG | 2016 | UK |Energy harvesting PMICs |
 |[TriEye](https://trieye.tech) | SENSORS | 2017 | IL |Short-wave infrared imaging systems |
 |[Unifabrix](https://unifabrix.com) | NETWORKING | 2020 | IL |CXL based secure connectivity solution |
 |[Untether AI](https://untether.ai) | AI | 2018 | CA |AI processing devices |
 |[Upmem](https://upmem.com) | AI | 2015 | FR |In memory processsing devices for big data and AI |
 |[Usound](https://usound.com) | MEMS | 2012 | AU |Sound solutions based on MEMS technology |
+|[Vaire Computing](https://vaire.co) | ANALOG | 2021 | UK |Near zero energy computing |
 |[Vayyar](https://vayyar.com) | SENSORS | 2011 | IL |High resolution image sensors |
 |[Ventana Micro](https://ventanamicro.com) | RISC-V | 2018 | US |RISC-V CPU cores and compute subsystems |
+|[Volantis Semiconductor](https://volantissemi.ai) | AI | 2022 | US |AI processors |
 |[VyperCore](https://vypercore.com) | RISC_V | 2022 | UK |RISC-V processors |
 |[Xanadu](https://xanadu.ai) | PHOTONICS | 2016 | US |Photonic based quantum computer |
 |[Xscape Photonics](https://xscapephotonics.com) | PHOTONICS | 2022 | US |Photonic communication chips |
@@ -253,7 +259,7 @@
 |[ZeroASIC](https://zeroasic.com) | CHIPLETS | 2020 | US |Chiplet based ASIC platform |
 |[zeroRISC](https://zerorisc.com) | SECURITY | 2023 | US |RoT components |
 |[ZeroPoint](https://zeropoint-tech.com) | MEMORY | 2015 | US |Memory compression technology |
-|[ONiO AS](https://www.onio.com) | RISC-V | 2019 | NORWAY | Ultra low power RISC-V running from harvested energy ONLY |
+|[ONiO AS](https://www.onio.com) | RF | 2019 | NO |Wireless microcontroller |
 
 ## Alumni
 
