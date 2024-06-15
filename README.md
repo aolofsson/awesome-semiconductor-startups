@@ -181,6 +181,7 @@
 |[Owl](https://owlai.us) | SENSORS | 2018 | US |Monocular 3D thermal ranging solutions |
 |[Oxford Quantum Circuits](https://oxfordquantumcircuits.com) | QUANTUM | 2017 | UK |Quantum computing platform |
 |[Ozark ICs](https://ozarkic.com) | ANALOG | 2011 | US |High temperature ruggedized electronics |
+|[Panmnesia](https://panmnesia.com) | MEMORY | 2022 | KR |CXL IP |
 |[Perceive](https://perceive.io) | AI | 2015 | US |AI processing for edge devices |
 |[Phanofi](https://phanofi.com) | PHOTONICS | 2022 | DK |Optical transceivers for data centers & HPCs |
 |[Pharrowtech](https://pharrowtech.com) | RF | 2018 | BE |RF ICs for fixed-wireless access and high-capacity wireless links |
