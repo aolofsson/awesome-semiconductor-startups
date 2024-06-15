@@ -236,7 +236,7 @@
 |[Syntiant](https://syntiant.com) | AI | 2017 | US |Neuromorphic processing for edge devices |
 |[Taalas](https://taalas.com) | AI | 2023 | CA |Platform for quickly turning any AI model into custom silicon |
 |[Tachyum](https://tachyum.com) | HPC | 2016 | US |High performance processor architecture |
-|[Tenstorrent](https://tenstorrent.com) | ASIC | 2016 | CA |AI processing devices |
+|[Tenstorrent](https://tenstorrent.com) | AI | 2016 | CA |AI processing devices |
 |[Teramount](https://teramount.com) | MFG | 2013 | IL |Packaging technology for photonic devices |
 |[Tetramem](https://tetramem.com) | AI | 2018 | US |AI accelerator for edge inference |
 |[Thintronics](https://thintronics.com) | MFG | 2019 | US |Thin film materials |
