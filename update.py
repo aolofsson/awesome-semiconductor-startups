@@ -9,6 +9,7 @@ import re
 def main():
 
     # Read in CSV files
+    technologies = list(csv.DictReader(open("technologies.csv", "r"), delimiter=","))
     startups = list(csv.DictReader(open("startups.csv", "r"), delimiter=","))
     alumni = list(csv.DictReader(open("alumni.csv", "r"), delimiter=","))
 
@@ -24,6 +25,14 @@ def main():
         ################################
         for line in header:
             print(line, file=f)
+
+        ################################
+        # Printing out technologies
+        ################################
+        print("\n| Technology| Description                                      |", file=f)
+        print(  "|-----------|--------------------------------------------------|", file=f)
+        for x in technologies:
+            print(f"|{x['Technology']} | {x['Description']}", file=f)
 
         ################################
         # Printing out all startups
