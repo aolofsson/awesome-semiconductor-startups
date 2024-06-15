@@ -31,6 +31,7 @@
 |ANALOG | All things analog
 |CHIPLETS | Chiplet related
 |EDA | Design automation tools
+|FPGA | Field-programmable gate array
 |HEALTH | Health centric devices
 |HPC | High performance computing
 |MEMORY | Memory
