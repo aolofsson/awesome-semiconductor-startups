@@ -250,7 +250,7 @@
 |[Vayyar](https://vayyar.com) | SENSORS | 2011 | IL |High resolution image sensors |
 |[Ventana Micro](https://ventanamicro.com) | RISC-V | 2018 | US |RISC-V CPU cores and compute subsystems |
 |[Volantis Semiconductor](https://volantissemi.ai) | AI | 2022 | US |AI processors |
-|[VyperCore](https://vypercore.com) | RISC_V | 2022 | UK |RISC-V processors |
+|[VyperCore](https://vypercore.com) | RISC-V | 2022 | UK |RISC-V processors |
 |[Xanadu](https://xanadu.ai) | PHOTONICS | 2016 | US |Photonic based quantum computer |
 |[Xscape Photonics](https://xscapephotonics.com) | PHOTONICS | 2022 | US |Photonic communication chips |
 |[Xsight Labs](https://xsightlabs.com) | HPC | 2017 | IL |Chipsets for accelerating data-intensive workloads |
