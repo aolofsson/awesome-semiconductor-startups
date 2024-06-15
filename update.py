@@ -5,6 +5,7 @@
 import os
 import csv
 import re
+import sys
 
 def main():
 
@@ -42,6 +43,14 @@ def main():
         print("|---------|------------|---------|---------|-------------|", file=f)
         for x in startups:
             print(f"|[{x['Company']}](https://{x['Website']}) | {x['Technology']} | {x['Founded']} | {x['Country']} |{x['Description']} |", file=f)
+            found = False
+            for t in technologies:
+                if x['Technology'] == t['Technology']:
+                    found = True
+                    break
+            if not found:
+               print(f"Warning: {x['Company']} uses undefined technology {x['Technology']}. "
+                      "Please spell-check or add to technologies.csv.", file=sys.stderr)
 
         ################################
         # Printing out exits
