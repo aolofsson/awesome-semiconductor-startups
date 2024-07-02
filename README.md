@@ -54,6 +54,7 @@
 |[Agita Labs](https://agitalabs.com) | SECURITY | 2018 | US |Processing security technology/IP |
 |[Aistorm](https://aistorm.ai) | AI | 2011 | US |Charge domain based AI processing |
 |[Akhetonics](https://akhetonics.com) | PHOTONICS | 2021 | DE |Optical computing devices |
+|[Akronic](https://akronic.com) | RF | 2015 | GR |RF/mmWave Transceivers and Beamformers for 5G/6G and SATCOM |
 |[Alif Semiconductor](https://alifsemi.com) | AI | 2019 | US |Integrated SoC for AI at the edge |
 |[Allspice.io](https://allspice.io) | EDA | 2018 | US |Design platform for streamlined hardware development |
 |[Alpha ICs](https://alphaics.ai) | AI | 2016 | US |AI co-processors for edge devices |
