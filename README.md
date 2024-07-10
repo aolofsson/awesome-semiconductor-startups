@@ -288,6 +288,7 @@
 |Fungible | Microsoft | 2023 | 190 | [Source](https://blogs.microsoft.com/blog/2023/01/09/microsoft-announces-acquisition-of-fungible-to-accelerate-datacenter-innovation/) |
 |GaN Systems | Infineon | 2023 | 830 | [Source](https://www.infineon.com/cms/en/about-infineon/press/press-releases/2023/INFXX202303-073.html) |
 |Genapsys | Shutdown | 2022 | 0 | [Source](https://cases.ra.kroll.com/genapsys/Home-Index) |
+|GrAI Matter Labs | Snap | 2023 | NA | [Source](https://www.eetimes.com/has-grai-matter-labs-been-snapped-up-by-snap-inc/) |
 |Habana Labs | Intel | 2019 | 2000 | [Source](https://www.forbes.com/sites/moorinsights/2019/12/16/intel-acquires-habana-labs-for-2b/?sh=27bc9bc319f9) |
 |Icera | Nvidia | 2011 | 367 | [Source](https://nvidianews.nvidia.com/news/nvidia-completes-acquisition-of-icera-a-leader-in-wireless-modem-rf-technology-6622906) |
 |Immedia | Amazon | 2017 | 90 | [Source](https://www.theverge.com/22704290/amazon-blink-ring-camera-doorbell-brands-smart-home-why) |
