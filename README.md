@@ -26,24 +26,25 @@
 
 | Technology| Description                                      |
 |-----------|--------------------------------------------------|
-|ASIC       | Custom silicon
-|AI         | AI hardware
-|ANALOG     | All things analog
-|CHIPLETS   | Chiplet related
-|EDA        | Design automation tools
-|HEALTH     | Health centric devices
-|HPC        | High performance computing
-|MEMORY     | Memory
-|MEMS       | MEMS based technology
-|MFG        | Manufacturing related
+|ASIC | Custom silicon
+|AI | AI hardware
+|ANALOG | All things analog
+|CHIPLETS | Chiplet related
+|EDA | Design automation tools
+|FPGA | Field-programmable gate array
+|HEALTH | Health centric devices
+|HPC | High performance computing
+|MEMORY | Memory
+|MEMS | MEMS based technology
+|MFG | Manufacturing related
 |NETWORKING | Various connectivity pieces
-|RF         | Wireless
-|PHOTONICS  | Photonic based startups
-|QUANTUM    | Quantum computing
-|RISC-V     | RISC-V based startups
-|SECURITY   | Security techhnology
-|SENSORS    | Sensing devices
-|SPACE      | Space technology
+|RF | Wireless
+|PHOTONICS | Photonic based startups
+|QUANTUM | Quantum computing
+|RISC-V | RISC-V based startups
+|SECURITY | Security techhnology
+|SENSORS | Sensing devices
+|SPACE | Space technology
 
 ## Startups
 
@@ -250,7 +251,7 @@
 |[Vayyar](https://vayyar.com) | SENSORS | 2011 | IL |High resolution image sensors |
 |[Ventana Micro](https://ventanamicro.com) | RISC-V | 2018 | US |RISC-V CPU cores and compute subsystems |
 |[Volantis Semiconductor](https://volantissemi.ai) | AI | 2022 | US |AI processors |
-|[VyperCore](https://vypercore.com) | RISC_V | 2022 | UK |RISC-V processors |
+|[VyperCore](https://vypercore.com) | RISC-V | 2022 | UK |RISC-V processors |
 |[Xanadu](https://xanadu.ai) | PHOTONICS | 2016 | US |Photonic based quantum computer |
 |[Xscape Photonics](https://xscapephotonics.com) | PHOTONICS | 2022 | US |Photonic communication chips |
 |[Xsight Labs](https://xsightlabs.com) | HPC | 2017 | IL |Chipsets for accelerating data-intensive workloads |
