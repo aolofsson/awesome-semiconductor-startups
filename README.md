@@ -131,7 +131,6 @@
 |[Gemesys](https://gemesys.tech) | AI | 2021 | DE |Analog AI processors |
 |[Gowin](https://gowinsemi.com) | FPGA | 2014 | CN |FPGA chip products |
 |[GrAI Matter Labs](https://graimatterlabs.ai) | AI | 2016 | FR |Programmable neuromorphic computing chips |
-|[Graphcore](https://graphcore.ai) | AI | 2016 | UK |Intelligence processing unit for AI applications |
 |[Greenwaves](https://greenwaves-technologies.com) | AI | 2014 | FR |Low power edge AI SoCs |
 |[Groq](https://groq.com) | AI | 2016 | US |AI processors |
 |[Gyrfalcon](https://gyrfalcontech.ai) | AI | 2017 | US |AI processors |
@@ -288,6 +287,7 @@
 |Fungible | Microsoft | 2023 | 190 | [Source](https://blogs.microsoft.com/blog/2023/01/09/microsoft-announces-acquisition-of-fungible-to-accelerate-datacenter-innovation/) |
 |GaN Systems | Infineon | 2023 | 830 | [Source](https://www.infineon.com/cms/en/about-infineon/press/press-releases/2023/INFXX202303-073.html) |
 |Genapsys | Shutdown | 2022 | 0 | [Source](https://cases.ra.kroll.com/genapsys/Home-Index) |
+|Graphcore | Softbank | 2024 | 400 | [Source](https://www.anandtech.com/show/21468/troubled-ai-processor-developer-graphcore-finds-a-buyer-softbank) |
 |GrAI Matter Labs | Snap | 2023 | NA | [Source](https://www.eetimes.com/has-grai-matter-labs-been-snapped-up-by-snap-inc/) |
 |Habana Labs | Intel | 2019 | 2000 | [Source](https://www.forbes.com/sites/moorinsights/2019/12/16/intel-acquires-habana-labs-for-2b/?sh=27bc9bc319f9) |
 |Icera | Nvidia | 2011 | 367 | [Source](https://nvidianews.nvidia.com/news/nvidia-completes-acquisition-of-icera-a-leader-in-wireless-modem-rf-technology-6622906) |
