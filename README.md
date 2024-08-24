@@ -80,6 +80,7 @@
 |[Black Semiconductor](https://blacksemiconductor.de) | MFG | 2021 | DE |Graphene based devices for translating between electronics and photonics |
 |[Blaize](https://blaize.com) | AI | 2010 | US |Graph streaming processor for AI applications |
 |[Blue Cheetah](https://bcanalog.com) | CHIPLETS | 2018 | US |Rapidly customizable die-to-die interconnect solutions |
+|[Blueshift Memory](https://blueshiftmemory.com) | MEMORY | 2016 | UK |High performance memory centric architecture  |
 |[Bluespec](https://bluespec.com) | RISC-V | 2003 | US |RISC-V IP and System Development Tools |
 |[BoolSi](https://boolsi.com) | EDA | 2023 | US |Generate RTL from any codebase, in any language |
 |[bos semiconductors](https://bos-semi.com) | ASIC | 2022 | KR |Automotive ASICs |
@@ -128,6 +129,7 @@
 |[Fabric Cryptography](https://fabriccryptography.com) | SECURITY | 2021 | US |Cryptography hardware accelerators |
 |[Falcomm ](https://myfalcomm.com) | RF | 2021 | US |Solid state power amplifiers |
 |[Ferric](https://ferric.com) | ANALOG | 2010 | US |Single-chip power converters |
+|[Finchetto](https://finchetto.com) | PHOTONICS | 2020 | UK |Photonic sensors for quantum computing |
 |[Flex Logix](https://flex-logix.com) | FPGA | 2014 | US |Embedded FPGA IP |
 |[Flux](https://flux.ai) | EDA | 2019 | US |PCB design tools |
 |[FMC](https://ferroelectric-memory.com) | MFG | 2015 | DE |Ferroelectric non-volatile random access memory technology |
@@ -144,6 +146,7 @@
 |[Hailo](https://hailo.ai) | AI | 2017 | IL |AI acceleration for edge devices |
 |[HawAI.tech](https://hawai.tech) | AI | 2019 | FR |AI accelerators |
 |[HyperAccel](https://hyperaccel.ai) | AI | 2023 | KR |AI processors and server solutions for LLM/Gen AI |
+|[HyperCIM](https://hypercim.ai) | AI | NA | UK |Optimized compute in memory architecture |
 |[InCore Semi](https://incoresemi.com) | RISC-V | 2018 | IN |RISC-V IP cores |
 |[Ingonyma](https://ingonyma.com) | SECURITY | 2021 | IL |Hardware accelerators for cryptographic computation |
 |[Innatera](https://innatera.com) | AI | 2018 | NL |Neuromorphic processors |
@@ -160,10 +163,12 @@
 |[Lightelligence](https://lightelligence.ai) | PHOTONICS | 2017 | US |Optical computing platform |
 |[Lighton](https://lighton.ai) | PHOTONICS | 2015 | FR |Optical computing platform |
 |[Lightmatter](https://lightmatter.co) | PHOTONICS | 2017 | US |Optical computing platform |
+|[Literal Labs](https://Literal-labs.ai) | AI | 2023 | UK |Explainable AI using Tsetlin machines |
 |[Luminous Computing](https://luminous.com) | PHOTONICS | 2018 | US |Optical computing platform |
 |[Matx](https://matx.com) | AI | 2022 | US |Platform for AGI |
 |[MangoBoost](https://mangoboost.io) | HPC | 2022 | US |Data processing units for data center |
 |[Memryx](https://memryx.com) | AI | 2019 | US |AI computing platform |
+|[Mintneuro](https://mintneuro.com) | HEALTH | 2015 | UK |Neural implants |
 |[Mobilint](https://mobilint.com) | AI | 2019 | KR |AI inference accelerators |
 |[Morse Micro](https://morsemicro.com) | RF | 2016 | AU |Low-power Wi-Fi chips |
 |[Motivo](https://motivo.ai) | EDA | 2015 | US |Explainable AI and ML for chip design optimization |
@@ -214,6 +219,7 @@
 |[RapidSilicon](https://rapidsilicon.com) | FPGA | 2021 | US |FPGA devices |
 |[rebellions_](https://rebellions.ai) | AI | 2020 | KR |AI processors |
 |[Recogni](https://recogni.com) | AI | 2017 | US |Visual perception platform for autonomous vehicles |
+|[RED Semiconductor](https://redsemiconductor.com) | HPC | 2021 | UK |Processor technology |
 |[Redwood EDA](https://redwoodeda.com) | EDA | 2015 | US |Transaction level hardware design platform |
 |[RISE](https://Rise-da.com) | EDA | 2024 | US |Design and verification productivity platform |
 |[Riverlane](https://riverlane.com) | QUANTUM | 2016 | UK |Quantum error correction |
@@ -230,12 +236,14 @@
 |[Semify](https://semify-eda.com) | EDA | 2021 | DE |FPGA based platforms |
 |[SemiQon](https://semiqon.tech) | QUANTUM | 2023 | FI |Quantum processors |
 |[Semron](https://semron.ai) | AI | 2020 | DE |AI processing |
+|[Secqai](https://secqai.com) | QUANTUM | 2021 | UK |Quantum hardware |
 |[SiFive](https://sifive.com) | RISC-V | 2015 | US |RISC-V based IP provider |
 |[SiLC](https://silc.com) | PHOTONICS | 2018 | US |Photonics based imaging sensors |
 |[Silicon Box](https://Silicon-box.com) | MFG | 2021 | SG |Manufacturer of semiconductor design and device integration services |
 |[Silimate](https://silimate.com) | EDA | 2023 | US |Co-pilot for chip designers |
 |[Silogy](https://silogy.io) | EDA | 2023 | US |Collaborative CI/CD platform for integrated circuit design |
 |[SiMa.ai](https://sima.ai) | AI | 2018 | US |AI processing for edge devices |
+|[Singular Photonics](https://singularphotonics.com) | PHOTONICS | 2024 | UK |High performance camera modules |
 |[SiPearl](https://sipearl.com) | HPC | 2019 | FR |Manycore processors for EU exascale supercomputing project |
 |[Skycore Semiconductors](https://skycore-semi.com) | ANALOG | 2021 | DK |Switched capacitor based integrated power converters |
 |[Spark Micro](https://sparkmicro.com) | RF | 2016 | CA |Transceiver technology for ultra-low power wireless communication |
@@ -264,6 +272,7 @@
 |[Volantis Semiconductor](https://volantissemi.ai) | AI | 2022 | US |AI processors |
 |[VoltAI](https://voltai.com) | EDA | 2022 | US |AI models for semiconductor |
 |[VyperCore](https://vypercore.com) | RISC-V | 2022 | UK |RISC-V processors |
+|[Wave Photonics](https://wavephotonics.com) | PHOTONICS | 2021 | UK |Photonics design platform |
 |[Xanadu](https://xanadu.ai) | PHOTONICS | 2016 | US |Photonic based quantum computer |
 |[Xscape Photonics](https://xscapephotonics.com) | PHOTONICS | 2022 | US |Photonic communication chips |
 |[Xsight Labs](https://xsightlabs.com) | HPC | 2017 | IL |Chipsets for accelerating data-intensive workloads |

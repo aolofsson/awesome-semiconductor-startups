@@ -29,6 +29,7 @@ Beam,beamshaping.io,RF,IL,2015,Phased array antennas
 Black Semiconductor,blacksemiconductor.de,MFG,DE,2021,Graphene based devices for translating between electronics and photonics
 Blaize,blaize.com,AI,US,2010,Graph streaming processor for AI applications
 Blue Cheetah,bcanalog.com,CHIPLETS,US,2018,Rapidly customizable die-to-die interconnect solutions
+Blueshift Memory,blueshiftmemory.com,MEMORY,UK,2016,High performance memory centric architecture 
 Bluespec,bluespec.com,RISC-V,US,2003,RISC-V IP and System Development Tools
 BoolSi,boolsi.com,EDA,US,2023,"Generate RTL from any codebase, in any language"
 bos semiconductors,bos-semi.com,ASIC,KR,2022,Automotive ASICs
@@ -77,6 +78,7 @@ Everactive,everactive.com,SENSORS,US,2012,Battery-less IoT sensing technology
 Fabric Cryptography,fabriccryptography.com,SECURITY,US,2021,Cryptography hardware accelerators
 Falcomm ,myfalcomm.com,RF,US,2021,Solid state power amplifiers
 Ferric,ferric.com,ANALOG,US,2010,Single-chip power converters
+Finchetto,finchetto.com,PHOTONICS,UK,2020,Photonic sensors for quantum computing
 Flex Logix,flex-logix.com,FPGA,US,2014,Embedded FPGA IP
 Flux,flux.ai,EDA,US,2019,PCB design tools
 FMC,ferroelectric-memory.com,MFG,DE,2015,Ferroelectric non-volatile random access memory technology
@@ -93,6 +95,7 @@ HaiLa,haila.io,RF,CA,2017,Low power wireless communication for IoT
 Hailo,hailo.ai,AI,IL,2017,AI acceleration for edge devices
 HawAI.tech,hawai.tech,AI,FR,2019,AI accelerators
 HyperAccel,hyperaccel.ai,AI,KR,2023,AI processors and server solutions for LLM/Gen AI
+HyperCIM,hypercim.ai,AI,UK,NA,Optimized compute in memory architecture
 InCore Semi,incoresemi.com,RISC-V,IN,2018,RISC-V IP cores
 Ingonyma,ingonyma.com,SECURITY,IL,2021,Hardware accelerators for cryptographic computation
 Innatera,innatera.com,AI,NL,2018,Neuromorphic processors
@@ -109,10 +112,12 @@ Light Solver,lightsolver.com,PHOTONICS,IL,2019,Optical computing platform
 Lightelligence,lightelligence.ai,PHOTONICS,US,2017,Optical computing platform
 Lighton,lighton.ai,PHOTONICS,FR,2015,Optical computing platform
 Lightmatter,lightmatter.co,PHOTONICS,US,2017,Optical computing platform
+Literal Labs,Literal-labs.ai,AI,UK,2023,Explainable AI using Tsetlin machines
 Luminous Computing,luminous.com,PHOTONICS,US,2018,Optical computing platform
 Matx,matx.com,AI,US,2022,Platform for AGI
 MangoBoost,mangoboost.io,HPC,US,2022,Data processing units for data center
 Memryx,memryx.com,AI,US,2019,AI computing platform
+Mintneuro,mintneuro.com,HEALTH,UK,2015,Neural implants
 Mobilint,mobilint.com,AI,KR,2019,AI inference accelerators
 Morse Micro,morsemicro.com,RF,AU,2016,Low-power Wi-Fi chips
 Motivo,motivo.ai,EDA,US,2015,Explainable AI and ML for chip design optimization
@@ -163,6 +168,7 @@ Ramon Space,ramon.space,SPACE,IL,2004,Computer system designed for computing in 
 RapidSilicon,rapidsilicon.com,FPGA,US,2021,FPGA devices
 rebellions_,rebellions.ai,AI,KR,2020,AI processors
 Recogni,recogni.com,AI,US,2017,Visual perception platform for autonomous vehicles
+RED Semiconductor,redsemiconductor.com,HPC,UK,2021,Processor technology
 Redwood EDA,redwoodeda.com,EDA,US,2015,Transaction level hardware design platform
 RISE,Rise-da.com,EDA,US,2024,Design and verification productivity platform
 Riverlane,riverlane.com,QUANTUM,UK,2016,Quantum error correction
@@ -179,12 +185,14 @@ Semifive,semifive.com,ASIC,KR,2019,ASIC platform
 Semify,semify-eda.com,EDA,DE,2021,FPGA based platforms
 SemiQon,semiqon.tech,QUANTUM,FI,2023,Quantum processors
 Semron,semron.ai,AI,DE,2020,AI processing
+Secqai,secqai.com,QUANTUM,UK,2021,Quantum hardware
 SiFive,sifive.com,RISC-V,US,2015,RISC-V based IP provider
 SiLC,silc.com,PHOTONICS,US,2018,Photonics based imaging sensors
 Silicon Box,Silicon-box.com,MFG,SG,2021,Manufacturer of semiconductor design and device integration services
 Silimate,silimate.com,EDA,US,2023,Co-pilot for chip designers
 Silogy,silogy.io,EDA,US,2023,Collaborative CI/CD platform for integrated circuit design
 SiMa.ai,sima.ai,AI,US,2018,AI processing for edge devices
+Singular Photonics,singularphotonics.com,PHOTONICS,UK,2024,High performance camera modules
 SiPearl,sipearl.com,HPC,FR,2019,Manycore processors for EU exascale supercomputing project
 Skycore Semiconductors,skycore-semi.com,ANALOG,DK,2021,Switched capacitor based integrated power converters
 Spark Micro,sparkmicro.com,RF,CA,2016,Transceiver technology for ultra-low power wireless communication
@@ -213,6 +221,7 @@ Ventana Micro,ventanamicro.com,RISC-V,US,2018,RISC-V CPU cores and compute subsy
 Volantis Semiconductor,volantissemi.ai,AI,US,2022,AI processors
 VoltAI,voltai.com,EDA,US,2022,AI models for semiconductor
 VyperCore,vypercore.com,RISC-V,UK,2022,RISC-V processors
+Wave Photonics,wavephotonics.com,PHOTONICS,UK,2021,Photonics design platform
 Xanadu,xanadu.ai,PHOTONICS,US,2016,Photonic based quantum computer
 Xscape Photonics,xscapephotonics.com,PHOTONICS,US,2022,Photonic communication chips
 Xsight Labs,xsightlabs.com,HPC,IL,2017,Chipsets for accelerating data-intensive workloads
