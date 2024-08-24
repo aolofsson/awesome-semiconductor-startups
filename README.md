@@ -84,6 +84,7 @@
 |[BoolSi](https://boolsi.com) | EDA | 2023 | US |Generate RTL from any codebase, in any language |
 |[bos semiconductors](https://bos-semi.com) | ASIC | 2022 | KR |Automotive ASICs |
 |[cadlab.io](https://cadlab.io) | EDA | 2015 | US |Collaboration tools for PCB design |
+|[Cadstrom](https://cadstrom.io) | EDA | 2023 | CA |AI based PCB design |
 |[Celera](https://celeratechnologies.com) | EDA | 2018 | US |Fully-automated analog/mixed-signal IC development tool. |
 |[Celestial AI](https://celestial.ai) | PHOTONICS | 2020 | US |Photonic fabric optical interconnect technology |
 |[Cellium](https://cellium.net) | RF | 2016 | IL |Wireless infrastructure for indoor connectivity |
@@ -94,6 +95,7 @@
 |[Cerfe Labs](https://cerfelabs.com) | MFG | 2020 | US |Electronics materials and device research |
 |[Chipflow](https://chipflow.io) | ASIC | 2021 | UK |ASIC design platform |
 |[Chipletz](https://chipletz.com) | CHIPLETS | 2021 | US |Smart substrate enabling multiple ICs in a single package |
+|[Chipstack](https://chipstack.com) | EDA | 2023 | US |AI based chip design methodology |
 |[Circuit Mind](https://circuitmind.io) | EDA | 2018 | UK |PCB design tools |
 |[Classiq](https://classiq.io) | EDA | 2020 | IL |Quantum computing software |
 |[Codasip](https://codasip.com) | RISC-V | 2014 | DE |Supplier of RISC-V IP cores |
@@ -102,6 +104,7 @@
 |[DASH Tech IC](https://dashtechic.com) | HPC | 2021 | US |Flexible processors for embedded applications |
 |[d-Matrix](https://d-matrix.ai) | AI | 2019 | US |Computing platform for data center AI inference |
 |[DeGirum](https://degirum.ai) | AI | 2017 | US |AI hardware and software to accelerate AI edge adoption |
+|[Denpaflux](https://denpaflux.com) | EDA | 2022 | DE |AI based PCB design |
 |[Dfiant](https://dfiant.works) | EDA | 2022 | US |Chip design tools |
 |[Dover](https://dovermicrosystems.com) | SECURITY | 2017 | US |SoC security IP |
 |[DreamBig](https://dreambigsemi.com) | CHIPLETS | 2019 | US |Chiplet based ASIC platform |
@@ -163,6 +166,7 @@
 |[Memryx](https://memryx.com) | AI | 2019 | US |AI computing platform |
 |[Mobilint](https://mobilint.com) | AI | 2019 | KR |AI inference accelerators |
 |[Morse Micro](https://morsemicro.com) | RF | 2016 | AU |Low-power Wi-Fi chips |
+|[Motivo](https://motivo.ai) | EDA | 2015 | US |Explainable AI and ML for chip design optimization |
 |[Movellus](https://movellus.com) | ANALOG | 2014 | US |Clock distribution IP |
 |[Mythic](https://mythic-ai.com) | AI | 2012 | US |Analog ML accelerators |
 |[NcodiN](https://ncodin.com) | PHOTONICS | 2023 | FR |Optical interposers |
@@ -211,6 +215,7 @@
 |[rebellions_](https://rebellions.ai) | AI | 2020 | KR |AI processors |
 |[Recogni](https://recogni.com) | AI | 2017 | US |Visual perception platform for autonomous vehicles |
 |[Redwood EDA](https://redwoodeda.com) | EDA | 2015 | US |Transaction level hardware design platform |
+|[RISE](https://Rise-da.com) | EDA | 2024 | US |Design and verification productivity platform |
 |[Riverlane](https://riverlane.com) | QUANTUM | 2016 | UK |Quantum error correction |
 |[Rivos](https://rivosinc.com) | RISC-V | 2021 | US |Stealth |
 |[RoboSense](https://robosense.ai) | SENSORS | 2014 | CN |Advanced LiDAR environment perception technologies |
@@ -257,6 +262,7 @@
 |[Vayyar](https://vayyar.com) | SENSORS | 2011 | IL |High resolution image sensors |
 |[Ventana Micro](https://ventanamicro.com) | RISC-V | 2018 | US |RISC-V CPU cores and compute subsystems |
 |[Volantis Semiconductor](https://volantissemi.ai) | AI | 2022 | US |AI processors |
+|[VoltAI](https://voltai.com) | EDA | 2022 | US |AI models for semiconductor |
 |[VyperCore](https://vypercore.com) | RISC-V | 2022 | UK |RISC-V processors |
 |[Xanadu](https://xanadu.ai) | PHOTONICS | 2016 | US |Photonic based quantum computer |
 |[Xscape Photonics](https://xscapephotonics.com) | PHOTONICS | 2022 | US |Photonic communication chips |
