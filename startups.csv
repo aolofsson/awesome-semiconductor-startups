@@ -3,6 +3,7 @@ Accelercom,accelercomm.com,RF,UK,2016,5G physical layer for high-performance net
 Agile Analog,agileanalog.com,EDA,UK,2017,Automating design of analog circuitry
 Agita Labs,agitalabs.com,SECURITY,US,2018,Processing security technology/IP
 Aistorm,aistorm.ai,AI,US,2011,Charge domain based AI processing
+Akeana,akeana.com,RISC-V,US,2021,RISC-V CPU and System IP
 Akhetonics,akhetonics.com,PHOTONICS,DE,2021,Optical computing devices
 Alif Semiconductor,alifsemi.com,AI,US,2019,Integrated SoC for AI at the edge
 Allspice.io,allspice.io,EDA,US,2018,Design platform for streamlined hardware development
@@ -126,6 +127,7 @@ Novumind,novumind.com,AI,US,2015,Domain specific acceleration for AI application
 Nubis Communication,Nubis-inc.com,NETWORKING,US,2020,Optical communications technology
 OmniDesign,omnidesigntech.com,ANALOG,US,2015,Low power analog IP
 One Silicon Chip Photonics,onesiliconchipphotonics.com,PHOTONICS,CA,2016,Optical chips for precision motion sensing
+OniO,onio.com,RF,NO,2019,Wireless microcontroller
 Optalysys,optalysys.com,PHOTONICS,UK,2013,Optical computing next-gen cryptography
 Oso Semiconductor,ososemi.com,RF,US,2022,Low power RF chipset
 Owl,owlai.us,SENSORS,US,2018,Monocular 3D thermal ranging solutions
@@ -195,6 +197,7 @@ Tetramem,tetramem.com,AI,US,2018,AI accelerator for edge inference
 Thintronics,thintronics.com,MFG,US,2019,Thin film materials
 Trameto,trameto.com,ANALOG,UK,2016,Energy harvesting PMICs
 TriEye,trieye.tech,SENSORS,IL,2017,Short-wave infrared imaging systems
+Ubilite,ubilite.com,RF,US,2014,Low power wireless communication for IoT
 Unifabrix,unifabrix.com,NETWORKING,IL,2020,CXL based secure connectivity solution
 Untether AI,untether.ai,AI,CA,2018,AI processing devices
 Upmem,upmem.com,AI,FR,2015,In memory processing devices for big data and AI
@@ -212,4 +215,3 @@ Zendar,zendar.io,SENSORS,US,2017,High resolution software defined radar
 ZeroASIC,zeroasic.com,CHIPLETS,US,2020,Chiplet based ASIC platform
 zeroRISC,zerorisc.com,SECURITY,US,2023,RoT components
 ZeroPoint,zeropoint-tech.com,MEMORY,US,2015,Memory compression technology
-ONiO AS,www.onio.com,RF,NO,2019,Wireless microcontroller

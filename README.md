@@ -54,6 +54,7 @@
 |[Agile Analog](https://agileanalog.com) | EDA | 2017 | UK |Automating design of analog circuitry |
 |[Agita Labs](https://agitalabs.com) | SECURITY | 2018 | US |Processing security technology/IP |
 |[Aistorm](https://aistorm.ai) | AI | 2011 | US |Charge domain based AI processing |
+|[Akeana](https://akeana.com) | RISC-V | 2021 | US |RISC-V CPU and System IP |
 |[Akhetonics](https://akhetonics.com) | PHOTONICS | 2021 | DE |Optical computing devices |
 |[Alif Semiconductor](https://alifsemi.com) | AI | 2019 | US |Integrated SoC for AI at the edge |
 |[Allspice.io](https://allspice.io) | EDA | 2018 | US |Design platform for streamlined hardware development |
@@ -177,6 +178,7 @@
 |[Nubis Communication](https://Nubis-inc.com) | NETWORKING | 2020 | US |Optical communications technology |
 |[OmniDesign](https://omnidesigntech.com) | ANALOG | 2015 | US |Low power analog IP |
 |[One Silicon Chip Photonics](https://onesiliconchipphotonics.com) | PHOTONICS | 2016 | CA |Optical chips for precision motion sensing |
+|[OniO](https://onio.com) | RF | 2019 | NO |Wireless microcontroller |
 |[Optalysys](https://optalysys.com) | PHOTONICS | 2013 | UK |Optical computing next-gen cryptography |
 |[Oso Semiconductor](https://ososemi.com) | RF | 2022 | US |Low power RF chipset |
 |[Owl](https://owlai.us) | SENSORS | 2018 | US |Monocular 3D thermal ranging solutions |
@@ -246,6 +248,7 @@
 |[Thintronics](https://thintronics.com) | MFG | 2019 | US |Thin film materials |
 |[Trameto](https://trameto.com) | ANALOG | 2016 | UK |Energy harvesting PMICs |
 |[TriEye](https://trieye.tech) | SENSORS | 2017 | IL |Short-wave infrared imaging systems |
+|[Ubilite](https://ubilite.com) | RF | 2014 | US |Low power wireless communication for IoT |
 |[Unifabrix](https://unifabrix.com) | NETWORKING | 2020 | IL |CXL based secure connectivity solution |
 |[Untether AI](https://untether.ai) | AI | 2018 | CA |AI processing devices |
 |[Upmem](https://upmem.com) | AI | 2015 | FR |In memory processing devices for big data and AI |
@@ -263,7 +266,6 @@
 |[ZeroASIC](https://zeroasic.com) | CHIPLETS | 2020 | US |Chiplet based ASIC platform |
 |[zeroRISC](https://zerorisc.com) | SECURITY | 2023 | US |RoT components |
 |[ZeroPoint](https://zeropoint-tech.com) | MEMORY | 2015 | US |Memory compression technology |
-|[ONiO AS](https://www.onio.com) | RF | 2019 | NO |Wireless microcontroller |
 
 ## Alumni
 
