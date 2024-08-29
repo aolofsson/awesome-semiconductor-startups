@@ -281,6 +281,7 @@
 |[ZeroASIC](https://zeroasic.com) | CHIPLETS | 2020 | US |Chiplet based ASIC platform |
 |[zeroRISC](https://zerorisc.com) | SECURITY | 2023 | US |RoT components |
 |[ZeroPoint](https://zeropoint-tech.com) | MEMORY | 2015 | US |Memory compression technology |
+|[Nanopower](https://nanopowersemi.com) | ANALOG | 2017 | NO |Power reduction of 90% for battery-powered systems |
 
 ## Alumni
 
