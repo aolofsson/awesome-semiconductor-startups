@@ -148,7 +148,7 @@
 |[HyperAccel](https://hyperaccel.ai) | AI | 2023 | KR |AI processors and server solutions for LLM/Gen AI |
 |[HyperCIM](https://hypercim.ai) | AI | NA | UK |Optimized compute in memory architecture |
 |[InCore Semi](https://incoresemi.com) | RISC-V | 2018 | IN |RISC-V IP cores |
-|[Ingonyma](https://ingonyma.com) | SECURITY | 2021 | IL |Hardware accelerators for cryptographic computation |
+|[Ingonyama](https://ingonyama.com) | SECURITY | 2021 | IL |Hardware accelerators for cryptographic computation |
 |[Innatera](https://innatera.com) | AI | 2018 | NL |Neuromorphic processors |
 |[Ipronics](https://ipronics.com) | PHOTONICS | 2019 | ES |Programmable photonics products |
 |[Jeeva Wireless](https://jeevawireless.com) | RF | 2015 | US |Battery-free wireless sensing technology |
