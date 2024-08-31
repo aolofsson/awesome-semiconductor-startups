@@ -2,6 +2,7 @@ Company,Website,Technology,Country,Founded,Description
 Accelercom,accelercomm.com,RF,UK,2016,5G physical layer for high-performance networks
 Agile Analog,agileanalog.com,EDA,UK,2017,Automating design of analog circuitry
 Agita Labs,agitalabs.com,SECURITY,US,2018,Processing security technology/IP
+Ahead Computing,aheadcomputing.com,RISC-V,US,2024,High performance RISC-V core IP
 Aistorm,aistorm.ai,AI,US,2011,Charge domain based AI processing
 Akeana,akeana.com,RISC-V,US,2021,RISC-V CPU and System IP
 Akhetonics,akhetonics.com,PHOTONICS,DE,2021,Optical computing devices
@@ -29,7 +30,7 @@ Beam,beamshaping.io,RF,IL,2015,Phased array antennas
 Black Semiconductor,blacksemiconductor.de,MFG,DE,2021,Graphene based devices for translating between electronics and photonics
 Blaize,blaize.com,AI,US,2010,Graph streaming processor for AI applications
 Blue Cheetah,bcanalog.com,CHIPLETS,US,2018,Rapidly customizable die-to-die interconnect solutions
-Blueshift Memory,blueshiftmemory.com,MEMORY,UK,2016,High performance memory centric architecture 
+Blueshift Memory,blueshiftmemory.com,MEMORY,UK,2016,High performance memory centric architecture
 Bluespec,bluespec.com,RISC-V,US,2003,RISC-V IP and System Development Tools
 BoolSi,boolsi.com,EDA,US,2023,"Generate RTL from any codebase, in any language"
 bos semiconductors,bos-semi.com,ASIC,KR,2022,Automotive ASICs
@@ -86,6 +87,7 @@ Forefrontrf,forefrontrf.com,RF,UK,2020,Wireless communication devices
 Fractile,fractile.ai,AI,UK,2022,AI accelerator for LLMs
 Furiosa,furiosa.ai,AI,KR,2017,AI coprocessors
 Gemesys,gemesys.tech,AI,DE,2021,Analog AI processors
+getinstachip,getinstachip.com,EDA,US,2024,Intelligent package manager for Verilog
 Gowin,gowinsemi.com,FPGA,CN,2014,FPGA chip products
 GrAI Matter Labs,graimatterlabs.ai,AI,FR,2016,Programmable neuromorphic computing chips
 Greenwaves,greenwaves-technologies.com,AI,FR,2014,Low power edge AI SoCs
@@ -94,6 +96,7 @@ Gyrfalcon,gyrfalcontech.ai,AI,US,2017,AI processors
 HaiLa,haila.io,RF,CA,2017,Low power wireless communication for IoT
 Hailo,hailo.ai,AI,IL,2017,AI acceleration for edge devices
 HawAI.tech,hawai.tech,AI,FR,2019,AI accelerators
+Heronic,heronic.ai,EDA,UK,2024,Automated generation of bespoke AI accelerators
 HyperAccel,hyperaccel.ai,AI,KR,2023,AI processors and server solutions for LLM/Gen AI
 HyperCIM,hypercim.ai,AI,UK,NA,Optimized compute in memory architecture
 InCore Semi,incoresemi.com,RISC-V,IN,2018,RISC-V IP cores
@@ -160,6 +163,7 @@ PseudolithIC,pseudolithic.com,MFG,US,2019,Heterogeneous integration process for 
 PsiQuantum,psiquantum.com,QUANTUM,US,2015,Quantum computers
 Quadric.io,quadric.io,AI,US,2016,Edge processing for edge devices
 Qualinx,qualinx.io,RF,NL,2015,IoT GNSS based tracking and connectivity
+Quantum Motion,quantummmotion.tech,QUANTUM,UK,2017,Scalable quantum computer architectural technology
 Quilter,quilter.ai,EDA,US,2020,AI driven PCB design
 Quintessent,quintessent.com,PHOTONICS,US,2019,Optical interconnect
 Raaam,Raaam-tech.com,MEMORY,IL,2021,High capacity memory technology

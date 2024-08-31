@@ -53,6 +53,7 @@
 |[Accelercom](https://accelercomm.com) | RF | 2016 | UK |5G physical layer for high-performance networks |
 |[Agile Analog](https://agileanalog.com) | EDA | 2017 | UK |Automating design of analog circuitry |
 |[Agita Labs](https://agitalabs.com) | SECURITY | 2018 | US |Processing security technology/IP |
+|[Ahead Computing](https://aheadcomputing.com) | RISC-V | 2024 | US |High performance RISC-V core IP |
 |[Aistorm](https://aistorm.ai) | AI | 2011 | US |Charge domain based AI processing |
 |[Akeana](https://akeana.com) | RISC-V | 2021 | US |RISC-V CPU and System IP |
 |[Akhetonics](https://akhetonics.com) | PHOTONICS | 2021 | DE |Optical computing devices |
@@ -80,7 +81,7 @@
 |[Black Semiconductor](https://blacksemiconductor.de) | MFG | 2021 | DE |Graphene based devices for translating between electronics and photonics |
 |[Blaize](https://blaize.com) | AI | 2010 | US |Graph streaming processor for AI applications |
 |[Blue Cheetah](https://bcanalog.com) | CHIPLETS | 2018 | US |Rapidly customizable die-to-die interconnect solutions |
-|[Blueshift Memory](https://blueshiftmemory.com) | MEMORY | 2016 | UK |High performance memory centric architecture  |
+|[Blueshift Memory](https://blueshiftmemory.com) | MEMORY | 2016 | UK |High performance memory centric architecture |
 |[Bluespec](https://bluespec.com) | RISC-V | 2003 | US |RISC-V IP and System Development Tools |
 |[BoolSi](https://boolsi.com) | EDA | 2023 | US |Generate RTL from any codebase, in any language |
 |[bos semiconductors](https://bos-semi.com) | ASIC | 2022 | KR |Automotive ASICs |
@@ -137,6 +138,7 @@
 |[Fractile](https://fractile.ai) | AI | 2022 | UK |AI accelerator for LLMs |
 |[Furiosa](https://furiosa.ai) | AI | 2017 | KR |AI coprocessors |
 |[Gemesys](https://gemesys.tech) | AI | 2021 | DE |Analog AI processors |
+|[getinstachip](https://getinstachip.com) | EDA | 2024 | US |Intelligent package manager for Verilog |
 |[Gowin](https://gowinsemi.com) | FPGA | 2014 | CN |FPGA chip products |
 |[GrAI Matter Labs](https://graimatterlabs.ai) | AI | 2016 | FR |Programmable neuromorphic computing chips |
 |[Greenwaves](https://greenwaves-technologies.com) | AI | 2014 | FR |Low power edge AI SoCs |
@@ -145,6 +147,7 @@
 |[HaiLa](https://haila.io) | RF | 2017 | CA |Low power wireless communication for IoT |
 |[Hailo](https://hailo.ai) | AI | 2017 | IL |AI acceleration for edge devices |
 |[HawAI.tech](https://hawai.tech) | AI | 2019 | FR |AI accelerators |
+|[Heronic](https://heronic.ai) | EDA | 2024 | UK |Automated generation of bespoke AI accelerators |
 |[HyperAccel](https://hyperaccel.ai) | AI | 2023 | KR |AI processors and server solutions for LLM/Gen AI |
 |[HyperCIM](https://hypercim.ai) | AI | NA | UK |Optimized compute in memory architecture |
 |[InCore Semi](https://incoresemi.com) | RISC-V | 2018 | IN |RISC-V IP cores |
@@ -211,6 +214,7 @@
 |[PsiQuantum](https://psiquantum.com) | QUANTUM | 2015 | US |Quantum computers |
 |[Quadric.io](https://quadric.io) | AI | 2016 | US |Edge processing for edge devices |
 |[Qualinx](https://qualinx.io) | RF | 2015 | NL |IoT GNSS based tracking and connectivity |
+|[Quantum Motion](https://quantummmotion.tech) | QUANTUM | 2017 | UK |Scalable quantum computer architectural technology |
 |[Quilter](https://quilter.ai) | EDA | 2020 | US |AI driven PCB design |
 |[Quintessent](https://quintessent.com) | PHOTONICS | 2019 | US |Optical interconnect |
 |[Raaam](https://Raaam-tech.com) | MEMORY | 2021 | IL |High capacity memory technology |
