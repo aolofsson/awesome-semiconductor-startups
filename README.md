@@ -230,7 +230,7 @@
 |[RaiderChip](https://raiderchip.ai) | AI | 2024 | ES |AI hardware |
 |[Ramon Space](https://ramon.space) | SPACE | 2004 | IL |Computer system designed for computing in space |
 |[RapidSilicon](https://rapidsilicon.com) | FPGA | 2021 | US |FPGA devices |
-|[rebellions_](https://rebellions.ai) | AI | 2020 | KR |AI processors |
+|[Rebellions](https://rebellions.ai) | AI | 2020 | KR |AI processors |
 |[Recogni](https://recogni.com) | AI | 2017 | US |Visual perception platform for autonomous vehicles |
 |[RED Semiconductor](https://redsemiconductor.com) | HPC | 2021 | UK |Processor technology |
 |[Redwood EDA](https://redwoodeda.com) | EDA | 2015 | US |Transaction level hardware design platform |
@@ -240,7 +240,6 @@
 |[RoboSense](https://robosense.ai) | SENSORS | 2014 | CN |Advanced LiDAR environment perception technologies |
 |[Salience Labs](https://saliencelabs.ai) | PHOTONICS | 2020 | UK |Photonic computing platform |
 |[SambaNova](https://sambanova.ai) | AI | 2017 | US |AI processing |
-|[Sapeon](https://sapeon.com) | AI | 2022 | KR |AI processors |
 |[Saras Micro Devices](https://sarasmicro.com) | MFG | 2021 | US |Packaging solutions for effective power delivery |
 |[Scalinx](https://sclinx.com) | RF | 2015 | FR | Wideband RFIC frontends |
 |[Scintil](https://scintil-photonics.com) | PHOTONICS | 2018 | FR |Photonic computing platform |
@@ -335,7 +334,7 @@
 |Lyric | ADI | 2011 | NA | [Source](https://www.eetimes.com/adi-buys-lyric-probability-processing-specialist/) |
 |Kameleon | Ramon Space | 2022 | NA | [Source](https://www.startuphub.ai/ai-exit-events/ramon-space-merges-with-kameleon/) |
 |Mathstar | Shutdown | 2008 | 0 | [Source](https://www.oregonlive.com/business/2008/05/mathstar_calls_it_quits.html) |
-|Minima | Acquired | NA | NA | [Source](https://www.acuity.co.uk/successes/acuity-advises-minima-on-its-sale-to-bosch/) |
+|Minima | Bosch | NA | NA | [Source](https://www.acuity.co.uk/successes/acuity-advises-minima-on-its-sale-to-bosch/) |
 |MixComm | Sivers | 2021 | 155 | [Source](https://www.eetimes.com/mixcomm-acquired-by-sivers-semiconductors/) |
 |Mobix Labs | SPAC | 2023 | NA | [Source](https://mobixlabs.com) |
 |Movidius | Intel | 2016 | 400 | [Source](https://siliconangle.com/2016/09/06/intel-buys-movidius-to-boost-machine-vision/) |
@@ -349,6 +348,7 @@
 |Provigent | Broadcom | 2011 | 360 | [Source](https://en.globes.co.il/en/article-1000631723) |
 |Quantenna | Onsemi | 2019 | 1000 | [Source](https://www.bizjournals.com/phoenix/news/2022/09/20/onsemi-close-down-quantenna.html) |
 |Sand 9 | ADI | 2015 | 30 | [Source](https://www.eenewseurope.com/en/analog-devices-is-sand-9-buyer/) |
+|Sapeon | Rebellions | 2024 | NA | [Source](https://www.reuters.com/technology/artificial-intelligence/south-korean-ai-chip-makers-rebellions-sapeon-agree-merge-2024-08-18/) |
 |SiByte | Broadcom | 2000 | 2000 | [Source](https://www.eetimes.com/broadcom-acquires-mips-core-provider-sibyte) |
 |SiCortex | Shutdown | 2009 | 0 | [Source](https://www.bizjournals.com/boston/blog/mass-high-tech/2009/05/supercomputer-firm-sicortex-closes-doors.html) |
 |Silicon Hive | Intel | 2011 | NA | [Source](https://www.theregister.com/2011/03/17/intel_buys_silicon_hive/) |
@@ -359,5 +359,5 @@
 |Tensil.ai | NA | 2022 | NA | NA |
 |Tilera | Ezchip | 2014 | 50 | [Source](https://www.prnewswire.com/news-releases/ezchip-completes-acquisition-of-tilera-a-leader-in-high-performance-multi-core-processors-281754771.html) |
 |Upverter | Altium | 2017 | 2.8 | [Source](https://pitchbook.com/profiles/company/56161-81#overview) |
-|Wavious | Shutdown | 2022 | 0 | [Source](https://pitchbook.com/profiles/company/169888-60#overview) |
+|Wavious | Apple | 2022 | NA | [Source](https://pitchbook.com/profiles/company/169888-60#overview) |
 |zGlue | Sold | 2021 | NA | [Source](https://www.reuters.com/technology/chip-wars-how-chiplets-are-emerging-core-part-chinas-tech-strategy-2023-07-13) |
