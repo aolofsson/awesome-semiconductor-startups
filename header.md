@@ -15,11 +15,19 @@
 	* product company (ie. not services)
 * Alphabetical listing
 * Short single sentence description
+* No Performance claims in description!
 * All entries must be confirmed with public link
 * Max 80 char display width
 * Categorize the startup based on technology table below
 * Use standard two letter country codes
 * Do NOT edit the README directly, it's auto-generated
-* Pie-chart is from March 5, 2024 (not auto-generated)
+* Pie-charts were created Aug 31, 2024 (not auto-generated)
 
-![Startups](piechart.png)
+## Category Distribution
+![Types](pie_type.png)
+
+## Country Distribution
+
+![Countries](pie_country.png)
+
+## Categories

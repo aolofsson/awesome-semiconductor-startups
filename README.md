@@ -15,14 +15,22 @@
 	* product company (ie. not services)
 * Alphabetical listing
 * Short single sentence description
+* No Performance claims in description!
 * All entries must be confirmed with public link
 * Max 80 char display width
 * Categorize the startup based on technology table below
 * Use standard two letter country codes
 * Do NOT edit the README directly, it's auto-generated
-* Pie-chart is from March 5, 2024 (not auto-generated)
+* Pie-charts were created Aug 31, 2024 (not auto-generated)
 
-![Startups](piechart.png)
+## Category Distribution
+![Types](pie_type.png)
+
+## Country Distribution
+
+![Countries](pie_country.png)
+
+## Categories
 
 | Technology| Description                                      |
 |-----------|--------------------------------------------------|
@@ -248,7 +256,7 @@
 |[Silimate](https://silimate.com) | EDA | 2023 | US |Co-pilot for chip designers |
 |[Silogy](https://silogy.io) | EDA | 2023 | US |Collaborative CI/CD platform for integrated circuit design |
 |[SiMa.ai](https://sima.ai) | AI | 2018 | US |AI processing for edge devices |
-|[Singular Photonics](https://singularphotonics.com) | PHOTONICS | 2024 | UK |High performance camera modules |
+|[Singular Photonics](https://singularphotonics.com) | SENSORS | 2024 | UK |High performance camera modules |
 |[SiPearl](https://sipearl.com) | HPC | 2019 | FR |Manycore processors for EU exascale supercomputing project |
 |[Skycore Semiconductors](https://skycore-semi.com) | ANALOG | 2021 | DK |Switched capacitor based integrated power converters |
 |[Spark Micro](https://sparkmicro.com) | RF | 2016 | CA |Transceiver technology for ultra-low power wireless communication |
