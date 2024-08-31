@@ -203,6 +203,7 @@
 |[Polyn Technology](https://polyn.ai) | AI | 2019 | IL |Neuromorphic Analog Signal Processor chips |
 |[PQShield](https://pqshield.com) | QUANTUM | 2018 | UK |Hardware co-processors Post-quantum Cryptography |
 |[PragmatiC](https://pragmaticsemi.com) | MFG | 2010 | UK |Manufacturer of low-cost flexible integrated circuits |
+|[Precision Innovations](https://precisioninno.com) | EDA | 2019 | US |Developing and supporting OpenROAD |
 |[Primemas](https://primemas.com) | CHIPLETS | 2023 | US |SoC infrastructure for accelerated system development |
 |[Primis](https://primis.ai) | EDA | 2023 | US |Generative-AI driven hardware design |
 |[proteanTecs](https://proteantecs.com) | ANALOG | 2017 | IL |Analytics platform for increasing performance and reliability of electronic systems |
