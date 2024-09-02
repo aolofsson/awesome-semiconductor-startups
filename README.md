@@ -145,6 +145,7 @@
 |[Forefrontrf](https://forefrontrf.com) | RF | 2020 | UK |Wireless communication devices |
 |[Fractile](https://fractile.ai) | AI | 2022 | UK |AI accelerator for LLMs |
 |[Furiosa](https://furiosa.ai) | AI | 2017 | KR |AI coprocessors |
+|[Generation Alpha Transistor](https://generation-alpha-transistor.com) | EDA | 2024 | US |Circuit & Layout GUI Copilot |
 |[Gemesys](https://gemesys.tech) | AI | 2021 | DE |Analog AI processors |
 |[getinstachip](https://getinstachip.com) | EDA | 2024 | US |Intelligent package manager for Verilog |
 |[Gowin](https://gowinsemi.com) | FPGA | 2014 | CN |FPGA chip products |
