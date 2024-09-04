@@ -256,6 +256,7 @@
 |[Silicon Box](https://Silicon-box.com) | MFG | 2021 | SG |Manufacturer of semiconductor design and device integration services |
 |[Silimate](https://silimate.com) | EDA | 2023 | US |Co-pilot for chip designers |
 |[Silogy](https://silogy.io) | EDA | 2023 | US |Collaborative CI/CD platform for integrated circuit design |
+|[SilverliningEDA](https://silverliningeda.cloud) | EDA | 2023 | US |Accelerating verification using cloud FPGAs and paradigm-shifting tools |
 |[SiMa.ai](https://sima.ai) | AI | 2018 | US |AI processing for edge devices |
 |[Singular Photonics](https://singularphotonics.com) | SENSORS | 2024 | UK |High performance camera modules |
 |[SiPearl](https://sipearl.com) | HPC | 2019 | FR |Manycore processors for EU exascale supercomputing project |
