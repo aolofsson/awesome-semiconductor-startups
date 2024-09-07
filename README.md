@@ -158,7 +158,7 @@
 |[HawAI.tech](https://hawai.tech) | AI | 2019 | FR |AI accelerators |
 |[Heronic](https://heronic.ai) | EDA | 2024 | UK |Automated generation of bespoke AI accelerators |
 |[HyperAccel](https://hyperaccel.ai) | AI | 2023 | KR |AI processors and server solutions for LLM/Gen AI |
-|[HyperCIM](https://hypercim.ai) | AI | NA | UK |Optimized compute in memory architecture |
+|[HyperCIM](https://hypercim.com) | AI | NA | UK |Optimized compute in memory architecture |
 |[InCore Semi](https://incoresemi.com) | RISC-V | 2018 | IN |RISC-V IP cores |
 |[Ingonyama](https://ingonyama.com) | SECURITY | 2021 | IL |Hardware accelerators for cryptographic computation |
 |[Innatera](https://innatera.com) | AI | 2018 | NL |Neuromorphic processors |
