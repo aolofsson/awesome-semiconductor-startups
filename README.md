@@ -269,7 +269,7 @@
 |[Vaire Computing](https://vaire.co) | ANALOG | 2021 | UK |Near zero energy computing |
 |[Vayyar](https://vayyar.com) | SENSORS | 2011 | IL |High resolution image sensors |
 |[Ventana Micro](https://ventanamicro.com) | RISC-V | 2018 | US |RISC-V CPU cores and compute subsystems |
-|[VerifAI](https://verifai.ai) | AI | 2020 | US |Speeding up Hardware & Software Verification using LLMs & Reinforcement Learning |
+|[VerifAI](https://verifai.ai) | EDA | 2020 | US |Speeding up Hardware & Software Verification using LLMs & Reinforcement Learning |
 |[Volantis Semiconductor](https://volantissemi.ai) | AI | 2022 | US |AI processors |
 |[VoltAI](https://voltai.com) | EDA | 2022 | US |AI models for semiconductor |
 |[VyperCore](https://vypercore.com) | RISC-V | 2022 | UK |RISC-V processors |
