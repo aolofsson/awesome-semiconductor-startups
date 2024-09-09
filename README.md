@@ -113,6 +113,7 @@
 |[Cornami](https://cornami.com) | HPC | 2011 | US |Configurable acceleration for full homomorphic encryption |
 |[DASH Tech IC](https://dashtechic.com) | HPC | 2021 | US |Flexible processors for embedded applications |
 |[d-Matrix](https://d-matrix.ai) | AI | 2019 | US |Computing platform for data center AI inference |
+|[DeepX](https://deepx.ai) | AI | 2018 | KR |AI processors |
 |[DeGirum](https://degirum.ai) | AI | 2017 | US |AI hardware and software to accelerate AI edge adoption |
 |[Denpaflux](https://denpaflux.com) | EDA | 2022 | DE |AI based PCB design |
 |[Dfiant](https://dfiant.works) | EDA | 2022 | US |Chip design tools |
