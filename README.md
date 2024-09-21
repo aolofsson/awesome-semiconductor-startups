@@ -287,6 +287,7 @@
 |[Usound](https://usound.com) | MEMS | 2012 | AU |Sound solutions based on MEMS technology |
 |[Vaire Computing](https://vaire.co) | ANALOG | 2021 | UK |Near zero energy computing |
 |[Vayyar](https://vayyar.com) | SENSORS | 2011 | IL |High resolution image sensors |
+|[Vector Photonics](https://vectorphotonics.co.uk) | PHOTONICS | 2020 | UK |Semiconductor lasers |
 |[Ventana Micro](https://ventanamicro.com) | RISC-V | 2018 | US |RISC-V CPU cores and compute subsystems |
 |[VerifAI](https://verifai.ai) | EDA | 2020 | US |Speeding up Hardware & Software Verification using LLMs & Reinforcement Learning |
 |[Volantis Semiconductor](https://volantissemi.ai) | AI | 2022 | US |AI processors |
