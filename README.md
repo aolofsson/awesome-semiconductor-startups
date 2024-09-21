@@ -141,6 +141,7 @@
 |[Ferric](https://ferric.com) | ANALOG | 2010 | US |Single-chip power converters |
 |[Finchetto](https://finchetto.com) | PHOTONICS | 2020 | UK |Photonic sensors for quantum computing |
 |[Flex Logix](https://flex-logix.com) | FPGA | 2014 | US |Embedded FPGA IP |
+|[Flow Computing](https://flow-computing.com) | HPC | 2024 | FI |Parallel processing IP |
 |[Flux](https://flux.ai) | EDA | 2019 | US |PCB design tools |
 |[FMC](https://ferroelectric-memory.com) | MFG | 2015 | DE |Ferroelectric non-volatile random access memory technology |
 |[Forefrontrf](https://forefrontrf.com) | RF | 2020 | UK |Wireless communication devices |
