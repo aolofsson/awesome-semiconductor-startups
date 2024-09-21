@@ -174,6 +174,7 @@
 |[Lemurian Labs](https://lemurianlabs.com) | AI | 2018 | CA |AI computing platform |
 |[Light Solver](https://lightsolver.com) | PHOTONICS | 2019 | IL |Optical computing platform |
 |[Lightelligence](https://lightelligence.ai) | PHOTONICS | 2017 | US |Optical computing platform |
+|[Lightium](https://lightium.co) | MFG | 2023 | CH |Photonics foundry |
 |[Lighton](https://lighton.ai) | PHOTONICS | 2015 | FR |Optical computing platform |
 |[Lightmatter](https://lightmatter.co) | PHOTONICS | 2017 | US |Optical computing platform |
 |[Literal Labs](https://Literal-labs.ai) | AI | 2023 | UK |Explainable AI using Tsetlin machines |
