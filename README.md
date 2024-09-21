@@ -290,6 +290,7 @@
 |[Vector Photonics](https://vectorphotonics.co.uk) | PHOTONICS | 2020 | UK |Semiconductor lasers |
 |[Ventana Micro](https://ventanamicro.com) | RISC-V | 2018 | US |RISC-V CPU cores and compute subsystems |
 |[VerifAI](https://verifai.ai) | EDA | 2020 | US |Speeding up Hardware & Software Verification using LLMs & Reinforcement Learning |
+|[Viqthor](https://viqthor.com) | QUANTUM | 2023 | FR |RF, Microwaves, and Photonics applied to Quantum Processing |
 |[Volantis Semiconductor](https://volantissemi.ai) | AI | 2022 | US |AI processors |
 |[VoltAI](https://voltai.com) | EDA | 2022 | US |AI models for semiconductor |
 |[VyperCore](https://vypercore.com) | RISC-V | 2022 | UK |RISC-V processors |
