@@ -150,7 +150,6 @@
 |[Gemesys](https://gemesys.tech) | AI | 2021 | DE |Analog AI processors |
 |[getinstachip](https://getinstachip.com) | EDA | 2024 | US |Intelligent package manager for Verilog |
 |[Gowin](https://gowinsemi.com) | FPGA | 2014 | CN |FPGA chip products |
-|[GrAI Matter Labs](https://graimatterlabs.ai) | AI | 2016 | FR |Programmable neuromorphic computing chips |
 |[Greenwaves](https://greenwaves-technologies.com) | AI | 2014 | FR |Low power edge AI SoCs |
 |[Groq](https://groq.com) | AI | 2016 | US |AI processors |
 |[Gyrfalcon](https://gyrfalcontech.ai) | AI | 2017 | US |AI processors |
