@@ -67,7 +67,6 @@
 |[Akhetonics](https://akhetonics.com) | PHOTONICS | 2021 | DE |Optical computing devices |
 |[Alif Semiconductor](https://alifsemi.com) | AI | 2019 | US |Integrated SoC for AI at the edge |
 |[Allspice.io](https://allspice.io) | EDA | 2018 | US |Design platform for streamlined hardware development |
-|[Alpha ICs](https://alphaics.ai) | AI | 2016 | US |AI co-processors for edge devices |
 |[Ambient Scientific](https://ambientscientific.ai) | ANALOG | 2018 | US |Analog in-memory AI processor |
 |[Ampere Computing](https://amperecomputing.com) | HPC | 2017 | US |Cloud native manycore CPUs |
 |[Anabrid](https://anabrid.com) | ANALOG | 2023 | DE |Analog computer on a chip |
@@ -312,6 +311,7 @@
 |---------| ------- | ------ | ------|------|
 |Acacia | IPO | 2016 | 1000 | [Source](https://www.bizjournals.com/boston/news/2016/12/29/the-best-performing-ipo-nationwide-of-2016-is.html) |
 |Agnilux | Google | 2010 | NA | [Source](https://techcrunch.com/2010/04/20/google-agnilux-apple) |
+|Alpha ICs | Shutdown | 2023 | 0 | [Source](https://pitchbook.com/profiles/company/163655-74) |
 |Alphawave | IPO | 2021 | 4300 | [Source](https://www.marketwatch.com/story/chip-maker-alphawave-set-for-4-3-billion-london-ipo-after-shunning-the-nasdaq-11620840007) |
 |Altair Semiconductor | Sony | 2016 | 212 | [Source](https://www.jvpvc.com/case-studies/altair/) |
 |Ambric | Shutdown | 2008 | 0 | [Source](https://www.oregonlive.com/siliconforest/2008/11/ambric_suspends_operation_plan.html) |
