@@ -297,6 +297,7 @@
 |[ZeroASIC](https://zeroasic.com) | CHIPLETS | 2020 | US |Chiplet based ASIC platform |
 |[zeroRISC](https://zerorisc.com) | SECURITY | 2023 | US |RoT components |
 |[ZeroPoint](https://zeropoint-tech.com) | MEMORY | 2015 | US |Memory compression technology |
+|[Kinara](https://kinara.ai) | AI | 2014 | US |Accelerating LLMs and Vision AI at the Edge |
 
 ## Alumni
 
