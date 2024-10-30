@@ -67,7 +67,7 @@
 |[Akhetonics](https://akhetonics.com) | PHOTONICS | 2021 | DE |Optical computing devices |
 |[Alif Semiconductor](https://alifsemi.com) | AI | 2019 | US |Integrated SoC for AI at the edge |
 |[Allspice.io](https://allspice.io) | EDA | 2018 | US |Design platform for streamlined hardware development |
-|[Alpha ICs](https://alphaics.ai) | AI | 2016 | US |AI co-processors for edge devices |
+|[Ambient Scientific](https://ambientscientific.ai) | ANALOG | 2018 | US |Analog in-memory AI processor |
 |[Ampere Computing](https://amperecomputing.com) | HPC | 2017 | US |Cloud native manycore CPUs |
 |[Anabrid](https://anabrid.com) | ANALOG | 2023 | DE |Analog computer on a chip |
 |[Analog Inference](https://analog-inference.com) | AI | 2018 | US |Analog in-memory AI inference accelerators |
@@ -141,6 +141,7 @@
 |[Ferric](https://ferric.com) | ANALOG | 2010 | US |Single-chip power converters |
 |[Finchetto](https://finchetto.com) | PHOTONICS | 2020 | UK |Photonic sensors for quantum computing |
 |[Flex Logix](https://flex-logix.com) | FPGA | 2014 | US |Embedded FPGA IP |
+|[Flow Computing](https://flow-computing.com) | HPC | 2024 | FI |Parallel processing IP |
 |[Flux](https://flux.ai) | EDA | 2019 | US |PCB design tools |
 |[FMC](https://ferroelectric-memory.com) | MFG | 2015 | DE |Ferroelectric non-volatile random access memory technology |
 |[Forefrontrf](https://forefrontrf.com) | RF | 2020 | UK |Wireless communication devices |
@@ -150,7 +151,6 @@
 |[Gemesys](https://gemesys.tech) | AI | 2021 | DE |Analog AI processors |
 |[getinstachip](https://getinstachip.com) | EDA | 2024 | US |Intelligent package manager for Verilog |
 |[Gowin](https://gowinsemi.com) | FPGA | 2014 | CN |FPGA chip products |
-|[GrAI Matter Labs](https://graimatterlabs.ai) | AI | 2016 | FR |Programmable neuromorphic computing chips |
 |[Greenwaves](https://greenwaves-technologies.com) | AI | 2014 | FR |Low power edge AI SoCs |
 |[Groq](https://groq.com) | AI | 2016 | US |AI processors |
 |[Gyrfalcon](https://gyrfalcontech.ai) | AI | 2017 | US |AI processors |
@@ -174,6 +174,7 @@
 |[Lemurian Labs](https://lemurianlabs.com) | AI | 2018 | CA |AI computing platform |
 |[Light Solver](https://lightsolver.com) | PHOTONICS | 2019 | IL |Optical computing platform |
 |[Lightelligence](https://lightelligence.ai) | PHOTONICS | 2017 | US |Optical computing platform |
+|[Lightium](https://lightium.co) | MFG | 2023 | CH |Photonics foundry |
 |[Lighton](https://lighton.ai) | PHOTONICS | 2015 | FR |Optical computing platform |
 |[Lightmatter](https://lightmatter.co) | PHOTONICS | 2017 | US |Optical computing platform |
 |[Literal Labs](https://Literal-labs.ai) | AI | 2023 | UK |Explainable AI using Tsetlin machines |
@@ -181,6 +182,7 @@
 |[Matx](https://matx.com) | AI | 2022 | US |Platform for AGI |
 |[MangoBoost](https://mangoboost.io) | HPC | 2022 | US |Data processing units for data center |
 |[Memryx](https://memryx.com) | AI | 2019 | US |AI computing platform |
+|[MetisX](https://metix.com) | MEMORY | 2022 | KR |CXL memory solutions |
 |[Mintneuro](https://mintneuro.com) | HEALTH | 2015 | UK |Neural implants |
 |[Mobilint](https://mobilint.com) | AI | 2019 | KR |AI inference accelerators |
 |[Morse Micro](https://morsemicro.com) | RF | 2016 | AU |Low-power Wi-Fi chips |
@@ -232,6 +234,8 @@
 |[Rain Neuromorphics](https://rain.ai) | AI | 2017 | US |Brain-inspired hardware for AI applications |
 |[RaiderChip](https://raiderchip.ai) | AI | 2024 | ES |AI hardware |
 |[Ramon Space](https://ramon.space) | SPACE | 2004 | IL |Computer system designed for computing in space |
+|[Ranovus](https://ranovus.com) | PHOTONICS | 2012 | CA |Photonics interconnect solutions |
+|[Rapid Photonics](https://rapidphotonics.com) | MFG | 2022 | NL |Photonic IC production |
 |[RapidSilicon](https://rapidsilicon.com) | FPGA | 2021 | US |FPGA devices |
 |[Rebellions](https://rebellions.ai) | AI | 2020 | KR |AI processors |
 |[Recogni](https://recogni.com) | AI | 2017 | US |Visual perception platform for autonomous vehicles |
@@ -283,12 +287,15 @@
 |[Usound](https://usound.com) | MEMS | 2012 | AU |Sound solutions based on MEMS technology |
 |[Vaire Computing](https://vaire.co) | ANALOG | 2021 | UK |Near zero energy computing |
 |[Vayyar](https://vayyar.com) | SENSORS | 2011 | IL |High resolution image sensors |
+|[Vector Photonics](https://vectorphotonics.co.uk) | PHOTONICS | 2020 | UK |Semiconductor lasers |
 |[Ventana Micro](https://ventanamicro.com) | RISC-V | 2018 | US |RISC-V CPU cores and compute subsystems |
 |[VerifAI](https://verifai.ai) | EDA | 2020 | US |Speeding up Hardware & Software Verification using LLMs & Reinforcement Learning |
+|[Viqthor](https://viqthor.com) | QUANTUM | 2023 | FR |RF, Microwaves, and Photonics applied to Quantum Processing |
 |[Volantis Semiconductor](https://volantissemi.ai) | AI | 2022 | US |AI processors |
 |[VoltAI](https://voltai.com) | EDA | 2022 | US |AI models for semiconductor |
 |[VyperCore](https://vypercore.com) | RISC-V | 2022 | UK |RISC-V processors |
 |[Wave Photonics](https://wavephotonics.com) | PHOTONICS | 2021 | UK |Photonics design platform |
+|[Welinq](https://welinq.fr) | QUANTUM | 2022 | FR |Quantum interconnects |
 |[Xanadu](https://xanadu.ai) | PHOTONICS | 2016 | US |Photonic based quantum computer |
 |[Xscape Photonics](https://xscapephotonics.com) | PHOTONICS | 2022 | US |Photonic communication chips |
 |[Xsight Labs](https://xsightlabs.com) | HPC | 2017 | IL |Chipsets for accelerating data-intensive workloads |
@@ -297,13 +304,16 @@
 |[ZeroASIC](https://zeroasic.com) | CHIPLETS | 2020 | US |Chiplet based ASIC platform |
 |[zeroRISC](https://zerorisc.com) | SECURITY | 2023 | US |RoT components |
 |[ZeroPoint](https://zeropoint-tech.com) | MEMORY | 2015 | US |Memory compression technology |
+|[Kinara](https://kinara.ai) | AI | 2014 | US |Accelerating LLMs and Vision AI at the Edge |
 
 ## Alumni
 
 | Company |  Exit   | Year   | Value($M) | Link |
 |---------| ------- | ------ | ------|------|
 |Acacia | IPO | 2016 | 1000 | [Source](https://www.bizjournals.com/boston/news/2016/12/29/the-best-performing-ipo-nationwide-of-2016-is.html) |
+|Aeluma | IPO | 2023 | 6 | [Source](https://www.aeluma.com/news-media/press-releases/detail/28/aeluma-inc-closes-6-million-oversubscribed-common-stock) |
 |Agnilux | Google | 2010 | NA | [Source](https://techcrunch.com/2010/04/20/google-agnilux-apple) |
+|Alpha ICs | Shutdown | 2023 | 0 | [Source](https://pitchbook.com/profiles/company/163655-74) |
 |Alphawave | IPO | 2021 | 4300 | [Source](https://www.marketwatch.com/story/chip-maker-alphawave-set-for-4-3-billion-london-ipo-after-shunning-the-nasdaq-11620840007) |
 |Altair Semiconductor | Sony | 2016 | 212 | [Source](https://www.jvpvc.com/case-studies/altair/) |
 |Ambric | Shutdown | 2008 | 0 | [Source](https://www.oregonlive.com/siliconforest/2008/11/ambric_suspends_operation_plan.html) |
