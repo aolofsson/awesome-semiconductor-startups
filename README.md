@@ -67,6 +67,7 @@
 |[Akhetonics](https://akhetonics.com) | PHOTONICS | 2021 | DE |Optical computing devices |
 |[Alif Semiconductor](https://alifsemi.com) | AI | 2019 | US |Integrated SoC for AI at the edge |
 |[Allspice.io](https://allspice.io) | EDA | 2018 | US |Design platform for streamlined hardware development |
+|[Alpha Design AI](https://alphadesign.ai) | EDA | 2024 | US |AI agent based chip design platform |
 |[Ambient Scientific](https://ambientscientific.ai) | ANALOG | 2018 | US |Analog in-memory AI processor |
 |[Ampere Computing](https://amperecomputing.com) | HPC | 2017 | US |Cloud native manycore CPUs |
 |[Anabrid](https://anabrid.com) | ANALOG | 2023 | DE |Analog computer on a chip |
@@ -138,6 +139,7 @@
 |[Everactive](https://everactive.com) | SENSORS | 2012 | US |Battery-less IoT sensing technology |
 |[Fabric Cryptography](https://fabriccryptography.com) | SECURITY | 2021 | US |Cryptography hardware accelerators |
 |[Falcomm ](https://myfalcomm.com) | RF | 2021 | US |Solid state power amplifiers |
+|[Fermionic](https://fermionic.design) | ANALOG | 2020 | IN |Communication IP and chipsets |
 |[Ferric](https://ferric.com) | ANALOG | 2010 | US |Single-chip power converters |
 |[Finchetto](https://finchetto.com) | PHOTONICS | 2020 | UK |Photonic sensors for quantum computing |
 |[Flex Logix](https://flex-logix.com) | FPGA | 2014 | US |Embedded FPGA IP |
@@ -182,10 +184,12 @@
 |[Matx](https://matx.com) | AI | 2022 | US |Platform for AGI |
 |[MangoBoost](https://mangoboost.io) | HPC | 2022 | US |Data processing units for data center |
 |[Memryx](https://memryx.com) | AI | 2019 | US |AI computing platform |
+|[Mesa Quantum](https://mesaquantum.com) | QUANTUM | 2023 | US |Quantum sensing for GPS |
 |[MetisX](https://metix.com) | MEMORY | 2022 | KR |CXL memory solutions |
 |[Mintneuro](https://mintneuro.com) | HEALTH | 2015 | UK |Neural implants |
 |[Mobilint](https://mobilint.com) | AI | 2019 | KR |AI inference accelerators |
 |[Morse Micro](https://morsemicro.com) | RF | 2016 | AU |Low-power Wi-Fi chips |
+|[Mosaic SoC](https://mosaic-soc.com/) | ASIC | 2024 | CH |Specialized chips designed for AR glasses |
 |[Motivo](https://motivo.ai) | EDA | 2015 | US |Explainable AI and ML for chip design optimization |
 |[Movellus](https://movellus.com) | ANALOG | 2014 | US |Clock distribution IP |
 |[Mythic](https://mythic-ai.com) | AI | 2012 | US |Analog ML accelerators |
@@ -225,9 +229,11 @@
 |[proteanTecs](https://proteantecs.com) | ANALOG | 2017 | IL |Analytics platform for increasing performance and reliability of electronic systems |
 |[PseudolithIC](https://pseudolithic.com) | MFG | 2019 | US |Heterogeneous integration process for RF applications |
 |[PsiQuantum](https://psiquantum.com) | QUANTUM | 2015 | US |Quantum computers |
+|[Qromis](https://qromis.com) | MFG | 2015 | US |Semiconductor materials for WBG |
 |[Quadric.io](https://quadric.io) | AI | 2016 | US |Edge processing for edge devices |
 |[Qualinx](https://qualinx.io) | RF | 2015 | NL |IoT GNSS based tracking and connectivity |
 |[Quantum Motion](https://quantummmotion.tech) | QUANTUM | 2017 | UK |Scalable quantum computer architectural technology |
+|[Quera Computing](https://quera.com) | QUANTUM | 2018 | US |Neutral atom based quantum computers |
 |[Quilter](https://quilter.ai) | EDA | 2020 | US |AI driven PCB design |
 |[Quintessent](https://quintessent.com) | PHOTONICS | 2019 | US |Optical interconnect |
 |[Raaam](https://Raaam-tech.com) | MEMORY | 2021 | IL |High capacity memory technology |
