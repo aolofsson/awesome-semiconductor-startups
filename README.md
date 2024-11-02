@@ -113,6 +113,7 @@
 |[Codasip](https://codasip.com) | RISC-V | 2014 | DE |Supplier of RISC-V IP cores |
 |[Condor Computing](https://condorcomputing.com) | RISC-V | 2023 | US |High performance RISC-V processors |
 |[Cornami](https://cornami.com) | HPC | 2011 | US |Aceleration for full homomorphic encryption |
+|[Cycuity](https://cycuity.com) | EDA | 2014 | US |Security EDA dsign and verification solutions |
 |[DASH Tech IC](https://dashtechic.com) | HPC | 2021 | US |Flexible processors for embedded applications |
 |[d-Matrix](https://d-matrix.ai) | AI | 2019 | US |Computing platform for data center AI inference |
 |[DeepX](https://deepx.ai) | AI | 2018 | KR |AI processors |
