@@ -25,12 +25,14 @@ Atmosic,atmosic.com,RF,US,2016,Battery free wireless devices
 Avicena,avicena.tech,PHOTONICS,US,2019,Optical uLed interconnect technology
 Axelera,axelera.ai,AI,NL,2021,Low power AI edge processors
 Ayar Labs,ayarlabs.com,PHOTONICS,US,2015,Electronic-photonic communication chipsets
+Azimuth AI,Azimuth-ai.com,ASIC,US,2023,Edge AI ASICs
 Baya Systems,bayasystems.com,CHIPLETS,US,2023,Chiplet Based Semiconductor Design
 Beacon Photonics,beaconphotonics,PHOTONICS,US,2023,Integrated photonics platform
 Beam,beamshaping.io,RF,IL,2015,Phased array antennas
 Black Semiconductor,blacksemiconductor.de,MFG,DE,2021,Graphene electronics/photonics translators
 Blaize,blaize.com,AI,US,2010,Graph streaming processor for AI applications
 Blue Cheetah,bcanalog.com,CHIPLETS,US,2018,Customizable die-to-die interconnect solutions
+Blumind,blumind.ai,AI,CA,2020,Analog AI computing
 Blueshift Memory,blueshiftmemory.com,MEMORY,UK,2016,High performance memory centric architecture
 Bluespec,bluespec.com,RISC-V,US,2003,RISC-V IP and System Development Tools
 Bolt Semiconductor,boltsemi.com,MFG,US,2024,Vertical GaN technology
@@ -122,6 +124,7 @@ Lightium,lightium.co,MFG,CH,2023,Photonics foundry
 Lighton,lighton.ai,PHOTONICS,FR,2015,Optical computing platform
 Lightmatter,lightmatter.co,PHOTONICS,US,2017,Optical computing platform
 Literal Labs,Literal-labs.ai,AI,UK,2023,Explainable AI using Tsetlin machines
+Lubis EDA,Lubis-eda.com,EDA,DE,2021,Cloud based formal verification platform
 Luminous Computing,luminous.com,PHOTONICS,US,2018,Optical computing platform
 Matx,matx.com,AI,US,2022,Platform for AGI
 MangoBoost,mangoboost.io,HPC,US,2022,Data processing units for data center
@@ -130,6 +133,7 @@ Mesa Quantum,mesaquantum.com,QUANTUM,US,2023,Quantum sensing for GPS
 MetisX,metix.com,MEMORY,KR,2022,CXL memory solutions
 Mintneuro,mintneuro.com,HEALTH,UK,2015,Neural implants
 Mobilint,mobilint.com,AI,KR,2019,AI inference accelerators
+Morphing Machines,morphing.in,HPC,IN,2006,Reconfigurable processors
 Morse Micro,morsemicro.com,RF,AU,2016,Low-power Wi-Fi chips
 Mosaic SoC,mosaic-soc.com/,ASIC,CH,2024,Specialized chips designed for AR glasses
 Motivo,motivo.ai,EDA,US,2015,Explainable AI and ML for chip design optimization
@@ -232,6 +236,7 @@ Thintronics,thintronics.com,MFG,US,2019,Thin film materials
 Trameto,trameto.com,ANALOG,UK,2016,Energy harvesting PMICs
 TriEye,trieye.tech,SENSORS,IL,2017,Short-wave infrared imaging systems
 Ubilite,ubilite.com,RF,US,2014,Low power wireless communication for IoT
+Ubitium,ubitium.com,AI,DE,,Universal processor
 Unifabrix,unifabrix.com,NETWORKING,IL,2020,CXL based secure connectivity solution
 Untether AI,untether.ai,AI,CA,2018,AI processing devices
 Upmem,upmem.com,AI,FR,2015,In memory processing devices for big data and AI

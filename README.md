@@ -84,12 +84,14 @@
 |[Avicena](https://avicena.tech) | PHOTONICS | 2019 | US |Optical uLed interconnect technology |
 |[Axelera](https://axelera.ai) | AI | 2021 | NL |Low power AI edge processors |
 |[Ayar Labs](https://ayarlabs.com) | PHOTONICS | 2015 | US |Electronic-photonic communication chipsets |
+|[Azimuth AI](https://Azimuth-ai.com) | ASIC | 2023 | US |Edge AI ASICs |
 |[Baya Systems](https://bayasystems.com) | CHIPLETS | 2023 | US |Chiplet Based Semiconductor Design |
 |[Beacon Photonics](https://beaconphotonics) | PHOTONICS | 2023 | US |Integrated photonics platform |
 |[Beam](https://beamshaping.io) | RF | 2015 | IL |Phased array antennas |
 |[Black Semiconductor](https://blacksemiconductor.de) | MFG | 2021 | DE |Graphene electronics/photonics translators |
 |[Blaize](https://blaize.com) | AI | 2010 | US |Graph streaming processor for AI applications |
 |[Blue Cheetah](https://bcanalog.com) | CHIPLETS | 2018 | US |Customizable die-to-die interconnect solutions |
+|[Blumind](https://blumind.ai) | AI | 2020 | CA |Analog AI computing |
 |[Blueshift Memory](https://blueshiftmemory.com) | MEMORY | 2016 | UK |High performance memory centric architecture |
 |[Bluespec](https://bluespec.com) | RISC-V | 2003 | US |RISC-V IP and System Development Tools |
 |[Bolt Semiconductor](https://boltsemi.com) | MFG | 2024 | US |Vertical GaN technology |
@@ -181,6 +183,7 @@
 |[Lighton](https://lighton.ai) | PHOTONICS | 2015 | FR |Optical computing platform |
 |[Lightmatter](https://lightmatter.co) | PHOTONICS | 2017 | US |Optical computing platform |
 |[Literal Labs](https://Literal-labs.ai) | AI | 2023 | UK |Explainable AI using Tsetlin machines |
+|[Lubis EDA](https://Lubis-eda.com) | EDA | 2021 | DE |Cloud based formal verification platform |
 |[Luminous Computing](https://luminous.com) | PHOTONICS | 2018 | US |Optical computing platform |
 |[Matx](https://matx.com) | AI | 2022 | US |Platform for AGI |
 |[MangoBoost](https://mangoboost.io) | HPC | 2022 | US |Data processing units for data center |
@@ -189,6 +192,7 @@
 |[MetisX](https://metix.com) | MEMORY | 2022 | KR |CXL memory solutions |
 |[Mintneuro](https://mintneuro.com) | HEALTH | 2015 | UK |Neural implants |
 |[Mobilint](https://mobilint.com) | AI | 2019 | KR |AI inference accelerators |
+|[Morphing Machines](https://morphing.in) | HPC | 2006 | IN |Reconfigurable processors |
 |[Morse Micro](https://morsemicro.com) | RF | 2016 | AU |Low-power Wi-Fi chips |
 |[Mosaic SoC](https://mosaic-soc.com/) | ASIC | 2024 | CH |Specialized chips designed for AR glasses |
 |[Motivo](https://motivo.ai) | EDA | 2015 | US |Explainable AI and ML for chip design optimization |
@@ -291,6 +295,7 @@
 |[Trameto](https://trameto.com) | ANALOG | 2016 | UK |Energy harvesting PMICs |
 |[TriEye](https://trieye.tech) | SENSORS | 2017 | IL |Short-wave infrared imaging systems |
 |[Ubilite](https://ubilite.com) | RF | 2014 | US |Low power wireless communication for IoT |
+|[Ubitium](https://ubitium.com) | AI |  | DE |Universal processor |
 |[Unifabrix](https://unifabrix.com) | NETWORKING | 2020 | IL |CXL based secure connectivity solution |
 |[Untether AI](https://untether.ai) | AI | 2018 | CA |AI processing devices |
 |[Upmem](https://upmem.com) | AI | 2015 | FR |In memory processing devices for big data and AI |
