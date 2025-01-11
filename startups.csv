@@ -108,6 +108,7 @@ HyperCIM,hypercim.com,AI,UK,2023,Optimized compute in memory architecture
 InCore Semi,incoresemi.com,RISC-V,IN,2018,RISC-V IP cores
 Ingonyama,ingonyama.com,SECURITY,IL,2021,Hardware accelerators for cryptographic computation
 Innatera,innatera.com,AI,NL,2018,Neuromorphic processors
+Inspire Semi,inspiresemi.com,HPC,US,2020,Manycore CPU on a chip
 Ipronics,ipronics.com,PHOTONICS,ES,2019,Programmable photonics products
 Jeeva Wireless,jeevawireless.com,RF,US,2015,Battery-free wireless sensing technology
 Jitx,jitx.com,EDA,US,2016,PCB design tools
@@ -214,6 +215,7 @@ Secqai,secqai.com,QUANTUM,UK,2021,Quantum hardware
 SiFive,sifive.com,RISC-V,US,2015,RISC-V based IP provider
 SiLC,silc.com,PHOTONICS,US,2018,Photonics based imaging sensors
 Silicon Box,Silicon-box.com,MFG,SG,2021,Semiconductor design and device integration services
+Siliconally,siliconally.com,NETWORKING,DE,2019,Safe Ethernet IP
 Silimate,silimate.com,EDA,US,2023,Co-pilot for chip designers
 Silogy,silogy.io,EDA,US,2023,Collaborative platform for integrated circuit design
 SiMa.ai,sima.ai,AI,US,2018,AI processing for edge devices
@@ -236,7 +238,8 @@ Thintronics,thintronics.com,MFG,US,2019,Thin film materials
 Trameto,trameto.com,ANALOG,UK,2016,Energy harvesting PMICs
 TriEye,trieye.tech,SENSORS,IL,2017,Short-wave infrared imaging systems
 Ubilite,ubilite.com,RF,US,2014,Low power wireless communication for IoT
-Ubitium,ubitium.com,AI,DE,,Universal processor
+Ubitium,ubitium.com,AI,DE,2024,Universal processor
+Uhnder,uhnder.com,SENSORS,US,2015,Digital automotive radar SoC
 Unifabrix,unifabrix.com,NETWORKING,IL,2020,CXL based secure connectivity solution
 Untether AI,untether.ai,AI,CA,2018,AI processing devices
 Upmem,upmem.com,AI,FR,2015,In memory processing devices for big data and AI

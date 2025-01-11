@@ -167,6 +167,7 @@
 |[InCore Semi](https://incoresemi.com) | RISC-V | 2018 | IN |RISC-V IP cores |
 |[Ingonyama](https://ingonyama.com) | SECURITY | 2021 | IL |Hardware accelerators for cryptographic computation |
 |[Innatera](https://innatera.com) | AI | 2018 | NL |Neuromorphic processors |
+|[Inspire Semi](https://inspiresemi.com) | HPC | 2020 | US |Manycore CPU on a chip |
 |[Ipronics](https://ipronics.com) | PHOTONICS | 2019 | ES |Programmable photonics products |
 |[Jeeva Wireless](https://jeevawireless.com) | RF | 2015 | US |Battery-free wireless sensing technology |
 |[Jitx](https://jitx.com) | EDA | 2016 | US |PCB design tools |
@@ -273,6 +274,7 @@
 |[SiFive](https://sifive.com) | RISC-V | 2015 | US |RISC-V based IP provider |
 |[SiLC](https://silc.com) | PHOTONICS | 2018 | US |Photonics based imaging sensors |
 |[Silicon Box](https://Silicon-box.com) | MFG | 2021 | SG |Semiconductor design and device integration services |
+|[Siliconally](https://siliconally.com) | NETWORKING | 2019 | DE |Safe Ethernet IP |
 |[Silimate](https://silimate.com) | EDA | 2023 | US |Co-pilot for chip designers |
 |[Silogy](https://silogy.io) | EDA | 2023 | US |Collaborative platform for integrated circuit design |
 |[SiMa.ai](https://sima.ai) | AI | 2018 | US |AI processing for edge devices |
@@ -295,7 +297,8 @@
 |[Trameto](https://trameto.com) | ANALOG | 2016 | UK |Energy harvesting PMICs |
 |[TriEye](https://trieye.tech) | SENSORS | 2017 | IL |Short-wave infrared imaging systems |
 |[Ubilite](https://ubilite.com) | RF | 2014 | US |Low power wireless communication for IoT |
-|[Ubitium](https://ubitium.com) | AI |  | DE |Universal processor |
+|[Ubitium](https://ubitium.com) | AI | 2024 | DE |Universal processor |
+|[Uhnder](https://uhnder.com) | SENSORS | 2015 | US |Digital automotive radar SoC |
 |[Unifabrix](https://unifabrix.com) | NETWORKING | 2020 | IL |CXL based secure connectivity solution |
 |[Untether AI](https://untether.ai) | AI | 2018 | CA |AI processing devices |
 |[Upmem](https://upmem.com) | AI | 2015 | FR |In memory processing devices for big data and AI |
