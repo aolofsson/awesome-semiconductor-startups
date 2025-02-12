@@ -201,6 +201,7 @@
 |[Nanopower](https://nanopowersemi.com) | ANALOG | 2017 | NO |Smart power management ICs |
 |[NcodiN](https://ncodin.com) | PHOTONICS | 2023 | FR |Optical interposers |
 |[Neologic](https://neologic.com) | MFG | 2021 | IL |Quasi-CMOS transistor technology |
+|[NeuLink Semiconductors](https://neulinksemi.com) | FPGA | 2023 | US |FPGAs for AI |
 |[Neureality](https://neureality.ai) | AI | 2019 | IL |Purpose-built AI-centric architecture |
 |[NeuroBlade](https://neuroblade.com) | AI | 2018 | IL |Accelerators for high throughput data analytics |
 |[Neurophos](https://neurophos.com) | PHOTONICS | 2020 | US |Optical computing platform |
