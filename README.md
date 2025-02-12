@@ -87,6 +87,7 @@
 |[Baya Systems](https://bayasystems.com) | CHIPLETS | 2023 | US |Chiplet Based Semiconductor Design |
 |[Beacon Photonics](https://beaconphotonics) | PHOTONICS | 2023 | US |Integrated photonics platform |
 |[Beam](https://beamshaping.io) | RF | 2015 | IL |Phased array antennas |
+|[Berkeley Neuromorphic](https://berkeleyneuromorphic.com) | AI | 2016 | US |Neuromorphic accelerators |
 |[Black Semiconductor](https://blacksemiconductor.de) | MFG | 2021 | DE |Graphene electronics/photonics translators |
 |[Blaize](https://blaize.com) | AI | 2010 | US |Graph streaming processor for AI applications |
 |[Blue Cheetah](https://bcanalog.com) | CHIPLETS | 2018 | US |Customizable die-to-die interconnect solutions |
