@@ -230,6 +230,7 @@
 |[PointCloud](https://point.cloud) | SENSORS | 2017 | US |4D imaging sensors |
 |[Polaris EO](https://polariseo.com) | PHOTONICS | 2021 | US |Ferrolectric based electro-optic modulators |
 |[Polyn Technology](https://polyn.ai) | AI | 2019 | IL |Neuromorphic Analog Signal Processor chips |
+|[Positron](https://positron.ai) | AI | 2023 | US |AI accelerators for Transformers |
 |[PQShield](https://pqshield.com) | QUANTUM | 2018 | UK |Post-quantum Cryptography Co-processor |
 |[PragmatiC](https://pragmaticsemi.com) | MFG | 2010 | UK |Manufacturer of low-cost flexible integrated circuits |
 |[Precision Innovations](https://precisioninno.com) | EDA | 2019 | US |Developing and supporting OpenROAD |
