@@ -89,7 +89,6 @@
 |[Beam](https://beamshaping.io) | RF | 2015 | IL |Phased array antennas |
 |[Berkeley Neuromorphic](https://berkeleyneuromorphic.com) | AI | 2016 | US |Neuromorphic accelerators |
 |[Black Semiconductor](https://blacksemiconductor.de) | MFG | 2021 | DE |Graphene electronics/photonics translators |
-|[Blaize](https://blaize.com) | AI | 2010 | US |Graph streaming processor for AI applications |
 |[Blue Cheetah](https://bcanalog.com) | CHIPLETS | 2018 | US |Customizable die-to-die interconnect solutions |
 |[Blumind](https://blumind.ai) | AI | 2020 | CA |Analog AI computing |
 |[Blueshift Memory](https://blueshiftmemory.com) | MEMORY | 2016 | UK |High performance memory centric architecture |
@@ -345,6 +344,7 @@
 |Astera | IPO | 2024 | 5500 | [Source](https://www.axios.com/2024/03/30/ipo-ipos-astera-reddit-watch) |
 |Axis Semiconductor | Shutdown | 2022 | 0 | [Source](http://www.axissemi.com/) |
 |Banias | Alphawave | 2022 | 240 | [Source](https://www.calcalistech.com/ctechnews/article/hynfz2sxs) |
+|Blaize | BurTech | 2025 | 1200 | [Source](https://www.eetimes.com/first-ai-chip-startup-goes-public-as-blaize-merges-with-spac/) |
 |BrainChip | IPO | 2011 | NA | [Source](https://finance.yahoo.com/quote/BRN.AX/) |
 |Calxeda | Shutdown | 2013 | 0 | [Source](https://semiengineering.com/chip-startup-shuts-doors/) |
 |Cambricon | IPO | 2020 | 5000 | [Source](https://techcrunch.com/2020/06/24/chip-cambricon-ipo/) |
