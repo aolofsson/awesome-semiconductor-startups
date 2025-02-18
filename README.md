@@ -71,7 +71,6 @@
 |[Ambient Scientific](https://ambientscientific.ai) | ANALOG | 2018 | US |Analog in-memory AI processor |
 |[Ampere Computing](https://amperecomputing.com) | HPC | 2017 | US |Cloud native manycore CPUs |
 |[Anabrid](https://anabrid.com) | ANALOG | 2023 | DE |Analog computer on a chip |
-|[Analog Inference](https://analog-inference.com) | AI | 2018 | US |Analog in-memory AI inference accelerators |
 |[Analog Photonics](https://analogphotonics.com) | PHOTONICS | 2012 | US |LIDAR and other optical technologies |
 |[Andapt](https://andapt.com) | ANALOG | 2014 | IE |Programmable power management ICs |
 |[Anello](https://anellophotonics.com) | PHOTONICS | 2018 | US |Photonic based gyroscopes for navigation |
@@ -88,8 +87,8 @@
 |[Baya Systems](https://bayasystems.com) | CHIPLETS | 2023 | US |Chiplet Based Semiconductor Design |
 |[Beacon Photonics](https://beaconphotonics) | PHOTONICS | 2023 | US |Integrated photonics platform |
 |[Beam](https://beamshaping.io) | RF | 2015 | IL |Phased array antennas |
+|[Berkeley Neuromorphic](https://berkeleyneuromorphic.com) | AI | 2016 | US |Neuromorphic accelerators |
 |[Black Semiconductor](https://blacksemiconductor.de) | MFG | 2021 | DE |Graphene electronics/photonics translators |
-|[Blaize](https://blaize.com) | AI | 2010 | US |Graph streaming processor for AI applications |
 |[Blue Cheetah](https://bcanalog.com) | CHIPLETS | 2018 | US |Customizable die-to-die interconnect solutions |
 |[Blumind](https://blumind.ai) | AI | 2020 | CA |Analog AI computing |
 |[Blueshift Memory](https://blueshiftmemory.com) | MEMORY | 2016 | UK |High performance memory centric architecture |
@@ -188,9 +187,8 @@
 |[Luminous Computing](https://luminous.com) | PHOTONICS | 2018 | US |Optical computing platform |
 |[Matx](https://matx.com) | AI | 2022 | US |Platform for AGI |
 |[MangoBoost](https://mangoboost.io) | HPC | 2022 | US |Data processing units for data center |
-|[Memryx](https://memryx.com) | AI | 2019 | US |AI computing platform |
+|[MemryX](https://memryx.com) | AI | 2019 | US |AI computing platform |
 |[Mesa Quantum](https://mesaquantum.com) | QUANTUM | 2023 | US |Quantum sensing for GPS |
-|[MetisX](https://metix.com) | MEMORY | 2022 | KR |CXL memory solutions |
 |[Mintneuro](https://mintneuro.com) | HEALTH | 2015 | UK |Neural implants |
 |[Mobilint](https://mobilint.com) | AI | 2019 | KR |AI inference accelerators |
 |[Morphing Machines](https://morphing.in) | HPC | 2006 | IN |Reconfigurable processors |
@@ -202,6 +200,8 @@
 |[Nanopower](https://nanopowersemi.com) | ANALOG | 2017 | NO |Smart power management ICs |
 |[NcodiN](https://ncodin.com) | PHOTONICS | 2023 | FR |Optical interposers |
 |[Neologic](https://neologic.com) | MFG | 2021 | IL |Quasi-CMOS transistor technology |
+|[Neuchips](https://neuchips.ai) | AI | 2019 | TW |AI accelerators |
+|[NeuLink Semiconductors](https://neulinksemi.com) | FPGA | 2023 | US |FPGAs for AI |
 |[Neureality](https://neureality.ai) | AI | 2019 | IL |Purpose-built AI-centric architecture |
 |[NeuroBlade](https://neuroblade.com) | AI | 2018 | IL |Accelerators for high throughput data analytics |
 |[Neurophos](https://neurophos.com) | PHOTONICS | 2020 | US |Optical computing platform |
@@ -230,6 +230,7 @@
 |[PointCloud](https://point.cloud) | SENSORS | 2017 | US |4D imaging sensors |
 |[Polaris EO](https://polariseo.com) | PHOTONICS | 2021 | US |Ferrolectric based electro-optic modulators |
 |[Polyn Technology](https://polyn.ai) | AI | 2019 | IL |Neuromorphic Analog Signal Processor chips |
+|[Positron](https://positron.ai) | AI | 2023 | US |AI accelerators for Transformers |
 |[PQShield](https://pqshield.com) | QUANTUM | 2018 | UK |Post-quantum Cryptography Co-processor |
 |[PragmatiC](https://pragmaticsemi.com) | MFG | 2010 | UK |Manufacturer of low-cost flexible integrated circuits |
 |[Precision Innovations](https://precisioninno.com) | EDA | 2019 | US |Developing and supporting OpenROAD |
@@ -260,6 +261,7 @@
 |[Riverlane](https://riverlane.com) | QUANTUM | 2016 | UK |Quantum error correction |
 |[Rivos](https://rivosinc.com) | RISC-V | 2021 | US |Stealth |
 |[RoboSense](https://robosense.ai) | SENSORS | 2014 | CN |Advanced LiDAR sensing |
+|[Sagence AI](https://sagence-ai.com) | AI | 2018 | US |Analog in-memory AI inference accelerators |
 |[Salience Labs](https://saliencelabs.ai) | PHOTONICS | 2020 | UK |Photonic computing platform |
 |[SambaNova](https://sambanova.ai) | AI | 2017 | US |AI processing |
 |[Saras Micro Devices](https://sarasmicro.com) | MFG | 2021 | US |Packaging solutions for effective power delivery |
@@ -315,6 +317,7 @@
 |[Wave Photonics](https://wavephotonics.com) | PHOTONICS | 2021 | UK |Photonics design platform |
 |[Welinq](https://welinq.fr) | QUANTUM | 2022 | FR |Quantum interconnects |
 |[Xanadu](https://xanadu.ai) | PHOTONICS | 2016 | US |Photonic based quantum computer |
+|[XCENA](https://xcena.com) | MEMORY | 2022 | KR |CXL memory solutions |
 |[Xscape Photonics](https://xscapephotonics.com) | PHOTONICS | 2022 | US |Photonic communication chips |
 |[Xsight Labs](https://xsightlabs.com) | HPC | 2017 | IL |Chipsets for accelerating data-intensive workloads |
 |[Yorchip](https://yorchip.com) | CHIPLETS | 2023 | US |Chiplet technology |
@@ -341,6 +344,7 @@
 |Astera | IPO | 2024 | 5500 | [Source](https://www.axios.com/2024/03/30/ipo-ipos-astera-reddit-watch) |
 |Axis Semiconductor | Shutdown | 2022 | 0 | [Source](http://www.axissemi.com/) |
 |Banias | Alphawave | 2022 | 240 | [Source](https://www.calcalistech.com/ctechnews/article/hynfz2sxs) |
+|Blaize | BurTech | 2025 | 1200 | [Source](https://www.eetimes.com/first-ai-chip-startup-goes-public-as-blaize-merges-with-spac/) |
 |BrainChip | IPO | 2011 | NA | [Source](https://finance.yahoo.com/quote/BRN.AX/) |
 |Calxeda | Shutdown | 2013 | 0 | [Source](https://semiengineering.com/chip-startup-shuts-doors/) |
 |Cambricon | IPO | 2020 | 5000 | [Source](https://techcrunch.com/2020/06/24/chip-cambricon-ipo/) |

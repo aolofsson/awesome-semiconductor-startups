@@ -12,7 +12,6 @@ Alpha Design AI,alphadesign.ai,EDA,US,2024,AI agent based chip design platform
 Ambient Scientific,ambientscientific.ai,ANALOG,US,2018,Analog in-memory AI processor
 Ampere Computing,amperecomputing.com,HPC,US,2017,Cloud native manycore CPUs
 Anabrid,anabrid.com,ANALOG,DE,2023,Analog computer on a chip
-Analog Inference,analog-inference.com,AI,US,2018,Analog in-memory AI inference accelerators
 Analog Photonics,analogphotonics.com,PHOTONICS,US,2012,LIDAR and other optical technologies
 Andapt,andapt.com,ANALOG,IE,2014,Programmable power management ICs
 Anello,anellophotonics.com,PHOTONICS,US,2018,Photonic based gyroscopes for navigation
@@ -29,8 +28,8 @@ Azimuth AI,Azimuth-ai.com,ASIC,US,2023,Edge AI ASICs
 Baya Systems,bayasystems.com,CHIPLETS,US,2023,Chiplet Based Semiconductor Design
 Beacon Photonics,beaconphotonics,PHOTONICS,US,2023,Integrated photonics platform
 Beam,beamshaping.io,RF,IL,2015,Phased array antennas
+Berkeley Neuromorphic,berkeleyneuromorphic.com,AI,US,2016,Neuromorphic accelerators
 Black Semiconductor,blacksemiconductor.de,MFG,DE,2021,Graphene electronics/photonics translators
-Blaize,blaize.com,AI,US,2010,Graph streaming processor for AI applications
 Blue Cheetah,bcanalog.com,CHIPLETS,US,2018,Customizable die-to-die interconnect solutions
 Blumind,blumind.ai,AI,CA,2020,Analog AI computing
 Blueshift Memory,blueshiftmemory.com,MEMORY,UK,2016,High performance memory centric architecture
@@ -129,9 +128,8 @@ Lubis EDA,Lubis-eda.com,EDA,DE,2021,Cloud based formal verification platform
 Luminous Computing,luminous.com,PHOTONICS,US,2018,Optical computing platform
 Matx,matx.com,AI,US,2022,Platform for AGI
 MangoBoost,mangoboost.io,HPC,US,2022,Data processing units for data center
-Memryx,memryx.com,AI,US,2019,AI computing platform
+MemryX,memryx.com,AI,US,2019,AI computing platform
 Mesa Quantum,mesaquantum.com,QUANTUM,US,2023,Quantum sensing for GPS
-MetisX,metix.com,MEMORY,KR,2022,CXL memory solutions
 Mintneuro,mintneuro.com,HEALTH,UK,2015,Neural implants
 Mobilint,mobilint.com,AI,KR,2019,AI inference accelerators
 Morphing Machines,morphing.in,HPC,IN,2006,Reconfigurable processors
@@ -143,6 +141,8 @@ Mythic,mythic-ai.com,AI,US,2012,Analog ML accelerators
 Nanopower,nanopowersemi.com,ANALOG,NO,2017,Smart power management ICs
 NcodiN,ncodin.com,PHOTONICS,FR,2023,Optical interposers
 Neologic,neologic.com,MFG,IL,2021,Quasi-CMOS transistor technology
+Neuchips,neuchips.ai,AI,TW,2019,AI accelerators
+NeuLink Semiconductors,neulinksemi.com,FPGA,US,2023,FPGAs for AI
 Neureality,neureality.ai,AI,IL,2019,Purpose-built AI-centric architecture
 NeuroBlade,neuroblade.com,AI,IL,2018,Accelerators for high throughput data analytics
 Neurophos,neurophos.com,PHOTONICS,US,2020,Optical computing platform
@@ -171,6 +171,7 @@ Pliops,pliops.com,HPC,IL,2017,Scalable data handling/acceleration
 PointCloud,point.cloud,SENSORS,US,2017,4D imaging sensors
 Polaris EO,polariseo.com,PHOTONICS,US,2021,Ferrolectric based electro-optic modulators
 Polyn Technology,polyn.ai,AI,IL,2019,Neuromorphic Analog Signal Processor chips
+Positron,positron.ai,AI,US,2023,AI accelerators for Transformers
 PQShield,pqshield.com,QUANTUM,UK,2018,Post-quantum Cryptography Co-processor
 PragmatiC,pragmaticsemi.com,MFG,UK,2010,Manufacturer of low-cost flexible integrated circuits
 Precision Innovations,precisioninno.com,EDA,US,2019,Developing and supporting OpenROAD
@@ -201,6 +202,7 @@ RISE,Rise-da.com,EDA,US,2024,Design and verification productivity platform
 Riverlane,riverlane.com,QUANTUM,UK,2016,Quantum error correction
 Rivos,rivosinc.com,RISC-V,US,2021,Stealth
 RoboSense,robosense.ai,SENSORS,CN,2014,Advanced LiDAR sensing
+Sagence AI,sagence-ai.com,AI,US,2018,Analog in-memory AI inference accelerators
 Salience Labs,saliencelabs.ai,PHOTONICS,UK,2020,Photonic computing platform
 SambaNova,sambanova.ai,AI,US,2017,AI processing
 Saras Micro Devices,sarasmicro.com,MFG,US,2021,Packaging solutions for effective power delivery
@@ -256,6 +258,7 @@ VyperCore,vypercore.com,RISC-V,UK,2022,RISC-V processors
 Wave Photonics,wavephotonics.com,PHOTONICS,UK,2021,Photonics design platform
 Welinq,welinq.fr,QUANTUM,FR,2022,Quantum interconnects
 Xanadu,xanadu.ai,PHOTONICS,US,2016,Photonic based quantum computer
+XCENA,xcena.com,MEMORY,KR,2022,CXL memory solutions
 Xscape Photonics,xscapephotonics.com,PHOTONICS,US,2022,Photonic communication chips
 Xsight Labs,xsightlabs.com,HPC,IL,2017,Chipsets for accelerating data-intensive workloads
 Yorchip,yorchip.com,CHIPLETS,US,2023,Chiplet technology
