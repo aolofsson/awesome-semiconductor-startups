@@ -61,6 +61,7 @@
 |[Accelercom](https://accelercomm.com) | RF | 2016 | UK |5G physical layer for high-performance networks |
 |[Agile Analog](https://agileanalog.com) | EDA | 2017 | UK |Automating design of analog circuitry |
 |[Agita Labs](https://agitalabs.com) | SECURITY | 2018 | US |Processing security technology/IP |
+|[Agnit Semiconductor](https://agnitsemi.com) | MFG | 2019 | IN |GaN based wafers and devices |
 |[Ahead Computing](https://aheadcomputing.com) | RISC-V | 2024 | US |High performance RISC-V core IP |
 |[Aistorm](https://aistorm.ai) | AI | 2011 | US |Charge domain based AI processing |
 |[Akeana](https://akeana.com) | RISC-V | 2021 | US |RISC-V CPU and System IP |
@@ -133,11 +134,13 @@
 |[Enosemi](https://enosemi.com) | PHOTONICS | 2023 | US |Photonics subsystems |
 |[enzzo](https://enzzo.ai) | EDA | 2024 | US |AI driven hardware development |
 |[Eridan](https://eridan.io) | RF | 2013 | US |RF front end for for wireless telecommunications |
+|[Eridu AI](https://eridu.ai) | PHOTONICS | 2023 | US |Photonics based AI acceleration |
 |[Esperanto](https://esperanto.ai) | HPC | 2014 | US |Manycore RISC-V compute platform |
 |[Etched](https://etched.com) | AI | 2022 | US |AI processors |
 |[Ethernovia](https://ethernovia.com) | NETWORKING | 2018 | US |In vehicle networking |
 |[eTopus](https://etopus.com) | NETWORKING | 2013 | US |High speed interconnect solutions |
 |[Evacorp](https://evacorp.ai) | AI | 2023 | US |AI processing |
+|[Exa Laboratories](https://exalaboratories.com) | AI | 2024 | US |Reconfigurable chips for AI |
 |[Exo Imaging](https://exo.inc) | HEALTH | 2015 | US |Handheld ultrasound device |
 |[Extropic](https://extropic.ai) | AI | 2022 | US |Physics based generative AI |
 |[Everactive](https://everactive.com) | SENSORS | 2012 | US |Battery-less IoT sensing technology |
@@ -185,6 +188,7 @@
 |[Lightmatter](https://lightmatter.co) | PHOTONICS | 2017 | US |Optical computing platform |
 |[Literal Labs](https://Literal-labs.ai) | AI | 2023 | UK |Explainable AI using Tsetlin machines |
 |[Lubis EDA](https://Lubis-eda.com) | EDA | 2021 | DE |Cloud based formal verification platform |
+|[Lumotive](https://lumotive.com) | PHOTONICS | 2017 | US |Optical beam forming sensors |
 |[Luminous Computing](https://luminous.com) | PHOTONICS | 2018 | US |Optical computing platform |
 |[Matx](https://matx.com) | AI | 2022 | US |Platform for AGI |
 |[MangoBoost](https://mangoboost.io) | HPC | 2022 | US |Data processing units for data center |
@@ -280,6 +284,7 @@
 |[SiMa.ai](https://sima.ai) | AI | 2018 | US |AI processing for edge devices |
 |[Singular Photonics](https://singularphotonics.com) | SENSORS | 2024 | UK |High performance camera modules |
 |[SiPearl](https://sipearl.com) | HPC | 2019 | FR |Manycore processors |
+|[Siphox](https://siphoxhealth.com) | HEALTH | 2020 | US |Biosensing platform for personalized health |
 |[Skycore Semiconductors](https://skycore-semi.com) | ANALOG | 2021 | DK |Switched capacitor based integrated power converters |
 |[Spark Micro](https://sparkmicro.com) | RF | 2016 | CA |Transceivers for low power wireless communication |
 |[Speedata](https://speedata.io) | AI | 2019 | IL |Analytics Processing Unit to accelerate big data |
@@ -315,6 +320,7 @@
 |[Wave Photonics](https://wavephotonics.com) | PHOTONICS | 2021 | UK |Photonics design platform |
 |[Welinq](https://welinq.fr) | QUANTUM | 2022 | FR |Quantum interconnects |
 |[Xanadu](https://xanadu.ai) | PHOTONICS | 2016 | US |Photonic based quantum computer |
+|[Xcelerium](https://xcelerium.com) | HPC | 2020 | US |Domain specific processors for converged workloads |
 |[Xscape Photonics](https://xscapephotonics.com) | PHOTONICS | 2022 | US |Photonic communication chips |
 |[Xsight Labs](https://xsightlabs.com) | HPC | 2017 | IL |Chipsets for accelerating data-intensive workloads |
 |[Yorchip](https://yorchip.com) | CHIPLETS | 2023 | US |Chiplet technology |
