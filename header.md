@@ -24,10 +24,10 @@
 * Pie-charts were created Aug 31, 2024 (not auto-generated)
 
 ## Category Distribution
-![Types](pie_type.png)
+![Types](plot_type.svg)
 
-## Country Distribution
+## Age Distribution
 
-![Countries](pie_country.png)
+![Age](plot_age.svg)
 
 ## Categories
