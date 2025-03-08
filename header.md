@@ -21,7 +21,7 @@
 * Categorize the startup based on technology table below
 * Use standard two letter country codes
 * Do NOT edit the README directly, it's auto-generated
-* Pie-charts were created Aug 31, 2024 (not auto-generated)
+* Plots were manually extracted Feb 25, 2025 (not auto-generated)
 
 ## Category Distribution
 ![Types](plot_type.svg)
