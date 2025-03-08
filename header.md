@@ -21,9 +21,9 @@
 * Categorize the startup based on technology table below
 * Use standard two letter country codes
 * Do NOT edit the README directly, it's auto-generated
-* Plots were manually extracted Feb 25, 2025 (not auto-generated)
+* Plots were manually extracted 02/2025 (not auto-generated)
 
-## Category Distribution
+## Category Distribution (270 samples, 02/2025)
 ![Types](plot_type.svg)
 
 ## Age Distribution
