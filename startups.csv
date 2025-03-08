@@ -13,7 +13,6 @@ Alpha Design AI,alphadesign.ai,EDA,US,2024,AI agent based chip design platform
 Ambient Scientific,ambientscientific.ai,ANALOG,US,2018,Analog in-memory AI processor
 Ampere Computing,amperecomputing.com,HPC,US,2017,Cloud native manycore CPUs
 Anabrid,anabrid.com,ANALOG,DE,2023,Analog computer on a chip
-Analog Inference,analog-inference.com,AI,US,2018,Analog in-memory AI inference accelerators
 Analog Photonics,analogphotonics.com,PHOTONICS,US,2012,LIDAR and other optical technologies
 Andapt,andapt.com,ANALOG,IE,2014,Programmable power management ICs
 Anello,anellophotonics.com,PHOTONICS,US,2018,Photonic based gyroscopes for navigation
@@ -106,6 +105,7 @@ HawAI.tech,hawai.tech,AI,FR,2019,AI accelerators
 Heronic,heronic.ai,EDA,UK,2024,Automated generation of bespoke AI accelerators
 HyperAccel,hyperaccel.ai,AI,KR,2023,AI processors and server solutions for LLM/Gen AI
 HyperCIM,hypercim.com,AI,UK,2023,Optimized compute in memory architecture
+Hyperlume,hyperlume.com,PHOTONICS,CA,2022,Optical interconnect
 InCore Semi,incoresemi.com,RISC-V,IN,2018,RISC-V IP cores
 Ingonyama,ingonyama.com,SECURITY,IL,2021,Hardware accelerators for cryptographic computation
 Innatera,innatera.com,AI,NL,2018,Neuromorphic processors
@@ -203,6 +203,7 @@ RISE,Rise-da.com,EDA,US,2024,Design and verification productivity platform
 Riverlane,riverlane.com,QUANTUM,UK,2016,Quantum error correction
 Rivos,rivosinc.com,RISC-V,US,2021,Stealth
 RoboSense,robosense.ai,SENSORS,CN,2014,Advanced LiDAR sensing
+Sagence AI,www.sagence-ai.com,AI,US,2018,Analog in-memory AI inference accelerators
 Salience Labs,saliencelabs.ai,PHOTONICS,UK,2020,Photonic computing platform
 SambaNova,sambanova.ai,AI,US,2017,AI processing
 Saras Micro Devices,sarasmicro.com,MFG,US,2021,Packaging solutions for effective power delivery
