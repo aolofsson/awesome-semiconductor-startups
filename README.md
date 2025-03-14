@@ -77,6 +77,7 @@
 |[Anello](https://anellophotonics.com) | PHOTONICS | 2018 | US |Photonic based gyroscopes for navigation |
 |[Aniah](https://aniah.fr) | EDA | 2019 | FR |Circuit analysis software |
 |[Applied Brain Research](https://appliedbrainresearch.com) | AI | 2013 | CA |AI solutions for edge devices |
+|[Argus Space](https://argus-space.ch) | RF | 2024 | CH |Satcomm telecommunications and radar |
 |[Aspinity](https://aspinity.com) | AI | 2015 | US |Analog in-memory AI inference accelerators |
 |[Astrus](https://astrus.ai) | EDA | 2022 | CA |AI platform designed to automate microchip design |
 |[Atlantic Quantum](https://atlantic-quantum.com) | QUANTUM | 2022 | US |Scalable quantum computers |
@@ -335,6 +336,7 @@
 | Company |  Exit   | Year   | Value($M) | Link |
 |---------| ------- | ------ | ------|------|
 |Acacia | IPO | 2016 | 1000 | [Source](https://www.bizjournals.com/boston/news/2016/12/29/the-best-performing-ipo-nationwide-of-2016-is.html) |
+|Advanced Circuit Pursuit | Sequans | 2025 | NA | [Source](https://www.walderwyss.com/en/news/2025-01-28_sequans-acquires-acp-advanced-circuit-pursuit-ag) |
 |Aeluma | IPO | 2023 | 6 | [Source](https://www.aeluma.com/news-media/press-releases/detail/28/aeluma-inc-closes-6-million-oversubscribed-common-stock) |
 |Agnilux | Google | 2010 | NA | [Source](https://techcrunch.com/2010/04/20/google-agnilux-apple) |
 |Alpha ICs | Shutdown | 2023 | 0 | [Source](https://pitchbook.com/profiles/company/163655-74) |
@@ -371,6 +373,7 @@
 |Indie Semiconductor | SPAC | 2020 | 1400 | [Source](https://www.marketwatch.com/story/indie-semiconductor-to-go-public-through-spac-buyout-deal-that-values-company-at-14-billion-2020-12-15) |
 |Innovium | Marvell | 2021 | 1100 | [Source](https://techcrunch.com/2021/08/03/marvell-nabs-innovium-for-1-1b-as-it-delves-deeper-into-cloud-ethernet-switches/) |
 |Innoviz | SPAC | 2021 | 371 | [Source](https://www.prnewswire.com/news-releases/innoviz-technologies-and-collective-growth-corporation-announce-closing-of-business-combination-301262031.html) |
+|Insightness | Sony | 2019 | NA | [Source](https://ethz.ch/en/industry/entrepreneurship/explore-startup-portraits-and-success-stories/exits/insightness.html) |
 |Kalray | IPO | 2018 | 100 | [Source](https://www.euronext.com/en/about/media/euronext-press-releases/kalray-sintroduit-sur-euronext-growth) |
 |Kinara | NXP | 2025 | 307 | [Source](https://www.nxp.com/company/about-nxp/newsroom/NW-AI-PR-2025) |
 |Lucata | Shutdown | 2024 | NA | [Source](https://www.linkedin.com/posts/marty-deneroff-2a554_sadly-lucata-emu-technology-ceased-operations-activity-7168985090331500544-xy_D) |
