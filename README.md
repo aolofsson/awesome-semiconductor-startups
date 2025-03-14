@@ -327,6 +327,7 @@
 |[Zendar](https://zendar.io) | SENSORS | 2017 | US |High resolution software defined radar |
 |[ZeroASIC](https://zeroasic.com) | CHIPLETS | 2020 | US |Chiplet based ASIC platform |
 |[ZeroPoint](https://zeropoint-tech.com) | MEMORY | 2015 | US |Memory compression technology |
+|[Zero Point Motion](https://zeropointmotion.com) | MEMS | 2020 | UK |Photonics/MEMS motion sensors |
 |[zeroRISC](https://zerorisc.com) | SECURITY | 2023 | US |RoT components |
 
 ## Alumni
