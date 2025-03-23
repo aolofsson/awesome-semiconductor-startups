@@ -70,7 +70,6 @@
 |[Allspice.io](https://allspice.io) | EDA | 2018 | US |PCB Design platform |
 |[Alpha Design AI](https://alphadesign.ai) | EDA | 2024 | US |AI agent based chip design platform |
 |[Ambient Scientific](https://ambientscientific.ai) | ANALOG | 2018 | US |Analog in-memory AI processor |
-|[Ampere Computing](https://amperecomputing.com) | HPC | 2017 | US |Cloud native manycore CPUs |
 |[Anabrid](https://anabrid.com) | ANALOG | 2023 | DE |Analog computer on a chip |
 |[Analog Photonics](https://analogphotonics.com) | PHOTONICS | 2012 | US |LIDAR and other optical technologies |
 |[Andapt](https://andapt.com) | ANALOG | 2014 | IE |Programmable power management ICs |
@@ -341,6 +340,7 @@
 |Alphawave | IPO | 2021 | 4300 | [Source](https://www.marketwatch.com/story/chip-maker-alphawave-set-for-4-3-billion-london-ipo-after-shunning-the-nasdaq-11620840007) |
 |Altair Semiconductor | Sony | 2016 | 212 | [Source](https://www.jvpvc.com/case-studies/altair/) |
 |Ambric | Shutdown | 2008 | 0 | [Source](https://www.oregonlive.com/siliconforest/2008/11/ambric_suspends_operation_plan.html) |
+|Ampere Computing | Softbank | 2025 | 6500 | [Source](https://www.forbes.com/sites/moorinsights/2025/03/21/softbank-is-acquiring-ampere-what-are-the-implications/) |
 |Annapurna Labs | Amazon | 2015 | 375 | [Source](https://www.extremetech.com/computing/198140-amazon-buys-secretive-chip-maker-annapurna-labs-for-350-million) |
 |Anobit | Apple | 2012 | 500 | [Source](https://techcrunch.com/2012/01/11/why-apple-bought-anobit) |
 |Aquantia | Marvell | 2019 | 452 | [Source](https://www.thestreet.com/investing/earnings/marvell-technology-to-purchase-aquantia-14949381) |
