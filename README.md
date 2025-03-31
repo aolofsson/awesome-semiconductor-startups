@@ -234,7 +234,7 @@
 |[PQShield](https://pqshield.com) | QUANTUM | 2018 | UK |Post-quantum Cryptography Co-processor |
 |[PragmatiC](https://pragmaticsemi.com) | MFG | 2010 | UK |Manufacturer of low-cost flexible integrated circuits |
 |[Precision Innovations](https://precisioninno.com) | EDA | 2019 | US |Developing and supporting OpenROAD |
-|[Primemas](https://primemas.com) | CHIPLETS | 2023 | US |Platform for rapid SoC system development |
+|[Primemas](https://www.primemas.com) | CHIPLETS | 2023 | US |Platform for rapid SoC system development |
 |[Primis](https://primis.ai) | EDA | 2023 | US |Generative-AI driven hardware design |
 |[proteanTecs](https://proteantecs.com) | ANALOG | 2017 | IL |Analytics platform for advanced chip design |
 |[PseudolithIC](https://pseudolithic.com) | MFG | 2019 | US |Integration process for RF applications |
