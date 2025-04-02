@@ -120,6 +120,7 @@
 |[DeGirum](https://degirum.ai) | AI | 2017 | US |AI platform for edge applications |
 |[Denpaflux](https://www.denpaflux.com) | EDA | 2022 | DE |EMC analysis platform for design engineering teams |
 |[Dfiant](https://dfiant.works) | EDA | 2022 | US |Chip design tools |
+|[Dnotitia](https://dnotitia.com) | AI | 2023 | KR |Vector DPUs |
 |[Dover](https://dovermicrosystems.com) | SECURITY | 2017 | US |SoC security IP |
 |[DreamBig](https://dreambigsemi.com) | CHIPLETS | 2019 | US |Chiplet based ASIC platform |
 |[EdgeCortix](https://edgecortix.com) | AI | 2019 | US |AI accelerators for edge devices |
