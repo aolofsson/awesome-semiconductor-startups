@@ -79,6 +79,7 @@
 |[Argus Space](https://argus-space.ch) | RF | 2024 | CH |Satcomm telecommunications and radar |
 |[Aspinity](https://aspinity.com) | AI | 2015 | US |Analog in-memory AI inference accelerators |
 |[Astrus](https://astrus.ai) | EDA | 2022 | CA |AI platform designed to automate microchip design |
+|[Atlant 3D](https://atlant3d.com) | MFG | 2018 | DK |Atomic scale 3d material printing |
 |[Atlantic Quantum](https://atlantic-quantum.com) | QUANTUM | 2022 | US |Scalable quantum computers |
 |[Atmosic](https://atmosic.com) | RF | 2016 | US |Battery free wireless devices |
 |[Avicena](https://avicena.tech) | PHOTONICS | 2019 | US |Optical uLed interconnect technology |
@@ -209,6 +210,7 @@
 |[NeuroBlade](https://neuroblade.com) | AI | 2018 | IL |Accelerators for high throughput data analytics |
 |[Neurophos](https://neurophos.com) | PHOTONICS | 2020 | US |Optical computing platform |
 |[Neurxcore](https://neurxcore.com) | AI | 2023 | FR |AI accelerator IP based on NVDLA |
+|[Next Semiconductor](https://nextsemi.com) | SPACE | 2023 | US |Satellite networking ASICs |
 |[NextSilicon](https://nextsilicon.com) | HPC | 2017 | IL |High performance computing architecture |
 |[Niobium Microsystems](https://niobiummicrosystems.com) | SECURITY | 2021 | US |FHE Acceleration for Zero Trust |
 |[Novelda](https://novelda.com) | RF | 2004 | NO |Wireless wideband for high resolution impulse radar |
@@ -259,6 +261,7 @@
 |[Recogni](https://recogni.com) | AI | 2017 | US |Visual perception platform for autonomous vehicles |
 |[RED Semiconductor](https://redsemiconductor.com) | HPC | 2021 | UK |Processor technology |
 |[Redwood EDA](https://redwoodeda.com) | EDA | 2015 | US |Transaction level hardware design platform |
+|[Retym](https://retym.com) | AI | 2921 | US |Stealth |
 |[RISE](https://Rise-da.com) | EDA | 2024 | US |Design and verification productivity platform |
 |[Riverlane](https://riverlane.com) | QUANTUM | 2016 | UK |Quantum error correction |
 |[Rivos](https://rivosinc.com) | RISC-V | 2021 | US |Stealth |
@@ -295,6 +298,7 @@
 |[Syntiant](https://syntiant.com) | AI | 2017 | US |Neuromorphic processing for edge devices |
 |[Taalas](https://taalas.com) | AI | 2023 | CA |Automated generation of AI hardware |
 |[Tachyum](https://tachyum.com) | HPC | 2016 | US |High performance processor architecture |
+|[Tandem PV](https://tandempv.com) | MFG | 2016 | US |Silicon solar panels |
 |[Tenstorrent](https://tenstorrent.com) | AI | 2016 | CA |AI processing devices |
 |[Teramount](https://teramount.com) | MFG | 2013 | IL |Packaging technology for photonic devices |
 |[Tetramem](https://tetramem.com) | AI | 2018 | US |AI accelerator for edge inference |
