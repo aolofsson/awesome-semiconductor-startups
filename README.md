@@ -261,7 +261,7 @@
 |[Recogni](https://recogni.com) | AI | 2017 | US |Visual perception platform for autonomous vehicles |
 |[RED Semiconductor](https://redsemiconductor.com) | HPC | 2021 | UK |Processor technology |
 |[Redwood EDA](https://redwoodeda.com) | EDA | 2015 | US |Transaction level hardware design platform |
-|[Retym](https://retym.com) | AI | 2921 | US |Stealth |
+|[Retym](https://retym.com) | AI | 2021 | US |Stealth |
 |[RISE](https://Rise-da.com) | EDA | 2024 | US |Design and verification productivity platform |
 |[Riverlane](https://riverlane.com) | QUANTUM | 2016 | UK |Quantum error correction |
 |[Rivos](https://rivosinc.com) | RISC-V | 2021 | US |Stealth |
@@ -330,7 +330,7 @@
 |[Xsight Labs](https://xsightlabs.com) | HPC | 2017 | IL |Chip sets for accelerating data-intensive workloads |
 |[Yorchip](https://yorchip.com) | CHIPLETS | 2023 | US |Chiplet technology |
 |[Zendar](https://zendar.io) | SENSORS | 2017 | US |High resolution software defined radar |
-|[ZeroASIC](https://zeroasic.com) | CHIPLETS | 2020 | US |Chiplet based ASIC platform |
+|[ZeroASIC](https://zeroasic.com) | CHIPLETS | 2008 | US |Chiplet based ASIC platform |
 |[ZeroPoint](https://zeropoint-tech.com) | MEMORY | 2015 | US |Memory compression technology |
 |[Zero Point Motion](https://zeropointmotion.com) | MEMS | 2020 | UK |Photonics/MEMS motion sensors |
 |[zeroRISC](https://zerorisc.com) | SECURITY | 2023 | US |Open source Root-of-Trust platform |
