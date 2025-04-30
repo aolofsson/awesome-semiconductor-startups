@@ -108,6 +108,7 @@
 |[Ceremorphic](https://ceremorphic.com) | HPC | 2020 | US |Analog computing architecture |
 |[Cerfe Labs](https://cerfelabs.com) | MFG | 2020 | US |Electronics materials and device research |
 |[Chipflow](https://chipflow.io) | ASIC | 2021 | UK |ASIC design platform |
+|[Chipletti](https://chipletti.com) | CHIPLETS | 2024 | UK |3D stacked memory chiplets for AI and HPC |
 |[Chipletz](https://chipletz.com) | CHIPLETS | 2021 | US |Smart substrate for chiplet integration |
 |[Chipstack](https://chipstack.com) | EDA | 2023 | US |AI based chip design methodology |
 |[Circuit Mind](https://circuitmind.io) | EDA | 2018 | UK |PCB design tools |
