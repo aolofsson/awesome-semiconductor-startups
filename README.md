@@ -219,6 +219,7 @@
 |[OmniDesign](https://omnidesigntech.com) | ANALOG | 2015 | US |Low power analog IP |
 |[One Silicon Chip Photonics](https://onesiliconchipphotonics.com) | PHOTONICS | 2016 | CA |Optical chips for precision motion sensing |
 |[OniO](https://onio.com) | RF | 2019 | NO |Wireless micro controller |
+|[OpenMachine](https://openmachine.ai) | AI | 2022 | US |High-performance AI engines for your chip |
 |[Optalysys](https://optalysys.com) | PHOTONICS | 2013 | UK |Optical computing next-gen cryptography |
 |[optoML](https://optoml.ai) | AI | 2024 | SG |Low power AI processors |
 |[Oso Semiconductor](https://ososemi.com) | RF | 2022 | US |Low power RF chip set |
@@ -291,6 +292,7 @@
 |[Skycore Semiconductors](https://skycore-semi.com) | ANALOG | 2021 | DK |Switched capacitor based integrated power converters |
 |[Spark Micro](https://sparkmicro.com) | RF | 2016 | CA |Transceivers for low power wireless communication |
 |[Speedata](https://speedata.io) | AI | 2019 | IL |Analytics Processing Unit to accelerate big data |
+|[SPHERICAL](https://spherical-systems.com) | SPACE | 2022 | NL |Satellite power & control systems with in-house silicon design |
 |[StarFive](https://starfivetech.com) | RISC-V | 2018 | CN |RISC-V processor core IP and devices |
 |[Swave](https://swave.io) | PHOTONICS | 2022 | BE |Holographic chips based on diffractive photonics |
 |[SWIR Vision Systems](https://swirvisionsystems.com) | SENSORS | 2018 | US |Image sensors for short-wave infrared cameras |
