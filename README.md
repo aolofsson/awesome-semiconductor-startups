@@ -319,7 +319,7 @@
 |[VerifAI](https://verifai.ai) | EDA | 2020 | US |AI assisted hardware design and verification |
 |[Viqthor](https://viqthor.com) | QUANTUM | 2023 | FR |Quantum processing |
 |[Volantis Semiconductor](https://volantissemi.ai) | AI | 2022 | US |AI processors |
-|[VoltAI](https://voltai.com) | EDA | 2022 | US |AI models for semiconductor |
+|[Voltai](https://voltai.com) | EDA | 2023 | US |AI models for semiconductor |
 |[VyperCore](https://vypercore.com) | RISC-V | 2022 | UK |RISC-V processors |
 |[Wave Photonics](https://wavephotonics.com) | PHOTONICS | 2021 | UK |Photonics design platform |
 |[Welinq](https://welinq.fr) | QUANTUM | 2022 | FR |Quantum interconnects |
