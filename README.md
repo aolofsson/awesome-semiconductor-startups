@@ -302,6 +302,7 @@
 |[Skycore Semiconductors](https://skycore-semi.com) | ANALOG | 2021 | DK |Switched capacitor based integrated power converters |
 |[Spark Micro](https://sparkmicro.com) | RF | 2016 | CA |Transceivers for low power wireless communication |
 |[Speedata](https://speedata.io) | AI | 2019 | IL |Analytics Processing Unit to accelerate big data |
+|[Spherical](https://Spherical-systems.com) | SPACE | 2022 | NL |Satellite power & control with in-house silicon design |
 |[StarFive](https://starfivetech.com) | RISC-V | 2018 | CN |RISC-V processor core IP and devices |
 |[Swave](https://swave.io) | PHOTONICS | 2022 | BE |Holographic chips based on diffractive photonics |
 |[SWIR Vision Systems](https://swirvisionsystems.com) | SENSORS | 2018 | US |Image sensors for short-wave infrared cameras |
