@@ -135,7 +135,7 @@
 |[Efinix](https://efinixinc.com) | FPGA | 2012 | US |Programmable FPGA products |
 |[Eliyan](https://eliyan.com) | CHIPLETS | 2021 | US |Interconnect technology |
 |[EnCharge AI](https://enchargeai.com) | AI | 2021 | US |AI processing platform |
-|[Enlightra](https://enlightra.com) | PHOTONICS | 2017 | US |Optical microresonator technology  |
+|[Enlightra](https://enlightra.com) | PHOTONICS | 2017 | US |Optical microresonator technology |
 |[Enosemi](https://enosemi.com) | PHOTONICS | 2023 | US |Photonics subsystems |
 |[enzzo](https://enzzo.ai) | EDA | 2024 | US |AI driven hardware development |
 |[Eridan](https://eridan.io) | RF | 2013 | US |RF front end for for wireless telecommunications |
@@ -227,6 +227,7 @@
 |[OmniDesign](https://omnidesigntech.com) | ANALOG | 2015 | US |Low power analog IP |
 |[One Silicon Chip Photonics](https://onesiliconchipphotonics.com) | PHOTONICS | 2016 | CA |Optical chips for precision motion sensing |
 |[OniO](https://onio.com) | RF | 2019 | NO |Wireless micro controller |
+|[OpenMachine](https://openmachine.ai) | AI | 2022 | US |High-performance AI engines for your chip, chiplet, RISC-V SoC, ASIC, and FPGA |
 |[Optalysys](https://optalysys.com) | PHOTONICS | 2013 | UK |Optical computing next-gen cryptography |
 |[optoML](https://optoml.ai) | AI | 2024 | SG |Low power AI processors |
 |[Oso Semiconductor](https://ososemi.com) | RF | 2022 | US |Low power RF chip set |
