@@ -71,6 +71,7 @@
 |[Allspice.io](https://allspice.io) | EDA | 2018 | US |PCB Design platform |
 |[Alpha Design AI](https://alphadesign.ai) | EDA | 2024 | US |AI agent based chip design platform |
 |[Ambient Scientific](https://ambientscientific.ai) | ANALOG | 2018 | US |Analog in-memory AI processor |
+|[Amsimcel](https://amsimcel.com) | EDA | 2018 | RO |GPU powered physical verification |
 |[Anabrid](https://anabrid.com) | ANALOG | 2023 | DE |Analog computer on a chip |
 |[Analog Photonics](https://analogphotonics.com) | PHOTONICS | 2012 | US |LIDAR and other optical technologies |
 |[Andapt](https://andapt.com) | ANALOG | 2014 | IE |Programmable power management ICs |
@@ -83,6 +84,7 @@
 |[Atlant 3D](https://atlant3d.com) | MFG | 2018 | DK |Atomic scale 3d material printing |
 |[Atlantic Quantum](https://atlantic-quantum.com) | QUANTUM | 2022 | US |Scalable quantum computers |
 |[Atmosic](https://atmosic.com) | RF | 2016 | US |Battery free wireless devices |
+|[Atoms AI](https://atomsai.net) | EDA | 2024 | US |AI driven verification |
 |[Avicena](https://avicena.tech) | PHOTONICS | 2019 | US |Optical uLed interconnect technology |
 |[Axelera](https://axelera.ai) | AI | 2021 | NL |Low power AI edge processors |
 |[Ayar Labs](https://ayarlabs.com) | PHOTONICS | 2015 | US |Electronic-photonic communication chip sets |
@@ -99,6 +101,7 @@
 |[Bolt Semiconductor](https://boltsemi.com) | MFG | 2024 | US |Vertical GaN technology |
 |[BoolSi](https://boolsi.com) | EDA | 2023 | US |Generate RTL from any code base, in any language |
 |[bos semiconductors](https://bos-semi.com) | ASIC | 2022 | KR |Automotive ASICs |
+|[Bronco AI](https://bronco.ai) | EDA | 2022 | US |AI tools for chip development |
 |[cadlab.io](https://cadlab.io) | EDA | 2015 | US |Collaboration tools for PCB design |
 |[Cadstrom](https://cadstrom.io) | EDA | 2023 | CA |AI based PCB design |
 |[Celera](https://celeratechnologies.com) | EDA | 2018 | US |Automated analog/mixed-signal IC development tool |
@@ -120,6 +123,7 @@
 |[Condor Computing](https://condorcomputing.com) | RISC-V | 2023 | US |High performance RISC-V processors |
 |[Cornami](https://cornami.com) | HPC | 2011 | US |Acceleration for full homomorphic encryption |
 |[Cycuity](https://cycuity.com) | EDA | 2014 | US |Security EDA design and verification solutions |
+|[Cyrillic](https://cyrillic.tech) | AI | 2024 | AI |Perception system for physical AI |
 |[d-Matrix](https://d-matrix.ai) | AI | 2019 | US |Computing platform for data center AI inference |
 |[DASH Tech IC](https://dashtechic.com) | HPC | 2021 | US |Flexible processors for embedded applications |
 |[DeepX](https://deepx.ai) | AI | 2018 | KR |AI processors |
@@ -194,7 +198,9 @@
 |[Lighton](https://lighton.ai) | PHOTONICS | 2015 | FR |Optical computing platform |
 |[Literal Labs](https://Literal-labs.ai) | AI | 2023 | UK |Explainable AI using Tsetlin machines |
 |[Linctrinsic](https://lintrinsicsemi.com) | RF | 2021 | US |Fast RF switches |
+|[Linque](https://linque.eu) | PHOTONICS | 2023 | DE |Optical computing  |
 |[Lubis EDA](https://Lubis-eda.com) | EDA | 2021 | DE |Cloud based formal verification platform |
+|[Lumai](https://luma.ai) | PHOTONICS | 2021 | UK |3D optical computing |
 |[Luminous Computing](https://luminous.com) | PHOTONICS | 2018 | US |Optical computing platform |
 |[Lumotive](https://lumotive.com) | PHOTONICS | 2017 | US |Optical beam forming sensors |
 |[MangoBoost](https://mangoboost.io) | HPC | 2022 | US |Data processing units for data center |
@@ -254,7 +260,9 @@
 |[proteanTecs](https://proteantecs.com) | ANALOG | 2017 | IL |Analytics platform for advanced chip design |
 |[PseudolithIC](https://pseudolithic.com) | MFG | 2019 | US |Integration process for RF applications |
 |[PsiQuantum](https://psiquantum.com) | QUANTUM | 2015 | US |Quantum computers |
+|[Qant](https://Qant.com) | PHOTONICS | 2018 | DE |Photonic computing platform |
 |[Qromis](https://qromis.com) | MFG | 2015 | US |Semiconductor materials for WBG |
+|[Qruise](https://qruise.com) | QUANTUM | 2021 | DE |Design and verification of quantum systems |
 |[Quadric.io](https://quadric.io) | AI | 2016 | US |Edge processing for edge devices |
 |[Qualinx](https://qualinx.io) | RF | 2015 | NL |IoT GNSS based tracking and connectivity |
 |[Quantum Motion](https://quantummmotion.tech) | QUANTUM | 2017 | UK |Scalable quantum computer architectural technology |
@@ -297,6 +305,7 @@
 |[Silimate](https://silimate.com) | EDA | 2023 | US |Co-pilot for chip designers |
 |[Silogy](https://silogy.io) | EDA | 2023 | US |Collaborative platform for integrated circuit design |
 |[SiMa.ai](https://sima.ai) | AI | 2018 | US |AI processing for edge devices |
+|[Simbricks](https://simbricks.io) | EDA | 2024 | DE |Heterogeneous hardware design and verification platform |
 |[Singular Photonics](https://singularphotonics.com) | SENSORS | 2024 | UK |High performance camera modules |
 |[SiPearl](https://sipearl.com) | HPC | 2019 | FR |Manycore processors |
 |[Siphox](https://siphoxhealth.com) | HEALTH | 2020 | US |Biosensing platform for personalized health |
@@ -304,6 +313,7 @@
 |[Spark Micro](https://sparkmicro.com) | RF | 2016 | CA |Transceivers for low power wireless communication |
 |[Speedata](https://speedata.io) | AI | 2019 | IL |Analytics Processing Unit to accelerate big data |
 |[Spherical](https://Spherical-systems.com) | SPACE | 2022 | NL |Satellite power & control with in-house silicon design |
+|[Spinncloud](https://spinncloud.com) | AI | 2021 | DE |Dynamic sparsity based inference engine |
 |[StarFive](https://starfivetech.com) | RISC-V | 2018 | CN |RISC-V processor core IP and devices |
 |[Swave](https://swave.io) | PHOTONICS | 2022 | BE |Holographic chips based on diffractive photonics |
 |[SWIR Vision Systems](https://swirvisionsystems.com) | SENSORS | 2018 | US |Image sensors for short-wave infrared cameras |
@@ -330,6 +340,7 @@
 |[Vector Photonics](https://vectorphotonics.co.uk) | PHOTONICS | 2020 | UK |Semiconductor lasers |
 |[Ventana Micro](https://ventanamicro.com) | RISC-V | 2018 | US |RISC-V CPU cores and compute subsystems |
 |[VerifAI](https://verifai.ai) | EDA | 2020 | US |AI assisted hardware design and verification |
+|[Verifaix](https://verifaix.com) | EDA | 2024 | US |AI assisted hardware design and verification |
 |[Viqthor](https://viqthor.com) | QUANTUM | 2023 | FR |Quantum processing |
 |[Volantis Semiconductor](https://volantissemi.ai) | AI | 2022 | US |AI processors |
 |[VoltAI](https://voltai.com) | EDA | 2022 | US |AI models for semiconductor |
