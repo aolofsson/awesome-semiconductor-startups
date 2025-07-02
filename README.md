@@ -184,7 +184,6 @@
 |[Jitx](https://jitx.com) | EDA | 2016 | US |PCB design tools |
 |[Kandou](https://kandou.com) | NETWORKING | 2011 | CH |Chip-to-chip connectivity solutions |
 |[Kepler Computing](https://keplercompute.com) | HPC | 2018 | US |Stealth |
-|[Kinara](https://kinara.ai) | AI | 2014 | US |Accelerating LLMs and Vision AI at the Edge |
 |[Kittycad](https://zoo.dev) | EDA | 2021 | US |AI driven CAD |
 |[Kneron](https://kneron.com) | AI | 2015 | US |Edge AI devices |
 |[Krutrim](https://olakrutrim.com) | AI | 2023 | IN |AI hardware |
@@ -309,6 +308,7 @@
 |[SiPearl](https://sipearl.com) | HPC | 2019 | FR |Manycore processors |
 |[Siphox](https://siphoxhealth.com) | HEALTH | 2020 | US |Biosensing platform for personalized health |
 |[Skycore Semiconductors](https://skycore-semi.com) | ANALOG | 2021 | DK |Switched capacitor based integrated power converters |
+|[Snowcap Compute](https://snowcapcompute.com) | HPC | 2025 | US |Superconducting computing platform |
 |[Spark Micro](https://sparkmicro.com) | RF | 2016 | CA |Transceivers for low power wireless communication |
 |[Speedata](https://speedata.io) | AI | 2019 | IL |Analytics Processing Unit to accelerate big data |
 |[Spherical](https://Spherical-systems.com) | SPACE | 2022 | NL |Satellite power & control with in-house silicon design |
