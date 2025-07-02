@@ -94,7 +94,6 @@
 |[Beam](https://beamshaping.io) | RF | 2015 | IL |Phased array antennas |
 |[Belfort](https://belfortlabs.com) | SECURITY | 2025 | BE |Hardware for encrypted compute (FHE) |
 |[Black Semiconductor](https://blacksemiconductor.de) | MFG | 2021 | DE |Graphene electronics/photonics translators |
-|[Blue Cheetah](https://bcanalog.com) | CHIPLETS | 2018 | US |Customizable die-to-die interconnect solutions |
 |[Blueshift Memory](https://blueshiftmemory.com) | MEMORY | 2016 | UK |High performance memory centric architecture |
 |[Bluespec](https://bluespec.com) | RISC-V | 2003 | US |RISC-V IP and System Development Tools |
 |[Blumind](https://blumind.ai) | AI | 2020 | CA |Analog AI computing |
@@ -381,6 +380,7 @@
 |Axis Semiconductor | Shutdown | 2022 | 0 | [Source](http://www.axissemi.com/) |
 |Banias | Alphawave | 2022 | 240 | [Source](https://www.calcalistech.com/ctechnews/article/hynfz2sxs) |
 |Blaize | SPAC | 2025 | 1200 | [Source](https://www.businesswire.com/news/home/20250114776514/en/Burkhan-World-Investments-Announces-Blaize%E2%80%99s-Successful-IPO-on-NASDAQ-via-BurTech-Acquisition-Corporation) |
+|Blue Cheetah Analog | Tenstorrent | 2025 | NA | [Source](https://www.prnewswire.com/news-releases/blue-cheetah-tapes-out-its-high-performance-chiplet-interconnect-ip-on-samsung-foundry-sf4x-302355527.html) |
 |BrainChip | IPO | 2011 | NA | [Source](https://finance.yahoo.com/quote/BRN.AX/) |
 |Calxeda | Shutdown | 2013 | 0 | [Source](https://semiengineering.com/chip-startup-shuts-doors/) |
 |Cambricon | IPO | 2020 | 5000 | [Source](https://techcrunch.com/2020/06/24/chip-cambricon-ipo/) |
