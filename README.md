@@ -333,7 +333,6 @@
 |[Ubitium](https://ubitium.com) | AI | 2024 | DE |Universal processor |
 |[Uhnder](https://uhnder.com) | SENSORS | 2015 | US |Digital automotive radar SoC |
 |[Unifabrix](https://unifabrix.com) | NETWORKING | 2020 | IL |CXL based secure connectivity solution |
-|[Untether AI](https://untether.ai) | AI | 2018 | CA |AI processing devices |
 |[Upmem](https://upmem.com) | AI | 2015 | FR |In memory processing devices for big data and AI |
 |[Usound](https://usound.com) | MEMS | 2012 | AU |Sound solutions based on MEMS technology |
 |[Vaire Computing](https://vaire.co) | ANALOG | 2021 | UK |Near zero energy computing |
@@ -440,6 +439,7 @@
 |Tabula | Shutdown | 2015 | 0 | [Source](https://semiwiki.com/fpga/4232-tabula-closes-its-doors/) |
 |Tensil.ai | NA | 2022 | NA | NA |
 |Tilera | Ezchip | 2014 | 50 | [Source](https://www.prnewswire.com/news-releases/ezchip-completes-acquisition-of-tilera-a-leader-in-high-performance-multi-core-processors-281754771.html) |
+|Untether | AMD | 2025 | NA | [Source](https://www.eetimes.com/untether-ai-shuts-down-engineering-team-joins-amd/) |
 |Upverter | Altium | 2017 | 2.8 | [Source](https://pitchbook.com/profiles/company/56161-81#overview) |
 |Wavious | Apple | 2022 | NA | [Source](https://pitchbook.com/profiles/company/169888-60#overview) |
 |zGlue | Sold | 2021 | NA | [Source](https://www.reuters.com/technology/chip-wars-how-chiplets-are-emerging-core-part-chinas-tech-strategy-2023-07-13) |
