@@ -143,7 +143,6 @@
 |[enzzo](https://enzzo.ai) | EDA | 2024 | US |AI driven hardware development |
 |[Eridan](https://eridan.io) | RF | 2013 | US |RF front end for for wireless telecommunications |
 |[Eridu AI](https://eridu.ai) | PHOTONICS | 2023 | US |Photonics based AI acceleration |
-|[Esperanto](https://esperanto.ai) | HPC | 2014 | US |Manycore RISC-V compute platform |
 |[Etched](https://etched.com) | AI | 2022 | US |AI processors |
 |[Ethernovia](https://ethernovia.com) | NETWORKING | 2018 | US |In vehicle networking |
 |[eTopus](https://etopus.com) | NETWORKING | 2013 | US |High speed interconnect solutions |
@@ -388,6 +387,7 @@
 |Diakopto | Ansys | 2023 | NA | [Source](https://www.prnewswire.com/news-releases/ansys-signs-definitive-agreement-to-acquire-diakopto-expands-multiphysics-simulation-portfolio-for-semiconductor-designers-301826540.html) |
 |Efabless | Shutdown | 2025 | 0 | [Source](https://www.tomshardware.com/tech-industry/semiconductors/efabless-shuts-down-fate-of-tiny-tapeout-chip-production-projects-unclear) |
 |Element14 | Broadcom | 2000 | 600 | [Source](https://www.eetimes.com/broadcom-acquires-element-14-for-600-million-enters-adsl-chip-market/) |
+|Esperanto | Shutdown | 2025 | 0 | [Source](https://www.eetimes.com/ai-startup-esperanto-winds-down-silicon-business/) |
 |Espressif | IPO | 2017 | 1800 | [Source](https://www.cnx-software.com/2019/07/25/espressif-systems-gets-listed-on-the-shanghai-stock-market/) |
 |Flex Logix | Analog Devices | 2024 | NA | [Source](https://www.linkedin.com/posts/gregory-bryant-2595642_im-excited-to-welcome-the-talented-team-activity-7260053582446485506-C3TY?utm_source=share&utm_medium=member_desktop) |
 |Fungible | Microsoft | 2023 | 190 | [Source](https://blogs.microsoft.com/blog/2023/01/09/microsoft-announces-acquisition-of-fungible-to-accelerate-datacenter-innovation/) |
