@@ -78,9 +78,12 @@
 |[Anello](https://anellophotonics.com) | PHOTONICS | 2018 | US |Photonic based gyroscopes for navigation |
 |[Aniah](https://aniah.fr) | EDA | 2019 | FR |Circuit analysis software |
 |[Applied Brain Research](https://appliedbrainresearch.com) | AI | 2013 | CA |AI solutions for edge devices |
+|[Arago](https://arago.inc) | PHOTONICS | 2024 | FR |Photonic computing platform |
 |[Argus Space](https://argus-space.ch) | RF | 2024 | CH |Satcomm telecommunications and radar |
+|[Ascenium](https://ascenium.com) | HPC | 2019 | NO |General purpose accelerator |
 |[Aspinity](https://aspinity.com) | AI | 2015 | US |Analog in-memory AI inference accelerators |
 |[Astrus](https://astrus.ai) | EDA | 2022 | CA |AI platform designed to automate microchip design |
+|[Athos Silicon](https://athossilicon.com) | CHIPLETS | 2025 | US |Chiplet platform for automotive/safety critical applications |
 |[Atlant 3D](https://atlant3d.com) | MFG | 2018 | DK |Atomic scale 3d material printing |
 |[Atlantic Quantum](https://atlantic-quantum.com) | QUANTUM | 2022 | US |Scalable quantum computers |
 |[Atmosic](https://atmosic.com) | RF | 2016 | US |Battery free wireless devices |
