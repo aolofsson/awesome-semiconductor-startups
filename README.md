@@ -130,7 +130,8 @@
 |[DASH Tech IC](https://dashtechic.com) | HPC | 2021 | US |Flexible processors for embedded applications |
 |[DeepX](https://deepx.ai) | AI | 2018 | KR |AI processors |
 |[DeGirum](https://degirum.ai) | AI | 2017 | US |AI platform for edge applications |
-|[Denpaflux](https://www.denpaflux.com) | EDA | 2022 | DE |EMC analysis platform for design engineering teams |
+|[Denpaflux](https://denpaflux.com) | EDA | 2022 | DE |EMC analysis platform for design engineering teams |
+|[Diode Computers](https://diode.computer) | EDA | 2024 | US |AI based PCB design |
 |[Dfiant](https://dfiant.works) | EDA | 2022 | US |Chip design tools |
 |[Dnotitia](https://dnotitia.com) | AI | 2023 | KR |AI processors |
 |[Dover](https://dovermicrosystems.com) | SECURITY | 2017 | US |SoC security IP |
@@ -342,6 +343,7 @@
 |[VerifAI](https://verifai.ai) | EDA | 2020 | US |AI assisted hardware design and verification |
 |[Verifaix](https://verifaix.com) | EDA | 2024 | US |AI assisted hardware design and verification |
 |[Viqthor](https://viqthor.com) | QUANTUM | 2023 | FR |Quantum processing |
+|[Visblsemi](https://visiblsemi.com) | EDA | 2024 | US |AI assisted hardware design and verification |
 |[Volantis Semiconductor](https://volantissemi.ai) | AI | 2022 | US |AI processors |
 |[VoltAI](https://voltai.com) | EDA | 2022 | US |AI models for semiconductor |
 |[Vsora](https://vsora.com) | AI | 2015 | FR |AI inference chips |
