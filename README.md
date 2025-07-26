@@ -125,7 +125,7 @@
 |[Condor Computing](https://condorcomputing.com) | RISC-V | 2023 | US |High performance RISC-V processors |
 |[Cornami](https://cornami.com) | HPC | 2011 | US |Acceleration for full homomorphic encryption |
 |[Cycuity](https://cycuity.com) | EDA | 2014 | US |Security EDA design and verification solutions |
-|[Cyrillic](https://cyrillic.tech) | AI | 2024 | AI |Perception system for physical AI |
+|[Cyrillic](https://cyrillic.tech) | AI | 2024 | IT |Perception system for physical AI |
 |[d-Matrix](https://d-matrix.ai) | AI | 2019 | US |Computing platform for data center AI inference |
 |[DASH Tech IC](https://dashtechic.com) | HPC | 2021 | US |Flexible processors for embedded applications |
 |[DeepX](https://deepx.ai) | AI | 2018 | KR |AI processors |
