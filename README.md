@@ -104,6 +104,7 @@
 |[BoolSi](https://boolsi.com) | EDA | 2023 | US |Generate RTL from any code base, in any language |
 |[bos semiconductors](https://bos-semi.com) | ASIC | 2022 | KR |Automotive ASICs |
 |[Bronco AI](https://bronco.ai) | EDA | 2022 | US |AI tools for chip development |
+|[cassia.ai](https://cassia.ai) | AI | 2021 | US |AI Hardware IP |
 |[cadlab.io](https://cadlab.io) | EDA | 2015 | US |Collaboration tools for PCB design |
 |[Cadstrom](https://cadstrom.io) | EDA | 2023 | CA |AI based PCB design |
 |[Celera](https://celeratechnologies.com) | EDA | 2018 | US |Automated analog/mixed-signal IC development tool |
@@ -221,6 +222,7 @@
 |[Nanopower](https://nanopowersemi.com) | ANALOG | 2017 | NO |Smart power management ICs |
 |[NcodiN](https://ncodin.com) | PHOTONICS | 2023 | FR |Optical interposers |
 |[Neologic](https://neologic.com) | MFG | 2021 | IL |Quasi-CMOS transistor technology |
+|[Netrasemi](https://netrasemi.com) | AI | 2020 | IN |AI Hardware chips |
 |[Neureality](https://neureality.ai) | AI | 2019 | IL |Purpose-built AI-centric architecture |
 |[NeuroBlade](https://neuroblade.com) | AI | 2018 | IL |Accelerators for high throughput data analytics |
 |[Neurophos](https://neurophos.com) | PHOTONICS | 2020 | US |Optical computing platform |
