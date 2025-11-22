@@ -119,6 +119,7 @@
 |[Chipletz](https://chipletz.com) | CHIPLETS | 2021 | US |Smart substrate for chiplet integration |
 |[Chipstack](https://chipstack.com) | EDA | 2023 | US |AI based chip design methodology |
 |[Circuit Mind](https://circuitmind.io) | EDA | 2018 | UK |PCB design tools |
+|[CircuitLeap.ai](https://circuitleap.ai) | EDA | 2024 | Portugal |Automated analog design with GPU and AI |
 |[Classiq](https://classiq.io) | EDA | 2020 | IL |Quantum computing software |
 |[Codasip](https://codasip.com) | RISC-V | 2014 | DE |Supplier of RISC-V IP cores |
 |[Cognichip](https://cognichip.ai) | EDA | 2024 | US |AI platform for chip design |
