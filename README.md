@@ -145,6 +145,7 @@
 |[Enlightra](https://enlightra.com) | PHOTONICS | 2017 | US |Optical microresonator technology |
 |[Enosemi](https://enosemi.com) | PHOTONICS | 2023 | US |Photonics subsystems |
 |[enzzo](https://enzzo.ai) | EDA | 2024 | US |AI driven hardware development |
+|[Equal1](https://equal1.com) | QUANTUM | 2017 | IE |Silicon spin qubits for scalable quantum computing |
 |[Eridan](https://eridan.io) | RF | 2013 | US |RF front end for for wireless telecommunications |
 |[Eridu AI](https://eridu.ai) | PHOTONICS | 2023 | US |Photonics based AI acceleration |
 |[Etched](https://etched.com) | AI | 2022 | US |AI processors |
