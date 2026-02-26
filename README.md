@@ -60,6 +60,7 @@
 |---------|------------|---------|---------|-------------|
 |[Abacus Semiconductor](https://Abacus-semi.com) | HPC | 2020 | US |HPC silicon systems |
 |[Accelercom](https://accelercomm.com) | RF | 2016 | UK |5G physical layer for high-performance networks |
+|[Agentrys](https://agentrys.ai) | EDA | 2025 | US |Self-Improving Agentic Design Automation Toward Autonomous Design |
 |[Agile Analog](https://agileanalog.com) | EDA | 2017 | UK |Automating design of analog circuitry |
 |[Agita Labs](https://agitalabs.com) | SECURITY | 2018 | US |Processing security technology/IP |
 |[Agnit Semiconductor](https://agnitsemi.com) | MFG | 2019 | IN |GaN based wafers and devices |
@@ -90,6 +91,7 @@
 |[Atoms AI](https://atomsai.net) | EDA | 2024 | US |AI driven verification |
 |[Avicena](https://avicena.tech) | PHOTONICS | 2019 | US |Optical uLed interconnect technology |
 |[Axelera](https://axelera.ai) | AI | 2021 | NL |Low power AI edge processors |
+|[Aule Technologies](https://auletechnologies.com) | EDA | 2022 | US |AI/physics based design platform |
 |[Ayar Labs](https://ayarlabs.com) | PHOTONICS | 2015 | US |Electronic-photonic communication chip sets |
 |[Azimuth AI](https://Azimuth-ai.com) | ASIC | 2023 | US |Edge AI ASICs |
 |[Baya Systems](https://bayasystems.com) | CHIPLETS | 2023 | US |Chiplet Based Semiconductor Design |
@@ -188,6 +190,7 @@
 |[Kandou](https://kandou.com) | NETWORKING | 2011 | CH |Chip-to-chip connectivity solutions |
 |[Kepler Computing](https://keplercompute.com) | HPC | 2018 | US |Stealth |
 |[Kittycad](https://zoo.dev) | EDA | 2021 | US |AI driven CAD |
+|[Keysom](https://keysom.io) | RISC-V | 2022 | FR |RISC-V design platform |
 |[Kneron](https://kneron.com) | AI | 2015 | US |Edge AI devices |
 |[Krutrim](https://olakrutrim.com) | AI | 2023 | IN |AI hardware |
 |[Lemurian Labs](https://lemurianlabs.com) | AI | 2018 | CA |AI computing platform |
@@ -204,6 +207,8 @@
 |[Lumai](https://luma.ai) | PHOTONICS | 2021 | UK |3D optical computing |
 |[Luminous Computing](https://luminous.com) | PHOTONICS | 2018 | US |Optical computing platform |
 |[Lumotive](https://lumotive.com) | PHOTONICS | 2017 | US |Optical beam forming sensors |
+|[Lyte AI](https://lyte.ai) | AI | 2021 | US |Perception layer for physical AI |
+|[Majestic Labs](https://majestic-labs.ai) | AI | 2023 | IL |AI procesor |
 |[MangoBoost](https://mangoboost.io) | HPC | 2022 | US |Data processing units for data center |
 |[Matx](https://matx.com) | AI | 2022 | US |Platform for AGI |
 |[Memryx](https://memryx.com) | AI | 2019 | US |AI computing platform |
@@ -231,6 +236,7 @@
 |[Novelda](https://novelda.com) | RF | 2004 | NO |Wireless wideband for high resolution impulse radar |
 |[Novumind](https://novumind.com) | AI | 2015 | US |Domain specific acceleration for AI applications |
 |[Nubis Communication](https://Nubis-inc.com) | NETWORKING | 2020 | US |Optical communications technology |
+|[Olix](https://olix.com) | AI | 2024 | UK |Optical tensor processing unit |
 |[OmniDesign](https://omnidesigntech.com) | ANALOG | 2015 | US |Low power analog IP |
 |[One Silicon Chip Photonics](https://onesiliconchipphotonics.com) | PHOTONICS | 2016 | CA |Optical chips for precision motion sensing |
 |[OniO](https://onio.com) | RF | 2019 | NO |Wireless micro controller |
@@ -258,6 +264,7 @@
 |[Precision Innovations](https://precisioninno.com) | EDA | 2019 | US |Developing and supporting OpenROAD |
 |[Primemas](https://primemas.com) | CHIPLETS | 2023 | US |Platform for rapid SoC system development |
 |[Primis](https://primis.ai) | EDA | 2023 | US |Generative-AI driven hardware design |
+|[Piris Labs](https://pirislabs.io/) | AI | 2025 | US |Optical inference engine |
 |[proteanTecs](https://proteantecs.com) | ANALOG | 2017 | IL |Analytics platform for advanced chip design |
 |[PseudolithIC](https://pseudolithic.com) | MFG | 2019 | US |Integration process for RF applications |
 |[PsiQuantum](https://psiquantum.com) | QUANTUM | 2015 | US |Quantum computers |
@@ -303,6 +310,7 @@
 |[Silicon Assurance](https://siliconassurance.com) | EDA | 2020 | US |EDA software that enable secure chip design |
 |[Silicon Box](https://Silicon-box.com) | MFG | 2021 | SG |Semiconductor design and device integration services |
 |[Siliconally](https://siliconally.com) | NETWORKING | 2019 | DE |Safe Ethernet IP |
+|[SiliconSpace](https://siliconspace.org) | EDA | 2025 | US |Cloud based EDA platform |
 |[Silimate](https://silimate.com) | EDA | 2023 | US |Co-pilot for chip designers |
 |[Silogy](https://silogy.io) | EDA | 2023 | US |Collaborative platform for integrated circuit design |
 |[SiMa.ai](https://sima.ai) | AI | 2018 | US |AI processing for edge devices |

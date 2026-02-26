@@ -1,6 +1,7 @@
 Company,Website,Technology,Country,Founded,Description
 Abacus Semiconductor,Abacus-semi.com,HPC,US,2020,HPC silicon systems
 Accelercom,accelercomm.com,RF,UK,2016,5G physical layer for high-performance networks
+Agentrys,agentrys.ai,EDA,US,2025,Self-Improving Agentic Design Automation Toward Autonomous Design
 Agile Analog,agileanalog.com,EDA,UK,2017,Automating design of analog circuitry
 Agita Labs,agitalabs.com,SECURITY,US,2018,Processing security technology/IP
 Agnit Semiconductor,agnitsemi.com,MFG,IN,2019,GaN based wafers and devices
@@ -31,6 +32,7 @@ Atmosic,atmosic.com,RF,US,2016,Battery free wireless devices
 Atoms AI,atomsai.net,EDA,US,2024,AI driven verification
 Avicena,avicena.tech,PHOTONICS,US,2019,Optical uLed interconnect technology
 Axelera,axelera.ai,AI,NL,2021,Low power AI edge processors
+Aule Technologies,auletechnologies.com,EDA,US,2022,AI/physics based design platform
 Ayar Labs,ayarlabs.com,PHOTONICS,US,2015,Electronic-photonic communication chip sets
 Azimuth AI,Azimuth-ai.com,ASIC,US,2023,Edge AI ASICs
 Baya Systems,bayasystems.com,CHIPLETS,US,2023,Chiplet Based Semiconductor Design
@@ -129,6 +131,7 @@ Jitx,jitx.com,EDA,US,2016,PCB design tools
 Kandou,kandou.com,NETWORKING,CH,2011,Chip-to-chip connectivity solutions
 Kepler Computing,keplercompute.com,HPC,US,2018,Stealth
 Kittycad,zoo.dev,EDA,US,2021,AI driven CAD
+Keysom,keysom.io,RISC-V,FR,2022,RISC-V design platform
 Kneron,kneron.com,AI,US,2015,Edge AI devices
 Krutrim,olakrutrim.com,AI,IN,2023,AI hardware
 Lemurian Labs,lemurianlabs.com,AI,CA,2018,AI computing platform
@@ -145,6 +148,8 @@ Lubis EDA,Lubis-eda.com,EDA,DE,2021,Cloud based formal verification platform
 Lumai,luma.ai,PHOTONICS,UK,2021,3D optical computing
 Luminous Computing,luminous.com,PHOTONICS,US,2018,Optical computing platform
 Lumotive,lumotive.com,PHOTONICS,US,2017,Optical beam forming sensors
+Lyte AI,lyte.ai,AI,US,2021,Perception layer for physical AI
+Majestic Labs,majestic-labs.ai,AI,IL,2023,AI procesor
 MangoBoost,mangoboost.io,HPC,US,2022,Data processing units for data center
 Matx,matx.com,AI,US,2022,Platform for AGI
 Memryx,memryx.com,AI,US,2019,AI computing platform
@@ -172,6 +177,7 @@ Niobium Microsystems,niobiummicrosystems.com,SECURITY,US,2021,FHE Acceleration f
 Novelda,novelda.com,RF,NO,2004,Wireless wideband for high resolution impulse radar
 Novumind,novumind.com,AI,US,2015,Domain specific acceleration for AI applications
 Nubis Communication,Nubis-inc.com,NETWORKING,US,2020,Optical communications technology
+Olix,olix.com,AI,UK,2024,Optical tensor processing unit
 OmniDesign,omnidesigntech.com,ANALOG,US,2015,Low power analog IP
 One Silicon Chip Photonics,onesiliconchipphotonics.com,PHOTONICS,CA,2016,Optical chips for precision motion sensing
 OniO,onio.com,RF,NO,2019,Wireless micro controller
@@ -199,6 +205,7 @@ PragmatiC,pragmaticsemi.com,MFG,UK,2010,Manufacturer of low-cost flexible integr
 Precision Innovations,precisioninno.com,EDA,US,2019,Developing and supporting OpenROAD
 Primemas,primemas.com,CHIPLETS,US,2023,Platform for rapid SoC system development
 Primis,primis.ai,EDA,US,2023,Generative-AI driven hardware design
+Piris Labs,pirislabs.io/,AI,US,2025,Optical inference engine
 proteanTecs,proteantecs.com,ANALOG,IL,2017,Analytics platform for advanced chip design
 PseudolithIC,pseudolithic.com,MFG,US,2019,Integration process for RF applications
 PsiQuantum,psiquantum.com,QUANTUM,US,2015,Quantum computers
@@ -244,6 +251,7 @@ SiLC,silc.com,PHOTONICS,US,2018,Photonics based imaging sensors
 Silicon Assurance,siliconassurance.com,EDA,US,2020,EDA software that enable secure chip design
 Silicon Box,Silicon-box.com,MFG,SG,2021,Semiconductor design and device integration services
 Siliconally,siliconally.com,NETWORKING,DE,2019,Safe Ethernet IP
+SiliconSpace,siliconspace.org,EDA,US,2025,Cloud based EDA platform
 Silimate,silimate.com,EDA,US,2023,Co-pilot for chip designers
 Silogy,silogy.io,EDA,US,2023,Collaborative platform for integrated circuit design
 SiMa.ai,sima.ai,AI,US,2018,AI processing for edge devices
