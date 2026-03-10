@@ -364,7 +364,9 @@
 |[Welinq](https://welinq.fr) | QUANTUM | 2022 | FR |Quantum interconnects |
 |[Xanadu](https://xanadu.ai) | PHOTONICS | 2016 | US |Photonic based quantum computer |
 |[Xcelerium](https://xcelerium.com) | HPC | 2020 | US |Domain specific processors for converged workloads |
+|[XCENA](https://xcena.com) | MEMORY | 2022 | KR |CXL memory solutions |
 |[Xconntech](https://xconn-tech.com) | HPC | 2020 | US |CXL and PCIe switch chips |
+|[ximplic](https://ximplic.com) | EDA | 2025 | NL |device-agnostic EDA ecosystem tailored for Computing-in-Memory (CIM) design |
 |[Xscape Photonics](https://xscapephotonics.com) | PHOTONICS | 2022 | US |Photonic communication chips |
 |[Xsight Labs](https://xsightlabs.com) | HPC | 2017 | IL |Chip sets for accelerating data-intensive workloads |
 |[Yorchip](https://yorchip.com) | CHIPLETS | 2023 | US |Chiplet technology |
