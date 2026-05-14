@@ -145,6 +145,7 @@
 |[EdgeCortix](https://edgecortix.com) | AI | 2019 | US |AI accelerators for edge devices |
 |[EdgeQ](https://edgeq.io) | RF | 2018 | US |Base station-on-a-chip |
 |[Efinix](https://efinixinc.com) | FPGA | 2012 | US |Programmable FPGA products |
+|[Efficient Computer](https://efficient.computer) | HPC | 2022 | US |Energy efficient general-purpose processor |
 |[Eliyan](https://eliyan.com) | CHIPLETS | 2021 | US |Interconnect technology |
 |[EnCharge AI](https://enchargeai.com) | AI | 2021 | US |AI processing platform |
 |[Enlightra](https://enlightra.com) | PHOTONICS | 2017 | US |Optical microresonator technology |
@@ -216,7 +217,6 @@
 |[Matx](https://matx.com) | AI | 2022 | US |Platform for AGI |
 |[Memryx](https://memryx.com) | AI | 2019 | US |AI computing platform |
 |[Mesa Quantum](https://mesaquantum.com) | QUANTUM | 2023 | US |Quantum sensing for GPS |
-|[MetisX](https://metix.com) | MEMORY | 2022 | KR |CXL memory solutions |
 |[Mintneuro](https://mintneuro.com) | HEALTH | 2015 | UK |Neural implants |
 |[Mobilint](https://mobilint.com) | AI | 2019 | KR |AI inference accelerators |
 |[Morphing Machines](https://morphing.in) | HPC | 2006 | IN |Reconfigurable processors |
@@ -364,6 +364,7 @@
 |[Welinq](https://welinq.fr) | QUANTUM | 2022 | FR |Quantum interconnects |
 |[Xanadu](https://xanadu.ai) | PHOTONICS | 2016 | US |Photonic based quantum computer |
 |[Xcelerium](https://xcelerium.com) | HPC | 2020 | US |Domain specific processors for converged workloads |
+|[XCENA](https://xcena.com) | MEMORY | 2022 | KR |CXL memory solutions |
 |[Xconntech](https://xconn-tech.com) | HPC | 2020 | US |CXL and PCIe switch chips |
 |[Xscape Photonics](https://xscapephotonics.com) | PHOTONICS | 2022 | US |Photonic communication chips |
 |[Xsight Labs](https://xsightlabs.com) | HPC | 2017 | IL |Chip sets for accelerating data-intensive workloads |
