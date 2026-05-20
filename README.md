@@ -401,10 +401,13 @@
 |BrainChip | IPO | 2011 | NA | [Source](https://finance.yahoo.com/quote/BRN.AX/) |
 |Calxeda | Shutdown | 2013 | 0 | [Source](https://semiengineering.com/chip-startup-shuts-doors/) |
 |Cambricon | IPO | 2020 | 5000 | [Source](https://techcrunch.com/2020/06/24/chip-cambricon-ipo/) |
+|Cerebras | IPO | 2026 | 64000 | [Source](https://www.investors.com/news/technology/cerebras-stock-possible-index-inclusion/) |
 |Clearspeed | IPO | 2007 | 20 | [Source](https://en.wikipedia.org/wiki/ClearSpeed) |
+|Cycuity | Arteris | 2025 | NA | [Source](https://www.globenewswire.com/news-release/2025/12/11/3204295/0/en/Arteris-to-Expand-Portfolio-with-Acquisition-of-Cycuity-a-Leader-in-Semiconductor-Cybersecurity-Assurance.html) |
 |Diakopto | Ansys | 2023 | NA | [Source](https://www.prnewswire.com/news-releases/ansys-signs-definitive-agreement-to-acquire-diakopto-expands-multiphysics-simulation-portfolio-for-semiconductor-designers-301826540.html) |
 |Efabless | Shutdown | 2025 | 0 | [Source](https://www.tomshardware.com/tech-industry/semiconductors/efabless-shuts-down-fate-of-tiny-tapeout-chip-production-projects-unclear) |
 |Element14 | Broadcom | 2000 | 600 | [Source](https://www.eetimes.com/broadcom-acquires-element-14-for-600-million-enters-adsl-chip-market/) |
+|Empower | Analog Devices | 2026 | 1500 | [Source](https://www.bostonglobe.com/2026/05/19/business/analog-devices-acquire-empower/) |
 |Esperanto | Shutdown | 2025 | 0 | [Source](https://www.eetimes.com/ai-startup-esperanto-winds-down-silicon-business/) |
 |Espressif | IPO | 2017 | 1800 | [Source](https://www.cnx-software.com/2019/07/25/espressif-systems-gets-listed-on-the-shanghai-stock-market/) |
 |Flex Logix | Analog Devices | 2024 | NA | [Source](https://www.linkedin.com/posts/gregory-bryant-2595642_im-excited-to-welcome-the-talented-team-activity-7260053582446485506-C3TY?utm_source=share&utm_medium=member_desktop) |
@@ -414,6 +417,7 @@
 |Graphcore | Softbank | 2024 | 400 | [Source](https://www.anandtech.com/show/21468/troubled-ai-processor-developer-graphcore-finds-a-buyer-softbank) |
 |GrAI Matter Labs | Snap | 2023 | NA | [Source](https://www.eetimes.com/has-grai-matter-labs-been-snapped-up-by-snap-inc/) |
 |GreenWaves Technologies | Shutdown | 2025 | 0 | [Source](https://www.linkedin.com/feed/update/urn:li:activity:7313159925101166594/) |
+|Groq | Nvidia | 2026 | 20000 | [Source](https://www.nextplatform.com/ai/2026/03/17/nvidia-finally-admits-why-it-shelled-out-20-billion-for-groq/5209495) |
 |Gyrfalcon | Shutdown | 2024 | NA | [Source](https://www.gyrfalcontech.ai) |
 |Habana Labs | Intel | 2019 | 2000 | [Source](https://www.forbes.com/sites/moorinsights/2019/12/16/intel-acquires-habana-labs-for-2b/?sh=27bc9bc319f9) |
 |Icera | Nvidia | 2011 | 367 | [Source](https://nvidianews.nvidia.com/news/nvidia-completes-acquisition-of-icera-a-leader-in-wireless-modem-rf-technology-6622906) |
@@ -436,6 +440,7 @@
 |Mobix Labs | SPAC | 2023 | NA | [Source](https://mobixlabs.com) |
 |Movidius | Intel | 2016 | 400 | [Source](https://siliconangle.com/2016/09/06/intel-buys-movidius-to-boost-machine-vision/) |
 |Nervana | Intel | 2016 | 350 | [Source](https://venturebeat.com/2016/08/09/intel-acquires-deep-learning-startup-nervana) |
+|Nubis | Ciena | 270 | 2025 | [Source](https://www.ciena.com/about/newsroom/press-releases/ciena-to-acquire-nubis-communications-to-expand-its-inside-the-data-center-strategy-and-further-address-growing-ai-workloads) |
 |Nuvia | Qualcomm | 2021 | 1400 | [Source](https://www.fiercewireless.com/devices/qualcomm-to-acquire-nuvia-for-1-4b) |
 |Occuli | Ambarella | 2021 | 307 | [Source](https://www.ambarella.com/news/ambarella-closes-acquisition-of-oculii/) |
 |PA Semi | Apple | 2009 | 278 | [Source](https://www.cnet.com/tech/tech-industry/apple-acquires-low-power-chip-designer-pa-semi) |
@@ -444,6 +449,7 @@
 |PrimeSense | Apple | 2013 | 350 | [Source](https://techcrunch.com/2013/11/24/apple-primesense-acquisition-confirmed) |
 |Provigent | Broadcom | 2011 | 360 | [Source](https://en.globes.co.il/en/article-1000631723) |
 |Quantenna | Onsemi | 2019 | 1000 | [Source](https://www.bizjournals.com/phoenix/news/2022/09/20/onsemi-close-down-quantenna.html) |
+|Rivos | Meta | 2025 | 2000 | [Source](https://semiwiki.com/forum/threads/meta-is-acquiring-chip-startup-rivos-for-a-reported-2b-to-turbocharge-its-in-house-ai-chips-mtia-and-cut-its-heavy-reliance-on-nvidia.23756/) |
 |Sand 9 | ADI | 2015 | 30 | [Source](https://www.eenewseurope.com/en/analog-devices-is-sand-9-buyer/) |
 |Sapeon | Rebellions | 2024 | NA | [Source](https://www.reuters.com/technology/artificial-intelligence/south-korean-ai-chip-makers-rebellions-sapeon-agree-merge-2024-08-18/) |
 |SiByte | Broadcom | 2000 | 2000 | [Source](https://www.eetimes.com/broadcom-acquires-mips-core-provider-sibyte) |
@@ -454,6 +460,7 @@
 |Stretch | Exar | 2014 | NA | [Source](https://www.prnewswire.com/news-releases/exar-acquires-stretch-incorporated-240074341.html) |
 |Tabula | Shutdown | 2015 | 0 | [Source](https://semiwiki.com/fpga/4232-tabula-closes-its-doors/) |
 |Tensil.ai | NA | 2022 | NA | NA |
+|Teramount | Molex | 2026 | 430 | [Source](https://www.calcalistech.com/ctechnews/article/b1intlan11l#google_vignette) |
 |Tilera | Ezchip | 2014 | 50 | [Source](https://www.prnewswire.com/news-releases/ezchip-completes-acquisition-of-tilera-a-leader-in-high-performance-multi-core-processors-281754771.html) |
 |Untether | AMD | 2025 | NA | [Source](https://www.eetimes.com/untether-ai-shuts-down-engineering-team-joins-amd/) |
 |Upverter | Altium | 2017 | 2.8 | [Source](https://pitchbook.com/profiles/company/56161-81#overview) |
