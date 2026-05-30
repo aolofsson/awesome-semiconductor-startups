@@ -19,7 +19,7 @@ BibTeX:
   year = {2026},
   howpublished = {\url{https://github.com/aolofsson/awesome-semiconductor-startups}}
 }
-
+```
 
 ## Adding a company:
 
