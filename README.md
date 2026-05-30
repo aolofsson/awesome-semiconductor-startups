@@ -1,25 +1,4 @@
-# Database of Awesome Semiconductor Startups
-
-[![DOI](https://zenodo.org/badge/474113335.svg)](https://doi.org/10.5281/zenodo.20466138)
-
-## Citation:
-
-If you use this repository in research, articles, presentations, or market analyses, please cite:
-
-> Andreas Olofsson. *Database of Awesome Awesome Semiconductor Startups*.
-> GitHub repository.
-> https://github.com/aolofsson/awesome-semiconductor-startups
-
-BibTeX:
-
-```bibtex
-@misc{olofsson_awesome_semiconductor_startups,
-  author = {Andreas Olofsson},
-  title = {Database of Awesome Semiconductor Startups},
-  year = {2026},
-  howpublished = {\url{https://github.com/aolofsson/awesome-semiconductor-startups}}
-}
-```
+# List of awesome semiconductor startups
 
 ## Adding a company:
 
@@ -428,6 +407,7 @@ BibTeX:
 |Clearspeed | IPO | 2007 | 20 | [Source](https://en.wikipedia.org/wiki/ClearSpeed) |
 |Cycuity | Arteris | 2025 | NA | [Source](https://www.globenewswire.com/news-release/2025/12/11/3204295/0/en/Arteris-to-Expand-Portfolio-with-Acquisition-of-Cycuity-a-Leader-in-Semiconductor-Cybersecurity-Assurance.html) |
 |Diakopto | Ansys | 2023 | NA | [Source](https://www.prnewswire.com/news-releases/ansys-signs-definitive-agreement-to-acquire-diakopto-expands-multiphysics-simulation-portfolio-for-semiconductor-designers-301826540.html) |
+|Dream Big | ARM | 2025 | 265 | [Source](https://www.eetimes.com/arms-dreambig-acquisition-reignites-in-house-chip-prospects/) |
 |Dust Photonics | Credo | 2026 | 1300 | [Source](https://www.datacenterdynamics.com/en/news/credo-technology-group-acquires-dustphotonics-in-13bn-cash-and-stock-deal/) |
 |Efabless | Shutdown | 2025 | 0 | [Source](https://www.tomshardware.com/tech-industry/semiconductors/efabless-shuts-down-fate-of-tiny-tapeout-chip-production-projects-unclear) |
 |Element14 | Broadcom | 2000 | 600 | [Source](https://www.eetimes.com/broadcom-acquires-element-14-for-600-million-enters-adsl-chip-market/) |
@@ -466,6 +446,7 @@ BibTeX:
 |Mobix Labs | SPAC | 2023 | NA | [Source](https://mobixlabs.com) |
 |Movidius | Intel | 2016 | 400 | [Source](https://siliconangle.com/2016/09/06/intel-buys-movidius-to-boost-machine-vision/) |
 |Nervana | Intel | 2016 | 350 | [Source](https://venturebeat.com/2016/08/09/intel-acquires-deep-learning-startup-nervana) |
+|Neuroblade | Amazon | 2025 | NA | [Source](https://www.storagenewsletter.com/2025/10/23/aws-swallows-neuroblade/) |
 |Nubis | Ciena | 270 | 2025 | [Source](https://www.ciena.com/about/newsroom/press-releases/ciena-to-acquire-nubis-communications-to-expand-its-inside-the-data-center-strategy-and-further-address-growing-ai-workloads) |
 |Nuvia | Qualcomm | 2021 | 1400 | [Source](https://www.fiercewireless.com/devices/qualcomm-to-acquire-nuvia-for-1-4b) |
 |Occuli | Ambarella | 2021 | 307 | [Source](https://www.ambarella.com/news/ambarella-closes-acquisition-of-oculii/) |
