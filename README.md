@@ -401,13 +401,17 @@
 |BrainChip | IPO | 2011 | NA | [Source](https://finance.yahoo.com/quote/BRN.AX/) |
 |Calxeda | Shutdown | 2013 | 0 | [Source](https://semiengineering.com/chip-startup-shuts-doors/) |
 |Cambricon | IPO | 2020 | 5000 | [Source](https://techcrunch.com/2020/06/24/chip-cambricon-ipo/) |
+|Celestial AI | Marvell | 2025 | 3250 | [Source](https://finance.yahoo.com/news/marvell-buy-chip-startup-celestial-210837707.html) |
 |Cerebras | IPO | 2026 | 64000 | [Source](https://www.investors.com/news/technology/cerebras-stock-possible-index-inclusion/) |
+|Chipstack | Cadence | 2025 | NA | [Source](https://www.forbes.com/sites/davealtavilla/2026/02/10/cadence-chipstack-ai-super-agent-claims-up-to-10x-faster-chip-design/) |
 |Clearspeed | IPO | 2007 | 20 | [Source](https://en.wikipedia.org/wiki/ClearSpeed) |
 |Cycuity | Arteris | 2025 | NA | [Source](https://www.globenewswire.com/news-release/2025/12/11/3204295/0/en/Arteris-to-Expand-Portfolio-with-Acquisition-of-Cycuity-a-Leader-in-Semiconductor-Cybersecurity-Assurance.html) |
 |Diakopto | Ansys | 2023 | NA | [Source](https://www.prnewswire.com/news-releases/ansys-signs-definitive-agreement-to-acquire-diakopto-expands-multiphysics-simulation-portfolio-for-semiconductor-designers-301826540.html) |
+|Dust Photonics | Credo | 2026 | 1300 | [Source](https://www.datacenterdynamics.com/en/news/credo-technology-group-acquires-dustphotonics-in-13bn-cash-and-stock-deal/) |
 |Efabless | Shutdown | 2025 | 0 | [Source](https://www.tomshardware.com/tech-industry/semiconductors/efabless-shuts-down-fate-of-tiny-tapeout-chip-production-projects-unclear) |
 |Element14 | Broadcom | 2000 | 600 | [Source](https://www.eetimes.com/broadcom-acquires-element-14-for-600-million-enters-adsl-chip-market/) |
 |Empower | Analog Devices | 2026 | 1500 | [Source](https://www.bostonglobe.com/2026/05/19/business/analog-devices-acquire-empower/) |
+|Enosemi | AMD | 2025 | NA | [Source](https://techcrunch.com/2025/05/28/amd-buys-silicon-photonics-startup-enosemi-to-fuel-its-ai-ambitions/) |
 |Esperanto | Shutdown | 2025 | 0 | [Source](https://www.eetimes.com/ai-startup-esperanto-winds-down-silicon-business/) |
 |Espressif | IPO | 2017 | 1800 | [Source](https://www.cnx-software.com/2019/07/25/espressif-systems-gets-listed-on-the-shanghai-stock-market/) |
 |Flex Logix | Analog Devices | 2024 | NA | [Source](https://www.linkedin.com/posts/gregory-bryant-2595642_im-excited-to-welcome-the-talented-team-activity-7260053582446485506-C3TY?utm_source=share&utm_medium=member_desktop) |
@@ -420,6 +424,7 @@
 |Groq | Nvidia | 2026 | 20000 | [Source](https://www.nextplatform.com/ai/2026/03/17/nvidia-finally-admits-why-it-shelled-out-20-billion-for-groq/5209495) |
 |Gyrfalcon | Shutdown | 2024 | NA | [Source](https://www.gyrfalcontech.ai) |
 |Habana Labs | Intel | 2019 | 2000 | [Source](https://www.forbes.com/sites/moorinsights/2019/12/16/intel-acquires-habana-labs-for-2b/?sh=27bc9bc319f9) |
+|Hyperlume | Credo | 2025 | 92 | [Source](https://finance.yahoo.com/news/credo-acquires-hyperlume-taps-microled-122100852.html) |
 |Icera | Nvidia | 2011 | 367 | [Source](https://nvidianews.nvidia.com/news/nvidia-completes-acquisition-of-icera-a-leader-in-wireless-modem-rf-technology-6622906) |
 |Immedia | Amazon | 2017 | 90 | [Source](https://www.theverge.com/22704290/amazon-blink-ring-camera-doorbell-brands-smart-home-why) |
 |Imperas | Synopsys | 2023 | NA | [Source](https://www.design-reuse.com/news/55442/synopsys-imperas-acquisition.html) |
@@ -464,5 +469,6 @@
 |Tilera | Ezchip | 2014 | 50 | [Source](https://www.prnewswire.com/news-releases/ezchip-completes-acquisition-of-tilera-a-leader-in-high-performance-multi-core-processors-281754771.html) |
 |Untether | AMD | 2025 | NA | [Source](https://www.eetimes.com/untether-ai-shuts-down-engineering-team-joins-amd/) |
 |Upverter | Altium | 2017 | 2.8 | [Source](https://pitchbook.com/profiles/company/56161-81#overview) |
+|Ventana | Qualcomm | 2025 | NA | [Source](https://www.crn.com/news/components-peripherals/2025/qualcomm-acquires-risc-v-chip-designer-ventana-to-boost-cpu-capabilities) |
 |Wavious | Apple | 2022 | NA | [Source](https://pitchbook.com/profiles/company/169888-60#overview) |
 |zGlue | Sold | 2021 | NA | [Source](https://www.reuters.com/technology/chip-wars-how-chiplets-are-emerging-core-part-chinas-tech-strategy-2023-07-13) |
