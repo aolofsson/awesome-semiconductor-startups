@@ -34,9 +34,9 @@ Aule Technologies,auletechnologies.com,EDA,US,2022,AI/physics based design platf
 Avicena,avicena.tech,PHOTONICS,US,2019,Optical uLed interconnect technology
 Axelera,axelera.ai,AI,NL,2021,Low power AI edge processors
 Ayar Labs,ayarlabs.com,PHOTONICS,US,2015,Electronic-photonic communication chip sets
-Azimuth AI,Azimuth-ai.com,ASIC,US,2023,Edge AI ASICs
+Azimuth AI,azimuth-ai.com,ASIC,US,2023,Edge AI ASICs
 Baya Systems,bayasystems.com,CHIPLETS,US,2023,Chiplet Based Semiconductor Design
-Beacon Photonics,beaconphotonics,PHOTONICS,US,2023,Integrated photonics platform
+Beacon Photonics,beaconphotonics.com,PHOTONICS,US,2023,Integrated photonics platform
 Beam,beamshaping.io,RF,IL,2015,Phased array antennas
 Belfort,belfortlabs.com,SECURITY,BE,2025,Hardware for encrypted compute (FHE)
 Black Semiconductor,blacksemiconductor.de,MFG,DE,2021,Graphene electronics/photonics translators
@@ -171,7 +171,7 @@ Mythic,mythic-ai.com,AI,US,2012,Analog ML accelerators
 MZ Technologies,genioevo.com,EDA,IT,2014,EDA solutions for advanced packaging
 Nanopower,nanopowersemi.com,ANALOG,NO,2017,Smart power management ICs
 NcodiN,ncodin.com,PHOTONICS,FR,2023,Optical interposers
-Neologic,neologic.com,MFG,IL,2021,Quasi-CMOS transistor technology
+Neologic,neologicvlsi.com,MFG,IL,2021,Quasi-CMOS transistor technology
 Netrasemi,netrasemi.com,AI,IN,2020,AI Hardware chips
 Neureality,neureality.ai,AI,IL,2019,Purpose-built AI-centric architecture
 NeuroBlade,neuroblade.com,AI,IL,2018,Accelerators for high throughput data analytics
@@ -198,7 +198,6 @@ Panmnesia,panmnesia.com,MEMORY,KR,2022,CXL IP
 par.tcl,partcl.com,EDA,US,2024,Physics based eda tools
 persimmons,persimmons.ai,AI,US,2023,"Flexible, low-power generative AI inference system "
 Phanofi,phanofi.com,PHOTONICS,DK,2022,Optical transceivers for data centers & HPC
-Pharrowtech,pharrowtech.com,RF,BE,2018,RF ICs for high speed wireless links
 Phoenix Semiconductor,phoenixsemicorp.com,ASIC,US,2023,Drop in replacements for discontinued devices
 Picocom,picocom.com,RF,UK,2019,Semiconductor products for 5G infrastructure
 Piris Labs,pirislabs.io,AI,US,2025,Optical inference engine
@@ -220,7 +219,7 @@ Qromis,qromis.com,MFG,US,2015,Semiconductor materials for WBG
 Qruise,qruise.com,QUANTUM,DE,2021,Design and verification of quantum systems
 Quadric.io,quadric.io,AI,US,2016,Edge processing for edge devices
 Qualinx,qualinx.io,RF,NL,2015,IoT GNSS based tracking and connectivity
-Quantum Motion,quantummmotion.tech,QUANTUM,UK,2017,Scalable quantum computer architectural technology
+Quantum Motion,quantummotion.com,QUANTUM,UK,2017,Scalable quantum computer architectural technology
 Quera Computing,quera.com,QUANTUM,US,2018,Neutral atom based quantum computers
 Quilter,quilter.ai,EDA,US,2020,AI driven PCB design
 Quintessent,quintessent.com,PHOTONICS,US,2019,Optical interconnect
@@ -296,7 +295,6 @@ Usound,usound.com,MEMS,AU,2012,Sound solutions based on MEMS technology
 Vaire Computing,vaire.co,ANALOG,UK,2021,Near zero energy computing
 Vayyar,vayyar.com,SENSORS,IL,2011,High resolution image sensors
 Vector Photonics,vectorphotonics.co.uk,PHOTONICS,UK,2020,Semiconductor lasers
-Ventana Micro,ventanamicro.com,RISC-V,US,2018,RISC-V CPU cores and compute subsystems
 VerifAI,verifai.ai,EDA,US,2020,AI assisted hardware design and verification
 Verifaix,verifaix.com,EDA,US,2024,AI assisted hardware design and verification
 Vinci,getvinci.ai,EDA,US,2023,Physics-based AI for hardware design and simulation
@@ -305,7 +303,6 @@ Visblsemi,visiblsemi.com,EDA,US,2024,AI assisted hardware design and verificatio
 Volantis Semiconductor,volantissemi.ai,AI,US,2022,AI processors
 VoltAI,voltai.com,EDA,US,2022,AI models for semiconductor
 Vsora,vsora.com,AI,FR,2015,AI inference chips
-VyperCore,vypercore.com,RISC-V,UK,2022,RISC-V processors
 Wave Photonics,wavephotonics.com,PHOTONICS,UK,2021,Photonics design platform
 Welinq,welinq.fr,QUANTUM,FR,2022,Quantum interconnects
 Xanadu,xanadu.ai,PHOTONICS,US,2016,Photonic based quantum computer
