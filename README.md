@@ -114,6 +114,7 @@ BibTeX:
 |[Axelera](https://axelera.ai) | AI | 2021 | NL |Low power AI edge processors |
 |[Aule Technologies](https://auletechnologies.com) | EDA | 2022 | US |AI/physics based design platform |
 |[Ayar Labs](https://ayarlabs.com) | PHOTONICS | 2015 | US |Electronic-photonic communication chip sets |
+|[Ayo Semiconductor](https://ayosemi.com) | PHOTONICS | 2024 | US |Photonic AI acceleration using novel photonic processes |
 |[Azimuth AI](https://Azimuth-ai.com) | ASIC | 2023 | US |Edge AI ASICs |
 |[Baya Systems](https://bayasystems.com) | CHIPLETS | 2023 | US |Chiplet Based Semiconductor Design |
 |[Beacon Photonics](https://beaconphotonics) | PHOTONICS | 2023 | US |Integrated photonics platform |
