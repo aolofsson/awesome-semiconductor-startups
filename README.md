@@ -119,7 +119,7 @@ BibTeX:
 |[Beacon Photonics](https://beaconphotonics) | PHOTONICS | 2023 | US |Integrated photonics platform |
 |[Beam](https://beamshaping.io) | RF | 2015 | IL |Phased array antennas |
 |[Belfort](https://belfortlabs.com) | SECURITY | 2025 | BE |Hardware for encrypted compute (FHE) |
-|[Build4Sim Inc](https://build4sim.com) | EDA |  accelerating Spice simulation | 2025 |None |
+|[Build4Sim Inc](https://build4sim.com) | EDA |  accelerating Spice simulation | 2025 | |
 |[Black Semiconductor](https://blacksemiconductor.de) | MFG | 2021 | DE |Graphene electronics/photonics translators |
 |[Blueshift Memory](https://blueshiftmemory.com) | MEMORY | 2016 | UK |High performance memory centric architecture |
 |[Bluespec](https://bluespec.com) | RISC-V | 2003 | US |RISC-V IP and System Development Tools |
@@ -270,6 +270,7 @@ BibTeX:
 |[Optalysys](https://optalysys.com) | PHOTONICS | 2013 | UK |Optical computing next-gen cryptography |
 |[optoML](https://optoml.ai) | AI | 2024 | SG |Low power AI processors |
 |[Oso Semiconductor](https://ososemi.com) | RF | 2022 | US |Low power RF chip set |
+|[Otava RF](https://otavainc.com) | RF | 2017 | US |Tunable RF filters, beamformers, and transceivers for defense and 5G/6G |
 |[Owl](https://owlai.us) | SENSORS | 2018 | US |Monocular 3D thermal ranging solutions |
 |[Oxford Quantum Circuits](https://oxfordquantumcircuits.com) | QUANTUM | 2017 | UK |Quantum computing platform |
 |[Ozark ICs](https://ozarkic.com) | ANALOG | 2011 | US |High temperature ruggedized electronics |
