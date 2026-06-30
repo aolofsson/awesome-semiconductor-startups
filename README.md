@@ -167,6 +167,7 @@ BibTeX:
 |[EdgeQ](https://edgeq.io) | RF | 2018 | US |Base station-on-a-chip |
 |[Efinix](https://efinixinc.com) | FPGA | 2012 | US |Programmable FPGA products |
 |[Efficient Computer](https://efficient.computer) | HPC | 2022 | US |Energy efficient general-purpose processor |
+|[Elastix AI](https://elastix.ai) | FPGA |  2026 | US | Unified ML-hardware-software co-design for efficient AI inference |
 |[Eliyan](https://eliyan.com) | CHIPLETS | 2021 | US |Interconnect technology |
 |[EnCharge AI](https://enchargeai.com) | AI | 2021 | US |AI processing platform |
 |[Enlightra](https://enlightra.com) | PHOTONICS | 2017 | US |Optical microresonator technology |
