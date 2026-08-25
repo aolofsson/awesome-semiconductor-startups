@@ -119,7 +119,7 @@ BibTeX:
 |[Beacon Photonics](https://beaconphotonics) | PHOTONICS | 2023 | US |Integrated photonics platform |
 |[Beam](https://beamshaping.io) | RF | 2015 | IL |Phased array antennas |
 |[Belfort](https://belfortlabs.com) | SECURITY | 2025 | BE |Hardware for encrypted compute (FHE) |
-|[Build4Sim Inc](https://build4sim.com) | EDA |  accelerating Spice simulation | 2025 |None |
+|[Build4Sim Inc](https://build4sim.com) | EDA | 2025 | US |Accelerating Spice simulation |
 |[Black Semiconductor](https://blacksemiconductor.de) | MFG | 2021 | DE |Graphene electronics/photonics translators |
 |[Blueshift Memory](https://blueshiftmemory.com) | MEMORY | 2016 | UK |High performance memory centric architecture |
 |[Bluespec](https://bluespec.com) | RISC-V | 2003 | US |RISC-V IP and System Development Tools |
@@ -299,7 +299,7 @@ BibTeX:
 |[Qruise](https://qruise.com) | QUANTUM | 2021 | DE |Design and verification of quantum systems |
 |[Quadric.io](https://quadric.io) | AI | 2016 | US |Edge processing for edge devices |
 |[Qualinx](https://qualinx.io) | RF | 2015 | NL |IoT GNSS based tracking and connectivity |
-|[Quantum Motion](https://quantummmotion.tech) | QUANTUM | 2017 | UK |Scalable quantum computer architectural technology |
+|[Quantum Motion](https://quantummotion.com) | QUANTUM | 2017 | UK |Scalable quantum computer architectural technology |
 |[Quera Computing](https://quera.com) | QUANTUM | 2018 | US |Neutral atom based quantum computers |
 |[Quilter](https://quilter.ai) | EDA | 2020 | US |AI driven PCB design |
 |[Quintessent](https://quintessent.com) | PHOTONICS | 2019 | US |Optical interconnect |
