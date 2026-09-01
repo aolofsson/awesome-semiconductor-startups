@@ -30,16 +30,15 @@ Atlant 3D,atlant3d.com,MFG,DK,2018,Atomic scale 3d material printing
 Atlantic Quantum,atlantic-quantum.com,QUANTUM,US,2022,Scalable quantum computers
 Atmosic,atmosic.com,RF,US,2016,Battery free wireless devices
 Atoms AI,atomsai.net,EDA,US,2024,AI driven verification
+Aule Technologies,auletechnologies.com,EDA,US,2022,AI/physics based design platform
 Avicena,avicena.tech,PHOTONICS,US,2019,Optical uLed interconnect technology
 Axelera,axelera.ai,AI,NL,2021,Low power AI edge processors
-Aule Technologies,auletechnologies.com,EDA,US,2022,AI/physics based design platform
 Ayar Labs,ayarlabs.com,PHOTONICS,US,2015,Electronic-photonic communication chip sets
-Azimuth AI,Azimuth-ai.com,ASIC,US,2023,Edge AI ASICs
+Azimuth AI,azimuth-ai.com,ASIC,US,2023,Edge AI ASICs
 Baya Systems,bayasystems.com,CHIPLETS,US,2023,Chiplet Based Semiconductor Design
-Beacon Photonics,beaconphotonics,PHOTONICS,US,2023,Integrated photonics platform
+Beacon Photonics,beaconphotonics.com,PHOTONICS,US,2023,Integrated photonics platform
 Beam,beamshaping.io,RF,IL,2015,Phased array antennas
 Belfort,belfortlabs.com,SECURITY,BE,2025,Hardware for encrypted compute (FHE)
-Build4Sim Inc,build4sim.com,EDA,2025, accelerating Spice simulation
 Black Semiconductor,blacksemiconductor.de,MFG,DE,2021,Graphene electronics/photonics translators
 Blueshift Memory,blueshiftmemory.com,MEMORY,UK,2016,High performance memory centric architecture
 Bluespec,bluespec.com,RISC-V,US,2003,RISC-V IP and System Development Tools
@@ -48,23 +47,25 @@ Bolt Semiconductor,boltsemi.com,MFG,US,2024,Vertical GaN technology
 BoolSi,boolsi.com,EDA,US,2023,"Generate RTL from any code base, in any language"
 bos semiconductors,bos-semi.com,ASIC,KR,2022,Automotive ASICs
 Bronco AI,bronco.ai,EDA,US,2022,AI tools for chip development
-cassia.ai,cassia.ai,AI,US,2021,AI Hardware IP
+Build4Sim Inc,build4sim.com,EDA,US,2025,Accelerating Spice simulation
 cadlab.io,cadlab.io,EDA,US,2015,Collaboration tools for PCB design
 Cadstrom,cadstrom.io,EDA,CA,2023,AI based PCB design
+cassia.ai,cassia.ai,AI,US,2021,AI Hardware IP
 Celera,celeratechnologies.com,EDA,US,2018,Automated analog/mixed-signal IC development tool
+Celero Communications,celero.inc,NETWORKING,US,2024,Coherent DSP platform for high-bandwidth low-power optical connectivity
 Celestial AI,celestial.ai,PHOTONICS,US,2020,Photonic fabric optical interconnect technology
 Cellium,cellium.net,RF,IL,2016,Wireless infrastructure for indoor connectivity
 Celtro,celtro.de,HEALTH,DE,2019,Energy harvesting implantable medical devices
 Celus,celus.io,EDA,DE,2016,PCB design tools
-Cerebras,cerebras.net,HPC,US,2016,Wafer scale processors
 Ceremorphic,ceremorphic.com,HPC,US,2020,Analog computing architecture
 Cerfe Labs,cerfelabs.com,MFG,US,2020,Electronics materials and device research
-Chipmind,chipmind.ai,EDA,CH,2024,Agentic chip design
+ChipAgents,chipagents.ai,EDA,US,2024,Agentic AI chip design environment
 Chipflow,chipflow.io,ASIC,UK,2021,ASIC design platform
 Chipletz,chipletz.com,CHIPLETS,US,2021,Smart substrate for chiplet integration
+Chipmind,chipmind.ai,EDA,CH,2024,Agentic chip design
 Chipstack,chipstack.com,EDA,US,2023,AI based chip design methodology
 Circuit Mind,circuitmind.io,EDA,UK,2018,PCB design tools
-CircuitLeap.ai,circuitleap.ai,EDA,Portugal,2024,Automated analog design with GPU and AI
+CircuitLeap.ai,circuitleap.ai,EDA,PT,2024,Automated analog design with GPU and AI
 Classiq,classiq.io,EDA,IL,2020,Quantum computing software
 Codasip,codasip.com,RISC-V,DE,2014,Supplier of RISC-V IP cores
 Cognichip,cognichip.ai,EDA,US,2024,AI platform for chip design
@@ -77,20 +78,19 @@ DASH Tech IC,dashtechic.com,HPC,US,2021,Flexible processors for embedded applica
 DeepX,deepx.ai,AI,KR,2018,AI processors
 DeGirum,degirum.ai,AI,US,2017,AI platform for edge applications
 Denpaflux,denpaflux.com,EDA,DE,2022,EMC analysis platform for design engineering teams
-Diode Computers,diode.computer,EDA,US,2024,AI based PCB design
 Dfiant,dfiant.works,EDA,US,2022,Chip design tools
+Diode Computers,diode.computer,EDA,US,2024,AI based PCB design
 Dnotitia,dnotitia.com,AI,KR,2023,AI processors
 Dover,dovermicrosystems.com,SECURITY,US,2017,SoC security IP
-Dust Photonics,dustphotonics.com,PHOTONICS,IL,2017,Small footprint integrate photonics transceivers
 DreamBig,dreambigsemi.com,CHIPLETS,US,2019,Chiplet based ASIC platform
+Dust Photonics,dustphotonics.com,PHOTONICS,IL,2017,Small footprint integrate photonics transceivers
 EdgeCortix,edgecortix.com,AI,US,2019,AI accelerators for edge devices
 EdgeQ,edgeq.io,RF,US,2018,Base station-on-a-chip
-Efinix,efinixinc.com,FPGA,US,2012,Programmable FPGA products
 Efficient Computer,efficient.computer,HPC,US,2022,Energy efficient general-purpose processor
+Efinix,efinixinc.com,FPGA,US,2012,Programmable FPGA products
 Eliyan,eliyan.com,CHIPLETS,US,2021,Interconnect technology
 EnCharge AI,enchargeai.com,AI,US,2021,AI processing platform
 Enlightra,enlightra.com,PHOTONICS,US,2017,Optical microresonator technology
-Enosemi,enosemi.com,PHOTONICS,US,2023,Photonics subsystems
 enzzo,enzzo.ai,EDA,US,2024,AI driven hardware development
 Equal1,equal1.com,QUANTUM,IE,2017,Silicon spin qubits for scalable quantum computing
 Eridan,eridan.io,RF,US,2013,RF front end for for wireless telecommunications
@@ -135,25 +135,25 @@ Jeeva Wireless,jeevawireless.com,RF,US,2015,Battery-free wireless sensing techno
 Jitx,jitx.com,EDA,US,2016,PCB design tools
 Kandou,kandou.com,NETWORKING,CH,2011,Chip-to-chip connectivity solutions
 Kepler Computing,keplercompute.com,HPC,US,2018,Stealth
-Kittycad,zoo.dev,EDA,US,2021,AI driven CAD
 Keysom,keysom.io,RISC-V,FR,2022,RISC-V design platform
+Kittycad,zoo.dev,EDA,US,2021,AI driven CAD
 Kneron,kneron.com,AI,US,2015,Edge AI devices
 Krutrim,olakrutrim.com,AI,IN,2023,AI hardware
 Lemurian Labs,lemurianlabs.com,AI,CA,2018,AI computing platform
 Light Solver,lightsolver.com,PHOTONICS,IL,2019,Optical computing platform
 Light Trace Photonics,ltphotonics.co.uk,PHOTONICS,UK,2021,Platform for rapid photonic product development
-Lightelligence,lightelligence.ai,PHOTONICS,US,2017,Optical computing platform
 Lightium,lightium.co,MFG,CH,2023,Photonics foundry
 Lightmatter,lightmatter.co,PHOTONICS,US,2017,Optical computing platform
-Lighton,lighton.ai,PHOTONICS,FR,2015,Optical computing platform
-Literal Labs,Literal-labs.ai,AI,UK,2023,Explainable AI using Tsetlin machines
 Linctrinsic,lintrinsicsemi.com,RF,US,2021,Fast RF switches
 Linque,linque.eu,PHOTONICS,DE,2023,Optical computing 
+Literal Labs,Literal-labs.ai,AI,UK,2023,Explainable AI using Tsetlin machines
 Lubis EDA,Lubis-eda.com,EDA,DE,2021,Cloud based formal verification platform
 Lumai,luma.ai,PHOTONICS,UK,2021,3D optical computing
 Luminous Computing,luminous.com,PHOTONICS,US,2018,Optical computing platform
 Lumotive,lumotive.com,PHOTONICS,US,2017,Optical beam forming sensors
 Lyte AI,lyte.ai,AI,US,2021,Perception layer for physical AI
+Magics Technologies,magics.tech,SPACE,BE,2015,Radiation-hardened ICs for space systems and nuclear infrastructure
+Maieutic Semiconductors,maieuticsemi.com,EDA,IN,2025,Generative AI copilot for analog chip design
 Majestic Labs,majestic-labs.ai,AI,IL,2023,AI procesor
 MangoBoost,mangoboost.io,HPC,US,2022,Data processing units for data center
 Matx,matx.com,AI,US,2022,Platform for AGI
@@ -164,14 +164,15 @@ Mintneuro,mintneuro.com,HEALTH,UK,2015,Neural implants
 Mobilint,mobilint.com,AI,KR,2019,AI inference accelerators
 Morphing Machines,morphing.in,HPC,IN,2006,Reconfigurable processors
 Morse Micro,morsemicro.com,RF,AU,2016,Low-power Wi-Fi chips
-Mosaic SoC,mosaic-soc.com/,ASIC,CH,2024,Specialized chips designed for AR glasses
+Mosaic SoC,mosaic-soc.com,ASIC,CH,2024,Specialized chips designed for AR glasses
 Motivo,motivo.ai,EDA,US,2015,Explainable AI and ML for chip design optimization
+Movandi,movandi.com,RF,US,2016,RF chipsets
 Movellus,movellus.com,ANALOG,US,2014,Clock distribution IP
 Mythic,mythic-ai.com,AI,US,2012,Analog ML accelerators
 MZ Technologies,genioevo.com,EDA,IT,2014,EDA solutions for advanced packaging
 Nanopower,nanopowersemi.com,ANALOG,NO,2017,Smart power management ICs
 NcodiN,ncodin.com,PHOTONICS,FR,2023,Optical interposers
-Neologic,neologic.com,MFG,IL,2021,Quasi-CMOS transistor technology
+Neologic,neologicvlsi.com,MFG,IL,2021,Quasi-CMOS transistor technology
 Netrasemi,netrasemi.com,AI,IN,2020,AI Hardware chips
 Neureality,neureality.ai,AI,IL,2019,Purpose-built AI-centric architecture
 NeuroBlade,neuroblade.com,AI,IL,2018,Accelerators for high throughput data analytics
@@ -198,9 +199,9 @@ Panmnesia,panmnesia.com,MEMORY,KR,2022,CXL IP
 par.tcl,partcl.com,EDA,US,2024,Physics based eda tools
 persimmons,persimmons.ai,AI,US,2023,"Flexible, low-power generative AI inference system "
 Phanofi,phanofi.com,PHOTONICS,DK,2022,Optical transceivers for data centers & HPC
-Pharrowtech,pharrowtech.com,RF,BE,2018,RF ICs for high speed wireless links
 Phoenix Semiconductor,phoenixsemicorp.com,ASIC,US,2023,Drop in replacements for discontinued devices
 Picocom,picocom.com,RF,UK,2019,Semiconductor products for 5G infrastructure
+Piris Labs,pirislabs.io,AI,US,2025,Optical inference engine
 Plaid Semiconductor,plaidsemi.com,CHIPLETS,US,2023,Interposers for chiplet integration
 Pliops,pliops.com,HPC,IL,2017,Scalable data handling/acceleration
 PointCloud,point.cloud,SENSORS,US,2017,4D imaging sensors
@@ -211,7 +212,6 @@ PragmatiC,pragmaticsemi.com,MFG,UK,2010,Manufacturer of low-cost flexible integr
 Precision Innovations,precisioninno.com,EDA,US,2019,Developing and supporting OpenROAD
 Primemas,primemas.com,CHIPLETS,US,2023,Platform for rapid SoC system development
 Primis,primis.ai,EDA,US,2023,Generative-AI driven hardware design
-Piris Labs,pirislabs.io/,AI,US,2025,Optical inference engine
 proteanTecs,proteantecs.com,ANALOG,IL,2017,Analytics platform for advanced chip design
 PseudolithIC,pseudolithic.com,MFG,US,2019,Integration process for RF applications
 PsiQuantum,psiquantum.com,QUANTUM,US,2015,Quantum computers
@@ -220,7 +220,7 @@ Qromis,qromis.com,MFG,US,2015,Semiconductor materials for WBG
 Qruise,qruise.com,QUANTUM,DE,2021,Design and verification of quantum systems
 Quadric.io,quadric.io,AI,US,2016,Edge processing for edge devices
 Qualinx,qualinx.io,RF,NL,2015,IoT GNSS based tracking and connectivity
-Quantum Motion,quantummmotion.tech,QUANTUM,UK,2017,Scalable quantum computer architectural technology
+Quantum Motion,quantummotion.com,QUANTUM,UK,2017,Scalable quantum computer architectural technology
 Quera Computing,quera.com,QUANTUM,US,2018,Neutral atom based quantum computers
 Quilter,quilter.ai,EDA,US,2020,AI driven PCB design
 Quintessent,quintessent.com,PHOTONICS,US,2019,Optical interconnect
@@ -236,6 +236,7 @@ Recogni,recogni.com,AI,US,2017,Visual perception platform for autonomous vehicle
 RED Semiconductor,redsemiconductor.com,HPC,UK,2021,Processor technology
 Redwood EDA,redwoodeda.com,EDA,US,2015,Transaction level hardware design platform
 Retym,retym.com,AI,US,2021,Stealth
+Ricursive Intelligence,ricursive.com,EDA,US,2025,AI models to automate all stages of chip design and verification
 RISE,Rise-da.com,EDA,US,2024,Design and verification productivity platform
 Riverlane,riverlane.com,QUANTUM,UK,2016,Quantum error correction
 Rivos,rivosinc.com,RISC-V,US,2021,Stealth
@@ -288,21 +289,21 @@ TriEye,trieye.tech,SENSORS,IL,2017,Short-wave infrared imaging systems
 Ubilite,ubilite.com,RF,US,2014,Low power wireless communication for IoT
 Ubitium,ubitium.com,AI,DE,2024,Universal processor
 Uhnder,uhnder.com,SENSORS,US,2015,Digital automotive radar SoC
+Unconventional AI,unconv.ai,AI,US,2025,Analog AI chips
 Unifabrix,unifabrix.com,NETWORKING,IL,2020,CXL based secure connectivity solution
 Upmem,upmem.com,AI,FR,2015,In memory processing devices for big data and AI
 Usound,usound.com,MEMS,AU,2012,Sound solutions based on MEMS technology
 Vaire Computing,vaire.co,ANALOG,UK,2021,Near zero energy computing
 Vayyar,vayyar.com,SENSORS,IL,2011,High resolution image sensors
 Vector Photonics,vectorphotonics.co.uk,PHOTONICS,UK,2020,Semiconductor lasers
-Ventana Micro,ventanamicro.com,RISC-V,US,2018,RISC-V CPU cores and compute subsystems
 VerifAI,verifai.ai,EDA,US,2020,AI assisted hardware design and verification
 Verifaix,verifaix.com,EDA,US,2024,AI assisted hardware design and verification
+Vinci,getvinci.ai,EDA,US,2023,Physics-based AI for hardware design and simulation
 Viqthor,viqthor.com,QUANTUM,FR,2023,Quantum processing
 Visblsemi,visiblsemi.com,EDA,US,2024,AI assisted hardware design and verification
 Volantis Semiconductor,volantissemi.ai,AI,US,2022,AI processors
 VoltAI,voltai.com,EDA,US,2022,AI models for semiconductor
 Vsora,vsora.com,AI,FR,2015,AI inference chips
-VyperCore,vypercore.com,RISC-V,UK,2022,RISC-V processors
 Wave Photonics,wavephotonics.com,PHOTONICS,UK,2021,Photonics design platform
 Welinq,welinq.fr,QUANTUM,FR,2022,Quantum interconnects
 Xanadu,xanadu.ai,PHOTONICS,US,2016,Photonic based quantum computer
@@ -314,7 +315,7 @@ Xscape Photonics,xscapephotonics.com,PHOTONICS,US,2022,Photonic communication ch
 Xsight Labs,xsightlabs.com,HPC,IL,2017,Chip sets for accelerating data-intensive workloads
 Yorchip,yorchip.com,CHIPLETS,US,2023,Chiplet technology
 Zendar,zendar.io,SENSORS,US,2017,High resolution software defined radar
+Zero Point Motion,zeropointmotion.com,MEMS,UK,2020,Photonics/MEMS motion sensors
 ZeroASIC,zeroasic.com,CHIPLETS,US,2008,Chiplet based ASIC platform
 ZeroPoint,zeropoint-tech.com,MEMORY,US,2015,Memory compression technology
-Zero Point Motion,zeropointmotion.com,MEMS,UK,2020,Photonics/MEMS motion sensors
 zeroRISC,zerorisc.com,SECURITY,US,2023,Open source Root-of-Trust platform

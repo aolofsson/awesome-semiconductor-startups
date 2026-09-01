@@ -110,16 +110,15 @@ BibTeX:
 |[Atlantic Quantum](https://atlantic-quantum.com) | QUANTUM | 2022 | US |Scalable quantum computers |
 |[Atmosic](https://atmosic.com) | RF | 2016 | US |Battery free wireless devices |
 |[Atoms AI](https://atomsai.net) | EDA | 2024 | US |AI driven verification |
+|[Aule Technologies](https://auletechnologies.com) | EDA | 2022 | US |AI/physics based design platform |
 |[Avicena](https://avicena.tech) | PHOTONICS | 2019 | US |Optical uLed interconnect technology |
 |[Axelera](https://axelera.ai) | AI | 2021 | NL |Low power AI edge processors |
-|[Aule Technologies](https://auletechnologies.com) | EDA | 2022 | US |AI/physics based design platform |
 |[Ayar Labs](https://ayarlabs.com) | PHOTONICS | 2015 | US |Electronic-photonic communication chip sets |
-|[Azimuth AI](https://Azimuth-ai.com) | ASIC | 2023 | US |Edge AI ASICs |
+|[Azimuth AI](https://azimuth-ai.com) | ASIC | 2023 | US |Edge AI ASICs |
 |[Baya Systems](https://bayasystems.com) | CHIPLETS | 2023 | US |Chiplet Based Semiconductor Design |
-|[Beacon Photonics](https://beaconphotonics) | PHOTONICS | 2023 | US |Integrated photonics platform |
+|[Beacon Photonics](https://beaconphotonics.com) | PHOTONICS | 2023 | US |Integrated photonics platform |
 |[Beam](https://beamshaping.io) | RF | 2015 | IL |Phased array antennas |
 |[Belfort](https://belfortlabs.com) | SECURITY | 2025 | BE |Hardware for encrypted compute (FHE) |
-|[Build4Sim Inc](https://build4sim.com) | EDA |  accelerating Spice simulation | 2025 |None |
 |[Black Semiconductor](https://blacksemiconductor.de) | MFG | 2021 | DE |Graphene electronics/photonics translators |
 |[Blueshift Memory](https://blueshiftmemory.com) | MEMORY | 2016 | UK |High performance memory centric architecture |
 |[Bluespec](https://bluespec.com) | RISC-V | 2003 | US |RISC-V IP and System Development Tools |
@@ -128,23 +127,25 @@ BibTeX:
 |[BoolSi](https://boolsi.com) | EDA | 2023 | US |Generate RTL from any code base, in any language |
 |[bos semiconductors](https://bos-semi.com) | ASIC | 2022 | KR |Automotive ASICs |
 |[Bronco AI](https://bronco.ai) | EDA | 2022 | US |AI tools for chip development |
-|[cassia.ai](https://cassia.ai) | AI | 2021 | US |AI Hardware IP |
+|[Build4Sim Inc](https://build4sim.com) | EDA | 2025 | US |Accelerating Spice simulation |
 |[cadlab.io](https://cadlab.io) | EDA | 2015 | US |Collaboration tools for PCB design |
 |[Cadstrom](https://cadstrom.io) | EDA | 2023 | CA |AI based PCB design |
+|[cassia.ai](https://cassia.ai) | AI | 2021 | US |AI Hardware IP |
 |[Celera](https://celeratechnologies.com) | EDA | 2018 | US |Automated analog/mixed-signal IC development tool |
+|[Celero Communications](https://celero.inc) | NETWORKING | 2024 | US |Coherent DSP platform for high-bandwidth low-power optical connectivity |
 |[Celestial AI](https://celestial.ai) | PHOTONICS | 2020 | US |Photonic fabric optical interconnect technology |
 |[Cellium](https://cellium.net) | RF | 2016 | IL |Wireless infrastructure for indoor connectivity |
 |[Celtro](https://celtro.de) | HEALTH | 2019 | DE |Energy harvesting implantable medical devices |
 |[Celus](https://celus.io) | EDA | 2016 | DE |PCB design tools |
-|[Cerebras](https://cerebras.net) | HPC | 2016 | US |Wafer scale processors |
 |[Ceremorphic](https://ceremorphic.com) | HPC | 2020 | US |Analog computing architecture |
 |[Cerfe Labs](https://cerfelabs.com) | MFG | 2020 | US |Electronics materials and device research |
-|[Chipmind](https://chipmind.ai) | EDA | 2024 | CH |Agentic chip design |
+|[ChipAgents](https://chipagents.ai) | EDA | 2024 | US |Agentic AI chip design environment |
 |[Chipflow](https://chipflow.io) | ASIC | 2021 | UK |ASIC design platform |
 |[Chipletz](https://chipletz.com) | CHIPLETS | 2021 | US |Smart substrate for chiplet integration |
+|[Chipmind](https://chipmind.ai) | EDA | 2024 | CH |Agentic chip design |
 |[Chipstack](https://chipstack.com) | EDA | 2023 | US |AI based chip design methodology |
 |[Circuit Mind](https://circuitmind.io) | EDA | 2018 | UK |PCB design tools |
-|[CircuitLeap.ai](https://circuitleap.ai) | EDA | 2024 | Portugal |Automated analog design with GPU and AI |
+|[CircuitLeap.ai](https://circuitleap.ai) | EDA | 2024 | PT |Automated analog design with GPU and AI |
 |[Classiq](https://classiq.io) | EDA | 2020 | IL |Quantum computing software |
 |[Codasip](https://codasip.com) | RISC-V | 2014 | DE |Supplier of RISC-V IP cores |
 |[Cognichip](https://cognichip.ai) | EDA | 2024 | US |AI platform for chip design |
@@ -157,20 +158,19 @@ BibTeX:
 |[DeepX](https://deepx.ai) | AI | 2018 | KR |AI processors |
 |[DeGirum](https://degirum.ai) | AI | 2017 | US |AI platform for edge applications |
 |[Denpaflux](https://denpaflux.com) | EDA | 2022 | DE |EMC analysis platform for design engineering teams |
-|[Diode Computers](https://diode.computer) | EDA | 2024 | US |AI based PCB design |
 |[Dfiant](https://dfiant.works) | EDA | 2022 | US |Chip design tools |
+|[Diode Computers](https://diode.computer) | EDA | 2024 | US |AI based PCB design |
 |[Dnotitia](https://dnotitia.com) | AI | 2023 | KR |AI processors |
 |[Dover](https://dovermicrosystems.com) | SECURITY | 2017 | US |SoC security IP |
-|[Dust Photonics](https://dustphotonics.com) | PHOTONICS | 2017 | IL |Small footprint integrate photonics transceivers |
 |[DreamBig](https://dreambigsemi.com) | CHIPLETS | 2019 | US |Chiplet based ASIC platform |
+|[Dust Photonics](https://dustphotonics.com) | PHOTONICS | 2017 | IL |Small footprint integrate photonics transceivers |
 |[EdgeCortix](https://edgecortix.com) | AI | 2019 | US |AI accelerators for edge devices |
 |[EdgeQ](https://edgeq.io) | RF | 2018 | US |Base station-on-a-chip |
-|[Efinix](https://efinixinc.com) | FPGA | 2012 | US |Programmable FPGA products |
 |[Efficient Computer](https://efficient.computer) | HPC | 2022 | US |Energy efficient general-purpose processor |
+|[Efinix](https://efinixinc.com) | FPGA | 2012 | US |Programmable FPGA products |
 |[Eliyan](https://eliyan.com) | CHIPLETS | 2021 | US |Interconnect technology |
 |[EnCharge AI](https://enchargeai.com) | AI | 2021 | US |AI processing platform |
 |[Enlightra](https://enlightra.com) | PHOTONICS | 2017 | US |Optical microresonator technology |
-|[Enosemi](https://enosemi.com) | PHOTONICS | 2023 | US |Photonics subsystems |
 |[enzzo](https://enzzo.ai) | EDA | 2024 | US |AI driven hardware development |
 |[Equal1](https://equal1.com) | QUANTUM | 2017 | IE |Silicon spin qubits for scalable quantum computing |
 |[Eridan](https://eridan.io) | RF | 2013 | US |RF front end for for wireless telecommunications |
@@ -215,25 +215,25 @@ BibTeX:
 |[Jitx](https://jitx.com) | EDA | 2016 | US |PCB design tools |
 |[Kandou](https://kandou.com) | NETWORKING | 2011 | CH |Chip-to-chip connectivity solutions |
 |[Kepler Computing](https://keplercompute.com) | HPC | 2018 | US |Stealth |
-|[Kittycad](https://zoo.dev) | EDA | 2021 | US |AI driven CAD |
 |[Keysom](https://keysom.io) | RISC-V | 2022 | FR |RISC-V design platform |
+|[Kittycad](https://zoo.dev) | EDA | 2021 | US |AI driven CAD |
 |[Kneron](https://kneron.com) | AI | 2015 | US |Edge AI devices |
 |[Krutrim](https://olakrutrim.com) | AI | 2023 | IN |AI hardware |
 |[Lemurian Labs](https://lemurianlabs.com) | AI | 2018 | CA |AI computing platform |
 |[Light Solver](https://lightsolver.com) | PHOTONICS | 2019 | IL |Optical computing platform |
 |[Light Trace Photonics](https://ltphotonics.co.uk) | PHOTONICS | 2021 | UK |Platform for rapid photonic product development |
-|[Lightelligence](https://lightelligence.ai) | PHOTONICS | 2017 | US |Optical computing platform |
 |[Lightium](https://lightium.co) | MFG | 2023 | CH |Photonics foundry |
 |[Lightmatter](https://lightmatter.co) | PHOTONICS | 2017 | US |Optical computing platform |
-|[Lighton](https://lighton.ai) | PHOTONICS | 2015 | FR |Optical computing platform |
-|[Literal Labs](https://Literal-labs.ai) | AI | 2023 | UK |Explainable AI using Tsetlin machines |
 |[Linctrinsic](https://lintrinsicsemi.com) | RF | 2021 | US |Fast RF switches |
 |[Linque](https://linque.eu) | PHOTONICS | 2023 | DE |Optical computing  |
+|[Literal Labs](https://Literal-labs.ai) | AI | 2023 | UK |Explainable AI using Tsetlin machines |
 |[Lubis EDA](https://Lubis-eda.com) | EDA | 2021 | DE |Cloud based formal verification platform |
 |[Lumai](https://luma.ai) | PHOTONICS | 2021 | UK |3D optical computing |
 |[Luminous Computing](https://luminous.com) | PHOTONICS | 2018 | US |Optical computing platform |
 |[Lumotive](https://lumotive.com) | PHOTONICS | 2017 | US |Optical beam forming sensors |
 |[Lyte AI](https://lyte.ai) | AI | 2021 | US |Perception layer for physical AI |
+|[Magics Technologies](https://magics.tech) | SPACE | 2015 | BE |Radiation-hardened ICs for space systems and nuclear infrastructure |
+|[Maieutic Semiconductors](https://maieuticsemi.com) | EDA | 2025 | IN |Generative AI copilot for analog chip design |
 |[Majestic Labs](https://majestic-labs.ai) | AI | 2023 | IL |AI procesor |
 |[MangoBoost](https://mangoboost.io) | HPC | 2022 | US |Data processing units for data center |
 |[Matx](https://matx.com) | AI | 2022 | US |Platform for AGI |
@@ -243,14 +243,15 @@ BibTeX:
 |[Mobilint](https://mobilint.com) | AI | 2019 | KR |AI inference accelerators |
 |[Morphing Machines](https://morphing.in) | HPC | 2006 | IN |Reconfigurable processors |
 |[Morse Micro](https://morsemicro.com) | RF | 2016 | AU |Low-power Wi-Fi chips |
-|[Mosaic SoC](https://mosaic-soc.com/) | ASIC | 2024 | CH |Specialized chips designed for AR glasses |
+|[Mosaic SoC](https://mosaic-soc.com) | ASIC | 2024 | CH |Specialized chips designed for AR glasses |
 |[Motivo](https://motivo.ai) | EDA | 2015 | US |Explainable AI and ML for chip design optimization |
+|[Movandi](https://movandi.com) | RF | 2016 | US |RF chipsets |
 |[Movellus](https://movellus.com) | ANALOG | 2014 | US |Clock distribution IP |
 |[Mythic](https://mythic-ai.com) | AI | 2012 | US |Analog ML accelerators |
 |[MZ Technologies](https://genioevo.com) | EDA | 2014 | IT |EDA solutions for advanced packaging |
 |[Nanopower](https://nanopowersemi.com) | ANALOG | 2017 | NO |Smart power management ICs |
 |[NcodiN](https://ncodin.com) | PHOTONICS | 2023 | FR |Optical interposers |
-|[Neologic](https://neologic.com) | MFG | 2021 | IL |Quasi-CMOS transistor technology |
+|[Neologic](https://neologicvlsi.com) | MFG | 2021 | IL |Quasi-CMOS transistor technology |
 |[Netrasemi](https://netrasemi.com) | AI | 2020 | IN |AI Hardware chips |
 |[Neureality](https://neureality.ai) | AI | 2019 | IL |Purpose-built AI-centric architecture |
 |[NeuroBlade](https://neuroblade.com) | AI | 2018 | IL |Accelerators for high throughput data analytics |
@@ -277,9 +278,9 @@ BibTeX:
 |[par.tcl](https://partcl.com) | EDA | 2024 | US |Physics based eda tools |
 |[persimmons](https://persimmons.ai) | AI | 2023 | US |Flexible, low-power generative AI inference system  |
 |[Phanofi](https://phanofi.com) | PHOTONICS | 2022 | DK |Optical transceivers for data centers & HPC |
-|[Pharrowtech](https://pharrowtech.com) | RF | 2018 | BE |RF ICs for high speed wireless links |
 |[Phoenix Semiconductor](https://phoenixsemicorp.com) | ASIC | 2023 | US |Drop in replacements for discontinued devices |
 |[Picocom](https://picocom.com) | RF | 2019 | UK |Semiconductor products for 5G infrastructure |
+|[Piris Labs](https://pirislabs.io) | AI | 2025 | US |Optical inference engine |
 |[Plaid Semiconductor](https://plaidsemi.com) | CHIPLETS | 2023 | US |Interposers for chiplet integration |
 |[Pliops](https://pliops.com) | HPC | 2017 | IL |Scalable data handling/acceleration |
 |[PointCloud](https://point.cloud) | SENSORS | 2017 | US |4D imaging sensors |
@@ -290,7 +291,6 @@ BibTeX:
 |[Precision Innovations](https://precisioninno.com) | EDA | 2019 | US |Developing and supporting OpenROAD |
 |[Primemas](https://primemas.com) | CHIPLETS | 2023 | US |Platform for rapid SoC system development |
 |[Primis](https://primis.ai) | EDA | 2023 | US |Generative-AI driven hardware design |
-|[Piris Labs](https://pirislabs.io/) | AI | 2025 | US |Optical inference engine |
 |[proteanTecs](https://proteantecs.com) | ANALOG | 2017 | IL |Analytics platform for advanced chip design |
 |[PseudolithIC](https://pseudolithic.com) | MFG | 2019 | US |Integration process for RF applications |
 |[PsiQuantum](https://psiquantum.com) | QUANTUM | 2015 | US |Quantum computers |
@@ -299,7 +299,7 @@ BibTeX:
 |[Qruise](https://qruise.com) | QUANTUM | 2021 | DE |Design and verification of quantum systems |
 |[Quadric.io](https://quadric.io) | AI | 2016 | US |Edge processing for edge devices |
 |[Qualinx](https://qualinx.io) | RF | 2015 | NL |IoT GNSS based tracking and connectivity |
-|[Quantum Motion](https://quantummmotion.tech) | QUANTUM | 2017 | UK |Scalable quantum computer architectural technology |
+|[Quantum Motion](https://quantummotion.com) | QUANTUM | 2017 | UK |Scalable quantum computer architectural technology |
 |[Quera Computing](https://quera.com) | QUANTUM | 2018 | US |Neutral atom based quantum computers |
 |[Quilter](https://quilter.ai) | EDA | 2020 | US |AI driven PCB design |
 |[Quintessent](https://quintessent.com) | PHOTONICS | 2019 | US |Optical interconnect |
@@ -315,6 +315,7 @@ BibTeX:
 |[RED Semiconductor](https://redsemiconductor.com) | HPC | 2021 | UK |Processor technology |
 |[Redwood EDA](https://redwoodeda.com) | EDA | 2015 | US |Transaction level hardware design platform |
 |[Retym](https://retym.com) | AI | 2021 | US |Stealth |
+|[Ricursive Intelligence](https://ricursive.com) | EDA | 2025 | US |AI models to automate all stages of chip design and verification |
 |[RISE](https://Rise-da.com) | EDA | 2024 | US |Design and verification productivity platform |
 |[Riverlane](https://riverlane.com) | QUANTUM | 2016 | UK |Quantum error correction |
 |[Rivos](https://rivosinc.com) | RISC-V | 2021 | US |Stealth |
@@ -367,21 +368,21 @@ BibTeX:
 |[Ubilite](https://ubilite.com) | RF | 2014 | US |Low power wireless communication for IoT |
 |[Ubitium](https://ubitium.com) | AI | 2024 | DE |Universal processor |
 |[Uhnder](https://uhnder.com) | SENSORS | 2015 | US |Digital automotive radar SoC |
+|[Unconventional AI](https://unconv.ai) | AI | 2025 | US |Analog AI chips |
 |[Unifabrix](https://unifabrix.com) | NETWORKING | 2020 | IL |CXL based secure connectivity solution |
 |[Upmem](https://upmem.com) | AI | 2015 | FR |In memory processing devices for big data and AI |
 |[Usound](https://usound.com) | MEMS | 2012 | AU |Sound solutions based on MEMS technology |
 |[Vaire Computing](https://vaire.co) | ANALOG | 2021 | UK |Near zero energy computing |
 |[Vayyar](https://vayyar.com) | SENSORS | 2011 | IL |High resolution image sensors |
 |[Vector Photonics](https://vectorphotonics.co.uk) | PHOTONICS | 2020 | UK |Semiconductor lasers |
-|[Ventana Micro](https://ventanamicro.com) | RISC-V | 2018 | US |RISC-V CPU cores and compute subsystems |
 |[VerifAI](https://verifai.ai) | EDA | 2020 | US |AI assisted hardware design and verification |
 |[Verifaix](https://verifaix.com) | EDA | 2024 | US |AI assisted hardware design and verification |
+|[Vinci](https://getvinci.ai) | EDA | 2023 | US |Physics-based AI for hardware design and simulation |
 |[Viqthor](https://viqthor.com) | QUANTUM | 2023 | FR |Quantum processing |
 |[Visblsemi](https://visiblsemi.com) | EDA | 2024 | US |AI assisted hardware design and verification |
 |[Volantis Semiconductor](https://volantissemi.ai) | AI | 2022 | US |AI processors |
 |[VoltAI](https://voltai.com) | EDA | 2022 | US |AI models for semiconductor |
 |[Vsora](https://vsora.com) | AI | 2015 | FR |AI inference chips |
-|[VyperCore](https://vypercore.com) | RISC-V | 2022 | UK |RISC-V processors |
 |[Wave Photonics](https://wavephotonics.com) | PHOTONICS | 2021 | UK |Photonics design platform |
 |[Welinq](https://welinq.fr) | QUANTUM | 2022 | FR |Quantum interconnects |
 |[Xanadu](https://xanadu.ai) | PHOTONICS | 2016 | US |Photonic based quantum computer |
@@ -393,9 +394,9 @@ BibTeX:
 |[Xsight Labs](https://xsightlabs.com) | HPC | 2017 | IL |Chip sets for accelerating data-intensive workloads |
 |[Yorchip](https://yorchip.com) | CHIPLETS | 2023 | US |Chiplet technology |
 |[Zendar](https://zendar.io) | SENSORS | 2017 | US |High resolution software defined radar |
+|[Zero Point Motion](https://zeropointmotion.com) | MEMS | 2020 | UK |Photonics/MEMS motion sensors |
 |[ZeroASIC](https://zeroasic.com) | CHIPLETS | 2008 | US |Chiplet based ASIC platform |
 |[ZeroPoint](https://zeropoint-tech.com) | MEMORY | 2015 | US |Memory compression technology |
-|[Zero Point Motion](https://zeropointmotion.com) | MEMS | 2020 | UK |Photonics/MEMS motion sensors |
 |[zeroRISC](https://zerorisc.com) | SECURITY | 2023 | US |Open source Root-of-Trust platform |
 
 ## Alumni
@@ -441,8 +442,8 @@ BibTeX:
 |Fungible | Microsoft | 2023 | 190 | [Source](https://blogs.microsoft.com/blog/2023/01/09/microsoft-announces-acquisition-of-fungible-to-accelerate-datacenter-innovation/) |
 |GaN Systems | Infineon | 2023 | 830 | [Source](https://www.infineon.com/cms/en/about-infineon/press/press-releases/2023/INFXX202303-073.html) |
 |Genapsys | Shutdown | 2022 | 0 | [Source](https://cases.ra.kroll.com/genapsys/Home-Index) |
-|Graphcore | Softbank | 2024 | 400 | [Source](https://www.anandtech.com/show/21468/troubled-ai-processor-developer-graphcore-finds-a-buyer-softbank) |
 |GrAI Matter Labs | Snap | 2023 | NA | [Source](https://www.eetimes.com/has-grai-matter-labs-been-snapped-up-by-snap-inc/) |
+|Graphcore | Softbank | 2024 | 400 | [Source](https://www.anandtech.com/show/21468/troubled-ai-processor-developer-graphcore-finds-a-buyer-softbank) |
 |GreenWaves Technologies | Shutdown | 2025 | 0 | [Source](https://www.linkedin.com/feed/update/urn:li:activity:7313159925101166594/) |
 |Groq | Nvidia | 2026 | 20000 | [Source](https://www.nextplatform.com/ai/2026/03/17/nvidia-finally-admits-why-it-shelled-out-20-billion-for-groq/5209495) |
 |Gyrfalcon | Shutdown | 2024 | NA | [Source](https://www.gyrfalcontech.ai) |
@@ -456,11 +457,13 @@ BibTeX:
 |Innoviz | SPAC | 2021 | 371 | [Source](https://www.prnewswire.com/news-releases/innoviz-technologies-and-collective-growth-corporation-announce-closing-of-business-combination-301262031.html) |
 |Insightness | Sony | 2019 | NA | [Source](https://ethz.ch/en/industry/entrepreneurship/explore-startup-portraits-and-success-stories/exits/insightness.html) |
 |Kalray | IPO | 2018 | 100 | [Source](https://www.euronext.com/en/about/media/euronext-press-releases/kalray-sintroduit-sur-euronext-growth) |
-|Kinara | NXP | 2025 | 307 | [Source](https://www.nxp.com/company/about-nxp/newsroom/NW-AI-PR-2025) |
-|Lucata | Shutdown | 2024 | NA | [Source](https://www.linkedin.com/posts/marty-deneroff-2a554_sadly-lucata-emu-technology-ceased-operations-activity-7168985090331500544-xy_D) |
-|Lion Semiconductor | Cirrus | 2021 | 335 | [Source](https://www.ednasia.com/cirrus-logic-to-acquire-lion-semiconductor/) |
-|Lyric | Analog Devices | 2011 | NA | [Source](https://www.eetimes.com/adi-buys-lyric-probability-processing-specialist/) |
 |Kameleon | Ramon Space | 2022 | NA | [Source](https://www.startuphub.ai/ai-exit-events/ramon-space-merges-with-kameleon/) |
+|Kinara | NXP | 2025 | 307 | [Source](https://www.nxp.com/company/about-nxp/newsroom/NW-AI-PR-2025) |
+|Lightelligence | IPO | 2026 | 306 | [Source](https://www.scmp.com/tech/tech-trends/article/3351551/lightelligence-jumps-hong-kong-debut-amid-ai-driven-demand-photonics-chips) |
+|Lighton | IPO | 2024 | 65 | [Source](https://www.reuters.com/technology/artificial-intelligence/frances-lighton-says-valued-65-mln-euronext-ipo-2024-11-21/) |
+|Lion Semiconductor | Cirrus | 2021 | 335 | [Source](https://www.ednasia.com/cirrus-logic-to-acquire-lion-semiconductor/) |
+|Lucata | Shutdown | 2024 | NA | [Source](https://www.linkedin.com/posts/marty-deneroff-2a554_sadly-lucata-emu-technology-ceased-operations-activity-7168985090331500544-xy_D) |
+|Lyric | Analog Devices | 2011 | NA | [Source](https://www.eetimes.com/adi-buys-lyric-probability-processing-specialist/) |
 |Mathstar | Shutdown | 2008 | 0 | [Source](https://www.oregonlive.com/business/2008/05/mathstar_calls_it_quits.html) |
 |Maxeda | Synopsys | 2023 | NA | [Source](https://www.linkedin.com/company/maxeda-technology/?trk=ppro_cprof) |
 |Minima | Bosch | NA | NA | [Source](https://www.acuity.co.uk/successes/acuity-advises-minima-on-its-sale-to-bosch/) |
@@ -469,12 +472,13 @@ BibTeX:
 |Movidius | Intel | 2016 | 400 | [Source](https://siliconangle.com/2016/09/06/intel-buys-movidius-to-boost-machine-vision/) |
 |Nervana | Intel | 2016 | 350 | [Source](https://venturebeat.com/2016/08/09/intel-acquires-deep-learning-startup-nervana) |
 |Neuroblade | Amazon | 2025 | NA | [Source](https://www.storagenewsletter.com/2025/10/23/aws-swallows-neuroblade/) |
-|Nubis | Ciena | 270 | 2025 | [Source](https://www.ciena.com/about/newsroom/press-releases/ciena-to-acquire-nubis-communications-to-expand-its-inside-the-data-center-strategy-and-further-address-growing-ai-workloads) |
+|Nubis | Ciena | 2025 | 270 | [Source](https://www.ciena.com/about/newsroom/press-releases/ciena-to-acquire-nubis-communications-to-expand-its-inside-the-data-center-strategy-and-further-address-growing-ai-workloads) |
 |Nuvia | Qualcomm | 2021 | 1400 | [Source](https://www.fiercewireless.com/devices/qualcomm-to-acquire-nuvia-for-1-4b) |
 |Occuli | Ambarella | 2021 | 307 | [Source](https://www.ambarella.com/news/ambarella-closes-acquisition-of-oculii/) |
 |PA Semi | Apple | 2009 | 278 | [Source](https://www.cnet.com/tech/tech-industry/apple-acquires-low-power-chip-designer-pa-semi) |
 |Pensando | AMD | 2022 | 1900 | [Source](https://www.amd.com/en/press-releases/2022-05-26-amd-expands-data-center-solutions-capabilities-acquisition-pensando) |
 |Perceive | Amazon | 2024 | 80 | [Source](https://www.geekwire.com/2024/amazon-to-acquire-perceive-for-80m-from-xperi-expanding-its-ai-technology-for-edge-devices/) |
+|Pharrowtech | Shutdown | 2025 | 0 | [Source](https://bits-chips.com/article/its-the-end-of-the-line-for-pharrowtech/) |
 |PrimeSense | Apple | 2013 | 350 | [Source](https://techcrunch.com/2013/11/24/apple-primesense-acquisition-confirmed) |
 |Provigent | Broadcom | 2011 | 360 | [Source](https://en.globes.co.il/en/article-1000631723) |
 |Quantenna | Onsemi | 2019 | 1000 | [Source](https://www.bizjournals.com/phoenix/news/2022/09/20/onsemi-close-down-quantenna.html) |
@@ -488,11 +492,12 @@ BibTeX:
 |Stream Processors | Shutdown | 2009 | 0 | [Source](https://venturebeat.com/2009/11/07/chip-design-firm-stream-processors-shutting-down-and-selling-assets/) |
 |Stretch | Exar | 2014 | NA | [Source](https://www.prnewswire.com/news-releases/exar-acquires-stretch-incorporated-240074341.html) |
 |Tabula | Shutdown | 2015 | 0 | [Source](https://semiwiki.com/fpga/4232-tabula-closes-its-doors/) |
-|Tensil.ai | NA | 2022 | NA | NA |
+|Tensil.ai | NA | 2022 | NA | [Source](https://reforgers.com/startups/tensil) |
 |Teramount | Molex | 2026 | 430 | [Source](https://www.calcalistech.com/ctechnews/article/b1intlan11l#google_vignette) |
 |Tilera | Ezchip | 2014 | 50 | [Source](https://www.prnewswire.com/news-releases/ezchip-completes-acquisition-of-tilera-a-leader-in-high-performance-multi-core-processors-281754771.html) |
 |Untether | AMD | 2025 | NA | [Source](https://www.eetimes.com/untether-ai-shuts-down-engineering-team-joins-amd/) |
 |Upverter | Altium | 2017 | 2.8 | [Source](https://pitchbook.com/profiles/company/56161-81#overview) |
 |Ventana | Qualcomm | 2025 | NA | [Source](https://www.crn.com/news/components-peripherals/2025/qualcomm-acquires-risc-v-chip-designer-ventana-to-boost-cpu-capabilities) |
+|VyperCore | Shutdown | 2025 | 0 | [Source](https://find-and-update.company-information.service.gov.uk/company/14244622) |
 |Wavious | Apple | 2022 | NA | [Source](https://pitchbook.com/profiles/company/169888-60#overview) |
 |zGlue | Sold | 2021 | NA | [Source](https://www.reuters.com/technology/chip-wars-how-chiplets-are-emerging-core-part-chinas-tech-strategy-2023-07-13) |
