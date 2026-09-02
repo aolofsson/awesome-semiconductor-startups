@@ -55,31 +55,31 @@ BibTeX:
 
 | Technology| Description                                      |
 |-----------|--------------------------------------------------|
-|ASIC | Custom silicon
-|AI | AI hardware
-|ANALOG | All things analog
-|CHIPLETS | Chiplet related
-|EDA | Design automation tools
-|FPGA | Field-programmable gate array
-|HEALTH | Health centric devices
-|HPC | High performance computing
-|MEMORY | Memory
-|MEMS | MEMS based technology
-|MFG | Manufacturing related
-|NETWORKING | Various connectivity pieces
-|RF | Wireless
-|PHOTONICS | Photonic based startups
-|QUANTUM | Quantum computing
-|RISC-V | RISC-V based startups
-|SECURITY | Security techhnology
-|SENSORS | Sensing devices
-|SPACE | Space technology
+|ASIC | Custom silicon |
+|AI | AI hardware |
+|ANALOG | All things analog |
+|CHIPLETS | Chiplet related |
+|EDA | Design automation tools |
+|FPGA | Field-programmable gate array |
+|HEALTH | Health centric devices |
+|HPC | High performance computing |
+|MEMORY | Memory |
+|MEMS | MEMS based technology |
+|MFG | Manufacturing related |
+|NETWORKING | Various connectivity pieces |
+|RF | Wireless |
+|PHOTONICS | Photonic based startups |
+|QUANTUM | Quantum computing |
+|RISC-V | RISC-V based startups |
+|SECURITY | Security techhnology |
+|SENSORS | Sensing devices |
+|SPACE | Space technology |
 
 ## Startups
 
 | Company | Technology | Founded | Country | Description |
 |---------|------------|---------|---------|-------------|
-|[Abacus Semiconductor](https://Abacus-semi.com) | HPC | 2020 | US |HPC silicon systems |
+|[Abacus Semiconductor](https://abacus-semi.com) | HPC | 2020 | US |HPC silicon systems |
 |[Accelercom](https://accelercomm.com) | RF | 2016 | UK |5G physical layer for high-performance networks |
 |[Agentrys](https://agentrys.ai) | EDA | 2025 | US |Self-Improving Agentic Design Automation Toward Autonomous Design |
 |[Agile Analog](https://agileanalog.com) | EDA | 2017 | UK |Automating design of analog circuitry |
@@ -184,7 +184,7 @@ BibTeX:
 |[Exo Imaging](https://exo.inc) | HEALTH | 2015 | US |Handheld ultrasound device |
 |[Extropic](https://extropic.ai) | AI | 2022 | US |Physics based generative AI |
 |[Fabric Cryptography](https://fabriccryptography.com) | SECURITY | 2021 | US |Cryptography hardware accelerators |
-|[Falcomm ](https://myfalcomm.com) | RF | 2021 | US |Solid state power amplifiers |
+|[Falcomm](https://myfalcomm.com) | RF | 2021 | US |Solid state power amplifiers |
 |[Fermionic](https://fermionic.design) | ANALOG | 2020 | IN |Communication IP and chips |
 |[Ferric](https://ferric.com) | ANALOG | 2010 | US |Single-chip power converters |
 |[Finchetto](https://finchetto.com) | PHOTONICS | 2020 | UK |Photonic sensors for quantum computing |
@@ -225,9 +225,9 @@ BibTeX:
 |[Lightium](https://lightium.co) | MFG | 2023 | CH |Photonics foundry |
 |[Lightmatter](https://lightmatter.co) | PHOTONICS | 2017 | US |Optical computing platform |
 |[Linctrinsic](https://lintrinsicsemi.com) | RF | 2021 | US |Fast RF switches |
-|[Linque](https://linque.eu) | PHOTONICS | 2023 | DE |Optical computing  |
-|[Literal Labs](https://Literal-labs.ai) | AI | 2023 | UK |Explainable AI using Tsetlin machines |
-|[Lubis EDA](https://Lubis-eda.com) | EDA | 2021 | DE |Cloud based formal verification platform |
+|[Linque](https://linque.eu) | PHOTONICS | 2023 | DE |Optical computing |
+|[Literal Labs](https://literal-labs.ai) | AI | 2023 | UK |Explainable AI using Tsetlin machines |
+|[Lubis EDA](https://lubis-eda.com) | EDA | 2021 | DE |Cloud based formal verification platform |
 |[Lumai](https://luma.ai) | PHOTONICS | 2021 | UK |3D optical computing |
 |[Luminous Computing](https://luminous.com) | PHOTONICS | 2018 | US |Optical computing platform |
 |[Lumotive](https://lumotive.com) | PHOTONICS | 2017 | US |Optical beam forming sensors |
@@ -239,6 +239,7 @@ BibTeX:
 |[Matx](https://matx.com) | AI | 2022 | US |Platform for AGI |
 |[Memryx](https://memryx.com) | AI | 2019 | US |AI computing platform |
 |[Mesa Quantum](https://mesaquantum.com) | QUANTUM | 2023 | US |Quantum sensing for GPS |
+|[MetisX](https://metix.com) | MEMORY | 2022 | KR |CXL memory solutions |
 |[Mintneuro](https://mintneuro.com) | HEALTH | 2015 | UK |Neural implants |
 |[Mobilint](https://mobilint.com) | AI | 2019 | KR |AI inference accelerators |
 |[Morphing Machines](https://morphing.in) | HPC | 2006 | IN |Reconfigurable processors |
@@ -262,7 +263,7 @@ BibTeX:
 |[Niobium Microsystems](https://niobiummicrosystems.com) | SECURITY | 2021 | US |FHE Acceleration for Zero Trust |
 |[Novelda](https://novelda.com) | RF | 2004 | NO |Wireless wideband for high resolution impulse radar |
 |[Novumind](https://novumind.com) | AI | 2015 | US |Domain specific acceleration for AI applications |
-|[Nubis Communication](https://Nubis-inc.com) | NETWORKING | 2020 | US |Optical communications technology |
+|[Nubis Communication](https://nubis-inc.com) | NETWORKING | 2020 | US |Optical communications technology |
 |[Olix](https://olix.com) | AI | 2024 | UK |Optical tensor processing unit |
 |[OmniDesign](https://omnidesigntech.com) | ANALOG | 2015 | US |Low power analog IP |
 |[One Silicon Chip Photonics](https://onesiliconchipphotonics.com) | PHOTONICS | 2016 | CA |Optical chips for precision motion sensing |
@@ -276,7 +277,7 @@ BibTeX:
 |[Ozark ICs](https://ozarkic.com) | ANALOG | 2011 | US |High temperature ruggedized electronics |
 |[Panmnesia](https://panmnesia.com) | MEMORY | 2022 | KR |CXL IP |
 |[par.tcl](https://partcl.com) | EDA | 2024 | US |Physics based eda tools |
-|[persimmons](https://persimmons.ai) | AI | 2023 | US |Flexible, low-power generative AI inference system  |
+|[persimmons](https://persimmons.ai) | AI | 2023 | US |Flexible, low-power generative AI inference system |
 |[Phanofi](https://phanofi.com) | PHOTONICS | 2022 | DK |Optical transceivers for data centers & HPC |
 |[Phoenix Semiconductor](https://phoenixsemicorp.com) | ASIC | 2023 | US |Drop in replacements for discontinued devices |
 |[Picocom](https://picocom.com) | RF | 2019 | UK |Semiconductor products for 5G infrastructure |
@@ -294,7 +295,7 @@ BibTeX:
 |[proteanTecs](https://proteantecs.com) | ANALOG | 2017 | IL |Analytics platform for advanced chip design |
 |[PseudolithIC](https://pseudolithic.com) | MFG | 2019 | US |Integration process for RF applications |
 |[PsiQuantum](https://psiquantum.com) | QUANTUM | 2015 | US |Quantum computers |
-|[Qant](https://Qant.com) | PHOTONICS | 2018 | DE |Photonic computing platform |
+|[Qant](https://qant.com) | PHOTONICS | 2018 | DE |Photonic computing platform |
 |[Qromis](https://qromis.com) | MFG | 2015 | US |Semiconductor materials for WBG |
 |[Qruise](https://qruise.com) | QUANTUM | 2021 | DE |Design and verification of quantum systems |
 |[Quadric.io](https://quadric.io) | AI | 2016 | US |Edge processing for edge devices |
@@ -303,7 +304,7 @@ BibTeX:
 |[Quera Computing](https://quera.com) | QUANTUM | 2018 | US |Neutral atom based quantum computers |
 |[Quilter](https://quilter.ai) | EDA | 2020 | US |AI driven PCB design |
 |[Quintessent](https://quintessent.com) | PHOTONICS | 2019 | US |Optical interconnect |
-|[Raaam](https://Raaam-tech.com) | MEMORY | 2021 | IL |High capacity memory technology |
+|[Raaam](https://raaam-tech.com) | MEMORY | 2021 | IL |High capacity memory technology |
 |[RaiderChip](https://raiderchip.ai) | AI | 2024 | ES |AI hardware |
 |[Rain Neuromorphics](https://rain.ai) | AI | 2017 | US |Brain-inspired hardware for AI applications |
 |[Ramon Space](https://ramon.space) | SPACE | 2004 | IL |Computer system designed for computing in space |
@@ -316,7 +317,7 @@ BibTeX:
 |[Redwood EDA](https://redwoodeda.com) | EDA | 2015 | US |Transaction level hardware design platform |
 |[Retym](https://retym.com) | AI | 2021 | US |Stealth |
 |[Ricursive Intelligence](https://ricursive.com) | EDA | 2025 | US |AI models to automate all stages of chip design and verification |
-|[RISE](https://Rise-da.com) | EDA | 2024 | US |Design and verification productivity platform |
+|[RISE](https://rise-da.com) | EDA | 2024 | US |Design and verification productivity platform |
 |[Riverlane](https://riverlane.com) | QUANTUM | 2016 | UK |Quantum error correction |
 |[Rivos](https://rivosinc.com) | RISC-V | 2021 | US |Stealth |
 |[RoboSense](https://robosense.ai) | SENSORS | 2014 | CN |Advanced LiDAR sensing |
@@ -324,7 +325,7 @@ BibTeX:
 |[Salience Labs](https://saliencelabs.ai) | PHOTONICS | 2020 | UK |Photonic computing platform |
 |[SambaNova](https://sambanova.ai) | AI | 2017 | US |AI processing |
 |[Saras Micro Devices](https://sarasmicro.com) | MFG | 2021 | US |Packaging solutions for effective power delivery |
-|[Scalinx](https://scalinx.com) | RF | 2015 | FR | Wideband RFIC frontends |
+|[Scalinx](https://scalinx.com) | RF | 2015 | FR |Wideband RFIC frontends |
 |[Scintil](https://scintil-photonics.com) | PHOTONICS | 2018 | FR |Photonic computing platform |
 |[Secqai](https://secqai.com) | QUANTUM | 2021 | UK |Quantum hardware |
 |[Semidynamics](https://semidynamics.com) | RISC-V | 2016 | ES |High performance RISC-V IP cores |
@@ -335,7 +336,7 @@ BibTeX:
 |[SiFive](https://sifive.com) | RISC-V | 2015 | US |RISC-V based IP provider |
 |[SiLC](https://silc.com) | PHOTONICS | 2018 | US |Photonics based imaging sensors |
 |[Silicon Assurance](https://siliconassurance.com) | EDA | 2020 | US |EDA software that enable secure chip design |
-|[Silicon Box](https://Silicon-box.com) | MFG | 2021 | SG |Semiconductor design and device integration services |
+|[Silicon Box](https://silicon-box.com) | MFG | 2021 | SG |Semiconductor design and device integration services |
 |[Siliconally](https://siliconally.com) | NETWORKING | 2019 | DE |Safe Ethernet IP |
 |[SiliconSpace](https://siliconspace.org) | EDA | 2025 | US |Cloud based EDA platform |
 |[Silimate](https://silimate.com) | EDA | 2023 | US |Co-pilot for chip designers |
@@ -349,7 +350,7 @@ BibTeX:
 |[Snowcap Compute](https://snowcapcompute.com) | HPC | 2025 | US |Superconducting computing platform |
 |[Spark Micro](https://sparkmicro.com) | RF | 2016 | CA |Transceivers for low power wireless communication |
 |[Speedata](https://speedata.io) | AI | 2019 | IL |Analytics Processing Unit to accelerate big data |
-|[Spherical](https://Spherical-systems.com) | SPACE | 2022 | NL |Satellite power & control with in-house silicon design |
+|[Spherical](https://spherical-systems.com) | SPACE | 2022 | NL |Satellite power & control with in-house silicon design |
 |[Spinncloud](https://spinncloud.com) | AI | 2021 | DE |Dynamic sparsity based inference engine |
 |[StarFive](https://starfivetech.com) | RISC-V | 2018 | CN |RISC-V processor core IP and devices |
 |[Swave](https://swave.io) | PHOTONICS | 2022 | BE |Holographic chips based on diffractive photonics |
