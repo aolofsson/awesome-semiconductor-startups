@@ -96,7 +96,7 @@ BibTeX:
 |[Amsimcel](https://amsimcel.com) | EDA | 2018 | RO |GPU powered physical verification |
 |[Anabrid](https://anabrid.com) | ANALOG | 2023 | DE |Analog computer on a chip |
 |[Analog Photonics](https://analogphotonics.com) | PHOTONICS | 2012 | US |LIDAR and other optical technologies |
-|[Andapt](https://andapt.com) | ANALOG | 2014 | IE |Programmable power management ICs |
+|[Andapt](https://www.andapt.com) | ANALOG | 2014 | IE |Programmable power management ICs |
 |[Anello](https://anellophotonics.com) | PHOTONICS | 2018 | US |Photonic based gyroscopes for navigation |
 |[Aniah](https://aniah.fr) | EDA | 2019 | FR |Circuit analysis software |
 |[Applied Brain Research](https://appliedbrainresearch.com) | AI | 2013 | CA |AI solutions for edge devices |
@@ -107,9 +107,8 @@ BibTeX:
 |[Astrus](https://astrus.ai) | EDA | 2022 | CA |AI platform designed to automate microchip design |
 |[Athos Silicon](https://athossilicon.com) | CHIPLETS | 2025 | US |Chiplet platform for automotive/safety critical applications |
 |[Atlant 3D](https://atlant3d.com) | MFG | 2018 | DK |Atomic scale 3d material printing |
-|[Atlantic Quantum](https://atlantic-quantum.com) | QUANTUM | 2022 | US |Scalable quantum computers |
+|[Atlantic Quantum](https://thequantuminsider.com/2025/10/03/atlantic-quantum-joins-google-quantum-ai/) | QUANTUM | 2022 | US |Scalable quantum computers (acquired by Google Quantum AI, Oct 2025) |
 |[Atmosic](https://atmosic.com) | RF | 2016 | US |Battery free wireless devices |
-|[Atoms AI](https://atomsai.net) | EDA | 2024 | US |AI driven verification |
 |[Aule Technologies](https://auletechnologies.com) | EDA | 2022 | US |AI/physics based design platform |
 |[Avicena](https://avicena.tech) | PHOTONICS | 2019 | US |Optical uLed interconnect technology |
 |[Axelera](https://axelera.ai) | AI | 2021 | NL |Low power AI edge processors |
@@ -244,11 +243,11 @@ BibTeX:
 |[Mobilint](https://mobilint.com) | AI | 2019 | KR |AI inference accelerators |
 |[Morphing Machines](https://morphing.in) | HPC | 2006 | IN |Reconfigurable processors |
 |[Morse Micro](https://morsemicro.com) | RF | 2016 | AU |Low-power Wi-Fi chips |
-|[Mosaic SoC](https://mosaic-soc.com) | ASIC | 2024 | CH |Specialized chips designed for AR glasses |
+|[Mosaic SoC](https://mosaicsoc.ch) | ASIC | 2024 | CH |Specialized chips designed for AR glasses |
 |[Motivo](https://motivo.ai) | EDA | 2015 | US |Explainable AI and ML for chip design optimization |
 |[Movandi](https://movandi.com) | RF | 2016 | US |RF chipsets |
 |[Movellus](https://movellus.com) | ANALOG | 2014 | US |Clock distribution IP |
-|[Mythic](https://mythic-ai.com) | AI | 2012 | US |Analog ML accelerators |
+|[Mythic](https://mythic.ai) | AI | 2012 | US |Analog ML accelerators |
 |[MZ Technologies](https://genioevo.com) | EDA | 2014 | IT |EDA solutions for advanced packaging |
 |[Nanopower](https://nanopowersemi.com) | ANALOG | 2017 | NO |Smart power management ICs |
 |[NcodiN](https://ncodin.com) | PHOTONICS | 2023 | FR |Optical interposers |
@@ -274,7 +273,7 @@ BibTeX:
 |[Oso Semiconductor](https://ososemi.com) | RF | 2022 | US |Low power RF chip set |
 |[Owl](https://owlai.us) | SENSORS | 2018 | US |Monocular 3D thermal ranging solutions |
 |[Oxford Quantum Circuits](https://oxfordquantumcircuits.com) | QUANTUM | 2017 | UK |Quantum computing platform |
-|[Ozark ICs](https://ozarkic.com) | ANALOG | 2011 | US |High temperature ruggedized electronics |
+|[Ozark ICs](https://www.ozarkic.com) | ANALOG | 2011 | US |High temperature ruggedized electronics |
 |[Panmnesia](https://panmnesia.com) | MEMORY | 2022 | KR |CXL IP |
 |[par.tcl](https://partcl.com) | EDA | 2024 | US |Physics based eda tools |
 |[persimmons](https://persimmons.ai) | AI | 2023 | US |Flexible, low-power generative AI inference system |
@@ -361,7 +360,7 @@ BibTeX:
 |[Tachyum](https://tachyum.com) | HPC | 2016 | US |High performance processor architecture |
 |[Tandem PV](https://tandempv.com) | MFG | 2016 | US |Silicon solar panels |
 |[Tenstorrent](https://tenstorrent.com) | AI | 2016 | CA |AI processing devices |
-|[Teramount](https://teramount.com) | MFG | 2013 | IL |Packaging technology for photonic devices |
+|[Teramount](https://www.electronicsweekly.com/news/business/molex-buys-teramount-2-2026-05/) | MFG | 2013 | IL |Packaging technology for photonic devices (acquired by Molex, May 2026) |
 |[Tetramem](https://tetramem.com) | AI | 2018 | US |AI accelerator for edge inference |
 |[Thintronics](https://thintronics.com) | MFG | 2019 | US |Thin film materials |
 |[Trameto](https://trameto.com) | ANALOG | 2016 | UK |Energy harvesting PMICs |
@@ -459,7 +458,7 @@ BibTeX:
 |Insightness | Sony | 2019 | NA | [Source](https://ethz.ch/en/industry/entrepreneurship/explore-startup-portraits-and-success-stories/exits/insightness.html) |
 |Kalray | IPO | 2018 | 100 | [Source](https://www.euronext.com/en/about/media/euronext-press-releases/kalray-sintroduit-sur-euronext-growth) |
 |Kameleon | Ramon Space | 2022 | NA | [Source](https://www.startuphub.ai/ai-exit-events/ramon-space-merges-with-kameleon/) |
-|Kinara | NXP | 2025 | 307 | [Source](https://www.nxp.com/company/about-nxp/newsroom/NW-AI-PR-2025) |
+|Kinara | NXP | 2025 | 307 | [Source](https://www.nxp.com/company/about-nxp/smarter-world-blog/BL-EDGE-AI-WITH-KINARA) |
 |Lightelligence | IPO | 2026 | 306 | [Source](https://www.scmp.com/tech/tech-trends/article/3351551/lightelligence-jumps-hong-kong-debut-amid-ai-driven-demand-photonics-chips) |
 |Lighton | IPO | 2024 | 65 | [Source](https://www.reuters.com/technology/artificial-intelligence/frances-lighton-says-valued-65-mln-euronext-ipo-2024-11-21/) |
 |Lion Semiconductor | Cirrus | 2021 | 335 | [Source](https://www.ednasia.com/cirrus-logic-to-acquire-lion-semiconductor/) |
