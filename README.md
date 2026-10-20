@@ -140,6 +140,7 @@ BibTeX:
 |[Ceremorphic](https://ceremorphic.com) | HPC | 2020 | US |Analog computing architecture |
 |[Cerfe Labs](https://cerfelabs.com) | MFG | 2020 | US |Electronics materials and device research |
 |[ChipAgents](https://chipagents.ai) | EDA | 2024 | US |Agentic AI chip design environment |
+|[ChipCraft](https://chipcraft-ic.com) | ASIC | 2016 | PL |GNSS receiver and RISC-V based SoC |
 |[Chipflow](https://chipflow.io) | ASIC | 2021 | UK |ASIC design platform |
 |[Chipletz](https://chipletz.com) | CHIPLETS | 2021 | US |Smart substrate for chiplet integration |
 |[Chipmind](https://chipmind.ai) | EDA | 2024 | CH |Agentic chip design |
