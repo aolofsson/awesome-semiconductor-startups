@@ -26,7 +26,7 @@ Chipstack,Cadence,2025,NA,https://www.forbes.com/sites/davealtavilla/2026/02/10/
 Clearspeed,IPO,2007,20,https://en.wikipedia.org/wiki/ClearSpeed
 Cycuity,Arteris,2025,NA,https://www.globenewswire.com/news-release/2025/12/11/3204295/0/en/Arteris-to-Expand-Portfolio-with-Acquisition-of-Cycuity-a-Leader-in-Semiconductor-Cybersecurity-Assurance.html
 Diakopto,Ansys,2023,NA,https://www.prnewswire.com/news-releases/ansys-signs-definitive-agreement-to-acquire-diakopto-expands-multiphysics-simulation-portfolio-for-semiconductor-designers-301826540.html
-Dream Big,ARM,2025,265,https://www.eetimes.com/arms-dreambig-acquisition-reignites-in-house-chip-prospects/
+DreamBig,ARM,2025,265,https://www.eetimes.com/arms-dreambig-acquisition-reignites-in-house-chip-prospects/
 Dust Photonics,Credo,2026,1300,https://www.datacenterdynamics.com/en/news/credo-technology-group-acquires-dustphotonics-in-13bn-cash-and-stock-deal/
 Efabless,Shutdown,2025,0,https://www.tomshardware.com/tech-industry/semiconductors/efabless-shuts-down-fate-of-tiny-tapeout-chip-production-projects-unclear
 Element14,Broadcom,2000,600,https://www.eetimes.com/broadcom-acquires-element-14-for-600-million-enters-adsl-chip-market/
@@ -67,10 +67,10 @@ MixComm,Sivers,2021,155,https://www.eetimes.com/mixcomm-acquired-by-sivers-semic
 Mobix Labs,SPAC,2023,NA,https://mobixlabs.com
 Movidius,Intel,2016,400,https://siliconangle.com/2016/09/06/intel-buys-movidius-to-boost-machine-vision/
 Nervana,Intel,2016,350,https://venturebeat.com/2016/08/09/intel-acquires-deep-learning-startup-nervana
-Neuroblade,Amazon,2025,NA,https://www.storagenewsletter.com/2025/10/23/aws-swallows-neuroblade/
+NeuroBlade,Amazon,2025,NA,https://www.storagenewsletter.com/2025/10/23/aws-swallows-neuroblade/
 Nubis,Ciena,2025,270,https://www.ciena.com/about/newsroom/press-releases/ciena-to-acquire-nubis-communications-to-expand-its-inside-the-data-center-strategy-and-further-address-growing-ai-workloads
 Nuvia,Qualcomm,2021,1400,https://www.fiercewireless.com/devices/qualcomm-to-acquire-nuvia-for-1-4b
-Occuli,Ambarella,2021,307,https://www.ambarella.com/news/ambarella-closes-acquisition-of-oculii/
+Oculii,Ambarella,2021,307,https://www.ambarella.com/news/ambarella-closes-acquisition-of-oculii/
 PA Semi,Apple,2008,278,https://www.cnet.com/tech/tech-industry/apple-acquires-low-power-chip-designer-pa-semi
 Pensando,AMD,2022,1900,https://www.amd.com/en/press-releases/2022-05-26-amd-expands-data-center-solutions-capabilities-acquisition-pensando
 Perceive,Amazon,2024,80,https://www.geekwire.com/2024/amazon-to-acquire-perceive-for-80m-from-xperi-expanding-its-ai-technology-for-edge-devices/
@@ -79,6 +79,7 @@ PrimeSense,Apple,2013,350,https://techcrunch.com/2013/11/24/apple-primesense-acq
 Provigent,Broadcom,2011,360,https://en.globes.co.il/en/article-1000631723
 Quantenna,Onsemi,2019,1000,https://www.bizjournals.com/phoenix/news/2022/09/20/onsemi-close-down-quantenna.html
 Rivos,Meta,2025,2000,https://semiwiki.com/forum/threads/meta-is-acquiring-chip-startup-rivos-for-a-reported-2b-to-turbocharge-its-in-house-ai-chips-mtia-and-cut-its-heavy-reliance-on-nvidia.23756/
+RoboSense,IPO,2024,2470,https://www.cnbc.com/2024/01/05/robosense-technology-ipo-debuts-in-hong-kong-the-first-in-2024-.html
 Sand 9,ADI,2015,30,https://www.eenewseurope.com/en/analog-devices-is-sand-9-buyer/
 Sapeon,Rebellions,2024,NA,https://www.reuters.com/technology/artificial-intelligence/south-korean-ai-chip-makers-rebellions-sapeon-agree-merge-2024-08-18/
 SiByte,Broadcom,2000,2000,https://www.eetimes.com/broadcom-acquires-mips-core-provider-sibyte
@@ -96,4 +97,5 @@ Upverter,Altium,2017,2.8,https://pitchbook.com/profiles/company/56161-81#overvie
 Ventana,Qualcomm,2025,NA,https://www.crn.com/news/components-peripherals/2025/qualcomm-acquires-risc-v-chip-designer-ventana-to-boost-cpu-capabilities
 VyperCore,Shutdown,2025,0,https://find-and-update.company-information.service.gov.uk/company/14244622
 Wavious,Apple,2022,NA,https://pitchbook.com/profiles/company/169888-60#overview
+Xanadu,SPAC,2026,3100,https://quantisnow.com/insight/xanadu-quantum-technologies-limited-announces-closing-of-business-combination-with-6470941
 zGlue,Sold,2021,NA,https://www.reuters.com/technology/chip-wars-how-chiplets-are-emerging-core-part-chinas-tech-strategy-2023-07-13

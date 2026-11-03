@@ -134,7 +134,6 @@ BibTeX:
 |[cassia.ai](https://cassia.ai) | AI | 2021 | US |AI Hardware IP |
 |[Celera](https://celeratechnologies.com) | EDA | 2018 | US |Automated analog/mixed-signal IC development tool |
 |[Celero Communications](https://celero.inc) | NETWORKING | 2024 | US |Coherent DSP platform for high-bandwidth low-power optical connectivity |
-|[Celestial AI](https://celestial.ai) | PHOTONICS | 2020 | US |Photonic fabric optical interconnect technology |
 |[Cellium](https://cellium.net) | RF | 2016 | IL |Wireless infrastructure for indoor connectivity |
 |[Celtro](https://celtro.de) | HEALTH | 2019 | DE |Energy harvesting implantable medical devices |
 |[Celus](https://celus.io) | EDA | 2016 | DE |PCB design tools |
@@ -145,7 +144,6 @@ BibTeX:
 |[Chipflow](https://chipflow.io) | ASIC | 2021 | GB |ASIC design platform |
 |[Chipletz](https://chipletz.com) | CHIPLETS | 2021 | US |Smart substrate for chiplet integration |
 |[Chipmind](https://chipmind.ai) | EDA | 2024 | CH |Agentic chip design |
-|[Chipstack](https://chipstack.com) | EDA | 2023 | US |AI based chip design methodology |
 |[Circuit Mind](https://circuitmind.io) | EDA | 2018 | GB |PCB design tools |
 |[CircuitLeap.ai](https://circuitleap.ai) | EDA | 2024 | PT |Automated analog design with GPU and AI |
 |[Classiq](https://classiq.io) | EDA | 2020 | IL |Quantum computing software |
@@ -153,7 +151,6 @@ BibTeX:
 |[Cognichip](https://cognichip.ai) | EDA | 2024 | US |AI platform for chip design |
 |[Condor Computing](https://condorcomputing.com) | RISC-V | 2023 | US |High performance RISC-V processors |
 |[Cornami](https://cornami.com) | HPC | 2011 | US |Acceleration for full homomorphic encryption |
-|[Cycuity](https://cycuity.com) | EDA | 2014 | US |Security EDA design and verification solutions |
 |[Cyrillic](https://cyrillic.tech) | AI | 2024 | IT |Perception system for physical AI |
 |[d-Matrix](https://d-matrix.ai) | AI | 2019 | US |Computing platform for data center AI inference |
 |[DASH Tech IC](https://dashtechic.com) | HPC | 2021 | US |Flexible processors for embedded applications |
@@ -164,8 +161,6 @@ BibTeX:
 |[Diode Computers](https://diode.computer) | EDA | 2024 | US |AI based PCB design |
 |[Dnotitia](https://dnotitia.com) | AI | 2023 | KR |AI processors |
 |[Dover](https://dovermicrosystems.com) | SECURITY | 2017 | US |SoC security IP |
-|[DreamBig](https://dreambigsemi.com) | CHIPLETS | 2019 | US |Chiplet based ASIC platform |
-|[Dust Photonics](https://dustphotonics.com) | PHOTONICS | 2017 | IL |Small footprint integrate photonics transceivers |
 |[EdgeCortix](https://edgecortix.com) | AI | 2019 | US |AI accelerators for edge devices |
 |[EdgeQ](https://edgeq.io) | RF | 2018 | US |Base station-on-a-chip |
 |[Efficient Computer](https://efficient.computer) | HPC | 2022 | US |Energy efficient general-purpose processor |
@@ -200,14 +195,12 @@ BibTeX:
 |[Generation Alpha Transistor](https://generation-alpha-transistor.com) | EDA | 2024 | US |Circuit & Layout GUI Copilot |
 |[getinstachip](https://getinstachip.com) | EDA | 2024 | US |Intelligent package manager for Verilog |
 |[Gowin](https://gowinsemi.com) | FPGA | 2014 | CN |FPGA chip products |
-|[Groq](https://groq.com) | AI | 2016 | US |AI processors |
 |[HaiLa](https://haila.io) | RF | 2017 | CA |Low power wireless communication for IoT |
 |[Hailo](https://hailo.ai) | AI | 2017 | IL |AI acceleration for edge devices |
 |[HawAI.tech](https://hawai.tech) | AI | 2019 | FR |AI accelerators |
 |[Heronic](https://heronic.ai) | EDA | 2024 | GB |Automated generation of bespoke AI accelerators |
 |[HyperAccel](https://hyperaccel.ai) | AI | 2023 | KR |AI processors and server solutions for LLM/Gen AI |
 |[HyperCIM](https://hypercim.com) | AI | 2023 | GB |Optimized compute in memory architecture |
-|[Hyperlume](https://hyperlume.com) | PHOTONICS | 2022 | CA |Optical interconnect |
 |[InCore Semi](https://incoresemi.com) | RISC-V | 2018 | IN |RISC-V IP cores |
 |[Ingonyama](https://ingonyama.com) | SECURITY | 2021 | IL |Hardware accelerators for cryptographic computation |
 |[Innatera](https://innatera.com) | AI | 2018 | NL |Neuromorphic processors |
@@ -256,7 +249,6 @@ BibTeX:
 |[Neologic](https://neologicvlsi.com) | MFG | 2021 | IL |Quasi-CMOS transistor technology |
 |[Netrasemi](https://netrasemi.com) | AI | 2020 | IN |AI Hardware chips |
 |[Neureality](https://neureality.ai) | AI | 2019 | IL |Purpose-built AI-centric architecture |
-|[NeuroBlade](https://neuroblade.com) | AI | 2018 | IL |Accelerators for high throughput data analytics |
 |[Neurophos](https://neurophos.com) | PHOTONICS | 2020 | US |Optical computing platform |
 |[Neurxcore](https://neurxcore.com) | AI | 2023 | FR |AI accelerator IP based on NVDLA |
 |[Next Semiconductor](https://nextsemi.com) | SPACE | 2023 | US |Satellite networking ASICs |
@@ -264,7 +256,6 @@ BibTeX:
 |[Niobium Microsystems](https://niobiummicrosystems.com) | SECURITY | 2021 | US |FHE Acceleration for Zero Trust |
 |[Novelda](https://novelda.com) | RF | 2004 | NO |Wireless wideband for high resolution impulse radar |
 |[Novumind](https://novumind.com) | AI | 2015 | US |Domain specific acceleration for AI applications |
-|[Nubis Communication](https://nubis-inc.com) | NETWORKING | 2020 | US |Optical communications technology |
 |[Olix](https://olix.com) | AI | 2024 | GB |Optical tensor processing unit |
 |[OmniDesign](https://omnidesigntech.com) | ANALOG | 2015 | US |Low power analog IP |
 |[One Silicon Chip Photonics](https://onesiliconchipphotonics.com) | PHOTONICS | 2016 | CA |Optical chips for precision motion sensing |
@@ -320,8 +311,6 @@ BibTeX:
 |[Ricursive Intelligence](https://ricursive.com) | EDA | 2025 | US |AI models to automate all stages of chip design and verification |
 |[RISE](https://rise-da.com) | EDA | 2024 | US |Design and verification productivity platform |
 |[Riverlane](https://riverlane.com) | QUANTUM | 2016 | GB |Quantum error correction |
-|[Rivos](https://rivosinc.com) | RISC-V | 2021 | US |Stealth |
-|[RoboSense](https://robosense.ai) | SENSORS | 2014 | CN |Advanced LiDAR sensing |
 |[Sagence AI](https://www.sagence-ai.com) | AI | 2018 | US |Analog in-memory AI inference accelerators |
 |[Salience Labs](https://saliencelabs.ai) | PHOTONICS | 2020 | GB |Photonic computing platform |
 |[SambaNova](https://sambanova.ai) | AI | 2017 | US |AI processing |
@@ -362,7 +351,6 @@ BibTeX:
 |[Tachyum](https://tachyum.com) | HPC | 2016 | US |High performance processor architecture |
 |[Tandem PV](https://tandempv.com) | MFG | 2016 | US |Silicon solar panels |
 |[Tenstorrent](https://tenstorrent.com) | AI | 2016 | CA |AI processing devices |
-|[Teramount](https://teramount.com) | MFG | 2013 | IL |Packaging technology for photonic devices |
 |[Tetramem](https://tetramem.com) | AI | 2018 | US |AI accelerator for edge inference |
 |[Thintronics](https://thintronics.com) | MFG | 2019 | US |Thin film materials |
 |[Trameto](https://trameto.com) | ANALOG | 2016 | GB |Energy harvesting PMICs |
@@ -387,7 +375,6 @@ BibTeX:
 |[Vsora](https://vsora.com) | AI | 2015 | FR |AI inference chips |
 |[Wave Photonics](https://wavephotonics.com) | PHOTONICS | 2021 | GB |Photonics design platform |
 |[Welinq](https://welinq.fr) | QUANTUM | 2022 | FR |Quantum interconnects |
-|[Xanadu](https://xanadu.ai) | PHOTONICS | 2016 | CA |Photonic based quantum computer |
 |[Xcelerium](https://xcelerium.com) | HPC | 2020 | US |Domain specific processors for converged workloads |
 |[XCENA](https://xcena.com) | MEMORY | 2022 | KR |CXL memory solutions |
 |[Xconntech](https://xconn-tech.com) | HPC | 2020 | US |CXL and PCIe switch chips |
@@ -432,7 +419,7 @@ BibTeX:
 |Clearspeed | IPO | 2007 | 20 | [Source](https://en.wikipedia.org/wiki/ClearSpeed) |
 |Cycuity | Arteris | 2025 | NA | [Source](https://www.globenewswire.com/news-release/2025/12/11/3204295/0/en/Arteris-to-Expand-Portfolio-with-Acquisition-of-Cycuity-a-Leader-in-Semiconductor-Cybersecurity-Assurance.html) |
 |Diakopto | Ansys | 2023 | NA | [Source](https://www.prnewswire.com/news-releases/ansys-signs-definitive-agreement-to-acquire-diakopto-expands-multiphysics-simulation-portfolio-for-semiconductor-designers-301826540.html) |
-|Dream Big | ARM | 2025 | 265 | [Source](https://www.eetimes.com/arms-dreambig-acquisition-reignites-in-house-chip-prospects/) |
+|DreamBig | ARM | 2025 | 265 | [Source](https://www.eetimes.com/arms-dreambig-acquisition-reignites-in-house-chip-prospects/) |
 |Dust Photonics | Credo | 2026 | 1300 | [Source](https://www.datacenterdynamics.com/en/news/credo-technology-group-acquires-dustphotonics-in-13bn-cash-and-stock-deal/) |
 |Efabless | Shutdown | 2025 | 0 | [Source](https://www.tomshardware.com/tech-industry/semiconductors/efabless-shuts-down-fate-of-tiny-tapeout-chip-production-projects-unclear) |
 |Element14 | Broadcom | 2000 | 600 | [Source](https://www.eetimes.com/broadcom-acquires-element-14-for-600-million-enters-adsl-chip-market/) |
@@ -473,10 +460,10 @@ BibTeX:
 |Mobix Labs | SPAC | 2023 | NA | [Source](https://mobixlabs.com) |
 |Movidius | Intel | 2016 | 400 | [Source](https://siliconangle.com/2016/09/06/intel-buys-movidius-to-boost-machine-vision/) |
 |Nervana | Intel | 2016 | 350 | [Source](https://venturebeat.com/2016/08/09/intel-acquires-deep-learning-startup-nervana) |
-|Neuroblade | Amazon | 2025 | NA | [Source](https://www.storagenewsletter.com/2025/10/23/aws-swallows-neuroblade/) |
+|NeuroBlade | Amazon | 2025 | NA | [Source](https://www.storagenewsletter.com/2025/10/23/aws-swallows-neuroblade/) |
 |Nubis | Ciena | 2025 | 270 | [Source](https://www.ciena.com/about/newsroom/press-releases/ciena-to-acquire-nubis-communications-to-expand-its-inside-the-data-center-strategy-and-further-address-growing-ai-workloads) |
 |Nuvia | Qualcomm | 2021 | 1400 | [Source](https://www.fiercewireless.com/devices/qualcomm-to-acquire-nuvia-for-1-4b) |
-|Occuli | Ambarella | 2021 | 307 | [Source](https://www.ambarella.com/news/ambarella-closes-acquisition-of-oculii/) |
+|Oculii | Ambarella | 2021 | 307 | [Source](https://www.ambarella.com/news/ambarella-closes-acquisition-of-oculii/) |
 |PA Semi | Apple | 2008 | 278 | [Source](https://www.cnet.com/tech/tech-industry/apple-acquires-low-power-chip-designer-pa-semi) |
 |Pensando | AMD | 2022 | 1900 | [Source](https://www.amd.com/en/press-releases/2022-05-26-amd-expands-data-center-solutions-capabilities-acquisition-pensando) |
 |Perceive | Amazon | 2024 | 80 | [Source](https://www.geekwire.com/2024/amazon-to-acquire-perceive-for-80m-from-xperi-expanding-its-ai-technology-for-edge-devices/) |
@@ -485,6 +472,7 @@ BibTeX:
 |Provigent | Broadcom | 2011 | 360 | [Source](https://en.globes.co.il/en/article-1000631723) |
 |Quantenna | Onsemi | 2019 | 1000 | [Source](https://www.bizjournals.com/phoenix/news/2022/09/20/onsemi-close-down-quantenna.html) |
 |Rivos | Meta | 2025 | 2000 | [Source](https://semiwiki.com/forum/threads/meta-is-acquiring-chip-startup-rivos-for-a-reported-2b-to-turbocharge-its-in-house-ai-chips-mtia-and-cut-its-heavy-reliance-on-nvidia.23756/) |
+|RoboSense | IPO | 2024 | 2470 | [Source](https://www.cnbc.com/2024/01/05/robosense-technology-ipo-debuts-in-hong-kong-the-first-in-2024-.html) |
 |Sand 9 | ADI | 2015 | 30 | [Source](https://www.eenewseurope.com/en/analog-devices-is-sand-9-buyer/) |
 |Sapeon | Rebellions | 2024 | NA | [Source](https://www.reuters.com/technology/artificial-intelligence/south-korean-ai-chip-makers-rebellions-sapeon-agree-merge-2024-08-18/) |
 |SiByte | Broadcom | 2000 | 2000 | [Source](https://www.eetimes.com/broadcom-acquires-mips-core-provider-sibyte) |
@@ -502,4 +490,5 @@ BibTeX:
 |Ventana | Qualcomm | 2025 | NA | [Source](https://www.crn.com/news/components-peripherals/2025/qualcomm-acquires-risc-v-chip-designer-ventana-to-boost-cpu-capabilities) |
 |VyperCore | Shutdown | 2025 | 0 | [Source](https://find-and-update.company-information.service.gov.uk/company/14244622) |
 |Wavious | Apple | 2022 | NA | [Source](https://pitchbook.com/profiles/company/169888-60#overview) |
+|Xanadu | SPAC | 2026 | 3100 | [Source](https://quantisnow.com/insight/xanadu-quantum-technologies-limited-announces-closing-of-business-combination-with-6470941) |
 |zGlue | Sold | 2021 | NA | [Source](https://www.reuters.com/technology/chip-wars-how-chiplets-are-emerging-core-part-chinas-tech-strategy-2023-07-13) |
