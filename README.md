@@ -32,7 +32,8 @@ BibTeX:
 1. Create a branch
 2. Add entry to './startups.csv'
 3. Run '$ python ./update.py'
-4. Submit a Pull Request
+4. Run '$ python ./check.py' and fix any errors it reports
+5. Submit a Pull Request
 
 ## Submission Guidelines:
 

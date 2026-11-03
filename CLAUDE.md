@@ -14,7 +14,7 @@ build system and no CI.
 | `technologies.csv` | Allowed `Technology` categories: `Technology,Description` |
 | `header.md` | Hand-written top of the README (citation, guidelines, plots) |
 | `update.py` | Generates `README.md` = `header.md` + tables built from the CSVs |
-| `check_and_validate.py` | Validates the CSVs and checks startup websites and alumni source links are reachable |
+| `check.py` | Validates the CSVs and checks startup websites and alumni source links are reachable |
 | `dashboard/` | Static dashboard (`index.html`, `app.js`, `style.css`) served by GitHub Pages; reads the CSVs at load time, so it needs no regeneration |
 | `dashboard/preview.png` | Collage of the dashboard's charts, the clickable image at the top of the README. A snapshot: regenerate with `dashboard/preview/make.sh` (needs Pillow, Node 22+, google-chrome) after large data changes |
 | `LICENSE` | MIT, covering the scripts and the data |
@@ -88,7 +88,7 @@ build system and no CI.
   order by Company; insert new rows in their place.
 - Every CSV value arrives by pull request and is untrusted. Both scripts
   escape and validate it on purpose (Markdown injection in `update.py`, SSRF
-  guard in `check_and_validate.py`); keep those protections when changing
+  guard in `check.py`); keep those protections when changing
   either script.
 - All links, founding dates, category, and missions must be human audited and verified
 - Any bankruptcy announcement counts as a 0 exit, even if assets are later sold
@@ -98,12 +98,12 @@ build system and no CI.
 
 ```sh
 python3 update.py                          # regenerate README.md
-python3 check_and_validate.py --skip-urls  # CSV checks only, offline, instant
-python3 check_and_validate.py 32           # also fetch every startup site (32 workers)
+python3 check.py --skip-urls               # CSV checks only, offline, instant
+python3 check.py 32                        # also fetch every startup site (32 workers)
 python3 -m http.server                     # then open http://localhost:8000/dashboard/
 ```
 
-`check_and_validate.py` exits non-zero on any ERROR or unreachable URL.
+`check.py` exits non-zero on any ERROR or unreachable URL.
 The full URL check makes ~300 network requests and takes a minute or more:
 run it in the background, and expect some false failures from flaky sites.
 The dashboard fetches `../*.csv`, so it does not work from `file://`; preview
@@ -113,9 +113,8 @@ that start with `=`, `+`, `-` or `@` so a spreadsheet does not run them.
 `update.py` prints a warning to stderr for a startup whose technology is not
 in `technologies.csv`.
 
-After any data change, run `update.py` then `check_and_validate.py
---skip-urls`, and check that `git diff README.md` only shows the rows you
-meant to change.
+After any data change, run `update.py` then `check.py --skip-urls`, and
+check that `git diff README.md` only shows the rows you meant to change.
 
 ## Contributions
 
