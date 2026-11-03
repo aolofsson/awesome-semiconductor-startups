@@ -102,7 +102,6 @@ BibTeX:
 |[Ascenium](https://ascenium.com) | HPC | 2019 | NO |General purpose accelerator |
 |[Aspinity](https://aspinity.com) | AI | 2015 | US |Analog in-memory AI inference accelerators |
 |[Astrus](https://astrus.ai) | EDA | 2022 | CA |AI platform designed to automate microchip design |
-|[Athos Silicon](https://athossilicon.com) | CHIPLETS | 2025 | US |Chiplet platform for automotive/safety critical applications |
 |[Atlant 3D](https://atlant3d.com) | MFG | 2018 | DK |Atomic scale 3d material printing |
 |[Atmosic](https://atmosic.com) | RF | 2016 | US |Battery free wireless devices |
 |[Atoms AI](https://atomsai.net) | EDA | 2024 | US |AI driven verification |
@@ -145,7 +144,6 @@ BibTeX:
 |[Classiq](https://classiq.io) | EDA | 2020 | IL |Quantum computing software |
 |[Codasip](https://codasip.com) | RISC-V | 2014 | DE |Supplier of RISC-V IP cores |
 |[Cognichip](https://cognichip.ai) | EDA | 2024 | US |AI platform for chip design |
-|[Condor Computing](https://condorcomputing.com) | RISC-V | 2023 | US |High performance RISC-V processors |
 |[Cornami](https://cornami.com) | HPC | 2011 | US |Acceleration for full homomorphic encryption |
 |[Cyrillic](https://cyrillic.tech) | AI | 2024 | IT |Perception system for physical AI |
 |[d-Matrix](https://d-matrix.ai) | AI | 2019 | US |Computing platform for data center AI inference |
@@ -153,7 +151,6 @@ BibTeX:
 |[DeepX](https://deepx.ai) | AI | 2018 | KR |AI processors |
 |[DeGirum](https://degirum.ai) | AI | 2017 | US |AI platform for edge applications |
 |[Denpaflux](https://denpaflux.com) | EDA | 2022 | DE |EMC analysis platform for design engineering teams |
-|[Dfiant](https://dfiant.works) | EDA | 2022 | US |Chip design tools |
 |[Diode Computers](https://diode.computer) | EDA | 2024 | US |AI based PCB design |
 |[Dnotitia](https://dnotitia.com) | AI | 2023 | KR |AI processors |
 |[Dover](https://dovermicrosystems.com) | SECURITY | 2017 | US |SoC security IP |
@@ -390,6 +387,7 @@ BibTeX:
 |Aquantia | Marvell | 2019 | 452 | [Source](https://www.thestreet.com/investing/earnings/marvell-technology-to-purchase-aquantia-14949381) |
 |Arbe | SPAC | 2021 | 525 | [Source](https://en.globes.co.il/en/article-arbe-robotics-lists-on-nasdaq-friday-as-spac-merger-completed-1001386505) |
 |Astera | IPO | 2024 | 9500 | [Source](https://uk.investing.com/news/stock-market-news/astera-labs-ai-stock-and-supplier-to-nvidia-amd-intel-and-amazon-surges-72-in-nasdaq-debut-3395508) |
+|Athos Silicon | Shutdown | 2026 | 0 | [Source](https://www.eetimes.com/mercedes-spinout-athos-closes-its-doors/) |
 |Atlantic Quantum | Google | 2025 | NA | [Source](https://www.techzine.eu/news/infrastructure/135146/google-acquires-atlantic-quantum-for-superconducting-qubit-technology) |
 |Axis Semiconductor | Shutdown | 2022 | 0 | Private Communication |
 |Banias | Alphawave | 2022 | 240 | [Source](https://www.calcalistech.com/ctechnews/article/hynfz2sxs) |
@@ -402,7 +400,9 @@ BibTeX:
 |Cerebras | IPO | 2026 | 64000 | [Source](https://www.investors.com/news/technology/cerebras-stock-possible-index-inclusion/) |
 |Chipstack | Cadence | 2025 | NA | [Source](https://www.design-reuse.com/news/202529654-cadence-welcomes-chipstack/) |
 |Clearspeed | IPO | 2007 | 20 | [Source](https://en.wikipedia.org/wiki/ClearSpeed) |
+|Condor Computing | Shutdown | 2026 | 0 | [Source](https://www.jonpeddie.com/news/condor-flies-no-more/) |
 |Cycuity | Arteris | 2025 | NA | [Source](https://www.globenewswire.com/news-release/2025/12/11/3204295/0/en/Arteris-to-Expand-Portfolio-with-Acquisition-of-Cycuity-a-Leader-in-Semiconductor-Cybersecurity-Assurance.html) |
+|Dfiant | Shutdown | 2026 | 0 | [Source](https://www.linkedin.com/posts/oron-port_opentowork-share-7513883795054313473-Yzod/) |
 |Diakopto | Ansys | 2023 | NA | [Source](https://www.prnewswire.com/news-releases/ansys-signs-definitive-agreement-to-acquire-diakopto-expands-multiphysics-simulation-portfolio-for-semiconductor-designers-301826540.html) |
 |DreamBig | ARM | 2025 | 265 | [Source](https://www.eetimes.com/arms-dreambig-acquisition-reignites-in-house-chip-prospects/) |
 |Dust Photonics | Credo | 2026 | 1300 | [Source](https://www.datacenterdynamics.com/en/news/credo-technology-group-acquires-dustphotonics-in-13bn-cash-and-stock-deal/) |
@@ -412,6 +412,7 @@ BibTeX:
 |Enosemi | AMD | 2025 | NA | [Source](https://techcrunch.com/2025/05/28/amd-buys-silicon-photonics-startup-enosemi-to-fuel-its-ai-ambitions/) |
 |Esperanto | Shutdown | 2025 | 0 | [Source](https://www.eetimes.com/ai-startup-esperanto-winds-down-silicon-business/) |
 |Espressif | IPO | 2019 | 1800 | [Source](https://www.cnx-software.com/2019/07/25/espressif-systems-gets-listed-on-the-shanghai-stock-market/) |
+|Excellicon | Siemens | 2025 | NA | [Source](https://news.siemens.com/en-us/siemens-to-acquire-excellicon/) |
 |Ferric | Onsemi | 2026 | 600 | [Source](https://www.onsemi.com/company/newsroom/news-and-insights/onsemi-to-acquire-ferric-establishing-leadership-in-power-delivery-for-next-generation-ai-processors) |
 |Flex Logix | Analog Devices | 2024 | NA | [Source](https://design-reuse.com/news/57030/flex-logix-analog-devices-acquisition.html) |
 |Fungible | Microsoft | 2023 | 190 | [Source](https://blocksandfiles.com/2022/12/13/fungible-sold-to-microsoft-for-190-million/) |
