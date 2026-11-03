@@ -71,7 +71,7 @@ BibTeX:
 |PHOTONICS | Photonic based startups |
 |QUANTUM | Quantum computing |
 |RISC-V | RISC-V based startups |
-|SECURITY | Security techhnology |
+|SECURITY | Security technology |
 |SENSORS | Sensing devices |
 |SPACE | Space technology |
 
@@ -80,7 +80,7 @@ BibTeX:
 | Company | Technology | Founded | Country | Description |
 |---------|------------|---------|---------|-------------|
 |[Abacus Semiconductor](https://abacus-semi.com) | HPC | 2020 | US |HPC silicon systems |
-|[Accelercom](https://accelercomm.com) | RF | 2016 | GB |5G physical layer for high-performance networks |
+|[AccelerComm](https://accelercomm.com) | RF | 2016 | GB |5G physical layer for high-performance networks |
 |[Agentrys](https://agentrys.ai) | EDA | 2025 | US |Self-Improving Agentic Design Automation Toward Autonomous Design |
 |[Agile Analog](https://agileanalog.com) | EDA | 2017 | GB |Automating design of analog circuitry |
 |[Agita Labs](https://agitalabs.com) | SECURITY | 2018 | US |Processing security technology/IP |
@@ -170,7 +170,7 @@ BibTeX:
 |[Enlightra](https://enlightra.com) | PHOTONICS | 2017 | CH |Optical microresonator technology |
 |[enzzo](https://enzzo.ai) | EDA | 2024 | US |AI driven hardware development |
 |[Equal1](https://equal1.com) | QUANTUM | 2017 | IE |Silicon spin qubits for scalable quantum computing |
-|[Eridan](https://eridan.io) | RF | 2013 | US |RF front end for for wireless telecommunications |
+|[Eridan](https://eridan.io) | RF | 2013 | US |RF front end for wireless telecommunications |
 |[Eridu AI](https://eridu.ai) | PHOTONICS | 2023 | US |Photonics based AI acceleration |
 |[Etched](https://etched.com) | AI | 2022 | US |AI processors |
 |[Ethernovia](https://ethernovia.com) | NETWORKING | 2018 | US |In vehicle networking |
@@ -219,8 +219,8 @@ BibTeX:
 |[Light Trace Photonics](https://ltphotonics.co.uk) | PHOTONICS | 2021 | GB |Platform for rapid photonic product development |
 |[Lightium](https://lightium.co) | MFG | 2023 | CH |Photonics foundry |
 |[Lightmatter](https://lightmatter.co) | PHOTONICS | 2017 | US |Optical computing platform |
-|[Linctrinsic](https://lintrinsicsemi.com) | RF | 2021 | US |Fast RF switches |
 |[Linque](https://linque.eu) | PHOTONICS | 2023 | DE |Optical computing |
+|[LintrinsIC](https://lintrinsicsemi.com) | RF | 2021 | US |Fast RF switches |
 |[Literal Labs](https://literal-labs.ai) | AI | 2023 | GB |Explainable AI using Tsetlin machines |
 |[Lubis EDA](https://lubis-eda.com) | EDA | 2021 | DE |Cloud based formal verification platform |
 |[Lumai](https://lumai.ai) | PHOTONICS | 2021 | GB |3D optical computing |
@@ -229,7 +229,7 @@ BibTeX:
 |[Lyte AI](https://lyte.ai) | AI | 2021 | US |Perception layer for physical AI |
 |[Magics Technologies](https://magics.tech) | SPACE | 2015 | BE |Radiation-hardened ICs for space systems and nuclear infrastructure |
 |[Maieutic Semiconductors](https://maieuticsemi.com) | EDA | 2025 | IN |Generative AI copilot for analog chip design |
-|[Majestic Labs](https://majestic-labs.ai) | AI | 2023 | IL |AI procesor |
+|[Majestic Labs](https://majestic-labs.ai) | AI | 2023 | IL |AI processor |
 |[MangoBoost](https://mangoboost.io) | HPC | 2022 | US |Data processing units for data center |
 |[Matx](https://matx.com) | AI | 2022 | US |Platform for AGI |
 |[Memryx](https://memryx.com) | AI | 2019 | US |AI computing platform |
@@ -369,7 +369,7 @@ BibTeX:
 |[Verifaix](https://verifaix.com) | EDA | 2024 | US |AI assisted hardware design and verification |
 |[Vinci](https://getvinci.ai) | EDA | 2023 | US |Physics-based AI for hardware design and simulation |
 |[Viqthor](https://viqthor.com) | QUANTUM | 2023 | FR |Quantum processing |
-|[Visblsemi](https://visiblsemi.com) | EDA | 2024 | US |AI assisted hardware design and verification |
+|[Visibl Semiconductors](https://visiblsemi.com) | EDA | 2024 | US |AI assisted hardware design and verification |
 |[Volantis Semiconductor](https://volantissemi.ai) | AI | 2022 | US |AI processors |
 |[VoltAI](https://voltai.com) | EDA | 2022 | US |AI models for semiconductor |
 |[Vsora](https://vsora.com) | AI | 2015 | FR |AI inference chips |
