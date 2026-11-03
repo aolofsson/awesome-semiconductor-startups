@@ -35,7 +35,7 @@ MAX_YEAR = date.today().year + 1
 BLOCKED_CODES = {401, 403, 405, 406, 409, 429, 503}
 
 STARTUP_FIELDS = ["Company", "Website", "Technology", "Country", "Founded", "Description"]
-ALUMNI_FIELDS = ["Company", "Exit", "Year", "Value($M)", "Link"]
+ALUMNI_FIELDS = STARTUP_FIELDS + ["Exit", "Year", "Value($M)", "Link"]
 TECH_FIELDS = ["Technology", "Description"]
 
 COUNTRY_RE = re.compile(r"[A-Z]{2}")
@@ -318,30 +318,46 @@ def validate_startups(path, valid_tech, issues):
                                              f"(first seen on line {seen_domain[key]})"))
             continue
         seen_domain[key] = n
-        if t not in valid_tech:
-            issues.append(("ERROR", path, n, f"Unknown Technology: {t} (Company: {c})"))
+        check_profile(path, n, row, valid_tech, issues)
+        entries.append({"target": domain, "company": c, "extra": y, "line": n})
+    return entries
+
+
+def check_profile(path, n, row, valid_tech, issues, founded_na=False):
+    """Check the Technology, Founded, Country and Description columns that
+    startups.csv, unverified.csv and alumni.csv share."""
+    c, t, co = row["Company"], row["Technology"], row["Country"]
+    y, d = row["Founded"], row["Description"]
+    if t not in valid_tech:
+        issues.append(("ERROR", path, n, f"Unknown Technology: {t} (Company: {c})"))
+    if founded_na and y == "NA":
+        issues.append(("WARNING", path, n, f"Founded year unknown (Company: {c})"))
+    else:
         well_formed, in_range = check_year(y)
         if not well_formed:
             issues.append(("ERROR", path, n, f"Invalid Founded year: {y} (Company: {c})"))
         elif not in_range:
             issues.append(("WARNING", path, n, f"Founded year out of range "
                                                f"({MIN_YEAR}-{MAX_YEAR}): {y} (Company: {c})"))
-        if not COUNTRY_RE.fullmatch(co):
-            issues.append(("WARNING", path, n, f"Non-standard Country: {co} (Company: {c})"))
-        if not d:
-            issues.append(("WARNING", path, n, f"Empty Description (Company: {c})"))
-        entries.append({"target": domain, "company": c, "extra": y, "line": n})
-    return entries
+    if not COUNTRY_RE.fullmatch(co):
+        issues.append(("WARNING", path, n, f"Non-standard Country: {co} (Company: {c})"))
+    if not d:
+        issues.append(("WARNING", path, n, f"Empty Description (Company: {c})"))
 
 
-def validate_alumni(path, issues):
-    """Validate alumni rows; return the well-formed Links to fetch."""
+def validate_alumni(path, valid_tech, issues):
+    """Validate alumni rows; return (well-formed Links to fetch, company names).
+
+    Alumni carry the startup columns too. Website may be NA, since an acquired
+    company's site is often gone or redirects to the buyer, and it is not
+    fetched. Founded may be NA until it is sourced.
+    """
     entries = []
     seen_company = {}
     seen_link = {}
     for n, row in read_rows(path, ALUMNI_FIELDS, issues):
         c, e, y = row["Company"], row["Exit"], row["Year"]
-        v, link = row["Value($M)"], row["Link"]
+        v, link, w = row["Value($M)"], row["Link"], row["Website"]
         if not c:
             issues.append(("ERROR", path, n, "Empty Company"))
             continue
@@ -350,6 +366,15 @@ def validate_alumni(path, issues):
                                              f"(first seen on line {seen_company[c.lower()]})"))
             continue
         seen_company[c.lower()] = n
+        if w != "NA":
+            _, err = check_domain(w)
+            if err:
+                issues.append(("ERROR", path, n, f"Invalid Website: {w} - {err} (Company: {c})"))
+        check_profile(path, n, row, valid_tech, issues, founded_na=True)
+        f = row["Founded"]
+        if YEAR_RE.fullmatch(f) and YEAR_RE.fullmatch(y) and int(f) > int(y):
+            issues.append(("WARNING", path, n, f"Founded {f} is after exit Year {y} "
+                                               f"(Company: {c})"))
         if not e:
             issues.append(("ERROR", path, n, f"Empty Exit (Company: {c})"))
         elif not EXIT_RE.fullmatch(e):
@@ -372,7 +397,7 @@ def validate_alumni(path, issues):
             else:
                 seen_link[link] = n
                 entries.append({"target": link, "company": c, "extra": y, "line": n})
-    return entries
+    return entries, seen_company
 
 
 ###############################################################################
@@ -475,8 +500,15 @@ def main():
     print("=" * 60)
     print(" 3. Validating alumni.csv ...")
     print("=" * 60)
-    links = validate_alumni("alumni.csv", issues)
+    links, alumni_names = validate_alumni("alumni.csv", valid_tech, issues)
     print(f"    {len(links)} source links to check\n")
+
+    # A company that exited must leave startups.csv; listing it in both
+    # double-counts it in the README and the dashboard.
+    for e in entries:
+        if e["company"].lower() in alumni_names:
+            issues.append(("ERROR", "startups.csv", e["line"],
+                           f"{e['company']} is also in alumni.csv; remove it from startups"))
 
     # Same columns as startups.csv. Their websites are already known to be
     # dead, so the rows are validated but not fetched.
