@@ -387,12 +387,11 @@ BibTeX:
 |Aeluma | SPAC | 2021 | NA | [Source](https://www.sec.gov/Archives/edgar/data/1828805/000121390021034503/ea143207-8k_aelumainc.htm) |
 |Agnilux | Google | 2010 | NA | [Source](https://techcrunch.com/2010/04/20/google-agnilux-apple) |
 |Akeana | Qualcomm | 2026 | NA | [Source](https://dealroom.co/news/164707-qualcomm-buys-risc-v-startup-akeana-to-push-into-ai-and-data-center-chip/) |
-|Alpha ICs | Shutdown | 2023 | 0 | [Source](https://pitchbook.com/profiles/company/163655-74) |
 |Alphawave | IPO | 2021 | 4300 | [Source](https://www.marketwatch.com/story/chip-maker-alphawave-set-for-4-3-billion-london-ipo-after-shunning-the-nasdaq-11620840007) |
-|Altair Semiconductor | Sony | 2016 | 212 | [Source](https://www.jvpvc.com/case-studies/altair/) |
+|Altair Semiconductor | Sony | 2016 | 212 | [Source](https://www.sec.gov/Archives/edgar/data/0000313838/000115752316004276/a51265604.htm) |
 |Ambric | Shutdown | 2008 | 0 | [Source](https://www.oregonlive.com/siliconforest/2008/11/ambric_suspends_operation_plan.html) |
 |Ampere Computing | Softbank | 2025 | 6500 | [Source](https://www.forbes.com/sites/moorinsights/2025/03/21/softbank-is-acquiring-ampere-what-are-the-implications/) |
-|Annapurna Labs | Amazon | 2015 | 375 | [Source](https://www.extremetech.com/computing/198140-amazon-buys-secretive-chip-maker-annapurna-labs-for-350-million) |
+|Annapurna Labs | Amazon | 2015 | 350 | [Source](https://www.datacenterknowledge.com/data-center-chips/amazon-buys-stealthy-israeli-chip-startup-annapurna-labs) |
 |Anobit | Apple | 2012 | 500 | [Source](https://techcrunch.com/2012/01/11/why-apple-bought-anobit) |
 |Aquantia | Marvell | 2019 | 452 | [Source](https://www.thestreet.com/investing/earnings/marvell-technology-to-purchase-aquantia-14949381) |
 |Arbe | SPAC | 2021 | 525 | [Source](https://en.globes.co.il/en/article-arbe-robotics-lists-on-nasdaq-friday-as-spac-merger-completed-1001386505) |
@@ -407,7 +406,7 @@ BibTeX:
 |Cambricon | IPO | 2020 | 12100 | [Source](https://en.lingang.gov.cn/html/website/lg/English/Home/OrientalICPort/Enterprises/c1648996112296636417.html) |
 |Celestial AI | Marvell | 2025 | 3250 | [Source](https://finance.yahoo.com/news/marvell-buy-chip-startup-celestial-210837707.html) |
 |Cerebras | IPO | 2026 | 64000 | [Source](https://www.investors.com/news/technology/cerebras-stock-possible-index-inclusion/) |
-|Chipstack | Cadence | 2025 | NA | [Source](https://www.forbes.com/sites/davealtavilla/2026/02/10/cadence-chipstack-ai-super-agent-claims-up-to-10x-faster-chip-design/) |
+|Chipstack | Cadence | 2025 | NA | [Source](https://www.design-reuse.com/news/202529654-cadence-welcomes-chipstack/) |
 |Clearspeed | IPO | 2007 | 20 | [Source](https://en.wikipedia.org/wiki/ClearSpeed) |
 |Cycuity | Arteris | 2025 | NA | [Source](https://www.globenewswire.com/news-release/2025/12/11/3204295/0/en/Arteris-to-Expand-Portfolio-with-Acquisition-of-Cycuity-a-Leader-in-Semiconductor-Cybersecurity-Assurance.html) |
 |Diakopto | Ansys | 2023 | NA | [Source](https://www.prnewswire.com/news-releases/ansys-signs-definitive-agreement-to-acquire-diakopto-expands-multiphysics-simulation-portfolio-for-semiconductor-designers-301826540.html) |
@@ -420,15 +419,15 @@ BibTeX:
 |Esperanto | Shutdown | 2025 | 0 | [Source](https://www.eetimes.com/ai-startup-esperanto-winds-down-silicon-business/) |
 |Espressif | IPO | 2019 | 1800 | [Source](https://www.cnx-software.com/2019/07/25/espressif-systems-gets-listed-on-the-shanghai-stock-market/) |
 |Flex Logix | Analog Devices | 2024 | NA | [Source](https://design-reuse.com/news/57030/flex-logix-analog-devices-acquisition.html) |
-|Fungible | Microsoft | 2023 | 190 | [Source](https://blogs.microsoft.com/blog/2023/01/09/microsoft-announces-acquisition-of-fungible-to-accelerate-datacenter-innovation/) |
+|Fungible | Microsoft | 2023 | 190 | [Source](https://blocksandfiles.com/2022/12/13/fungible-sold-to-microsoft-for-190-million/) |
 |GaN Systems | Infineon | 2023 | 830 | [Source](https://www.infineon.com/cms/en/about-infineon/press/press-releases/2023/INFXX202303-073.html) |
 |Genapsys | Shutdown | 2022 | 0 | [Source](https://cases.ra.kroll.com/genapsys/Home-Index) |
 |GrAI Matter Labs | Snap | 2023 | NA | [Source](https://www.eetimes.com/has-grai-matter-labs-been-snapped-up-by-snap-inc/) |
-|Graphcore | Softbank | 2024 | 400 | [Source](https://www.anandtech.com/show/21468/troubled-ai-processor-developer-graphcore-finds-a-buyer-softbank) |
+|Graphcore | Softbank | 2024 | 600 | [Source](https://siliconangle.com/?p=663500) |
 |GreenWaves Technologies | Shutdown | 2025 | 0 | [Source](https://www.linkedin.com/feed/update/urn:li:activity:7313159925101166594/) |
 |Groq | Nvidia | 2025 | 20000 | [Source](https://www.axios.com/2025/12/28/nvidia-groq-shareholders) |
 |Habana Labs | Intel | 2019 | 2000 | [Source](https://www.forbes.com/sites/moorinsights/2019/12/16/intel-acquires-habana-labs-for-2b/?sh=27bc9bc319f9) |
-|Hyperlume | Credo | 2025 | 92 | [Source](https://finance.yahoo.com/news/credo-acquires-hyperlume-taps-microled-122100852.html) |
+|Hyperlume | Credo | 2025 | 92 | [Source](https://www.sec.gov/Archives/edgar/data/1807794/000162828026014017/crdo-20260131.htm) |
 |Icera | Nvidia | 2011 | 367 | [Source](https://nvidianews.nvidia.com/news/nvidia-completes-acquisition-of-icera-a-leader-in-wireless-modem-rf-technology-6622906) |
 |Immedia | Amazon | 2017 | 90 | [Source](https://www.theverge.com/22704290/amazon-blink-ring-camera-doorbell-brands-smart-home-why) |
 |Imperas | Synopsys | 2023 | NA | [Source](https://www.design-reuse.com/news/55442/synopsys-imperas-acquisition.html) |
@@ -463,7 +462,7 @@ BibTeX:
 |Pharrowtech | Shutdown | 2025 | 0 | [Source](https://bits-chips.com/article/its-the-end-of-the-line-for-pharrowtech/) |
 |PrimeSense | Apple | 2013 | 350 | [Source](https://techcrunch.com/2013/11/24/apple-primesense-acquisition-confirmed) |
 |Provigent | Broadcom | 2011 | 360 | [Source](https://en.globes.co.il/en/article-1000631723) |
-|Quantenna | Onsemi | 2019 | 1000 | [Source](https://www.bizjournals.com/phoenix/news/2022/09/20/onsemi-close-down-quantenna.html) |
+|Quantenna | Onsemi | 2019 | 1070 | [Source](https://www.sec.gov/Archives/edgar/data/1097864/000119312519088528/d929418dex991.htm) |
 |Rivos | Meta | 2025 | 2000 | [Source](https://semiwiki.com/forum/threads/meta-is-acquiring-chip-startup-rivos-for-a-reported-2b-to-turbocharge-its-in-house-ai-chips-mtia-and-cut-its-heavy-reliance-on-nvidia.23756/) |
 |RoboSense | IPO | 2024 | 2470 | [Source](https://www.cnbc.com/2024/01/05/robosense-technology-ipo-debuts-in-hong-kong-the-first-in-2024-.html) |
 |Sand 9 | ADI | 2015 | 30 | [Source](https://www.eenewseurope.com/en/analog-devices-is-sand-9-buyer/) |
@@ -477,14 +476,14 @@ BibTeX:
 |Stretch | Exar | 2014 | NA | [Source](https://www.prnewswire.com/news-releases/exar-acquires-stretch-incorporated-240074341.html) |
 |SWIR Vision Systems | Onsemi | 2024 | NA | [Source](https://www.onsemi.com/company/newsroom/news-and-insights/onsemi-enhances-intelligent-sensing-portfolio-with-acquisition-of-swir-vision-systems) |
 |Tabula | Shutdown | 2015 | 0 | [Source](https://semiwiki.com/fpga/4232-tabula-closes-its-doors/) |
-|Tensil.ai | NA | 2022 | NA | [Source](https://reforgers.com/startups/tensil) |
+|Tensil.ai | NA | 2022 | NA | Private Communication |
 |Teramount | Molex | 2026 | 430 | [Source](https://www.calcalistech.com/ctechnews/article/b1intlan11l#google_vignette) |
 |Tilera | Ezchip | 2014 | 50 | [Source](https://www.prnewswire.com/news-releases/ezchip-completes-acquisition-of-tilera-a-leader-in-high-performance-multi-core-processors-281754771.html) |
 |Untether | Shutdown | 2025 | 0 | [Source](https://insolvencyinsider.ca/p/untether-ai-files-for-bankruptcy-following-amd-talent-acquisition-deal) |
-|Upverter | Altium | 2017 | 2.8 | [Source](https://pitchbook.com/profiles/company/56161-81#overview) |
+|Upverter | Altium | 2017 | NA | [Source](https://betakit.com/altium-acquires-toronto-based-product-design-platform-upverter/) |
 |Ventana | Qualcomm | 2025 | NA | [Source](https://www.crn.com/news/components-peripherals/2025/qualcomm-acquires-risc-v-chip-designer-ventana-to-boost-cpu-capabilities) |
 |VyperCore | Shutdown | 2025 | 0 | [Source](https://find-and-update.company-information.service.gov.uk/company/14244622) |
-|Wavious | Apple | 2022 | NA | [Source](https://pitchbook.com/profiles/company/169888-60#overview) |
+|Wavious | Apple | 2022 | NA | Private Communication |
 |Xanadu | SPAC | 2026 | 3400 | [Source](https://www.stockwatch.com/News/Item/Z-C!XNDU-3800089/C/XNDU?fmt=orig) |
 |zGlue | Shutdown | 2021 | 0 | [Source](https://www.irishtimes.com/business/innovation/2023/07/27/chinese-ingenuity-is-tested-as-semiconductor-sanctions-bite) |
 
@@ -494,6 +493,7 @@ Companies whose current status could not be confirmed.
 
 | Company | Website | Technology | Founded | Country | Description |
 |---------|---------|------------|---------|---------|-------------|
+|Alpha ICs | alphaics.ai | AI | 2016 | IN |Edge AI processors |
 |Evacorp | evacorp.ai | AI | 2023 | US |AI processing |
 |getinstachip | getinstachip.com | EDA | 2024 | US |Intelligent package manager for Verilog |
 |Novumind | novumind.com | AI | 2015 | US |Domain specific acceleration for AI applications |
