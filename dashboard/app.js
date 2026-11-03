@@ -740,27 +740,28 @@
     el.append(scale);
   }
 
+  // Stacked bars like the technology chart, in a box that scrolls so the
+  // long tail of countries does not push the page down.
   function renderCountryList(by) {
-    const el = $("country-list");
-    el.replaceChildren();
+    const el = $("country-chart");
+    const scroll = el.scrollTop;
+    const total = code => d3.sum((by.get(code) || new Map()).values());
     const codes = [...new Set([...by.keys(), ...state.country])]
-      .map(code => ({ code, n: d3.sum((by.get(code) || new Map()).values()) }))
-      .sort((a, b) => b.n - a.n || regionName(a.code).localeCompare(regionName(b.code)));
-    for (const { code, n } of codes) {
-      const li = document.createElement("li");
-      const b = document.createElement("button");
-      b.type = "button";
-      b.setAttribute("aria-pressed", String(state.country.has(code)));
-      const name = document.createElement("span");
-      name.textContent = regionName(code);
-      const num = document.createElement("span");
-      num.className = "n";
-      num.textContent = fmtInt(n);
-      b.append(name, num);
-      b.addEventListener("click", () => { toggle(state.country, code); update(); });
-      li.append(b);
-      el.append(li);
-    }
+      .sort((a, b) => total(b) - total(a) || regionName(a).localeCompare(regionName(b)));
+    if (!codes.length) { emptyChart(el, "No companies match the filters."); return; }
+    const rows = codes.map(code => ({
+      key: code,
+      label: regionName(code),
+      selected: state.country.has(code),
+      segs: STATUSES.map(s => ({ key: s.key, value: (by.get(code) || new Map()).get(s.key) || 0, color: s.color })),
+    }));
+    hbars(el, rows, {
+      label: "Companies per country, stacked by status",
+      labelW: 124,
+      onClick: r => { toggle(state.country, r.key); update(); },
+      tip: (e, r) => countryTip(e, r.key, by),
+    });
+    el.scrollTop = scroll;
   }
 
   // ---------------------------------------------------------------------------

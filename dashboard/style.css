@@ -306,7 +306,7 @@ main > section {
 
 /* ---------- Map ---------- */
 
-.map-layout { display: grid; grid-template-columns: minmax(0, 3fr) minmax(200px, 1fr); gap: 24px; align-items: start; }
+.map-layout { display: grid; grid-template-columns: minmax(0, 3fr) minmax(300px, 2fr); gap: 32px; align-items: start; }
 .map svg path.land { stroke: var(--surface); stroke-width: 0.5; cursor: default; }
 .map svg path.land.has { cursor: pointer; }
 .map svg path.land.selected { stroke: var(--ink); stroke-width: 1.5; }
@@ -315,29 +315,14 @@ main > section {
 .map-scale { display: flex; align-items: center; gap: 8px; font-size: 12px; color: var(--muted); margin-top: 8px; }
 .map-scale i { display: block; width: 140px; height: 8px; border-radius: 2px; background: linear-gradient(90deg, var(--seq-0), var(--seq-1)); }
 
-.country-list {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  max-height: 420px;
-  overflow: auto;
-  font-size: 14px;
+.country-scroll {
+  max-height: 440px;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  padding-right: 4px;
+  scrollbar-width: thin;
+  scrollbar-color: var(--axis) transparent;
 }
-.country-list li button {
-  all: unset;
-  box-sizing: border-box;
-  display: grid;
-  grid-template-columns: 1fr auto;
-  gap: 8px;
-  width: 100%;
-  padding: 5px 6px;
-  border-bottom: 1px solid var(--grid);
-  cursor: pointer;
-}
-.country-list li button:hover { background: var(--surface-2); }
-.country-list li button:focus-visible { outline: 2px solid var(--focus); outline-offset: -2px; }
-.country-list li button[aria-pressed="true"] { font-weight: 650; }
-.country-list .n { font-variant-numeric: tabular-nums; color: var(--ink-2); }
 
 /* ---------- Exits ---------- */
 
@@ -458,7 +443,7 @@ td.desc { color: var(--ink-2); min-width: 240px; }
   }
   .wafer-panel { border-bottom: 1px solid var(--grid); }
   .map-layout { grid-template-columns: 1fr; }
-  .country-list { max-height: 240px; }
+  .country-scroll { max-height: 320px; }
   .exit-grid { grid-template-columns: 1fr; }
   .filter-actions { margin-left: 0; }
   .filters { position: static; }
