@@ -2,7 +2,7 @@
 """Validate the CSV databases and check that every startup website and alumni
 source link is reachable.
 
-Usage:  python check_and_validate.py [workers] [--timeout N] [--skip-urls]
+Usage:  python check.py [workers] [--timeout N] [--skip-urls]
 
 Exits non-zero if any ERROR-level issue or unreachable URL is found, so it can
 gate a pull request in CI.

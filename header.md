@@ -2,6 +2,12 @@
 
 [![DOI](https://zenodo.org/badge/474113335.svg)](https://doi.org/10.5281/zenodo.20466138)
 
+[![Dashboard: wafer map, technology, country, founding-year and exit charts](dashboard/preview.png)](https://aolofsson.github.io/awesome-semiconductor-startups/dashboard/)
+
+Search, filter and chart the whole database, including exits, in the
+[interactive dashboard](https://aolofsson.github.io/awesome-semiconductor-startups/dashboard/).
+It reads the CSV files in this repository, so it always matches the tables below.
+
 ## Citation:
 
 If you use this repository in research, articles, presentations, or market analyses, please cite:
@@ -26,7 +32,8 @@ BibTeX:
 1. Create a branch
 2. Add entry to './startups.csv'
 3. Run '$ python ./update.py'
-4. Submit a Pull Request
+4. Run '$ python ./check.py' and fix any errors it reports
+5. Submit a Pull Request
 
 ## Submission Guidelines:
 
@@ -54,11 +61,5 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMA
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-## Dashboard
-
-Search, filter and chart the whole database, including exits, in the
-[interactive dashboard](https://aolofsson.github.io/awesome-semiconductor-startups/dashboard/).
-It reads the CSV files in this repository, so it always matches the tables below.
 
 ## Categories

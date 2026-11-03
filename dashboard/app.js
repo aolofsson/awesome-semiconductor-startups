@@ -889,11 +889,17 @@
         .on("click", (e, c) => openDrawer(c));
       // Label only the largest few, skipping any that would collide with a
       // label already placed; the tooltip and table carry the rest.
+      // Boxes are estimated from the name length (about 7px per character)
+      // and the side the label is drawn on.
       const placed = [];
+      const box = c => {
+        const px = x(c.exitYear + jitter(c)), py = y(c.value), w = c.name.length * 7;
+        return x(c.exitYear) > W - 120 ? [px - 8 - w, px - 8, py] : [px + 8, px + 8 + w, py];
+      };
       const top = [...vals].sort((a, b) => b.value - a.value).slice(0, 6).filter(c => {
-        const px = x(c.exitYear + jitter(c)), py = y(c.value);
-        if (placed.some(([qx, qy]) => Math.abs(qy - py) < 15 && Math.abs(qx - px) < 110)) return false;
-        placed.push([px, py]);
+        const [x0, x1, py] = box(c);
+        if (placed.some(([q0, q1, qy]) => Math.abs(qy - py) < 15 && x0 < q1 + 6 && q0 < x1 + 6)) return false;
+        placed.push([x0, x1, py]);
         return true;
       }).slice(0, 4);
       svg.append("g").selectAll("text").data(top).join("text")
