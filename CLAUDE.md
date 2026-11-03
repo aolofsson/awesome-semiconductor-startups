@@ -16,6 +16,7 @@ build system and no CI.
 | `update.py` | Generates `README.md` = `header.md` + tables built from the CSVs |
 | `check_and_validate.py` | Validates the CSVs and checks startup websites and alumni source links are reachable |
 | `plot_*.svg`, `pie_country.png` | Static plots, made by hand in 02/2025; nothing regenerates them |
+| `LICENSE` | MIT, covering the scripts and the data |
 
 ## Rules
 
