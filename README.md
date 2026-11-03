@@ -186,7 +186,6 @@ BibTeX:
 |[Gowin](https://gowinsemi.com) | FPGA | 2014 | CN |FPGA chip products |
 |[Gyrfalcon](https://gyrfalcontech.ai) | AI | 2017 | US |Low-power AI accelerator chips |
 |[HaiLa](https://haila.io) | RF | 2017 | CA |Low power wireless communication for IoT |
-|[Hailo](https://hailo.ai) | AI | 2017 | IL |AI acceleration for edge devices |
 |[HawAI.tech](https://hawai.tech) | AI | 2019 | FR |AI accelerators |
 |[Heronic](https://heronic.ai) | EDA | 2024 | GB |Automated generation of bespoke AI accelerators |
 |[HyperAccel](https://hyperaccel.ai) | AI | 2023 | KR |AI processors and server solutions for LLM/Gen AI |
@@ -423,6 +422,7 @@ BibTeX:
 |GreenWaves Technologies | Shutdown | 2025 | 0 | [Source](https://www.linkedin.com/feed/update/urn:li:activity:7313159925101166594/) |
 |Groq | Nvidia | 2025 | 20000 | [Source](https://www.axios.com/2025/12/28/nvidia-groq-shareholders) |
 |Habana Labs | Intel | 2019 | 2000 | [Source](https://www.forbes.com/sites/moorinsights/2019/12/16/intel-acquires-habana-labs-for-2b/?sh=27bc9bc319f9) |
+|Hailo | Microchip | 2026 | NA | [Source](https://www.edge-ai-vision.com/2026/07/microchip-technology-signs-definitive-agreement-to-acquire-hailo/) |
 |Hyperlume | Credo | 2025 | 92 | [Source](https://www.sec.gov/Archives/edgar/data/1807794/000162828026014017/crdo-20260131.htm) |
 |Icera | Nvidia | 2011 | 367 | [Source](https://nvidianews.nvidia.com/news/nvidia-completes-acquisition-of-icera-a-leader-in-wireless-modem-rf-technology-6622906) |
 |Immedia | Amazon | 2017 | 90 | [Source](https://www.theverge.com/22704290/amazon-blink-ring-camera-doorbell-brands-smart-home-why) |
