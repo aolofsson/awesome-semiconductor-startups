@@ -385,7 +385,7 @@ BibTeX:
 |---------| ------- | ------ | ------|------|
 |Acacia | IPO | 2016 | 1000 | [Source](https://www.bizjournals.com/boston/news/2016/12/29/the-best-performing-ipo-nationwide-of-2016-is.html) |
 |Advanced Circuit Pursuit | Sequans | 2025 | NA | [Source](https://www.walderwyss.com/en/news/2025-01-28_sequans-acquires-acp-advanced-circuit-pursuit-ag) |
-|Aeluma | IPO | 2023 | 6 | [Source](https://www.aeluma.com/news-media/press-releases/detail/28/aeluma-inc-closes-6-million-oversubscribed-common-stock) |
+|Aeluma | SPAC | 2021 | NA | [Source](https://www.sec.gov/Archives/edgar/data/1828805/000121390021034503/ea143207-8k_aelumainc.htm) |
 |Agnilux | Google | 2010 | NA | [Source](https://techcrunch.com/2010/04/20/google-agnilux-apple) |
 |Akeana | Qualcomm | 2026 | NA | [Source](https://dealroom.co/news/164707-qualcomm-buys-risc-v-startup-akeana-to-push-into-ai-and-data-center-chip/) |
 |Alpha ICs | Shutdown | 2023 | 0 | [Source](https://pitchbook.com/profiles/company/163655-74) |
@@ -403,7 +403,7 @@ BibTeX:
 |Banias | Alphawave | 2022 | 240 | [Source](https://www.calcalistech.com/ctechnews/article/hynfz2sxs) |
 |Blaize | SPAC | 2025 | 1330 | [Source](https://www.sec.gov/Archives/edgar/data/1871638/000119312525008517/d903961d8k.htm) |
 |Blue Cheetah Analog | Tenstorrent | 2025 | NA | [Source](https://tenstorrent.com/vision/tenstorrent-acquires-blue-cheetah-analog-design) |
-|BrainChip | IPO | 2015 | NA | [Source](https://www.businessnews.com.au/article/BrainChip-makes-strong-ASX-debut) |
+|BrainChip | SPAC | 2015 | NA | [Source](https://www.businessnews.com.au/article/BrainChip-makes-strong-ASX-debut) |
 |Calxeda | Shutdown | 2013 | 0 | [Source](https://semiengineering.com/chip-startup-shuts-doors/) |
 |Cambricon | IPO | 2020 | 12100 | [Source](https://en.lingang.gov.cn/html/website/lg/English/Home/OrientalICPort/Enterprises/c1648996112296636417.html) |
 |Celestial AI | Marvell | 2025 | 3250 | [Source](https://finance.yahoo.com/news/marvell-buy-chip-startup-celestial-210837707.html) |

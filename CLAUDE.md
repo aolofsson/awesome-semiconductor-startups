@@ -52,6 +52,8 @@ build system and no CI.
   the close of the first day of trading (for a SPAC, the combined company's
   first day), not the amount raised or a later market cap. The
   Link should support that figure; use `NA` if no source gives it.
+- A reverse merger or reverse takeover into a listed shell company is
+  recorded as `Exit=SPAC` (e.g. Aeluma, BrainChip).
 - For `Exit=SPAC`, when no source states the first-day market cap, estimate
   it as: first-day closing price (USD) × total shares outstanding right
   after the merger closed (all classes of common stock, excluding warrants
