@@ -16,6 +16,7 @@ build system and no CI.
 | `update.py` | Generates `README.md` = `header.md` + tables built from the CSVs |
 | `check_and_validate.py` | Validates the CSVs and checks startup websites and alumni source links are reachable |
 | `dashboard/` | Static dashboard (`index.html`, `app.js`, `style.css`) served by GitHub Pages; reads the CSVs at load time, so it needs no regeneration |
+| `dashboard/preview.png` | Collage of the dashboard's charts, the clickable image at the top of the README. A snapshot: regenerate with `dashboard/preview/make.sh` (needs Pillow, Node 22+, google-chrome) after large data changes |
 | `LICENSE` | MIT, covering the scripts and the data |
 
 ## Rules
