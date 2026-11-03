@@ -370,6 +370,7 @@ BibTeX:
 |[VoltAI](https://voltai.com) | EDA | 2022 | US |AI models for semiconductor |
 |[Vsora](https://vsora.com) | AI | 2015 | FR |AI inference chips |
 |[Wave Photonics](https://wavephotonics.com) | PHOTONICS | 2021 | GB |Photonics design platform |
+|[Waveforge](https://waveforgeda.com) | EDA | 2026 | GB |AI-driven design automation for analog and RF chips |
 |[Welinq](https://welinq.fr) | QUANTUM | 2022 | FR |Quantum interconnects |
 |[Xcelerium](https://xcelerium.com) | HPC | 2020 | US |Domain specific processors for converged workloads |
 |[XCENA](https://xcena.com) | MEMORY | 2022 | KR |CXL memory solutions |
