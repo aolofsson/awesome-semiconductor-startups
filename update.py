@@ -11,6 +11,9 @@ STARTUP_FIELDS = ["Company", "Website", "Technology", "Country", "Founded", "Des
 ALUMNI_FIELDS = ["Company", "Exit", "Year", "Value($M)", "Link"]
 TECH_FIELDS = ["Technology", "Description"]
 
+# Alumni Link value for an exit known first-hand but with no public source.
+PRIVATE_SOURCE = "Private Communication"
+
 
 def read_csv(path, expected):
     """Read a CSV, checking the header row so a bad file fails with a clear message."""
@@ -57,6 +60,8 @@ def website_url(website):
 def source_link(link):
     """Render the alumni Link column, or 'NA' if it is not a usable http(s) URL."""
     url = link.strip()
+    if url == PRIVATE_SOURCE:
+        return PRIVATE_SOURCE
     if not re.match(r"https?://\S+$", url, re.IGNORECASE):
         return "NA"
     # '%' stays safe so links that are already percent-encoded are not
@@ -70,6 +75,7 @@ def main():
     technologies = read_csv("technologies.csv", TECH_FIELDS)
     startups = read_csv("startups.csv", STARTUP_FIELDS)
     alumni = read_csv("alumni.csv", ALUMNI_FIELDS)
+    unverified = read_csv("unverified.csv", STARTUP_FIELDS)
 
     known_tech = {t["Technology"] for t in technologies}
 
@@ -120,6 +126,20 @@ def main():
     for x in alumni:
         out.append(f"|{cell(x['Company'])} | {cell(x['Exit'])} | {cell(x['Year'])} | "
                    f"{cell(x['Value($M)'])} | {source_link(x['Link'])} |")
+
+    ################################
+    # Printing out unverified
+    ################################
+    # Companies whose status could not be confirmed (dead website, no news).
+    # Listed without links, since the listed website is what stopped working.
+    out.append("\n## Unverified")
+    out.append("\nCompanies whose current status could not be confirmed.")
+    out.append("\n| Company | Website | Technology | Founded | Country | Description |")
+    out.append("|---------|---------|------------|---------|---------|-------------|")
+    for x in unverified:
+        out.append(f"|{cell(x['Company'])} | {cell(x['Website'])} | "
+                   f"{cell(x['Technology'])} | {cell(x['Founded'])} | "
+                   f"{cell(x['Country'])} |{cell(x['Description'])} |")
 
     with open("README.md", "w", encoding="utf-8") as f:
         for line in out:

@@ -173,7 +173,6 @@ BibTeX:
 |[Etched](https://etched.com) | AI | 2022 | US |AI processors |
 |[Ethernovia](https://ethernovia.com) | NETWORKING | 2018 | US |In vehicle networking |
 |[eTopus](https://etopus.com) | NETWORKING | 2013 | US |High speed interconnect solutions |
-|[Evacorp](https://evacorp.ai) | AI | 2023 | US |AI processing |
 |[Everactive](https://everactive.com) | SENSORS | 2012 | US |Battery-less IoT sensing technology |
 |[Exa Laboratories](https://exalaboratories.com) | AI | 2024 | US |Reconfigurable chips for AI |
 |[Exo Imaging](https://exo.inc) | HEALTH | 2015 | US |Handheld ultrasound device |
@@ -191,8 +190,8 @@ BibTeX:
 |[Furiosa](https://furiosa.ai) | AI | 2017 | KR |AI coprocessors |
 |[Gemesys](https://gemesys.tech) | AI | 2021 | DE |Analog AI processors |
 |[Generation Alpha Transistor](https://generation-alpha-transistor.com) | EDA | 2024 | US |Circuit & Layout GUI Copilot |
-|[getinstachip](https://getinstachip.com) | EDA | 2024 | US |Intelligent package manager for Verilog |
 |[Gowin](https://gowinsemi.com) | FPGA | 2014 | CN |FPGA chip products |
+|[Gyrfalcon](https://gyrfalcontech.ai) | AI | 2017 | US |Low-power AI accelerator chips |
 |[HaiLa](https://haila.io) | RF | 2017 | CA |Low power wireless communication for IoT |
 |[Hailo](https://hailo.ai) | AI | 2017 | IL |AI acceleration for edge devices |
 |[HawAI.tech](https://hawai.tech) | AI | 2019 | FR |AI accelerators |
@@ -235,7 +234,7 @@ BibTeX:
 |[Mobilint](https://mobilint.com) | AI | 2019 | KR |AI inference accelerators |
 |[Morphing Machines](https://morphing.in) | HPC | 2006 | IN |Reconfigurable processors |
 |[Morse Micro](https://morsemicro.com) | RF | 2016 | AU |Low-power Wi-Fi chips |
-|[Mosaic SoC](https://mosaic-soc.com) | ASIC | 2024 | CH |Specialized chips designed for AR glasses |
+|[Mosaic SoC](https://mosaicsoc.ch) | ASIC | 2024 | CH |Specialized chips designed for AR glasses |
 |[Motivo](https://motivo.ai) | EDA | 2015 | US |Explainable AI and ML for chip design optimization |
 |[Movandi](https://movandi.com) | RF | 2016 | US |RF chipsets |
 |[Movellus](https://movellus.com) | ANALOG | 2014 | US |Clock distribution IP |
@@ -251,7 +250,6 @@ BibTeX:
 |[Next Semiconductor](https://nextsemi.com) | SPACE | 2023 | US |Satellite networking ASICs |
 |[NextSilicon](https://nextsilicon.com) | HPC | 2017 | IL |High performance computing architecture |
 |[Niobium Microsystems](https://niobiummicrosystems.com) | SECURITY | 2021 | US |FHE Acceleration for Zero Trust |
-|[Novumind](https://novumind.com) | AI | 2015 | US |Domain specific acceleration for AI applications |
 |[Olix](https://olix.com) | AI | 2024 | GB |Optical tensor processing unit |
 |[OmniDesign](https://omnidesigntech.com) | ANALOG | 2015 | US |Low power analog IP |
 |[One Silicon Chip Photonics](https://onesiliconchipphotonics.com) | PHOTONICS | 2016 | CA |Optical chips for precision motion sensing |
@@ -322,7 +320,6 @@ BibTeX:
 |[SiLC](https://silc.com) | PHOTONICS | 2018 | US |Photonics based imaging sensors |
 |[Silicon Assurance](https://siliconassurance.com) | EDA | 2020 | US |EDA software that enable secure chip design |
 |[Silicon Box](https://silicon-box.com) | MFG | 2021 | SG |Semiconductor design and device integration services |
-|[Siliconally](https://siliconally.com) | NETWORKING | 2019 | DE |Safe Ethernet IP |
 |[SiliconSpace](https://siliconspace.org) | EDA | 2025 | US |Cloud based EDA platform |
 |[Silimate](https://silimate.com) | EDA | 2023 | US |Co-pilot for chip designers |
 |[Silogy](https://silogy.io) | EDA | 2023 | US |Collaborative platform for integrated circuit design |
@@ -402,11 +399,11 @@ BibTeX:
 |Arbe | SPAC | 2021 | 525 | [Source](https://en.globes.co.il/en/article-arbe-robotics-lists-on-nasdaq-friday-as-spac-merger-completed-1001386505) |
 |Astera | IPO | 2024 | 9500 | [Source](https://uk.investing.com/news/stock-market-news/astera-labs-ai-stock-and-supplier-to-nvidia-amd-intel-and-amazon-surges-72-in-nasdaq-debut-3395508) |
 |Atlantic Quantum | Google | 2025 | NA | [Source](https://www.techzine.eu/news/infrastructure/135146/google-acquires-atlantic-quantum-for-superconducting-qubit-technology) |
-|Axis Semiconductor | Shutdown | 2022 | 0 | [Source](http://www.axissemi.com/) |
+|Axis Semiconductor | Shutdown | 2022 | 0 | Private Communication |
 |Banias | Alphawave | 2022 | 240 | [Source](https://www.calcalistech.com/ctechnews/article/hynfz2sxs) |
 |Blaize | SPAC | 2025 | 1200 | [Source](https://www.businesswire.com/news/home/20250114776514/en/Burkhan-World-Investments-Announces-Blaize%E2%80%99s-Successful-IPO-on-NASDAQ-via-BurTech-Acquisition-Corporation) |
-|Blue Cheetah Analog | Tenstorrent | 2025 | NA | [Source](https://www.prnewswire.com/news-releases/blue-cheetah-tapes-out-its-high-performance-chiplet-interconnect-ip-on-samsung-foundry-sf4x-302355527.html) |
-|BrainChip | IPO | 2015 | NA | [Source](https://finance.yahoo.com/quote/BRN.AX/) |
+|Blue Cheetah Analog | Tenstorrent | 2025 | NA | [Source](https://tenstorrent.com/vision/tenstorrent-acquires-blue-cheetah-analog-design) |
+|BrainChip | IPO | 2015 | NA | [Source](https://www.businessnews.com.au/article/BrainChip-makes-strong-ASX-debut) |
 |Calxeda | Shutdown | 2013 | 0 | [Source](https://semiengineering.com/chip-startup-shuts-doors/) |
 |Cambricon | IPO | 2020 | 12100 | [Source](https://en.lingang.gov.cn/html/website/lg/English/Home/OrientalICPort/Enterprises/c1648996112296636417.html) |
 |Celestial AI | Marvell | 2025 | 3250 | [Source](https://finance.yahoo.com/news/marvell-buy-chip-startup-celestial-210837707.html) |
@@ -423,15 +420,14 @@ BibTeX:
 |Enosemi | AMD | 2025 | NA | [Source](https://techcrunch.com/2025/05/28/amd-buys-silicon-photonics-startup-enosemi-to-fuel-its-ai-ambitions/) |
 |Esperanto | Shutdown | 2025 | 0 | [Source](https://www.eetimes.com/ai-startup-esperanto-winds-down-silicon-business/) |
 |Espressif | IPO | 2019 | 1800 | [Source](https://www.cnx-software.com/2019/07/25/espressif-systems-gets-listed-on-the-shanghai-stock-market/) |
-|Flex Logix | Analog Devices | 2024 | NA | [Source](https://www.linkedin.com/posts/gregory-bryant-2595642_im-excited-to-welcome-the-talented-team-activity-7260053582446485506-C3TY?utm_source=share&utm_medium=member_desktop) |
+|Flex Logix | Analog Devices | 2024 | NA | [Source](https://design-reuse.com/news/57030/flex-logix-analog-devices-acquisition.html) |
 |Fungible | Microsoft | 2023 | 190 | [Source](https://blogs.microsoft.com/blog/2023/01/09/microsoft-announces-acquisition-of-fungible-to-accelerate-datacenter-innovation/) |
 |GaN Systems | Infineon | 2023 | 830 | [Source](https://www.infineon.com/cms/en/about-infineon/press/press-releases/2023/INFXX202303-073.html) |
 |Genapsys | Shutdown | 2022 | 0 | [Source](https://cases.ra.kroll.com/genapsys/Home-Index) |
 |GrAI Matter Labs | Snap | 2023 | NA | [Source](https://www.eetimes.com/has-grai-matter-labs-been-snapped-up-by-snap-inc/) |
 |Graphcore | Softbank | 2024 | 400 | [Source](https://www.anandtech.com/show/21468/troubled-ai-processor-developer-graphcore-finds-a-buyer-softbank) |
 |GreenWaves Technologies | Shutdown | 2025 | 0 | [Source](https://www.linkedin.com/feed/update/urn:li:activity:7313159925101166594/) |
-|Groq | Nvidia | 2026 | 20000 | [Source](https://www.nextplatform.com/ai/2026/03/17/nvidia-finally-admits-why-it-shelled-out-20-billion-for-groq/5209495) |
-|Gyrfalcon | Shutdown | 2024 | NA | [Source](https://www.gyrfalcontech.ai) |
+|Groq | Nvidia | 2025 | 20000 | [Source](https://www.axios.com/2025/12/28/nvidia-groq-shareholders) |
 |Habana Labs | Intel | 2019 | 2000 | [Source](https://www.forbes.com/sites/moorinsights/2019/12/16/intel-acquires-habana-labs-for-2b/?sh=27bc9bc319f9) |
 |Hyperlume | Credo | 2025 | 92 | [Source](https://finance.yahoo.com/news/credo-acquires-hyperlume-taps-microled-122100852.html) |
 |Icera | Nvidia | 2011 | 367 | [Source](https://nvidianews.nvidia.com/news/nvidia-completes-acquisition-of-icera-a-leader-in-wireless-modem-rf-technology-6622906) |
@@ -440,10 +436,10 @@ BibTeX:
 |Indie Semiconductor | SPAC | 2020 | 1400 | [Source](https://www.marketwatch.com/story/indie-semiconductor-to-go-public-through-spac-buyout-deal-that-values-company-at-14-billion-2020-12-15) |
 |Innovium | Marvell | 2021 | 1100 | [Source](https://techcrunch.com/2021/08/03/marvell-nabs-innovium-for-1-1b-as-it-delves-deeper-into-cloud-ethernet-switches/) |
 |Innoviz | SPAC | 2021 | 371 | [Source](https://www.prnewswire.com/news-releases/innoviz-technologies-and-collective-growth-corporation-announce-closing-of-business-combination-301262031.html) |
-|Insightness | Sony | 2019 | NA | [Source](https://ethz.ch/en/industry/entrepreneurship/explore-startup-portraits-and-success-stories/exits/insightness.html) |
+|Insightness | Sony | 2019 | NA | [Source](https://www.eenewseurope.com/en/sony-acquires-swiss-vision-sensor-firm) |
 |Kalray | IPO | 2018 | 100 | [Source](https://www.euronext.com/en/about/media/euronext-press-releases/kalray-sintroduit-sur-euronext-growth) |
-|Kameleon | Ramon Space | 2022 | NA | [Source](https://www.startuphub.ai/ai-exit-events/ramon-space-merges-with-kameleon/) |
-|Kinara | NXP | 2025 | 307 | [Source](https://www.nxp.com/company/about-nxp/newsroom/NW-AI-PR-2025) |
+|Kameleon | Ramon Space | 2022 | NA | Private Communication |
+|Kinara | NXP | 2025 | 307 | [Source](https://evertiq.com/design/2025-10-28-nxp-completes-acquisitions-of-aviva-links-and-kinara) |
 |Lightelligence | IPO | 2026 | 306 | [Source](https://www.scmp.com/tech/tech-trends/article/3351551/lightelligence-jumps-hong-kong-debut-amid-ai-driven-demand-photonics-chips) |
 |Lighton | IPO | 2024 | 65 | [Source](https://www.reuters.com/technology/artificial-intelligence/frances-lighton-says-valued-65-mln-euronext-ipo-2024-11-21/) |
 |LintrinsIC | Marki Microwave | 2026 | NA | [Source](https://markimicrowave.com/company/news-events/marki-microwave-acquires-lintrins-ic-semiconductors) |
@@ -451,10 +447,10 @@ BibTeX:
 |Lucata | Shutdown | 2024 | NA | [Source](https://www.linkedin.com/posts/marty-deneroff-2a554_sadly-lucata-emu-technology-ceased-operations-activity-7168985090331500544-xy_D) |
 |Lyric | Analog Devices | 2011 | NA | [Source](https://www.eetimes.com/adi-buys-lyric-probability-processing-specialist/) |
 |Mathstar | Shutdown | 2008 | 0 | [Source](https://www.oregonlive.com/business/2008/05/mathstar_calls_it_quits.html) |
-|Maxeda | Synopsys | 2023 | NA | [Source](https://www.linkedin.com/company/maxeda-technology/?trk=ppro_cprof) |
+|Maxeda | Synopsys | 2023 | NA | [Source](https://www.synopsys.com/company/acquisitions.html) |
 |Minima | Bosch | NA | NA | [Source](https://www.acuity.co.uk/successes/acuity-advises-minima-on-its-sale-to-bosch/) |
 |MixComm | Sivers | 2021 | 155 | [Source](https://www.eetimes.com/mixcomm-acquired-by-sivers-semiconductors/) |
-|Mobix Labs | SPAC | 2023 | NA | [Source](https://mobixlabs.com) |
+|Mobix Labs | SPAC | 2023 | NA | [Source](https://www.sec.gov/Archives/edgar/data/1855467/000110465923129265/tm2333677d1_ex99-1.htm) |
 |Movidius | Intel | 2016 | 400 | [Source](https://siliconangle.com/2016/09/06/intel-buys-movidius-to-boost-machine-vision/) |
 |Nervana | Intel | 2016 | 350 | [Source](https://venturebeat.com/2016/08/09/intel-acquires-deep-learning-startup-nervana) |
 |NeuroBlade | Amazon | 2025 | NA | [Source](https://www.storagenewsletter.com/2025/10/23/aws-swallows-neuroblade/) |
@@ -485,10 +481,20 @@ BibTeX:
 |Tensil.ai | NA | 2022 | NA | [Source](https://reforgers.com/startups/tensil) |
 |Teramount | Molex | 2026 | 430 | [Source](https://www.calcalistech.com/ctechnews/article/b1intlan11l#google_vignette) |
 |Tilera | Ezchip | 2014 | 50 | [Source](https://www.prnewswire.com/news-releases/ezchip-completes-acquisition-of-tilera-a-leader-in-high-performance-multi-core-processors-281754771.html) |
-|Untether | AMD | 2025 | NA | [Source](https://www.eetimes.com/untether-ai-shuts-down-engineering-team-joins-amd/) |
+|Untether | Shutdown | 2025 | 0 | [Source](https://insolvencyinsider.ca/p/untether-ai-files-for-bankruptcy-following-amd-talent-acquisition-deal) |
 |Upverter | Altium | 2017 | 2.8 | [Source](https://pitchbook.com/profiles/company/56161-81#overview) |
 |Ventana | Qualcomm | 2025 | NA | [Source](https://www.crn.com/news/components-peripherals/2025/qualcomm-acquires-risc-v-chip-designer-ventana-to-boost-cpu-capabilities) |
 |VyperCore | Shutdown | 2025 | 0 | [Source](https://find-and-update.company-information.service.gov.uk/company/14244622) |
 |Wavious | Apple | 2022 | NA | [Source](https://pitchbook.com/profiles/company/169888-60#overview) |
 |Xanadu | SPAC | 2026 | 3100 | [Source](https://quantisnow.com/insight/xanadu-quantum-technologies-limited-announces-closing-of-business-combination-with-6470941) |
-|zGlue | Sold | 2021 | NA | [Source](https://www.reuters.com/technology/chip-wars-how-chiplets-are-emerging-core-part-chinas-tech-strategy-2023-07-13) |
+|zGlue | Shutdown | 2021 | 0 | [Source](https://www.irishtimes.com/business/innovation/2023/07/27/chinese-ingenuity-is-tested-as-semiconductor-sanctions-bite) |
+
+## Unverified
+
+Companies whose current status could not be confirmed.
+
+| Company | Website | Technology | Founded | Country | Description |
+|---------|---------|------------|---------|---------|-------------|
+|Evacorp | evacorp.ai | AI | 2023 | US |AI processing |
+|getinstachip | getinstachip.com | EDA | 2024 | US |Intelligent package manager for Verilog |
+|Novumind | novumind.com | AI | 2015 | US |Domain specific acceleration for AI applications |

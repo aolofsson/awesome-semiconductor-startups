@@ -47,6 +47,8 @@ DOMAIN_RE = re.compile(r"(?=.{1,253}\Z)[a-z0-9](?:[a-z0-9-]{0,61}[a-z0-9])?"
 YEAR_RE = re.compile(r"\d{4}")
 VALUE_RE = re.compile(r"\d+(?:\.\d+)?")
 LINK_RE = re.compile(r"https?://\S+")
+# Alumni Link value for an exit known first-hand but with no public source.
+PRIVATE_SOURCE = "Private Communication"
 
 # Deliberately a browser User-Agent: a number of listed sites reject unknown
 # clients outright, which would produce false failures.
@@ -361,7 +363,7 @@ def validate_alumni(path, issues):
                                                    f"({MIN_YEAR}-{MAX_YEAR}): {y} (Company: {c})"))
         if v != "NA" and not VALUE_RE.fullmatch(v):
             issues.append(("ERROR", path, n, f"Invalid Value: {v} (Company: {c})"))
-        if link != "NA":
+        if link not in ("NA", PRIVATE_SOURCE):
             if not LINK_RE.fullmatch(link):
                 issues.append(("ERROR", path, n, f"Invalid Link: {link} (Company: {c})"))
             elif link in seen_link:
@@ -475,6 +477,14 @@ def main():
     print("=" * 60)
     links = validate_alumni("alumni.csv", issues)
     print(f"    {len(links)} source links to check\n")
+
+    # Same columns as startups.csv. Their websites are already known to be
+    # dead, so the rows are validated but not fetched.
+    print("=" * 60)
+    print(" 3b. Validating unverified.csv ...")
+    print("=" * 60)
+    unverified = validate_startups("unverified.csv", valid_tech, issues)
+    print(f"    {len(unverified)} valid rows (websites not checked)\n")
 
     print("=" * 60)
     if args.skip_urls:

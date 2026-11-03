@@ -93,7 +93,6 @@ Eridu AI,eridu.ai,PHOTONICS,US,2023,Photonics based AI acceleration
 Etched,etched.com,AI,US,2022,AI processors
 Ethernovia,ethernovia.com,NETWORKING,US,2018,In vehicle networking
 eTopus,etopus.com,NETWORKING,US,2013,High speed interconnect solutions
-Evacorp,evacorp.ai,AI,US,2023,AI processing
 Everactive,everactive.com,SENSORS,US,2012,Battery-less IoT sensing technology
 Exa Laboratories,exalaboratories.com,AI,US,2024,Reconfigurable chips for AI
 Exo Imaging,exo.inc,HEALTH,US,2015,Handheld ultrasound device
@@ -111,8 +110,8 @@ Fractile,fractile.ai,AI,GB,2022,AI accelerator for LLMs
 Furiosa,furiosa.ai,AI,KR,2017,AI coprocessors
 Gemesys,gemesys.tech,AI,DE,2021,Analog AI processors
 Generation Alpha Transistor,generation-alpha-transistor.com,EDA,US,2024,Circuit & Layout GUI Copilot
-getinstachip,getinstachip.com,EDA,US,2024,Intelligent package manager for Verilog
 Gowin,gowinsemi.com,FPGA,CN,2014,FPGA chip products
+Gyrfalcon,gyrfalcontech.ai,AI,US,2017,Low-power AI accelerator chips
 HaiLa,haila.io,RF,CA,2017,Low power wireless communication for IoT
 Hailo,hailo.ai,AI,IL,2017,AI acceleration for edge devices
 HawAI.tech,hawai.tech,AI,FR,2019,AI accelerators
@@ -155,7 +154,7 @@ Mintneuro,mintneuro.com,HEALTH,GB,2015,Neural implants
 Mobilint,mobilint.com,AI,KR,2019,AI inference accelerators
 Morphing Machines,morphing.in,HPC,IN,2006,Reconfigurable processors
 Morse Micro,morsemicro.com,RF,AU,2016,Low-power Wi-Fi chips
-Mosaic SoC,mosaic-soc.com,ASIC,CH,2024,Specialized chips designed for AR glasses
+Mosaic SoC,mosaicsoc.ch,ASIC,CH,2024,Specialized chips designed for AR glasses
 Motivo,motivo.ai,EDA,US,2015,Explainable AI and ML for chip design optimization
 Movandi,movandi.com,RF,US,2016,RF chipsets
 Movellus,movellus.com,ANALOG,US,2014,Clock distribution IP
@@ -171,7 +170,6 @@ Neurxcore,neurxcore.com,AI,FR,2023,AI accelerator IP based on NVDLA
 Next Semiconductor,nextsemi.com,SPACE,US,2023,Satellite networking ASICs
 NextSilicon,nextsilicon.com,HPC,IL,2017,High performance computing architecture
 Niobium Microsystems,niobiummicrosystems.com,SECURITY,US,2021,FHE Acceleration for Zero Trust
-Novumind,novumind.com,AI,US,2015,Domain specific acceleration for AI applications
 Olix,olix.com,AI,GB,2024,Optical tensor processing unit
 OmniDesign,omnidesigntech.com,ANALOG,US,2015,Low power analog IP
 One Silicon Chip Photonics,onesiliconchipphotonics.com,PHOTONICS,CA,2016,Optical chips for precision motion sensing
@@ -242,7 +240,6 @@ SiFive,sifive.com,RISC-V,US,2015,RISC-V based IP provider
 SiLC,silc.com,PHOTONICS,US,2018,Photonics based imaging sensors
 Silicon Assurance,siliconassurance.com,EDA,US,2020,EDA software that enable secure chip design
 Silicon Box,Silicon-box.com,MFG,SG,2021,Semiconductor design and device integration services
-Siliconally,siliconally.com,NETWORKING,DE,2019,Safe Ethernet IP
 SiliconSpace,siliconspace.org,EDA,US,2025,Cloud based EDA platform
 Silimate,silimate.com,EDA,US,2023,Co-pilot for chip designers
 Silogy,silogy.io,EDA,US,2023,Collaborative platform for integrated circuit design

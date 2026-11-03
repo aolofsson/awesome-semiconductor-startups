@@ -10,10 +10,11 @@ build system and no CI.
 |------|------|
 | `startups.csv` | Active startups: `Company,Website,Technology,Country,Founded,Description` |
 | `alumni.csv` | Exits: `Company,Exit,Year,Value($M),Link` |
+| `unverified.csv` | Startups whose status can't be confirmed (dead site, no news); same columns as `startups.csv` |
 | `technologies.csv` | Allowed `Technology` categories: `Technology,Description` |
 | `header.md` | Hand-written top of the README (citation, guidelines, plots) |
-| `update.py` | Generates `README.md` = `header.md` + tables built from the three CSVs |
-| `check_and_validate.py` | Validates the CSVs and checks every startup website is reachable |
+| `update.py` | Generates `README.md` = `header.md` + tables built from the CSVs |
+| `check_and_validate.py` | Validates the CSVs and checks startup websites and alumni source links are reachable |
 | `plot_*.svg`, `pie_country.png` | Static plots, made by hand in 02/2025; nothing regenerates them |
 
 ## Rules
@@ -29,8 +30,15 @@ build system and no CI.
   means adding a row there first.
 - `Country` is an ISO 3166-1 alpha-2 code.
 - `Founded` / `Year` are four-digit years; `Value($M)` is a number in
-  millions or `NA`; `Link` is an `http(s)://` URL or `NA`. Shutdowns use
-  `Exit=Shutdown`, `Value=0`.
+  millions or `NA`; `Link` is an `http(s)://` URL, `NA`, or `Private
+  Communication` (an exit known first-hand with no public source). Shutdowns
+  use `Exit=Shutdown`, `Value=0`.
+- A startup whose website is dead and whose status can't be confirmed moves
+  to `unverified.csv`, not `alumni.csv`; it goes to alumni only once an exit
+  is sourced, or back to startups once it is confirmed active.
+- An acquihire (team hired and/or technology licensed, company not bought)
+  counts as an exit to the hiring company only if investors received money
+  from the deal; otherwise it is a `Shutdown`.
 - For `Exit=IPO`, `Value($M)` is the market cap in USD at the close of the
   first day of trading, not the amount raised or a later market cap. The
   Link should support that figure; use `NA` if no source gives it.
@@ -49,6 +57,7 @@ build system and no CI.
   either script.
 - All links, founding dates, category, and missions must be human audited and verified
 - Any bankruptcy announcement counts as a 0 exit, even if assets are later sold
+- Company exit/alumni links should never point to the company's website
 
 ## Commands
 
