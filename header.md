@@ -1,7 +1,5 @@
 # Database of Awesome Semiconductor Startups
 
-[![DOI](https://zenodo.org/badge/474113335.svg)](https://doi.org/10.5281/zenodo.20466138)
-
 [![Dashboard: wafer map, technology, country, founding-year and exit charts](dashboard/preview.png)](https://aolofsson.github.io/awesome-semiconductor-startups/dashboard/)
 
 Search, filter and chart the whole database, including exits, in the
