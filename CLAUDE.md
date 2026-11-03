@@ -31,6 +31,9 @@ build system and no CI.
 - `Founded` / `Year` are four-digit years; `Value($M)` is a number in
   millions or `NA`; `Link` is an `http(s)://` URL or `NA`. Shutdowns use
   `Exit=Shutdown`, `Value=0`.
+- For `Exit=IPO`, `Value($M)` is the market cap in USD at the close of the
+  first day of trading, not the amount raised or a later market cap. The
+  Link should support that figure; use `NA` if no source gives it.
 - Description: one short sentence, no performance claims, roughly fits the
   80-character display width.
 - Inclusion criteria (from `header.md`): a startup (not steady state), a
@@ -45,6 +48,7 @@ build system and no CI.
   guard in `check_and_validate.py`); keep those protections when changing
   either script.
 - All links, founding dates, category, and missions must be human audited and verified
+- Any bankruptcy announcement counts as a 0 exit, even if assets are later sold
 
 ## Commands
 
