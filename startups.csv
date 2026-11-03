@@ -8,7 +8,6 @@ Agnit Semiconductor,agnitsemi.com,MFG,IN,2019,GaN based wafers and devices
 Ahead Computing,aheadcomputing.com,RISC-V,US,2024,High performance RISC-V core IP
 Aistorm,aistorm.ai,AI,US,2011,Charge domain based AI processing
 Akhetonics,akhetonics.com,PHOTONICS,DE,2021,Optical computing devices
-Alif Semiconductor,alifsemi.com,AI,US,2019,Integrated SoC for AI at the edge
 Allspice.io,allspice.io,EDA,US,2018,PCB Design platform
 Ambient Scientific,ambientscientific.ai,ANALOG,US,2018,Analog in-memory AI processor
 Amsimcel,amsimcel.com,EDA,RO,2018,GPU powered physical verification
@@ -49,7 +48,7 @@ Build4Sim Inc,build4sim.com,EDA,US,2025,Accelerating Spice simulation
 cadlab.io,cadlab.io,EDA,US,2015,Collaboration tools for PCB design
 Cadstrom,cadstrom.io,EDA,CA,2023,AI based PCB design
 cassia.ai,cassia.ai,AI,US,2021,AI Hardware IP
-Celera,celeratechnologies.com,EDA,US,2018,Automated analog/mixed-signal IC development tool
+Celera Semiconductor,celeratechnologies.com,EDA,US,2018,Automated analog/mixed-signal IC development tool
 Celero Communications,celero.inc,NETWORKING,US,2024,Coherent DSP platform for high-bandwidth low-power optical connectivity
 Cellium,cellium.net,RF,IL,2016,Wireless infrastructure for indoor connectivity
 Celtro,celtro.de,HEALTH,DE,2019,Energy harvesting implantable medical devices
@@ -98,7 +97,6 @@ Extropic,extropic.ai,AI,US,2022,Physics based generative AI
 Fabric Cryptography,fabriccryptography.com,SECURITY,US,2021,Cryptography hardware accelerators
 Falcomm,myfalcomm.com,RF,US,2021,Solid state power amplifiers
 Fermionic,fermionic.design,ANALOG,IN,2020,Communication IP and chips
-Ferric,ferric.com,ANALOG,US,2010,Single-chip power converters
 Finchetto,finchetto.com,PHOTONICS,GB,2020,Photonic sensors for quantum computing
 Flow Computing,flow-computing.com,HPC,FI,2024,Parallel processing IP
 Flux,flux.ai,EDA,US,2019,PCB design tools
@@ -119,11 +117,10 @@ HyperCIM,hypercim.com,AI,GB,2023,Optimized compute in memory architecture
 InCore Semi,incoresemi.com,RISC-V,IN,2018,RISC-V IP cores
 Ingonyama,ingonyama.com,SECURITY,IL,2021,Hardware accelerators for cryptographic computation
 Innatera,innatera.com,AI,NL,2018,Neuromorphic processors
-Inspire Semi,inspiresemi.com,HPC,US,2020,Manycore CPU on a chip
 Ipronics,ipronics.com,PHOTONICS,ES,2019,Programmable photonics products
 Jeeva Wireless,jeevawireless.com,RF,US,2015,Battery-free wireless sensing technology
 Jitx,jitx.com,EDA,US,2016,PCB design tools
-Kandou,kandou.com,NETWORKING,CH,2011,Chip-to-chip connectivity solutions
+Kandou AI,kandou.com,NETWORKING,CH,2011,Chip-to-chip connectivity solutions
 Kepler Computing,keplercompute.com,HPC,US,2018,Stealth
 Keysom,keysom.io,RISC-V,FR,2022,RISC-V design platform
 Kneron,kneron.com,AI,US,2015,Edge AI devices
@@ -209,7 +206,6 @@ Quilter,quilter.ai,EDA,US,2020,AI driven PCB design
 Quintessent,quintessent.com,PHOTONICS,US,2019,Optical interconnect
 Raaam,raaam-tech.com,MEMORY,IL,2021,High capacity memory technology
 RaiderChip,raiderchip.ai,AI,ES,2024,AI hardware
-Rain Neuromorphics,rain.ai,AI,US,2017,Brain-inspired hardware for AI applications
 Ramon Space,ramon.space,SPACE,IL,2004,Computer system designed for computing in space
 Ranovus,ranovus.com,PHOTONICS,CA,2012,Photonics interconnect solutions
 Rapid Photonics,rapidphotonics.com,MFG,NL,2022,Photonic IC production
@@ -254,7 +250,6 @@ StarFive,starfivetech.com,RISC-V,CN,2018,RISC-V processor core IP and devices
 Swave,swave.io,PHOTONICS,BE,2022,Holographic chips based on diffractive photonics
 Synthara,synthara.ai,AI,CH,2020,In memory computation chips for AI
 Syntiant,syntiant.com,AI,US,2017,Neuromorphic processing for edge devices
-Taalas,taalas.com,AI,CA,2023,Automated generation of AI hardware
 Tachyum,tachyum.com,HPC,US,2016,High performance processor architecture
 Tandem PV,tandempv.com,MFG,US,2016,Silicon solar panels
 Tensordyne,tensordyne.ai,AI,US,2017,AI inference chips and systems
@@ -268,7 +263,6 @@ Ubitium,ubitium.com,AI,DE,2024,Universal processor
 Uhnder,uhnder.com,SENSORS,US,2015,Digital automotive radar SoC
 Unconventional AI,unconv.ai,AI,US,2025,Analog AI chips
 Unifabrix,unifabrix.com,NETWORKING,IL,2020,CXL based secure connectivity solution
-Upmem,upmem.com,AI,FR,2015,In memory processing devices for big data and AI
 Usound,usound.com,MEMS,AT,2012,Sound solutions based on MEMS technology
 Vaire Computing,vaire.co,ANALOG,GB,2021,Near zero energy computing
 Vayyar,vayyar.com,SENSORS,IL,2011,High resolution image sensors

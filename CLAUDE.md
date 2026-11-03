@@ -45,6 +45,14 @@ build system and no CI.
   of the above exists. Apply this to new rows and to rows being fixed; do
   not re-source existing rows just for this. Note that sec.gov answers the
   validator with 403, so SEC links always pass the URL check unread.
+- A signed definitive acquisition agreement counts as an exit when it is
+  announced, without waiting for closing: `Year` is the announcement year,
+  `Value($M)` the price stated at signing (cash at closing, excluding
+  earnouts), and the Link the announcement. A letter of intent or "talks"
+  does not count. If a signed deal is later terminated, move the company
+  back to `startups.csv`.
+- An exit needs a Link that states it; an academic paper or other passing
+  mention is acceptable only when nothing better exists.
 - An acquihire (team hired and/or technology licensed, company not bought)
   counts as an exit to the hiring company only if investors received money
   from the deal; otherwise it is a `Shutdown`.

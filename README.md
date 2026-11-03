@@ -88,7 +88,6 @@ BibTeX:
 |[Ahead Computing](https://aheadcomputing.com) | RISC-V | 2024 | US |High performance RISC-V core IP |
 |[Aistorm](https://aistorm.ai) | AI | 2011 | US |Charge domain based AI processing |
 |[Akhetonics](https://akhetonics.com) | PHOTONICS | 2021 | DE |Optical computing devices |
-|[Alif Semiconductor](https://alifsemi.com) | AI | 2019 | US |Integrated SoC for AI at the edge |
 |[Allspice.io](https://allspice.io) | EDA | 2018 | US |PCB Design platform |
 |[Ambient Scientific](https://ambientscientific.ai) | ANALOG | 2018 | US |Analog in-memory AI processor |
 |[Amsimcel](https://amsimcel.com) | EDA | 2018 | RO |GPU powered physical verification |
@@ -129,7 +128,7 @@ BibTeX:
 |[cadlab.io](https://cadlab.io) | EDA | 2015 | US |Collaboration tools for PCB design |
 |[Cadstrom](https://cadstrom.io) | EDA | 2023 | CA |AI based PCB design |
 |[cassia.ai](https://cassia.ai) | AI | 2021 | US |AI Hardware IP |
-|[Celera](https://celeratechnologies.com) | EDA | 2018 | US |Automated analog/mixed-signal IC development tool |
+|[Celera Semiconductor](https://celeratechnologies.com) | EDA | 2018 | US |Automated analog/mixed-signal IC development tool |
 |[Celero Communications](https://celero.inc) | NETWORKING | 2024 | US |Coherent DSP platform for high-bandwidth low-power optical connectivity |
 |[Cellium](https://cellium.net) | RF | 2016 | IL |Wireless infrastructure for indoor connectivity |
 |[Celtro](https://celtro.de) | HEALTH | 2019 | DE |Energy harvesting implantable medical devices |
@@ -178,7 +177,6 @@ BibTeX:
 |[Fabric Cryptography](https://fabriccryptography.com) | SECURITY | 2021 | US |Cryptography hardware accelerators |
 |[Falcomm](https://myfalcomm.com) | RF | 2021 | US |Solid state power amplifiers |
 |[Fermionic](https://fermionic.design) | ANALOG | 2020 | IN |Communication IP and chips |
-|[Ferric](https://ferric.com) | ANALOG | 2010 | US |Single-chip power converters |
 |[Finchetto](https://finchetto.com) | PHOTONICS | 2020 | GB |Photonic sensors for quantum computing |
 |[Flow Computing](https://flow-computing.com) | HPC | 2024 | FI |Parallel processing IP |
 |[Flux](https://flux.ai) | EDA | 2019 | US |PCB design tools |
@@ -199,11 +197,10 @@ BibTeX:
 |[InCore Semi](https://incoresemi.com) | RISC-V | 2018 | IN |RISC-V IP cores |
 |[Ingonyama](https://ingonyama.com) | SECURITY | 2021 | IL |Hardware accelerators for cryptographic computation |
 |[Innatera](https://innatera.com) | AI | 2018 | NL |Neuromorphic processors |
-|[Inspire Semi](https://inspiresemi.com) | HPC | 2020 | US |Manycore CPU on a chip |
 |[Ipronics](https://ipronics.com) | PHOTONICS | 2019 | ES |Programmable photonics products |
 |[Jeeva Wireless](https://jeevawireless.com) | RF | 2015 | US |Battery-free wireless sensing technology |
 |[Jitx](https://jitx.com) | EDA | 2016 | US |PCB design tools |
-|[Kandou](https://kandou.com) | NETWORKING | 2011 | CH |Chip-to-chip connectivity solutions |
+|[Kandou AI](https://kandou.com) | NETWORKING | 2011 | CH |Chip-to-chip connectivity solutions |
 |[Kepler Computing](https://keplercompute.com) | HPC | 2018 | US |Stealth |
 |[Keysom](https://keysom.io) | RISC-V | 2022 | FR |RISC-V design platform |
 |[Kneron](https://kneron.com) | AI | 2015 | US |Edge AI devices |
@@ -289,7 +286,6 @@ BibTeX:
 |[Quintessent](https://quintessent.com) | PHOTONICS | 2019 | US |Optical interconnect |
 |[Raaam](https://raaam-tech.com) | MEMORY | 2021 | IL |High capacity memory technology |
 |[RaiderChip](https://raiderchip.ai) | AI | 2024 | ES |AI hardware |
-|[Rain Neuromorphics](https://rain.ai) | AI | 2017 | US |Brain-inspired hardware for AI applications |
 |[Ramon Space](https://ramon.space) | SPACE | 2004 | IL |Computer system designed for computing in space |
 |[Ranovus](https://ranovus.com) | PHOTONICS | 2012 | CA |Photonics interconnect solutions |
 |[Rapid Photonics](https://rapidphotonics.com) | MFG | 2022 | NL |Photonic IC production |
@@ -334,7 +330,6 @@ BibTeX:
 |[Swave](https://swave.io) | PHOTONICS | 2022 | BE |Holographic chips based on diffractive photonics |
 |[Synthara](https://synthara.ai) | AI | 2020 | CH |In memory computation chips for AI |
 |[Syntiant](https://syntiant.com) | AI | 2017 | US |Neuromorphic processing for edge devices |
-|[Taalas](https://taalas.com) | AI | 2023 | CA |Automated generation of AI hardware |
 |[Tachyum](https://tachyum.com) | HPC | 2016 | US |High performance processor architecture |
 |[Tandem PV](https://tandempv.com) | MFG | 2016 | US |Silicon solar panels |
 |[Tensordyne](https://tensordyne.ai) | AI | 2017 | US |AI inference chips and systems |
@@ -348,7 +343,6 @@ BibTeX:
 |[Uhnder](https://uhnder.com) | SENSORS | 2015 | US |Digital automotive radar SoC |
 |[Unconventional AI](https://unconv.ai) | AI | 2025 | US |Analog AI chips |
 |[Unifabrix](https://unifabrix.com) | NETWORKING | 2020 | IL |CXL based secure connectivity solution |
-|[Upmem](https://upmem.com) | AI | 2015 | FR |In memory processing devices for big data and AI |
 |[Usound](https://usound.com) | MEMS | 2012 | AT |Sound solutions based on MEMS technology |
 |[Vaire Computing](https://vaire.co) | ANALOG | 2021 | GB |Near zero energy computing |
 |[Vayyar](https://vayyar.com) | SENSORS | 2011 | IL |High resolution image sensors |
@@ -387,6 +381,7 @@ BibTeX:
 |Aeluma | SPAC | 2021 | NA | [Source](https://www.sec.gov/Archives/edgar/data/1828805/000121390021034503/ea143207-8k_aelumainc.htm) |
 |Agnilux | Google | 2010 | NA | [Source](https://techcrunch.com/2010/04/20/google-agnilux-apple) |
 |Akeana | Qualcomm | 2026 | NA | [Source](https://dealroom.co/news/164707-qualcomm-buys-risc-v-startup-akeana-to-push-into-ai-and-data-center-chip/) |
+|Alif Semiconductor | Analog Devices | 2026 | 1350 | [Source](https://www.sec.gov/Archives/edgar/data/0000006281/000119312526385938/d924057dex991.htm) |
 |Alphawave | IPO | 2021 | 4300 | [Source](https://www.marketwatch.com/story/chip-maker-alphawave-set-for-4-3-billion-london-ipo-after-shunning-the-nasdaq-11620840007) |
 |Altair Semiconductor | Sony | 2016 | 212 | [Source](https://www.sec.gov/Archives/edgar/data/0000313838/000115752316004276/a51265604.htm) |
 |Ambric | Shutdown | 2008 | 0 | [Source](https://www.oregonlive.com/siliconforest/2008/11/ambric_suspends_operation_plan.html) |
@@ -418,6 +413,7 @@ BibTeX:
 |Enosemi | AMD | 2025 | NA | [Source](https://techcrunch.com/2025/05/28/amd-buys-silicon-photonics-startup-enosemi-to-fuel-its-ai-ambitions/) |
 |Esperanto | Shutdown | 2025 | 0 | [Source](https://www.eetimes.com/ai-startup-esperanto-winds-down-silicon-business/) |
 |Espressif | IPO | 2019 | 1800 | [Source](https://www.cnx-software.com/2019/07/25/espressif-systems-gets-listed-on-the-shanghai-stock-market/) |
+|Ferric | Onsemi | 2026 | 600 | [Source](https://www.onsemi.com/company/newsroom/news-and-insights/onsemi-to-acquire-ferric-establishing-leadership-in-power-delivery-for-next-generation-ai-processors) |
 |Flex Logix | Analog Devices | 2024 | NA | [Source](https://design-reuse.com/news/57030/flex-logix-analog-devices-acquisition.html) |
 |Fungible | Microsoft | 2023 | 190 | [Source](https://blocksandfiles.com/2022/12/13/fungible-sold-to-microsoft-for-190-million/) |
 |GaN Systems | Infineon | 2023 | 830 | [Source](https://www.infineon.com/cms/en/about-infineon/press/press-releases/2023/INFXX202303-073.html) |
@@ -435,6 +431,7 @@ BibTeX:
 |Innovium | Marvell | 2021 | 1100 | [Source](https://techcrunch.com/2021/08/03/marvell-nabs-innovium-for-1-1b-as-it-delves-deeper-into-cloud-ethernet-switches/) |
 |Innoviz | SPAC | 2021 | 1376 | [Source](https://www.sec.gov/Archives/edgar/data/1835654/000119312521225925/d164869df1.htm) |
 |Insightness | Sony | 2019 | NA | [Source](https://www.eenewseurope.com/en/sony-acquires-swiss-vision-sensor-firm) |
+|Inspire Semi | SPAC | 2022 | NA | [Source](https://www.thetechoutlook.com/press-release/inspiresemi-announces-completion-of-qualifying-transaction/) |
 |Kalray | IPO | 2018 | NA | [Source](https://www.euronext.com/en/about/media/euronext-press-releases/kalray-sintroduit-sur-euronext-growth) |
 |Kameleon | Ramon Space | 2022 | NA | Private Communication |
 |Kinara | NXP | 2025 | 307 | [Source](https://evertiq.com/design/2025-10-28-nxp-completes-acquisitions-of-aviva-links-and-kinara) |
@@ -463,6 +460,7 @@ BibTeX:
 |PrimeSense | Apple | 2013 | 350 | [Source](https://techcrunch.com/2013/11/24/apple-primesense-acquisition-confirmed) |
 |Provigent | Broadcom | 2011 | 360 | [Source](https://en.globes.co.il/en/article-1000631723) |
 |Quantenna | Onsemi | 2019 | 1070 | [Source](https://www.sec.gov/Archives/edgar/data/1097864/000119312519088528/d929418dex991.htm) |
+|Rain Neuromorphics | Shutdown | 2026 | 0 | [Source](https://www.digitaltoday.co.kr/en/view/90637/openai-buys-rain-ai-patents-to-speed-in-house-ai-chip-strategy) |
 |Rivos | Meta | 2025 | 2000 | [Source](https://semiwiki.com/forum/threads/meta-is-acquiring-chip-startup-rivos-for-a-reported-2b-to-turbocharge-its-in-house-ai-chips-mtia-and-cut-its-heavy-reliance-on-nvidia.23756/) |
 |RoboSense | IPO | 2024 | 2470 | [Source](https://www.cnbc.com/2024/01/05/robosense-technology-ipo-debuts-in-hong-kong-the-first-in-2024-.html) |
 |Sand 9 | ADI | 2015 | 30 | [Source](https://www.eenewseurope.com/en/analog-devices-is-sand-9-buyer/) |
@@ -475,11 +473,13 @@ BibTeX:
 |Stream Processors | Shutdown | 2009 | 0 | [Source](https://venturebeat.com/2009/11/07/chip-design-firm-stream-processors-shutting-down-and-selling-assets/) |
 |Stretch | Exar | 2014 | NA | [Source](https://www.prnewswire.com/news-releases/exar-acquires-stretch-incorporated-240074341.html) |
 |SWIR Vision Systems | Onsemi | 2024 | NA | [Source](https://www.onsemi.com/company/newsroom/news-and-insights/onsemi-enhances-intelligent-sensing-portfolio-with-acquisition-of-swir-vision-systems) |
+|Taalas | AMD | 2026 | NA | [Source](https://ir.amd.com/news-events/press-releases/detail/1296/amd-acquires-taalas-to-advance-compute-solutions-for-rapidly-growing-ai-inference-market) |
 |Tabula | Shutdown | 2015 | 0 | [Source](https://semiwiki.com/fpga/4232-tabula-closes-its-doors/) |
 |Tensil.ai | NA | 2022 | NA | Private Communication |
 |Teramount | Molex | 2026 | 430 | [Source](https://www.calcalistech.com/ctechnews/article/b1intlan11l#google_vignette) |
 |Tilera | Ezchip | 2014 | 50 | [Source](https://www.prnewswire.com/news-releases/ezchip-completes-acquisition-of-tilera-a-leader-in-high-performance-multi-core-processors-281754771.html) |
 |Untether | Shutdown | 2025 | 0 | [Source](https://insolvencyinsider.ca/p/untether-ai-files-for-bankruptcy-following-amd-talent-acquisition-deal) |
+|Upmem | Qualcomm | 2025 | NA | [Source](https://arxiv.org/html/2510.15927v1) |
 |Upverter | Altium | 2017 | NA | [Source](https://betakit.com/altium-acquires-toronto-based-product-design-platform-upverter/) |
 |Ventana | Qualcomm | 2025 | NA | [Source](https://www.crn.com/news/components-peripherals/2025/qualcomm-acquires-risc-v-chip-designer-ventana-to-boost-cpu-capabilities) |
 |VyperCore | Shutdown | 2025 | 0 | [Source](https://find-and-update.company-information.service.gov.uk/company/14244622) |
