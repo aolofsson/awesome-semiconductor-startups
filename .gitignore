@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Editor backup and swap files
+*~
+\#*\#
+.#*
+*.swp
+*.swo
+*.bak
+*.orig
+
+# OS
+.DS_Store
