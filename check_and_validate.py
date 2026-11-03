@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""Validate the CSV databases and check that every startup website is reachable.
+"""Validate the CSV databases and check that every startup website and alumni
+source link is reachable.
 
 Usage:  python check_and_validate.py [workers] [--timeout N] [--skip-urls]
 
@@ -180,6 +181,32 @@ def check_url(domain):
     return status, detail
 
 
+def check_link(url):
+    """Return (status, detail) for a full source URL from alumni.csv.
+
+    Unlike check_url this fetches the exact page, since a news article that
+    has gone away is a dead source even when its site is still up.
+    """
+    parts = urlsplit(url)
+    if parts.scheme not in ("http", "https") or not parts.hostname:
+        return "fail", "not an http(s) URL"
+    # Only default web ports, so a Link cannot be used to probe other services.
+    try:
+        port = parts.port
+    except ValueError:
+        return "fail", "invalid port"
+    if port not in (None, 80, 443):
+        return "fail", f"non-standard port {port}"
+    ok, why = _is_public(parts.hostname)
+    if not ok:
+        return "fail", why
+    status, detail = _fetch(url)
+    if status == "fail" and any(t in detail for t in TRANSIENT):
+        time.sleep(2)
+        status, detail = _fetch(url)
+    return status, detail
+
+
 def _scan(domain, hosts):
     """One pass over the https/http and apex/www combinations for a domain."""
     tried = {}
@@ -301,12 +328,13 @@ def validate_startups(path, valid_tech, issues):
             issues.append(("WARNING", path, n, f"Non-standard Country: {co} (Company: {c})"))
         if not d:
             issues.append(("WARNING", path, n, f"Empty Description (Company: {c})"))
-        entries.append({"domain": domain, "company": c, "founded": y,
-                        "desc": d, "line": n})
+        entries.append({"target": domain, "company": c, "extra": y, "line": n})
     return entries
 
 
 def validate_alumni(path, issues):
+    """Validate alumni rows; return the well-formed Links to fetch."""
+    entries = []
     seen_company = {}
     seen_link = {}
     for n, row in read_rows(path, ALUMNI_FIELDS, issues):
@@ -341,13 +369,16 @@ def validate_alumni(path, issues):
                                                    f"first seen on line {seen_link[link]})"))
             else:
                 seen_link[link] = n
+                entries.append({"target": link, "company": c, "extra": y, "line": n})
+    return entries
 
 
 ###############################################################################
 # Parallel URL check
 ###############################################################################
 
-def check_urls_parallel(entries, workers, issues, path):
+def check_urls_parallel(entries, workers, issues, path, check):
+    """Run check(entry["target"]) over entries; failures are tagged with path."""
     failures = []
     passed = failed = blocked = 0
     total = len(entries)
@@ -358,7 +389,7 @@ def check_urls_parallel(entries, workers, issues, path):
     start = time.time()
     done = 0
     with concurrent.futures.ThreadPoolExecutor(max_workers=workers) as pool:
-        futures = {pool.submit(check_url, e["domain"]): e for e in entries}
+        futures = {pool.submit(check, e["target"]): e for e in entries}
         for fut in concurrent.futures.as_completed(futures):
             entry = futures[fut]
             try:
@@ -378,8 +409,8 @@ def check_urls_parallel(entries, workers, issues, path):
                 blocked += 1
             else:
                 failed += 1
-                failures.append(f"  FAIL  {entry['domain']}  |  {entry['company']}  |  "
-                                f"{entry['founded']}\n          {detail}")
+                failures.append(f"  FAIL  {path}:{entry['line']}  {entry['target']}  |  "
+                                f"{entry['company']}  |  {entry['extra']}\n          {detail}")
             if show_progress:
                 elapsed = time.time() - start
                 pct = done / total * 100
@@ -442,8 +473,8 @@ def main():
     print("=" * 60)
     print(" 3. Validating alumni.csv ...")
     print("=" * 60)
-    validate_alumni("alumni.csv", issues)
-    print("    done\n")
+    links = validate_alumni("alumni.csv", issues)
+    print(f"    {len(links)} source links to check\n")
 
     print("=" * 60)
     if args.skip_urls:
@@ -455,7 +486,15 @@ def main():
         print(f" 4. Checking URLs (workers={workers}) ...")
         print("=" * 60)
         passed, failed, blocked, url_failures = check_urls_parallel(
-            entries, workers, issues, "startups.csv")
+            entries, workers, issues, "startups.csv", check_url)
+        print(f"    startups.csv websites: {passed} passed, {failed} failed")
+        a_passed, a_failed, a_blocked, a_failures = check_urls_parallel(
+            links, workers, issues, "alumni.csv", check_link)
+        print(f"    alumni.csv source links: {a_passed} passed, {a_failed} failed")
+        passed += a_passed
+        failed += a_failed
+        blocked += a_blocked
+        url_failures += a_failures
 
     errs = [i for i in issues if i[0] == "ERROR"]
     warns = [i for i in issues if i[0] == "WARNING"]
