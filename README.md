@@ -238,7 +238,6 @@ BibTeX:
 |[NcodiN](https://ncodin.com) | PHOTONICS | 2023 | FR |Optical interposers |
 |[Neologic](https://neologicvlsi.com) | MFG | 2021 | IL |Quasi-CMOS transistor technology |
 |[Netrasemi](https://netrasemi.com) | AI | 2020 | IN |AI Hardware chips |
-|[Neureality](https://neureality.ai) | AI | 2019 | IL |Purpose-built AI-centric architecture |
 |[Neurophos](https://neurophos.com) | PHOTONICS | 2020 | US |Optical computing platform |
 |[Neurxcore](https://neurxcore.com) | AI | 2023 | FR |AI accelerator IP based on NVDLA |
 |[Next Semiconductor](https://nextsemi.com) | SPACE | 2023 | US |Satellite networking ASICs |
@@ -448,6 +447,7 @@ BibTeX:
 |Mobix Labs | SPAC | 2023 | NA | [Source](https://www.sec.gov/Archives/edgar/data/1855467/000110465923129265/tm2333677d1_ex99-1.htm) |
 |Movidius | Intel | 2016 | 400 | [Source](https://siliconangle.com/2016/09/06/intel-buys-movidius-to-boost-machine-vision/) |
 |Nervana | Intel | 2016 | 350 | [Source](https://venturebeat.com/2016/08/09/intel-acquires-deep-learning-startup-nervana) |
+|NeuReality | Unconventional AI | 2026 | NA | [Source](https://www.calcalistech.com/ctechnews/article/rz4yeog9t) |
 |NeuroBlade | Amazon | 2025 | NA | [Source](https://www.storagenewsletter.com/2025/10/23/aws-swallows-neuroblade/) |
 |Novelda | Shutdown | 2024 | 0 | [Source](https://vitalthings.com/en/vitalthings-as-takes-over-the-bankruptcy-estate-after-novelda-as/) |
 |Nubis | Ciena | 2025 | 270 | [Source](https://www.ciena.com/about/newsroom/press-releases/ciena-to-acquire-nubis-communications-to-expand-its-inside-the-data-center-strategy-and-further-address-growing-ai-workloads) |
