@@ -90,7 +90,6 @@ BibTeX:
 |[Akhetonics](https://akhetonics.com) | PHOTONICS | 2021 | DE |Optical computing devices |
 |[Alif Semiconductor](https://alifsemi.com) | AI | 2019 | US |Integrated SoC for AI at the edge |
 |[Allspice.io](https://allspice.io) | EDA | 2018 | US |PCB Design platform |
-|[Alpha Design AI](https://alphadesign.ai) | EDA | 2024 | US |AI agent based chip design platform |
 |[Ambient Scientific](https://ambientscientific.ai) | ANALOG | 2018 | US |Analog in-memory AI processor |
 |[Amsimcel](https://amsimcel.com) | EDA | 2018 | RO |GPU powered physical verification |
 |[Anabrid](https://anabrid.com) | ANALOG | 2023 | DE |Analog computer on a chip |
@@ -174,7 +173,6 @@ BibTeX:
 |[Ethernovia](https://ethernovia.com) | NETWORKING | 2018 | US |In vehicle networking |
 |[eTopus](https://etopus.com) | NETWORKING | 2013 | US |High speed interconnect solutions |
 |[Everactive](https://everactive.com) | SENSORS | 2012 | US |Battery-less IoT sensing technology |
-|[Exa Laboratories](https://exalaboratories.com) | AI | 2024 | US |Reconfigurable chips for AI |
 |[Exo Imaging](https://exo.inc) | HEALTH | 2015 | US |Handheld ultrasound device |
 |[Extropic](https://extropic.ai) | AI | 2022 | US |Physics based generative AI |
 |[Fabric Cryptography](https://fabriccryptography.com) | SECURITY | 2021 | US |Cryptography hardware accelerators |
@@ -208,7 +206,6 @@ BibTeX:
 |[Kandou](https://kandou.com) | NETWORKING | 2011 | CH |Chip-to-chip connectivity solutions |
 |[Kepler Computing](https://keplercompute.com) | HPC | 2018 | US |Stealth |
 |[Keysom](https://keysom.io) | RISC-V | 2022 | FR |RISC-V design platform |
-|[Kittycad](https://zoo.dev) | EDA | 2021 | US |AI driven CAD |
 |[Kneron](https://kneron.com) | AI | 2015 | US |Edge AI devices |
 |[Krutrim](https://olakrutrim.com) | AI | 2023 | IN |AI hardware |
 |[Lemurian Labs](https://lemurianlabs.com) | AI | 2018 | CA |AI computing platform |
@@ -298,14 +295,13 @@ BibTeX:
 |[Rapid Photonics](https://rapidphotonics.com) | MFG | 2022 | NL |Photonic IC production |
 |[RapidSilicon](https://rapidsilicon.com) | FPGA | 2021 | US |FPGA devices |
 |[Rebellions](https://rebellions.ai) | AI | 2020 | KR |AI processors |
-|[Recogni](https://recogni.com) | AI | 2017 | US |Visual perception platform for autonomous vehicles |
 |[RED Semiconductor](https://redsemiconductor.com) | HPC | 2021 | GB |Processor technology |
 |[Redwood EDA](https://redwoodeda.com) | EDA | 2015 | US |Transaction level hardware design platform |
 |[Retym](https://retym.com) | AI | 2021 | US |Stealth |
 |[Ricursive Intelligence](https://ricursive.com) | EDA | 2025 | US |AI models to automate all stages of chip design and verification |
 |[RISE](https://rise-da.com) | EDA | 2024 | US |Design and verification productivity platform |
 |[Riverlane](https://riverlane.com) | QUANTUM | 2016 | GB |Quantum error correction |
-|[Sagence AI](https://www.sagence-ai.com) | AI | 2018 | US |Analog in-memory AI inference accelerators |
+|[Sagence AI](https://sagence-ai.com) | AI | 2018 | US |Analog in-memory AI inference accelerators |
 |[Salience Labs](https://saliencelabs.ai) | PHOTONICS | 2020 | GB |Photonic computing platform |
 |[SambaNova](https://sambanova.ai) | AI | 2017 | US |AI processing |
 |[Saras Micro Devices](https://sarasmicro.com) | MFG | 2021 | US |Packaging solutions for effective power delivery |
@@ -341,6 +337,7 @@ BibTeX:
 |[Taalas](https://taalas.com) | AI | 2023 | CA |Automated generation of AI hardware |
 |[Tachyum](https://tachyum.com) | HPC | 2016 | US |High performance processor architecture |
 |[Tandem PV](https://tandempv.com) | MFG | 2016 | US |Silicon solar panels |
+|[Tensordyne](https://tensordyne.ai) | AI | 2017 | US |AI inference chips and systems |
 |[Tenstorrent](https://tenstorrent.com) | AI | 2016 | CA |AI processing devices |
 |[Tetramem](https://tetramem.com) | AI | 2018 | US |AI accelerator for edge inference |
 |[Thintronics](https://thintronics.com) | MFG | 2019 | US |Thin film materials |
@@ -378,6 +375,8 @@ BibTeX:
 |[ZeroASIC](https://zeroasic.com) | CHIPLETS | 2008 | US |Chiplet based ASIC platform |
 |[ZeroPoint](https://zeropoint-tech.com) | MEMORY | 2015 | US |Memory compression technology |
 |[zeroRISC](https://zerorisc.com) | SECURITY | 2023 | US |Open source Root-of-Trust platform |
+|[Zettascale Computing](https://zscc.ai) | AI | 2024 | US |Reconfigurable chips for AI |
+|[Zoo](https://zoo.dev) | EDA | 2021 | US |AI driven CAD |
 
 ## Alumni
 
