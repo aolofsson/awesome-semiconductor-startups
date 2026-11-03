@@ -42,7 +42,6 @@ BibTeX:
 * Categorize the startup based on technology table below
 * Use standard two letter country codes
 * Do NOT edit the README directly, it's auto-generated
-* Plots were manually extracted 02/2025 (not auto-generated)
 
 ## Disclaimer:
 
@@ -56,11 +55,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-## Category Distribution (270 samples, 02/2025)
-![Types](plot_type.svg)
+## Dashboard
 
-## Age Distribution
-
-![Age](plot_age.svg)
+Search, filter and chart the whole database, including exits, in the
+[interactive dashboard](https://aolofsson.github.io/awesome-semiconductor-startups/dashboard/).
+It reads the CSV files in this repository, so it always matches the tables below.
 
 ## Categories

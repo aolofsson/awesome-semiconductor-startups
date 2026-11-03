@@ -9,13 +9,13 @@ build system and no CI.
 | File | Role |
 |------|------|
 | `startups.csv` | Active startups: `Company,Website,Technology,Country,Founded,Description` |
-| `alumni.csv` | Exits: `Company,Exit,Year,Value($M),Link` |
+| `alumni.csv` | Exits: the startup columns plus `Exit,Year,Value($M),Link` |
 | `unverified.csv` | Startups whose status can't be confirmed (dead site, no news); same columns as `startups.csv` |
 | `technologies.csv` | Allowed `Technology` categories: `Technology,Description` |
 | `header.md` | Hand-written top of the README (citation, guidelines, plots) |
 | `update.py` | Generates `README.md` = `header.md` + tables built from the CSVs |
 | `check_and_validate.py` | Validates the CSVs and checks startup websites and alumni source links are reachable |
-| `plot_*.svg`, `pie_country.png` | Static plots, made by hand in 02/2025; nothing regenerates them |
+| `dashboard/` | Static dashboard (`index.html`, `app.js`, `style.css`) served by GitHub Pages; reads the CSVs at load time, so it needs no regeneration |
 | `LICENSE` | MIT, covering the scripts and the data |
 
 ## Rules
@@ -78,8 +78,11 @@ build system and no CI.
 - Inclusion criteria (from `header.md`): a startup (not steady state), a
   semiconductor company (not application software), a product company (not
   services), confirmed by a public link.
-- When a startup exits or shuts down, remove its row from `startups.csv` and
-  add one to `alumni.csv` with a source link.
+- When a startup exits or shuts down, move its row from `startups.csv` to
+  `alumni.csv`, keeping the six startup columns and appending
+  `Exit,Year,Value($M),Link` with a source link. In `alumni.csv`, `Website`
+  and `Founded` may be `NA` (a dead or redirected site, an unsourced year);
+  alumni websites are not fetched. A company may not be in both files.
 - Both `startups.csv` and `alumni.csv` are in case-insensitive alphabetical
   order by Company; insert new rows in their place.
 - Every CSV value arrives by pull request and is untrusted. Both scripts
@@ -96,11 +99,16 @@ build system and no CI.
 python3 update.py                          # regenerate README.md
 python3 check_and_validate.py --skip-urls  # CSV checks only, offline, instant
 python3 check_and_validate.py 32           # also fetch every startup site (32 workers)
+python3 -m http.server                     # then open http://localhost:8000/dashboard/
 ```
 
 `check_and_validate.py` exits non-zero on any ERROR or unreachable URL.
 The full URL check makes ~300 network requests and takes a minute or more:
 run it in the background, and expect some false failures from flaky sites.
+The dashboard fetches `../*.csv`, so it does not work from `file://`; preview
+it through a local server. It uses pinned CDN versions of d3 and topojson and
+the world-atlas map; keep the versions pinned. Its CSV export prefixes cells
+that start with `=`, `+`, `-` or `@` so a spreadsheet does not run them.
 `update.py` prints a warning to stderr for a startup whose technology is not
 in `technologies.csv`.
 

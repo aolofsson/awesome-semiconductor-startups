@@ -1,0 +1,157 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Semiconductor Startups Atlas</title>
+<meta name="description" content="Explore semiconductor startups and their exits: filter by technology, country, founding year and status.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+<script>
+  // Apply the saved theme before first paint so the page does not flash.
+  try {
+    const t = localStorage.getItem("theme");
+    if (t === "light" || t === "dark") document.documentElement.dataset.theme = t;
+  } catch (e) { /* storage blocked: follow the system theme */ }
+</script>
+</head>
+<body>
+<header class="masthead">
+  <div class="title-block">
+    <h1>Semiconductor startups</h1>
+    <p class="lede">Every company in the <a href="https://github.com/aolofsson/awesome-semiconductor-startups">awesome-semiconductor-startups</a> list, active and exited, read live from the repository's CSV files.</p>
+  </div>
+  <div class="masthead-actions">
+    <button type="button" id="theme-toggle" class="ghost" aria-label="Switch colour theme">Theme: system</button>
+    <a class="ghost" href="https://github.com/aolofsson/awesome-semiconductor-startups">Repository</a>
+  </div>
+</header>
+
+<section class="figures" id="figures" aria-label="Summary for the current filters"></section>
+
+<form class="filters" id="filters" role="search" aria-label="Filter companies">
+  <label class="search">
+    <span class="sr-only">Search</span>
+    <input type="search" id="q" placeholder="Search name, description, acquirer" autocomplete="off">
+  </label>
+  <fieldset class="status-toggle" id="status-toggle">
+    <legend class="sr-only">Status</legend>
+  </fieldset>
+  <label class="select">
+    <span>Technology</span>
+    <select id="tech-select"><option value="">Add…</option></select>
+  </label>
+  <label class="select">
+    <span>Country</span>
+    <select id="country-select"><option value="">Add…</option></select>
+  </label>
+  <label class="year">
+    <span>Founded</span>
+    <input type="number" id="from" inputmode="numeric" placeholder="from" min="1950" max="2100">
+    <span aria-hidden="true">to</span>
+    <input type="number" id="to" inputmode="numeric" placeholder="to" min="1950" max="2100" aria-label="Founded to">
+  </label>
+  <div class="filter-actions">
+    <button type="button" id="share" class="ghost">Copy link</button>
+    <button type="button" id="export" class="ghost">Download CSV</button>
+    <button type="button" id="reset" class="ghost">Clear filters</button>
+  </div>
+  <div class="chips" id="chips" aria-live="polite"></div>
+</form>
+
+<main>
+  <section class="wafer-panel" aria-labelledby="wafer-h">
+    <div class="panel-head">
+      <h2 id="wafer-h">The wafer</h2>
+      <p class="note">One die per company, grouped by technology. Dies that fall outside the filters go dark.</p>
+    </div>
+    <div class="wafer-wrap"><svg id="wafer" role="img"></svg></div>
+    <div class="legend" id="status-legend"></div>
+  </section>
+
+  <section class="tech-panel" aria-labelledby="tech-h">
+    <div class="panel-head">
+      <h2 id="tech-h">By technology</h2>
+      <p class="note">Click a bar to filter. Hover to light up its dies.</p>
+    </div>
+    <div id="tech-chart" class="chart"></div>
+  </section>
+
+  <section class="map-panel" aria-labelledby="map-h">
+    <div class="panel-head">
+      <h2 id="map-h">By country</h2>
+      <p class="note">Click a country on the map or a bar to filter. The bars scroll.</p>
+    </div>
+    <div class="map-layout">
+      <div id="map" class="chart map"></div>
+      <div id="country-chart" class="chart country-scroll" tabindex="0" aria-label="Companies per country, scrollable"></div>
+    </div>
+  </section>
+
+  <section class="founded-panel" aria-labelledby="founded-h">
+    <div class="panel-head">
+      <h2 id="founded-h">Founded per year</h2>
+      <p class="note">Drag across the chart to filter by founding year.</p>
+    </div>
+    <div id="founded-chart" class="chart"></div>
+  </section>
+
+  <section class="exits" aria-labelledby="exits-h">
+    <div class="panel-head">
+      <h2 id="exits-h">Exits</h2>
+      <p class="note" id="exits-note"></p>
+    </div>
+    <div class="exit-grid">
+      <figure>
+        <figcaption>Exits per year, by type</figcaption>
+        <div id="exit-year-chart" class="chart"></div>
+      </figure>
+      <figure>
+        <figcaption>Disclosed exit value, $M (log scale)</figcaption>
+        <div id="exit-value-chart" class="chart"></div>
+      </figure>
+      <figure>
+        <figcaption>Most frequent acquirers</figcaption>
+        <div id="acquirer-chart" class="chart"></div>
+      </figure>
+      <figure>
+        <figcaption>Years from founding to exit</figcaption>
+        <div id="age-chart" class="chart"></div>
+      </figure>
+    </div>
+    <div class="legend" id="exit-legend"></div>
+  </section>
+
+  <section class="table-panel" aria-labelledby="table-h">
+    <div class="panel-head">
+      <h2 id="table-h">Companies</h2>
+      <p class="note" id="table-count"></p>
+    </div>
+    <div class="table-scroll">
+      <table id="table">
+        <thead><tr></tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </section>
+</main>
+
+<footer class="colophon">
+  <p>Data: <code>startups.csv</code>, <code>alumni.csv</code> and <code>unverified.csv</code> in the repository, MIT licensed. Corrections and additions are welcome as pull requests.</p>
+</footer>
+
+<aside class="drawer" id="drawer" aria-labelledby="drawer-name" hidden>
+  <button type="button" class="drawer-close ghost" id="drawer-close" aria-label="Close details">Close</button>
+  <div id="drawer-body"></div>
+</aside>
+
+<div class="tooltip" id="tooltip" role="status" hidden></div>
+<div class="load-error" id="load-error" hidden></div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/3.0.2/topojson.min.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

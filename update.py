@@ -8,7 +8,7 @@ import sys
 from urllib.parse import quote
 
 STARTUP_FIELDS = ["Company", "Website", "Technology", "Country", "Founded", "Description"]
-ALUMNI_FIELDS = ["Company", "Exit", "Year", "Value($M)", "Link"]
+ALUMNI_FIELDS = STARTUP_FIELDS + ["Exit", "Year", "Value($M)", "Link"]
 TECH_FIELDS = ["Technology", "Description"]
 
 # Alumni Link value for an exit known first-hand but with no public source.
@@ -121,10 +121,11 @@ def main():
     # Printing out exits
     ################################
     out.append("\n## Alumni")
-    out.append("\n| Company |  Exit   | Year   | Value($M) | Link |")
-    out.append("|---------| ------- | ------ | ------|------|")
+    out.append("\n| Company | Technology | Country |  Exit   | Year   | Value($M) | Link |")
+    out.append("|---------|------------|---------| ------- | ------ | ------|------|")
     for x in alumni:
-        out.append(f"|{cell(x['Company'])} | {cell(x['Exit'])} | {cell(x['Year'])} | "
+        out.append(f"|{cell(x['Company'])} | {cell(x['Technology'])} | {cell(x['Country'])} | "
+                   f"{cell(x['Exit'])} | {cell(x['Year'])} | "
                    f"{cell(x['Value($M)'])} | {source_link(x['Link'])} |")
 
     ################################
