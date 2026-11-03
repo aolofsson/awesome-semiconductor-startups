@@ -401,7 +401,7 @@ BibTeX:
 |Atlantic Quantum | Google | 2025 | NA | [Source](https://www.techzine.eu/news/infrastructure/135146/google-acquires-atlantic-quantum-for-superconducting-qubit-technology) |
 |Axis Semiconductor | Shutdown | 2022 | 0 | Private Communication |
 |Banias | Alphawave | 2022 | 240 | [Source](https://www.calcalistech.com/ctechnews/article/hynfz2sxs) |
-|Blaize | SPAC | 2025 | 1200 | [Source](https://www.businesswire.com/news/home/20250114776514/en/Burkhan-World-Investments-Announces-Blaize%E2%80%99s-Successful-IPO-on-NASDAQ-via-BurTech-Acquisition-Corporation) |
+|Blaize | SPAC | 2025 | 1330 | [Source](https://www.sec.gov/Archives/edgar/data/1871638/000119312525008517/d903961d8k.htm) |
 |Blue Cheetah Analog | Tenstorrent | 2025 | NA | [Source](https://tenstorrent.com/vision/tenstorrent-acquires-blue-cheetah-analog-design) |
 |BrainChip | IPO | 2015 | NA | [Source](https://www.businessnews.com.au/article/BrainChip-makes-strong-ASX-debut) |
 |Calxeda | Shutdown | 2013 | 0 | [Source](https://semiengineering.com/chip-startup-shuts-doors/) |
@@ -435,20 +435,20 @@ BibTeX:
 |Imperas | Synopsys | 2023 | NA | [Source](https://www.design-reuse.com/news/55442/synopsys-imperas-acquisition.html) |
 |Indie Semiconductor | SPAC | 2020 | 1400 | [Source](https://www.marketwatch.com/story/indie-semiconductor-to-go-public-through-spac-buyout-deal-that-values-company-at-14-billion-2020-12-15) |
 |Innovium | Marvell | 2021 | 1100 | [Source](https://techcrunch.com/2021/08/03/marvell-nabs-innovium-for-1-1b-as-it-delves-deeper-into-cloud-ethernet-switches/) |
-|Innoviz | SPAC | 2021 | 371 | [Source](https://www.prnewswire.com/news-releases/innoviz-technologies-and-collective-growth-corporation-announce-closing-of-business-combination-301262031.html) |
+|Innoviz | SPAC | 2021 | 1376 | [Source](https://www.sec.gov/Archives/edgar/data/1835654/000119312521225925/d164869df1.htm) |
 |Insightness | Sony | 2019 | NA | [Source](https://www.eenewseurope.com/en/sony-acquires-swiss-vision-sensor-firm) |
-|Kalray | IPO | 2018 | 100 | [Source](https://www.euronext.com/en/about/media/euronext-press-releases/kalray-sintroduit-sur-euronext-growth) |
+|Kalray | IPO | 2018 | NA | [Source](https://www.euronext.com/en/about/media/euronext-press-releases/kalray-sintroduit-sur-euronext-growth) |
 |Kameleon | Ramon Space | 2022 | NA | Private Communication |
 |Kinara | NXP | 2025 | 307 | [Source](https://evertiq.com/design/2025-10-28-nxp-completes-acquisitions-of-aviva-links-and-kinara) |
 |Lightelligence | IPO | 2026 | 306 | [Source](https://www.scmp.com/tech/tech-trends/article/3351551/lightelligence-jumps-hong-kong-debut-amid-ai-driven-demand-photonics-chips) |
 |Lighton | IPO | 2024 | 65 | [Source](https://www.reuters.com/technology/artificial-intelligence/frances-lighton-says-valued-65-mln-euronext-ipo-2024-11-21/) |
 |LintrinsIC | Marki Microwave | 2026 | NA | [Source](https://markimicrowave.com/company/news-events/marki-microwave-acquires-lintrins-ic-semiconductors) |
 |Lion Semiconductor | Cirrus | 2021 | 335 | [Source](https://www.ednasia.com/cirrus-logic-to-acquire-lion-semiconductor/) |
-|Lucata | Shutdown | 2024 | NA | [Source](https://www.linkedin.com/posts/marty-deneroff-2a554_sadly-lucata-emu-technology-ceased-operations-activity-7168985090331500544-xy_D) |
+|Lucata | Shutdown | 2024 | 0 | [Source](https://www.linkedin.com/posts/marty-deneroff-2a554_sadly-lucata-emu-technology-ceased-operations-activity-7168985090331500544-xy_D) |
 |Lyric | Analog Devices | 2011 | NA | [Source](https://www.eetimes.com/adi-buys-lyric-probability-processing-specialist/) |
 |Mathstar | Shutdown | 2008 | 0 | [Source](https://www.oregonlive.com/business/2008/05/mathstar_calls_it_quits.html) |
 |Maxeda | Synopsys | 2023 | NA | [Source](https://www.synopsys.com/company/acquisitions.html) |
-|Minima | Bosch | NA | NA | [Source](https://www.acuity.co.uk/successes/acuity-advises-minima-on-its-sale-to-bosch/) |
+|Minima | Bosch | 2022 | NA | [Source](https://www.acuity.co.uk/successes/acuity-advises-minima-on-its-sale-to-bosch/) |
 |MixComm | Sivers | 2021 | 155 | [Source](https://www.eetimes.com/mixcomm-acquired-by-sivers-semiconductors/) |
 |Mobix Labs | SPAC | 2023 | NA | [Source](https://www.sec.gov/Archives/edgar/data/1855467/000110465923129265/tm2333677d1_ex99-1.htm) |
 |Movidius | Intel | 2016 | 400 | [Source](https://siliconangle.com/2016/09/06/intel-buys-movidius-to-boost-machine-vision/) |
@@ -486,7 +486,7 @@ BibTeX:
 |Ventana | Qualcomm | 2025 | NA | [Source](https://www.crn.com/news/components-peripherals/2025/qualcomm-acquires-risc-v-chip-designer-ventana-to-boost-cpu-capabilities) |
 |VyperCore | Shutdown | 2025 | 0 | [Source](https://find-and-update.company-information.service.gov.uk/company/14244622) |
 |Wavious | Apple | 2022 | NA | [Source](https://pitchbook.com/profiles/company/169888-60#overview) |
-|Xanadu | SPAC | 2026 | 3100 | [Source](https://quantisnow.com/insight/xanadu-quantum-technologies-limited-announces-closing-of-business-combination-with-6470941) |
+|Xanadu | SPAC | 2026 | 3400 | [Source](https://www.stockwatch.com/News/Item/Z-C!XNDU-3800089/C/XNDU?fmt=orig) |
 |zGlue | Shutdown | 2021 | 0 | [Source](https://www.irishtimes.com/business/innovation/2023/07/27/chinese-ingenuity-is-tested-as-semiconductor-sanctions-bite) |
 
 ## Unverified

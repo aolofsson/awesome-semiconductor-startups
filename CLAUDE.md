@@ -36,12 +36,29 @@ build system and no CI.
 - A startup whose website is dead and whose status can't be confirmed moves
   to `unverified.csv`, not `alumni.csv`; it goes to alumni only once an exit
   is sourced, or back to startups once it is confirmed active.
+- For an alumni Link, prefer an official filing over a news article, in
+  this order: (1) an SEC filing for US-listed companies and acquirers (the
+  8-K / 6-K press-release exhibit, or the prospectus for share counts);
+  (2) the equivalent exchange or regulator filing for other markets (HKEX,
+  DART, AMF, ASX, SSE); (3) the acquirer's or company's own press release
+  on its newsroom page, not its homepage; (4) a news article only when none
+  of the above exists. Apply this to new rows and to rows being fixed; do
+  not re-source existing rows just for this. Note that sec.gov answers the
+  validator with 403, so SEC links always pass the URL check unread.
 - An acquihire (team hired and/or technology licensed, company not bought)
   counts as an exit to the hiring company only if investors received money
   from the deal; otherwise it is a `Shutdown`.
-- For `Exit=IPO`, `Value($M)` is the market cap in USD at the close of the
-  first day of trading, not the amount raised or a later market cap. The
+- For `Exit=IPO` and `Exit=SPAC`, `Value($M)` is the market cap in USD at
+  the close of the first day of trading (for a SPAC, the combined company's
+  first day), not the amount raised or a later market cap. The
   Link should support that figure; use `NA` if no source gives it.
+- For `Exit=SPAC`, when no source states the first-day market cap, estimate
+  it as: first-day closing price (USD) × total shares outstanding right
+  after the merger closed (all classes of common stock, excluding warrants
+  and unvested earnout shares), divided by 1e6 and rounded to the nearest
+  $M. Take the share count from the closing 8-K / 6-K or the post-closing
+  prospectus and link that filing; record the closing price and its source
+  in the commit message.
 - Description: one short sentence, no performance claims, roughly fits the
   80-character display width.
 - Inclusion criteria (from `header.md`): a startup (not steady state), a
