@@ -27,7 +27,7 @@ build system and no CI.
   path. The README builds `https://` links from it.
 - `Technology` must be a value from `technologies.csv`. Adding a category
   means adding a row there first.
-- `Country` is an ISO 3166-1 alpha-2 code:
+- `Country` is an ISO 3166-1 alpha-2 code.
 - `Founded` / `Year` are four-digit years; `Value($M)` is a number in
   millions or `NA`; `Link` is an `http(s)://` URL or `NA`. Shutdowns use
   `Exit=Shutdown`, `Value=0`.
@@ -38,9 +38,8 @@ build system and no CI.
   services), confirmed by a public link.
 - When a startup exits or shuts down, remove its row from `startups.csv` and
   add one to `alumni.csv` with a source link.
-- `alumni.csv` is in case-insensitive alphabetical order. `startups.csv` is
-  meant to be but currently has a few out-of-order rows; insert new rows in
-  their alphabetical place and don't reshuffle the file unless asked.
+- Both `startups.csv` and `alumni.csv` are in case-insensitive alphabetical
+  order by Company; insert new rows in their place.
 - Every CSV value arrives by pull request and is untrusted. Both scripts
   escape and validate it on purpose (Markdown injection in `update.py`, SSRF
   guard in `check_and_validate.py`); keep those protections when changing

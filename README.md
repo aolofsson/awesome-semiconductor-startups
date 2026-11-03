@@ -172,7 +172,7 @@ BibTeX:
 |[Efinix](https://efinixinc.com) | FPGA | 2012 | US |Programmable FPGA products |
 |[Eliyan](https://eliyan.com) | CHIPLETS | 2021 | US |Interconnect technology |
 |[EnCharge AI](https://enchargeai.com) | AI | 2021 | US |AI processing platform |
-|[Enlightra](https://enlightra.com) | PHOTONICS | 2017 | US |Optical microresonator technology |
+|[Enlightra](https://enlightra.com) | PHOTONICS | 2017 | CH |Optical microresonator technology |
 |[enzzo](https://enzzo.ai) | EDA | 2024 | US |AI driven hardware development |
 |[Equal1](https://equal1.com) | QUANTUM | 2017 | IE |Silicon spin qubits for scalable quantum computing |
 |[Eridan](https://eridan.io) | RF | 2013 | US |RF front end for for wireless telecommunications |
@@ -230,7 +230,7 @@ BibTeX:
 |[Linque](https://linque.eu) | PHOTONICS | 2023 | DE |Optical computing |
 |[Literal Labs](https://literal-labs.ai) | AI | 2023 | GB |Explainable AI using Tsetlin machines |
 |[Lubis EDA](https://lubis-eda.com) | EDA | 2021 | DE |Cloud based formal verification platform |
-|[Lumai](https://luma.ai) | PHOTONICS | 2021 | GB |3D optical computing |
+|[Lumai](https://lumai.ai) | PHOTONICS | 2021 | GB |3D optical computing |
 |[Luminous Computing](https://luminous.com) | PHOTONICS | 2018 | US |Optical computing platform |
 |[Lumotive](https://lumotive.com) | PHOTONICS | 2017 | US |Optical beam forming sensors |
 |[Lyte AI](https://lyte.ai) | AI | 2021 | US |Perception layer for physical AI |
@@ -241,7 +241,6 @@ BibTeX:
 |[Matx](https://matx.com) | AI | 2022 | US |Platform for AGI |
 |[Memryx](https://memryx.com) | AI | 2019 | US |AI computing platform |
 |[Mesa Quantum](https://mesaquantum.com) | QUANTUM | 2023 | US |Quantum sensing for GPS |
-|[MetisX](https://metix.com) | MEMORY | 2022 | KR |CXL memory solutions |
 |[Mintneuro](https://mintneuro.com) | HEALTH | 2015 | GB |Neural implants |
 |[Mobilint](https://mobilint.com) | AI | 2019 | KR |AI inference accelerators |
 |[Morphing Machines](https://morphing.in) | HPC | 2006 | IN |Reconfigurable processors |
@@ -374,7 +373,7 @@ BibTeX:
 |[Unconventional AI](https://unconv.ai) | AI | 2025 | US |Analog AI chips |
 |[Unifabrix](https://unifabrix.com) | NETWORKING | 2020 | IL |CXL based secure connectivity solution |
 |[Upmem](https://upmem.com) | AI | 2015 | FR |In memory processing devices for big data and AI |
-|[Usound](https://usound.com) | MEMS | 2012 | AU |Sound solutions based on MEMS technology |
+|[Usound](https://usound.com) | MEMS | 2012 | AT |Sound solutions based on MEMS technology |
 |[Vaire Computing](https://vaire.co) | ANALOG | 2021 | GB |Near zero energy computing |
 |[Vayyar](https://vayyar.com) | SENSORS | 2011 | IL |High resolution image sensors |
 |[Vector Photonics](https://vectorphotonics.co.uk) | PHOTONICS | 2020 | GB |Semiconductor lasers |
@@ -388,7 +387,7 @@ BibTeX:
 |[Vsora](https://vsora.com) | AI | 2015 | FR |AI inference chips |
 |[Wave Photonics](https://wavephotonics.com) | PHOTONICS | 2021 | GB |Photonics design platform |
 |[Welinq](https://welinq.fr) | QUANTUM | 2022 | FR |Quantum interconnects |
-|[Xanadu](https://xanadu.ai) | PHOTONICS | 2016 | US |Photonic based quantum computer |
+|[Xanadu](https://xanadu.ai) | PHOTONICS | 2016 | CA |Photonic based quantum computer |
 |[Xcelerium](https://xcelerium.com) | HPC | 2020 | US |Domain specific processors for converged workloads |
 |[XCENA](https://xcena.com) | MEMORY | 2022 | KR |CXL memory solutions |
 |[Xconntech](https://xconn-tech.com) | HPC | 2020 | US |CXL and PCIe switch chips |
@@ -424,7 +423,7 @@ BibTeX:
 |Banias | Alphawave | 2022 | 240 | [Source](https://www.calcalistech.com/ctechnews/article/hynfz2sxs) |
 |Blaize | SPAC | 2025 | 1200 | [Source](https://www.businesswire.com/news/home/20250114776514/en/Burkhan-World-Investments-Announces-Blaize%E2%80%99s-Successful-IPO-on-NASDAQ-via-BurTech-Acquisition-Corporation) |
 |Blue Cheetah Analog | Tenstorrent | 2025 | NA | [Source](https://www.prnewswire.com/news-releases/blue-cheetah-tapes-out-its-high-performance-chiplet-interconnect-ip-on-samsung-foundry-sf4x-302355527.html) |
-|BrainChip | IPO | 2011 | NA | [Source](https://finance.yahoo.com/quote/BRN.AX/) |
+|BrainChip | IPO | 2015 | NA | [Source](https://finance.yahoo.com/quote/BRN.AX/) |
 |Calxeda | Shutdown | 2013 | 0 | [Source](https://semiengineering.com/chip-startup-shuts-doors/) |
 |Cambricon | IPO | 2020 | 5000 | [Source](https://techcrunch.com/2020/06/24/chip-cambricon-ipo/) |
 |Celestial AI | Marvell | 2025 | 3250 | [Source](https://finance.yahoo.com/news/marvell-buy-chip-startup-celestial-210837707.html) |
@@ -440,7 +439,7 @@ BibTeX:
 |Empower | Analog Devices | 2026 | 1500 | [Source](https://www.bostonglobe.com/2026/05/19/business/analog-devices-acquire-empower/) |
 |Enosemi | AMD | 2025 | NA | [Source](https://techcrunch.com/2025/05/28/amd-buys-silicon-photonics-startup-enosemi-to-fuel-its-ai-ambitions/) |
 |Esperanto | Shutdown | 2025 | 0 | [Source](https://www.eetimes.com/ai-startup-esperanto-winds-down-silicon-business/) |
-|Espressif | IPO | 2017 | 1800 | [Source](https://www.cnx-software.com/2019/07/25/espressif-systems-gets-listed-on-the-shanghai-stock-market/) |
+|Espressif | IPO | 2019 | 1800 | [Source](https://www.cnx-software.com/2019/07/25/espressif-systems-gets-listed-on-the-shanghai-stock-market/) |
 |Flex Logix | Analog Devices | 2024 | NA | [Source](https://www.linkedin.com/posts/gregory-bryant-2595642_im-excited-to-welcome-the-talented-team-activity-7260053582446485506-C3TY?utm_source=share&utm_medium=member_desktop) |
 |Fungible | Microsoft | 2023 | 190 | [Source](https://blogs.microsoft.com/blog/2023/01/09/microsoft-announces-acquisition-of-fungible-to-accelerate-datacenter-innovation/) |
 |GaN Systems | Infineon | 2023 | 830 | [Source](https://www.infineon.com/cms/en/about-infineon/press/press-releases/2023/INFXX202303-073.html) |
@@ -478,7 +477,7 @@ BibTeX:
 |Nubis | Ciena | 2025 | 270 | [Source](https://www.ciena.com/about/newsroom/press-releases/ciena-to-acquire-nubis-communications-to-expand-its-inside-the-data-center-strategy-and-further-address-growing-ai-workloads) |
 |Nuvia | Qualcomm | 2021 | 1400 | [Source](https://www.fiercewireless.com/devices/qualcomm-to-acquire-nuvia-for-1-4b) |
 |Occuli | Ambarella | 2021 | 307 | [Source](https://www.ambarella.com/news/ambarella-closes-acquisition-of-oculii/) |
-|PA Semi | Apple | 2009 | 278 | [Source](https://www.cnet.com/tech/tech-industry/apple-acquires-low-power-chip-designer-pa-semi) |
+|PA Semi | Apple | 2008 | 278 | [Source](https://www.cnet.com/tech/tech-industry/apple-acquires-low-power-chip-designer-pa-semi) |
 |Pensando | AMD | 2022 | 1900 | [Source](https://www.amd.com/en/press-releases/2022-05-26-amd-expands-data-center-solutions-capabilities-acquisition-pensando) |
 |Perceive | Amazon | 2024 | 80 | [Source](https://www.geekwire.com/2024/amazon-to-acquire-perceive-for-80m-from-xperi-expanding-its-ai-technology-for-edge-devices/) |
 |Pharrowtech | Shutdown | 2025 | 0 | [Source](https://bits-chips.com/article/its-the-end-of-the-line-for-pharrowtech/) |

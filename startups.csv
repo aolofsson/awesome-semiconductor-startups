@@ -92,7 +92,7 @@ Efficient Computer,efficient.computer,HPC,US,2022,Energy efficient general-purpo
 Efinix,efinixinc.com,FPGA,US,2012,Programmable FPGA products
 Eliyan,eliyan.com,CHIPLETS,US,2021,Interconnect technology
 EnCharge AI,enchargeai.com,AI,US,2021,AI processing platform
-Enlightra,enlightra.com,PHOTONICS,US,2017,Optical microresonator technology
+Enlightra,enlightra.com,PHOTONICS,CH,2017,Optical microresonator technology
 enzzo,enzzo.ai,EDA,US,2024,AI driven hardware development
 Equal1,equal1.com,QUANTUM,IE,2017,Silicon spin qubits for scalable quantum computing
 Eridan,eridan.io,RF,US,2013,RF front end for for wireless telecommunications
@@ -150,7 +150,7 @@ Linctrinsic,lintrinsicsemi.com,RF,US,2021,Fast RF switches
 Linque,linque.eu,PHOTONICS,DE,2023,Optical computing 
 Literal Labs,Literal-labs.ai,AI,GB,2023,Explainable AI using Tsetlin machines
 Lubis EDA,Lubis-eda.com,EDA,DE,2021,Cloud based formal verification platform
-Lumai,luma.ai,PHOTONICS,GB,2021,3D optical computing
+Lumai,lumai.ai,PHOTONICS,GB,2021,3D optical computing
 Luminous Computing,luminous.com,PHOTONICS,US,2018,Optical computing platform
 Lumotive,lumotive.com,PHOTONICS,US,2017,Optical beam forming sensors
 Lyte AI,lyte.ai,AI,US,2021,Perception layer for physical AI
@@ -161,7 +161,6 @@ MangoBoost,mangoboost.io,HPC,US,2022,Data processing units for data center
 Matx,matx.com,AI,US,2022,Platform for AGI
 Memryx,memryx.com,AI,US,2019,AI computing platform
 Mesa Quantum,mesaquantum.com,QUANTUM,US,2023,Quantum sensing for GPS
-MetisX,metix.com,MEMORY,KR,2022,CXL memory solutions
 Mintneuro,mintneuro.com,HEALTH,GB,2015,Neural implants
 Mobilint,mobilint.com,AI,KR,2019,AI inference accelerators
 Morphing Machines,morphing.in,HPC,IN,2006,Reconfigurable processors
@@ -294,7 +293,7 @@ Uhnder,uhnder.com,SENSORS,US,2015,Digital automotive radar SoC
 Unconventional AI,unconv.ai,AI,US,2025,Analog AI chips
 Unifabrix,unifabrix.com,NETWORKING,IL,2020,CXL based secure connectivity solution
 Upmem,upmem.com,AI,FR,2015,In memory processing devices for big data and AI
-Usound,usound.com,MEMS,AU,2012,Sound solutions based on MEMS technology
+Usound,usound.com,MEMS,AT,2012,Sound solutions based on MEMS technology
 Vaire Computing,vaire.co,ANALOG,GB,2021,Near zero energy computing
 Vayyar,vayyar.com,SENSORS,IL,2011,High resolution image sensors
 Vector Photonics,vectorphotonics.co.uk,PHOTONICS,GB,2020,Semiconductor lasers
@@ -308,7 +307,7 @@ VoltAI,voltai.com,EDA,US,2022,AI models for semiconductor
 Vsora,vsora.com,AI,FR,2015,AI inference chips
 Wave Photonics,wavephotonics.com,PHOTONICS,GB,2021,Photonics design platform
 Welinq,welinq.fr,QUANTUM,FR,2022,Quantum interconnects
-Xanadu,xanadu.ai,PHOTONICS,US,2016,Photonic based quantum computer
+Xanadu,xanadu.ai,PHOTONICS,CA,2016,Photonic based quantum computer
 Xcelerium,xcelerium.com,HPC,US,2020,Domain specific processors for converged workloads
 XCENA,xcena.com,MEMORY,KR,2022,CXL memory solutions
 Xconntech,xconn-tech.com,HPC,US,2020,CXL and PCIe switch chips
