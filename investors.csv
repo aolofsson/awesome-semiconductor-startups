@@ -1,4 +1,5 @@
 Company,Investor,Website
+3D Glass Solutions,Lockheed Martin Ventures,lockheedmartin.com
 Active Layer Parametrics,Silicon Catalyst,siliconcatalyst.com
 Agentrys,Etna Labs,etnalabs.com
 Agentrys,MediaTek,mediatek.com
@@ -14,7 +15,7 @@ Anello,HCVC,hcvc.co
 Anello,In-Q-Tel,iqt.org
 Anello,Irongate Capital Advisors,irongatevc.com
 Anello,K2 Access,k2access.fund
-Anello,Lockheed Martin,lockheedmartin.com
+Anello,Lockheed Martin Ventures,lockheedmartin.com
 Anello,Mana Ventures,mana.vc
 Anello,Mesh Ventures,mesh.vc
 Anello,New Legacy,newlegacy.com
@@ -43,6 +44,8 @@ Astrus,Plug and Play,plugandplaytechcenter.com
 Astrus,Pradeep Sindhu,NA
 Astrus,Raymond Chik,NA
 Astrus,RiSC Capital,risc.capital
+Atom Computing,Lockheed Martin Ventures,lockheedmartin.com
+Ayar Labs,Lockheed Martin Ventures,lockheedmartin.com
 Ayar Labs,Silicon Catalyst,siliconcatalyst.com
 Azimuth AI,AUM Ventures,aumvc.com
 Azimuth AI,Cyient,cyient.com
@@ -99,6 +102,7 @@ Cognichip,Lux Capital,luxcapital.com
 Cognichip,Mayfield,mayfield.com
 Cognichip,SBI Investment,sbinvestment.co.jp
 Cognichip,Seligman Ventures,seligman.com
+Cortisonic,Lockheed Martin Ventures,lockheedmartin.com
 Diamond Quanta,Silicon Catalyst,siliconcatalyst.com
 Dover,Hub Angels,hubangels.com
 Dover,Hyperplane Venture Capital,hyperplane.vc
@@ -107,6 +111,7 @@ Dover,Silicon Catalyst,siliconcatalyst.com
 EdgeCortix,Global Hands-On VC,ghovc.com
 EdgeCortix,Renesas Electronics,renesas.com
 EdgeCortix,SBI Investment,sbinvestment.co.jp
+EdgeQ,Lockheed Martin Ventures,lockheedmartin.com
 Efficient Computer,Eclipse,eclipse.capital
 Efficient Computer,Mana Ventures,mana.vc
 Efficient Computer,Overmatch Ventures,overmatch.vc
@@ -286,6 +291,7 @@ Kepler Computing,Pat Gelsinger,NA
 Kepler Computing,Scott Gray,NA
 Kepler Computing,Slow Ventures,slow.co
 Lemurian Labs,Silicon Catalyst,siliconcatalyst.com
+Lightmatter,Lockheed Martin Ventures,lockheedmartin.com
 Literal Labs,Cambridge Future Tech,camfuturetech.com
 Literal Labs,Mercuri,mercuri.vc
 Literal Labs,SVV (Sure Valley Ventures),svv.ai
@@ -295,6 +301,7 @@ Lumotive,MetaVC Partners,metaventurepartners.com
 Lumotive,Samsung,samsung.com
 Lumotive,Swisscom Ventures,ventures.swisscom.com
 Lumotive,Uniquest,uniquest.co.kr
+Lux Semiconductors,Lockheed Martin Ventures,lockheedmartin.com
 MangoBoost,BonAngels,bonangels.net
 MangoBoost,Carnegie Mellon University,cmu.edu
 MangoBoost,IMM Investment,imminvestment.com
@@ -334,6 +341,7 @@ Movandi,Celesta Capital,celesta.vc
 Movandi,Cota Capital,cotacapital.com
 Movandi,DNX Ventures,dnx.vc
 Movandi,Murata,murata.com
+mPower Technology,Lockheed Martin Ventures,lockheedmartin.com
 Mueon,Geodesic Capital,geodesiccap.com
 Mueon,In-Q-Tel,iqt.org
 Mueon,Intel Capital,intelcapital.com
@@ -341,6 +349,7 @@ Mueon,M Ventures,m-ventures.com
 Mueon,Maverick Silicon,maverickcapital.com
 Mueon,Oregon Venture Fund,oregonventurefund.com
 Mueon,Wellington Funds,wellington.com
+Mythic,Lockheed Martin Ventures,lockheedmartin.com
 NcodiN,Earlybird Venture Capital,earlybird.com
 NcodiN,Elaia,elaia.com
 NcodiN,Maverick Silicon,maverickcapital.com
@@ -385,6 +394,7 @@ Oxmiq,Pegatron Venture Capital,pegatroncorp.com
 Oxmiq,Razer,razer.com
 Oxmiq,Samsung Catalyst Fund,samsungcatalyst.com
 Oxmiq,Tenstorrent,tenstorrent.com
+Phoenix Semiconductor,Lockheed Martin Ventures,lockheedmartin.com
 Polyn Technology,Silicon Catalyst,siliconcatalyst.com
 Powerlattice,BlueRun Ventures,brv.com
 Powerlattice,Celesta Capital,celesta.vc
@@ -542,6 +552,7 @@ Tandem PV,New Climate Ventures,newclimateventures.com
 Tandem PV,Planetary Technologies,planetarytech.earth
 Tandem PV,Prime Coalition,primecoalition.org
 Tandem PV,Uncorrelated Ventures,uncorrelated.com
+Teradar,Lockheed Martin Ventures,lockheedmartin.com
 TeraSpatial,Silicon Catalyst,siliconcatalyst.com
 TriEye,Deep Insight,deepinsight.co.il
 TriEye,Grove Ventures,grovevc.com
@@ -617,6 +628,8 @@ Zepsor,Silicon Catalyst,siliconcatalyst.com
 Zero Point Motion,Foresight Group,foresight.group
 Zero Point Motion,Science Creates Ventures,sciencecreates.co.uk
 Zero Point Motion,Verve Ventures,verve.vc
+ZeroASIC,Lockheed Martin Ventures,lockheedmartin.com
+ZeroASIC,Stata Capital Partners,statacapital.com
 Zettascale Computing,Olive Tree Capital,olivetreecapital.com
 Zettascale Computing,Soma Capital,somacap.com
 Zettascale Computing,Y Combinator,ycombinator.com

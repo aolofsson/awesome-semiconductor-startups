@@ -1,4 +1,5 @@
 Company,Website,Technology,Country,Founded,Description
+3D Glass Solutions,3dgsinc.com,MFG,US,2005,Glass substrates and interposers for advanced packaging
 Abacus Semiconductor,abacus-semi.com,HPC,US,2020,HPC silicon systems
 AccelerComm,accelercomm.com,RF,GB,2016,5G physical layer for high-performance networks
 Active Layer Parametrics,alpinc.net,MFG,US,2014,Electrical depth-profiling metrology for semiconductor layers
@@ -26,6 +27,7 @@ Astrus,astrus.ai,EDA,CA,2022,AI platform designed to automate microchip design
 Atlant 3D,atlant3d.com,MFG,DK,2018,Atomic scale 3d material printing
 Atlas Magnetics,atlasmagnetics.com,ANALOG,US,2021,Power management ICs and configurable ASICs
 Atmosic,atmosic.com,RF,US,2016,Battery free wireless devices
+Atom Computing,atom-computing.com,QUANTUM,US,2018,Quantum computers based on optically trapped neutral atoms
 Atoms AI,atomsai.net,EDA,US,2024,AI driven verification
 Attotude,attotude.com,NETWORKING,US,2024,Waveguide interconnects for AI data centers
 Aule Technologies,auletechnologies.com,EDA,US,2022,AI/physics based design platform
@@ -70,6 +72,7 @@ Classiq,classiq.io,EDA,IL,2020,Quantum computing software
 Codasip,codasip.com,RISC-V,DE,2014,Supplier of RISC-V IP cores
 Cognichip,cognichip.ai,EDA,US,2024,AI platform for chip design
 Cornami,cornami.com,HPC,US,2011,Acceleration for full homomorphic encryption
+Cortisonic,cortisonic.com,AI,AU,2025,Edge AI chips built from nanomechanical oscillators
 Cyrillic,cyrillic.tech,AI,IT,2024,Perception system for physical AI
 d-Matrix,d-matrix.ai,AI,US,2019,Computing platform for data center AI inference
 DASH Tech IC,dashtechic.com,HPC,US,2021,Flexible processors for embedded applications
@@ -146,6 +149,7 @@ Ludwig Computing,ludwigcomputing.com,AI,US,2021,Probabilistic computing processo
 Lumai,lumai.ai,PHOTONICS,GB,2021,3D optical computing
 Luminous Computing,luminous.com,PHOTONICS,US,2018,Optical computing platform
 Lumotive,lumotive.com,PHOTONICS,US,2017,Optical beam forming sensors
+Lux Semiconductors,luxsemiconductors.com,MFG,US,2017,Metal package substrates and interposers for chiplets
 Lyte AI,lyte.ai,AI,US,2021,Perception layer for physical AI
 Magics Technologies,magics.tech,SPACE,BE,2015,Radiation-hardened ICs for space systems and nuclear infrastructure
 Maieutic Semiconductors,maieuticsemi.com,EDA,IN,2025,Generative AI copilot for analog chip design
@@ -164,8 +168,9 @@ Mosaic SoC,mosaicsoc.ch,ASIC,CH,2024,Specialized chips designed for AR glasses
 Motivo,motivo.ai,EDA,US,2015,Explainable AI and ML for chip design optimization
 Movandi,movandi.com,RF,US,2016,RF chipsets
 Movellus,movellus.com,ANALOG,US,2014,Clock distribution IP
+mPower Technology,mpowertech.com,SPACE,US,2015,Flexible silicon solar cell modules for spacecraft
 Mueon,mueon.com,CHIPLETS,US,2025,Modular 3D compute and memory blocks for AI
-Mythic,mythic-ai.com,AI,US,2012,Analog ML accelerators
+Mythic,mythic.ai,AI,US,2012,Analog ML accelerators
 MZ Technologies,genioevo.com,EDA,IT,2014,EDA solutions for advanced packaging
 Nanopower,nanopowersemi.com,ANALOG,NO,2017,Smart power management ICs
 NcodiN,ncodin.com,PHOTONICS,FR,2023,Optical interposers
@@ -288,6 +293,7 @@ Tandem PV,tandempv.com,MFG,US,2016,Silicon solar panels
 Tensordyne,tensordyne.ai,AI,US,2017,AI inference chips and systems
 Tenstorrent,tenstorrent.com,AI,CA,2016,AI processing devices
 TenX Semi,tenxsemi.com,EDA,US,2025,AI agents for chip design and verification
+Teradar,teradar.com,SENSORS,US,2020,Solid-state terahertz sensors for vehicles and defense
 TeraSpatial,teraspatial.ai,RF,US,2022,Custom RF silicon and AI software for wireless links
 Tetramem,tetramem.com,AI,US,2018,AI accelerator for edge inference
 Thintronics,thintronics.com,MFG,US,2019,Thin film materials

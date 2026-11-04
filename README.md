@@ -88,6 +88,7 @@ SOFTWARE.
 
 | Company | Technology | Founded | Country | Description |
 |---------|------------|---------|---------|-------------|
+|[3D Glass Solutions](https://3dgsinc.com) | MFG | 2005 | US |Glass substrates and interposers for advanced packaging |
 |[Abacus Semiconductor](https://abacus-semi.com) | HPC | 2020 | US |HPC silicon systems |
 |[AccelerComm](https://accelercomm.com) | RF | 2016 | GB |5G physical layer for high-performance networks |
 |[Active Layer Parametrics](https://alpinc.net) | MFG | 2014 | US |Electrical depth-profiling metrology for semiconductor layers |
@@ -115,6 +116,7 @@ SOFTWARE.
 |[Atlant 3D](https://atlant3d.com) | MFG | 2018 | DK |Atomic scale 3d material printing |
 |[Atlas Magnetics](https://atlasmagnetics.com) | ANALOG | 2021 | US |Power management ICs and configurable ASICs |
 |[Atmosic](https://atmosic.com) | RF | 2016 | US |Battery free wireless devices |
+|[Atom Computing](https://atom-computing.com) | QUANTUM | 2018 | US |Quantum computers based on optically trapped neutral atoms |
 |[Atoms AI](https://atomsai.net) | EDA | 2024 | US |AI driven verification |
 |[Attotude](https://attotude.com) | NETWORKING | 2024 | US |Waveguide interconnects for AI data centers |
 |[Aule Technologies](https://auletechnologies.com) | EDA | 2022 | US |AI/physics based design platform |
@@ -159,6 +161,7 @@ SOFTWARE.
 |[Codasip](https://codasip.com) | RISC-V | 2014 | DE |Supplier of RISC-V IP cores |
 |[Cognichip](https://cognichip.ai) | EDA | 2024 | US |AI platform for chip design |
 |[Cornami](https://cornami.com) | HPC | 2011 | US |Acceleration for full homomorphic encryption |
+|[Cortisonic](https://cortisonic.com) | AI | 2025 | AU |Edge AI chips built from nanomechanical oscillators |
 |[Cyrillic](https://cyrillic.tech) | AI | 2024 | IT |Perception system for physical AI |
 |[d-Matrix](https://d-matrix.ai) | AI | 2019 | US |Computing platform for data center AI inference |
 |[DASH Tech IC](https://dashtechic.com) | HPC | 2021 | US |Flexible processors for embedded applications |
@@ -235,6 +238,7 @@ SOFTWARE.
 |[Lumai](https://lumai.ai) | PHOTONICS | 2021 | GB |3D optical computing |
 |[Luminous Computing](https://luminous.com) | PHOTONICS | 2018 | US |Optical computing platform |
 |[Lumotive](https://lumotive.com) | PHOTONICS | 2017 | US |Optical beam forming sensors |
+|[Lux Semiconductors](https://luxsemiconductors.com) | MFG | 2017 | US |Metal package substrates and interposers for chiplets |
 |[Lyte AI](https://lyte.ai) | AI | 2021 | US |Perception layer for physical AI |
 |[Magics Technologies](https://magics.tech) | SPACE | 2015 | BE |Radiation-hardened ICs for space systems and nuclear infrastructure |
 |[Maieutic Semiconductors](https://maieuticsemi.com) | EDA | 2025 | IN |Generative AI copilot for analog chip design |
@@ -253,8 +257,9 @@ SOFTWARE.
 |[Motivo](https://motivo.ai) | EDA | 2015 | US |Explainable AI and ML for chip design optimization |
 |[Movandi](https://movandi.com) | RF | 2016 | US |RF chipsets |
 |[Movellus](https://movellus.com) | ANALOG | 2014 | US |Clock distribution IP |
+|[mPower Technology](https://mpowertech.com) | SPACE | 2015 | US |Flexible silicon solar cell modules for spacecraft |
 |[Mueon](https://mueon.com) | CHIPLETS | 2025 | US |Modular 3D compute and memory blocks for AI |
-|[Mythic](https://mythic-ai.com) | AI | 2012 | US |Analog ML accelerators |
+|[Mythic](https://mythic.ai) | AI | 2012 | US |Analog ML accelerators |
 |[MZ Technologies](https://genioevo.com) | EDA | 2014 | IT |EDA solutions for advanced packaging |
 |[Nanopower](https://nanopowersemi.com) | ANALOG | 2017 | NO |Smart power management ICs |
 |[NcodiN](https://ncodin.com) | PHOTONICS | 2023 | FR |Optical interposers |
@@ -377,6 +382,7 @@ SOFTWARE.
 |[Tensordyne](https://tensordyne.ai) | AI | 2017 | US |AI inference chips and systems |
 |[Tenstorrent](https://tenstorrent.com) | AI | 2016 | CA |AI processing devices |
 |[TenX Semi](https://tenxsemi.com) | EDA | 2025 | US |AI agents for chip design and verification |
+|[Teradar](https://teradar.com) | SENSORS | 2020 | US |Solid-state terahertz sensors for vehicles and defense |
 |[TeraSpatial](https://teraspatial.ai) | RF | 2022 | US |Custom RF silicon and AI software for wireless links |
 |[Tetramem](https://tetramem.com) | AI | 2018 | US |AI accelerator for edge inference |
 |[Thintronics](https://thintronics.com) | MFG | 2019 | US |Thin film materials |
