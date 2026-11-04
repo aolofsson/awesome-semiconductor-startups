@@ -213,6 +213,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 |[Flux](https://flux.ai) | EDA | 2019 | US |PCB design tools |
 |[FMC](https://ferroelectric-memory.com) | MFG | 2015 | DE |Ferroelectric non-volatile RAM |
 |[Forefrontrf](https://forefrontrf.com) | RF | 2020 | GB |Wireless communication devices |
+|[Fractal Semiconductor](https://fractalsemi.com) | MFG | 2026 | US |AI models for chip manufacturing process development |
 |[Fractile](https://fractile.ai) | AI | 2022 | GB |AI accelerator for LLMs |
 |[Furiosa](https://furiosa.ai) | AI | 2017 | KR |AI coprocessors |
 |[Gemesys](https://gemesys.tech) | AI | 2021 | DE |Analog AI processors |
