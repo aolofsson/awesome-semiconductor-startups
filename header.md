@@ -1,4 +1,4 @@
-# Database of Awesome Semiconductor Startups
+# An Open Database of Awesome Semiconductor Startups
 
 [![Dashboard: wafer map, technology, country, founding-year and exit charts, and the investor ecosystem map](dashboard/preview.png)](https://aolofsson.github.io/awesome-semiconductor-startups/dashboard/)
 
