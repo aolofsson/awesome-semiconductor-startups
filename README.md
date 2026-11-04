@@ -306,6 +306,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 |[Neologic](https://neologicvlsi.com) | MFG | 2021 | IL |Quasi-CMOS transistor technology |
 |[Netpreme](https://netpreme.com) | MEMORY | 2024 | US |AI-Native Memory Systems |
 |[Netrasemi](https://netrasemi.com) | AI | 2020 | IN |AI Hardware chips |
+|[Neuronova](https://neuronovatech.com) | AI | 2024 | IT |Fully analog neuromorphic processors for always-on sensing |
 |[Neurophos](https://neurophos.com) | PHOTONICS | 2020 | US |Optical computing platform |
 |[Neurxcore](https://neurxcore.com) | AI | 2023 | FR |AI accelerator IP based on NVDLA |
 |[Nexstrom](https://nexstrom.com) | MFG | 2024 | SG |Wafer-scale 2D TMD semiconductor growth platform |
