@@ -12,9 +12,10 @@ build system and no CI.
 | `alumni.csv` | Exits: the startup columns plus `Exit,Year,Value($M),Link` |
 | `unverified.csv` | Startups whose status can't be confirmed (dead site, no news); same columns as `startups.csv` |
 | `technologies.csv` | Allowed `Technology` categories: `Technology,Description` |
+| `investors.csv` | Investors of active startups, one row per pair: `Company,Investor,Website`. Read by the dashboard only, not the README |
 | `header.md` | Hand-written top of the README (citation, guidelines, plots) |
 | `update.py` | Generates `README.md` = `header.md` + tables built from the CSVs |
-| `check.py` | Validates the CSVs and checks startup websites and alumni source links are reachable |
+| `check.py` | Validates the CSVs (including `investors.csv`) and checks startup websites and alumni source links are reachable |
 | `dashboard/` | Static dashboard (`index.html`, `app.js`, `style.css`) served by GitHub Pages; reads the CSVs at load time, so it needs no regeneration |
 | `dashboard/preview.png` | Collage of the dashboard's charts, the clickable image at the top of the README. A snapshot: regenerate with `dashboard/preview/make.sh` (needs Pillow, Node 22+, google-chrome) after large data changes |
 | `LICENSE` | MIT, covering the scripts and the data |
@@ -86,6 +87,14 @@ build system and no CI.
   alumni websites are not fetched. A company may not be in both files.
 - Both `startups.csv` and `alumni.csv` are in case-insensitive alphabetical
   order by Company; insert new rows in their place.
+- `investors.csv`: a pair is only added when the startup's own website or the
+  investor's own portfolio page names it (not press, filings or aggregators
+  such as Crunchbase). `Company` must be in `startups.csv`. `Website` is the
+  investor's bare domain, checked by loading its homepage and finding the
+  investor's name there, and is the same on every row for that investor;
+  `NA` only for a private individual. Sorted by Company, then Investor, case
+  insensitive. When a startup moves to `alumni.csv` or `unverified.csv`,
+  remove its rows here.
 - Every CSV value arrives by pull request and is untrusted. Both scripts
   escape and validate it on purpose (Markdown injection in `update.py`, SSRF
   guard in `check.py`); keep those protections when changing

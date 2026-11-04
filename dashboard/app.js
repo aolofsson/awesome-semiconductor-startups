@@ -78,6 +78,8 @@
   let techInfo = new Map();     // Technology -> description
   let techOrder = [];           // fixed order, by total count across all data
   let world = null;             // topojson features, or null if it failed
+  let investors = new Map();    // investor name -> { name, website, companies: [] }
+  let investorsLoaded = false;  // investors.csv is optional; the page works without it
 
   const state = {
     q: "",
@@ -89,6 +91,10 @@
     sort: "name",
     dir: 1,
     open: null,
+    investor: new Set(),
+    invSort: "count",
+    invDir: -1,
+    netAll: false,
   };
   let hoverTech = null;
 
@@ -127,6 +133,7 @@
       value: null,
       link: null,
       linkText: null,
+      investors: [],
     };
     if (status === "Exited") {
       const e = g("Exit");
@@ -141,9 +148,38 @@
       if (/^https?:\/\/\S+$/i.test(link)) c.link = link;
       else if (link && link !== "NA") c.linkText = link;
     }
-    c.search = [c.name, c.desc, c.tech, c.acquirer || "", regionName(c.country), c.website || ""]
-      .join(" ").toLowerCase();
+    setSearch(c);
     return c;
+  }
+
+  function setSearch(c) {
+    c.search = [c.name, c.desc, c.tech, c.acquirer || "", regionName(c.country), c.website || "",
+      ...c.investors.map(i => i.name)].join(" ").toLowerCase();
+  }
+
+  // investors.csv: Company,Investor,Website. Website is a bare domain, or NA
+  // for a private individual. Rows naming an unknown company are skipped.
+  function attachInvestors(text) {
+    const byName = new Map(companies.map(c => [c.name, c]));
+    investors = new Map();
+    for (const r of d3.csvParse(text)) {
+      const c = byName.get(clean(r.Company)), name = clean(r.Investor);
+      if (!c || !name) continue;
+      const w = clean(r.Website).toLowerCase();
+      let inv = investors.get(name);
+      if (!inv) {
+        inv = { name, website: DOMAIN_RE.test(w) ? w : null, person: w === "na", companies: [] };
+        investors.set(name, inv);
+      }
+      if (inv.companies.includes(c)) continue;
+      inv.companies.push(c);
+      c.investors.push(inv);
+    }
+    for (const c of companies) {
+      c.investors.sort((a, b) => a.name.localeCompare(b.name));
+      setSearch(c);
+    }
+    investorsLoaded = true;
   }
 
   async function load() {
@@ -156,6 +192,11 @@
     for (const r of d3.csvParse(u)) if (clean(r.Company)) rows.push(normalise(r, "Unverified", id++));
     companies = rows;
     techInfo = new Map(d3.csvParse(t).map(r => [clean(r.Technology), clean(r.Description)]));
+    try {
+      attachInvestors(await fetchText("investors.csv"));
+    } catch (e) {
+      investorsLoaded = false;
+    }
     const counts = d3.rollup(companies, v => v.length, c => c.tech);
     techOrder = [...new Set([...techInfo.keys(), ...counts.keys()])]
       .filter(k => counts.get(k))
@@ -184,6 +225,7 @@
     if (except !== "status" && !state.status.has(c.status)) return false;
     if (except !== "tech" && state.tech.size && !state.tech.has(c.tech)) return false;
     if (except !== "country" && state.country.size && !state.country.has(c.country)) return false;
+    if (except !== "investor" && state.investor.size && !c.investors.some(i => state.investor.has(i.name))) return false;
     if (except !== "founded" && (state.from != null || state.to != null)) {
       if (c.founded == null) return false;
       if (state.from != null && c.founded < state.from) return false;
@@ -209,6 +251,9 @@
       if (COLUMNS.some(col => col.key === key)) state.sort = key;
     }
     state.open = clean(p.get("company")) || null;
+    // Investor names can contain commas, so each one is its own parameter.
+    state.investor = new Set(p.getAll("investor").map(clean).filter(n => investors.has(n)));
+    state.netAll = p.get("net") === "all";
   }
 
   function writeURL() {
@@ -221,6 +266,8 @@
     if (state.to != null) p.set("to", state.to);
     if (state.sort !== "name" || state.dir !== 1) p.set("sort", (state.dir < 0 ? "-" : "") + state.sort);
     if (state.open) p.set("company", state.open);
+    for (const n of state.investor) p.append("investor", n);
+    if (state.netAll) p.set("net", "all");
     const qs = p.toString();
     history.replaceState(null, "", qs ? `?${qs}` : location.pathname);
   }
@@ -500,6 +547,7 @@
       state.status = new Set(STATUSES.map(s => s.key));
       state.tech.clear();
       state.country.clear();
+      state.investor.clear();
       state.from = state.to = null;
       update();
     });
@@ -547,6 +595,7 @@
     }
     for (const t of state.tech) chip(t, () => state.tech.delete(t));
     for (const c of state.country) chip(regionName(c), () => state.country.delete(c));
+    for (const n of state.investor) chip(`Investor: ${n}`, () => state.investor.delete(n));
     if (state.from != null || state.to != null) {
       chip(`Founded ${state.from ?? "…"}–${state.to ?? "…"}`, () => { state.from = state.to = null; });
     }
@@ -947,6 +996,291 @@
   }
 
   // ---------------------------------------------------------------------------
+  // Investors list
+  // ---------------------------------------------------------------------------
+
+  const INV_COLUMNS = [
+    { key: "name", label: "Investor" },
+    { key: "website", label: "Website" },
+    { key: "count", label: "Companies", num: true },
+    { key: "portfolio", label: "Portfolio (click a company for details)", nosort: true },
+  ];
+
+  function buildInvestorHead() {
+    const tr = $("investors-table").querySelector("thead tr");
+    for (const col of INV_COLUMNS) {
+      const th = document.createElement("th");
+      th.scope = "col";
+      if (col.num) th.className = "num";
+      if (col.nosort) {
+        const span = document.createElement("span");
+        span.className = "th-plain";
+        span.textContent = col.label;
+        th.append(span);
+      } else {
+        const b = document.createElement("button");
+        b.type = "button";
+        b.textContent = col.label;
+        b.addEventListener("click", () => {
+          if (state.invSort === col.key) state.invDir = -state.invDir;
+          else { state.invSort = col.key; state.invDir = col.num ? -1 : 1; }
+          renderInvestors();
+        });
+        th.append(b);
+      }
+      tr.append(th);
+    }
+  }
+
+  // Investors of the companies that pass every filter except the investor
+  // filter, each with the companies it backs among them.
+  function investorPool() {
+    const pool = new Set(companies.filter(c => matches(c, "investor")));
+    const rows = [];
+    for (const inv of investors.values()) {
+      const cos = inv.companies.filter(c => pool.has(c));
+      if (cos.length) rows.push({ inv, cos });
+    }
+    return rows;
+  }
+
+  function investorSite(inv) {
+    // Built only from a validated bare domain; NA marks a private individual.
+    if (inv.website) return externalLink(`https://${inv.website}`, inv.website);
+    const s = document.createElement("span");
+    s.className = "muted";
+    s.textContent = inv.person ? "Private investor" : "";
+    return s;
+  }
+
+  function renderInvestors() {
+    const ths = $("investors-table").querySelectorAll("thead th");
+    INV_COLUMNS.forEach((col, i) => {
+      ths[i].setAttribute("aria-sort", col.nosort ? "none"
+        : col.key === state.invSort ? (state.invDir > 0 ? "ascending" : "descending") : "none");
+    });
+    const tbody = $("investors-table").querySelector("tbody");
+    if (!investorsLoaded) {
+      tbody.replaceChildren();
+      $("investors-count").textContent = "The investor list (investors.csv) could not be loaded.";
+      return;
+    }
+    const rows = investorPool();
+    const key = {
+      name: r => r.inv.name.toLowerCase(),
+      website: r => r.inv.website || "",
+      count: r => r.cos.length,
+    }[state.invSort] || (r => r.cos.length);
+    rows.sort((a, b) => {
+      const va = key(a), vb = key(b);
+      const ea = va === "", eb = vb === "";
+      if (ea || eb) return ea - eb;
+      const r = typeof va === "number" ? va - vb : va.localeCompare(vb);
+      return (r * state.invDir) || a.inv.name.localeCompare(b.inv.name);
+    });
+    const frag = document.createDocumentFragment();
+    for (const { inv, cos } of rows) {
+      const tr = document.createElement("tr");
+      tr.tabIndex = 0;
+      if (state.investor.has(inv.name)) tr.className = "selected";
+      tr.setAttribute("aria-selected", String(state.investor.has(inv.name)));
+      const name = document.createElement("td");
+      name.className = "co";
+      name.textContent = inv.name;
+      const site = document.createElement("td");
+      site.append(investorSite(inv));
+      const n = document.createElement("td");
+      n.className = "num";
+      n.textContent = fmtInt(cos.length);
+      const port = document.createElement("td");
+      port.className = "pills";
+      for (const c of [...cos].sort((a, b) => a.name.localeCompare(b.name))) {
+        const b = document.createElement("button");
+        b.type = "button";
+        b.className = "pill";
+        b.textContent = c.name;
+        b.addEventListener("click", e => { e.stopPropagation(); openDrawer(c); });
+        port.append(b);
+      }
+      tr.append(name, site, n, port);
+      const pick = () => { toggle(state.investor, inv.name); update(); };
+      tr.addEventListener("click", e => { if (!e.target.closest("a")) pick(); });
+      tr.addEventListener("keydown", e => { if (e.key === "Enter" && e.target === tr) pick(); });
+      frag.append(tr);
+    }
+    tbody.replaceChildren(frag);
+    const backed = new Set(rows.flatMap(r => r.cos)).size;
+    $("investors-count").textContent = rows.length
+      ? `${fmtInt(rows.length)} investors in ${fmtInt(backed)} companies. Click an investor to filter by it.`
+      : "No investors are recorded for the companies that match the filters.";
+  }
+
+  // ---------------------------------------------------------------------------
+  // Ecosystem map (force-directed network)
+  // ---------------------------------------------------------------------------
+
+  let net = null; // { key, svg, nodes, links, byId }
+
+  // Investors are kept if they back at least `min` companies; companies are
+  // those the kept investors back. The layout is computed once per scope and
+  // width, in a fixed number of ticks from d3's deterministic starting
+  // positions, so it is the same on every load and never animates. Filters
+  // only change which nodes are dimmed.
+  function buildNetwork(el, W) {
+    const min = state.netAll ? 1 : 2;
+    const invs = [...investors.values()].filter(i => i.companies.length >= min);
+    const nodes = [], links = [], byId = new Map();
+    const node = n => { byId.set(n.id, n); nodes.push(n); return n; };
+    for (const inv of invs.sort((a, b) => b.companies.length - a.companies.length || a.name.localeCompare(b.name))) {
+      node({ id: `i:${inv.name}`, kind: "inv", inv, r: 3 + 2.2 * Math.sqrt(inv.companies.length) });
+    }
+    for (const inv of invs) {
+      for (const c of inv.companies) {
+        const id = `c:${c.name}`;
+        if (!byId.has(id)) node({ id, kind: "co", c, r: 4 });
+        links.push({ source: `i:${inv.name}`, target: id });
+      }
+    }
+    if (!nodes.length) return null;
+    const H = Math.round(Math.min(720, Math.max(440, W * 0.62)));
+    const sim = d3.forceSimulation(nodes)
+      .force("link", d3.forceLink(links).id(d => d.id).distance(l => 24 + l.source.r).strength(0.5))
+      .force("charge", d3.forceManyBody().strength(d => d.kind === "inv" ? -70 - 8 * d.r : -40))
+      .force("collide", d3.forceCollide(d => d.r + 3))
+      // Pull harder vertically than horizontally so the cloud fills a wide panel,
+      // and strongly enough that small disconnected groups stay close.
+      .force("x", d3.forceX(0).strength(0.035))
+      .force("y", d3.forceY(0).strength(0.035 * W / H))
+      .stop();
+    for (let i = 0; i < 400; i++) sim.tick();
+    for (const n of nodes) n.adj = new Set();
+    for (const l of links) { l.source.adj.add(l.target); l.target.adj.add(l.source); }
+
+    const [x0, x1] = d3.extent(nodes, n => n.x), [y0, y1] = d3.extent(nodes, n => n.y);
+    const pad = 70;
+    const bw = x1 - x0 + 2 * pad, bh = y1 - y0 + 2 * pad;
+    const k = Math.min(W / bw, H / bh);
+    el.replaceChildren();
+    const svg = d3.select(el).append("svg")
+      .attr("viewBox", `0 0 ${W} ${H}`).attr("width", W).attr("role", "img");
+    const g = svg.append("g");
+    const fit = d3.zoomIdentity.translate(W / 2, H / 2).scale(k).translate(-(x0 + x1) / 2, -(y0 + y1) / 2);
+    const zoom = d3.zoom().scaleExtent([k * 0.8, k * 8])
+      // Plain scrolling keeps scrolling the page; Ctrl/Cmd + scroll zooms.
+      .filter(e => e.type === "wheel" ? (e.ctrlKey || e.metaKey) : !e.button)
+      .on("zoom", e => g.attr("transform", e.transform));
+    svg.call(zoom).call(zoom.transform, fit);
+
+    g.append("g").attr("class", "links").selectAll("line").data(links).join("line")
+      .attr("x1", l => l.source.x).attr("y1", l => l.source.y)
+      .attr("x2", l => l.target.x).attr("y2", l => l.target.y);
+    const nodeSel = g.append("g").attr("class", "nodes").selectAll("g").data(nodes).join("g")
+      .attr("class", n => `node ${n.kind}`)
+      .attr("transform", n => `translate(${n.x},${n.y})`);
+    nodeSel.filter(n => n.kind === "inv").append("circle").attr("r", n => n.r);
+    nodeSel.filter(n => n.kind === "co").append("rect")
+      .attr("x", -4).attr("y", -3.2).attr("width", 8).attr("height", 6.4).attr("rx", 0.8);
+    // Label the largest investors directly, in a layer above every node so no
+    // circle covers a label; everything else is in the tooltip.
+    // Positions are tried right, left, above, below; a label that fits
+    // nowhere is left to the tooltip. Widths are estimated at 11px type.
+    const placed = [];
+    const top = [];
+    const hit = (a, b) => a.x0 < b.x1 && b.x0 < a.x1 && a.y0 < b.y1 && b.y0 < a.y1;
+    for (const n of nodes.filter(m => m.kind === "inv").slice(0, 15)) {
+      const w = n.inv.name.length * 6.3, h = 12, gap = n.r + 3;
+      const tries = [
+        { x: n.x + gap, y: n.y, anchor: "start" },
+        { x: n.x - gap, y: n.y, anchor: "end" },
+        { x: n.x, y: n.y - gap - h / 2, anchor: "middle" },
+        { x: n.x, y: n.y + gap + h / 2, anchor: "middle" },
+      ];
+      for (const t of tries) {
+        const x0 = t.anchor === "start" ? t.x : t.anchor === "end" ? t.x - w : t.x - w / 2;
+        const box = { x0, x1: x0 + w, y0: t.y - h / 2, y1: t.y + h / 2 };
+        if (placed.some(b => hit(b, box))) continue;
+        placed.push(box);
+        top.push({ n, ...t });
+        break;
+      }
+    }
+    const labelSel = g.append("g").attr("class", "labels").selectAll("text").data(top).join("text")
+      .attr("class", "net-label")
+      .attr("x", d => d.x).attr("y", d => d.y).attr("dy", "0.35em").attr("text-anchor", d => d.anchor)
+      .text(d => d.n.inv.name);
+
+    const tipFor = (e, n) => {
+      if (n.kind === "co") companyTip(e, n.c);
+      else showTip(e, n.inv.name, n.inv.website || (n.inv.person ? "Private investor" : ""),
+        [{ value: fmtInt(n.inv.companies.length), label: n.inv.companies.length === 1 ? "company" : "companies" }]);
+    };
+    nodeSel
+      .on("pointerenter", (e, n) => {
+        svg.classed("tracing", true);
+        nodeSel.classed("lit", m => m === n || n.adj.has(m));
+        labelSel.classed("lit", d => d.n === n || n.adj.has(d.n));
+        g.selectAll(".links line").classed("lit", l => l.source === n || l.target === n);
+      })
+      .on("pointermove", tipFor)
+      .on("pointerleave", () => {
+        svg.classed("tracing", false);
+        nodeSel.classed("lit", false);
+        labelSel.classed("lit", false);
+        g.selectAll(".links line").classed("lit", false);
+        hideTip();
+      })
+      .on("click", (e, n) => {
+        if (n.kind === "co") openDrawer(n.c);
+        else { toggle(state.investor, n.inv.name); update(); }
+      });
+    const nInv = nodes.filter(n => n.kind === "inv").length;
+    svg.attr("aria-label", `Network of ${nInv} investors and ${nodes.length - nInv} companies with ${links.length} investments. The investors table lists the same connections.`);
+    return { key: `${min}:${W}`, svg, nodeSel, labelSel, links: g.selectAll(".links line") };
+  }
+
+  function renderNetwork() {
+    const el = $("network");
+    if (!investorsLoaded || !investors.size) {
+      net = null;
+      emptyChart(el, "No investor data is available.");
+      return;
+    }
+    const W = width(el);
+    if (!net || net.key !== `${state.netAll ? 1 : 2}:${W}`) net = buildNetwork(el, W);
+    if (!net) { emptyChart(el, "No investors back more than one company."); return; }
+    const on = n => n.kind === "co" ? matches(n.c) : n.inv.companies.some(c => matches(c));
+    net.nodeSel
+      .classed("off", n => !on(n))
+      .classed("selected", n => n.kind === "inv" ? state.investor.has(n.inv.name) : state.open === n.c.name);
+    net.links.classed("off", l => !on(l.source) || !on(l.target));
+    net.labelSel.classed("off", d => !on(d.n));
+    const lg = $("network-legend");
+    if (!lg.childElementCount) {
+      // Shapes, not colours, tell the two node kinds apart.
+      const item = (shape, text) => {
+        const s = document.createElement("span");
+        const svg = document.createElementNS("http://www.w3.org/2000/svg", "svg");
+        svg.setAttribute("viewBox", "-7 -7 14 14");
+        svg.setAttribute("width", "14");
+        svg.setAttribute("height", "14");
+        svg.setAttribute("aria-hidden", "true");
+        svg.classList.add("net-key");
+        const el = document.createElementNS("http://www.w3.org/2000/svg", shape);
+        if (shape === "circle") { el.setAttribute("r", "5"); el.setAttribute("class", "inv"); }
+        else {
+          for (const [k, v] of [["x", -4], ["y", -3.2], ["width", 8], ["height", 6.4], ["rx", 0.8]]) el.setAttribute(k, v);
+          el.setAttribute("class", "co");
+        }
+        svg.append(el);
+        s.append(svg, text);
+        lg.append(s);
+      };
+      item("circle", "Investor, sized by number of companies");
+      item("rect", "Startup");
+    }
+  }
+
+  // ---------------------------------------------------------------------------
   // Table
   // ---------------------------------------------------------------------------
 
@@ -1079,6 +1413,20 @@
       // quiet often lapses and is re-registered by someone else.
       add("Website", c.status === "Active" ? externalLink(`https://${c.website}`, c.website) : c.website);
     }
+    if (c.investors.length) {
+      const wrap = document.createElement("span");
+      wrap.className = "pills";
+      for (const inv of c.investors) {
+        const b = document.createElement("button");
+        b.type = "button";
+        b.className = "pill";
+        b.textContent = inv.name;
+        b.title = `Show companies backed by ${inv.name}`;
+        b.addEventListener("click", () => { state.investor = new Set([inv.name]); update(); });
+        wrap.append(b);
+      }
+      add("Investors", wrap);
+    }
     if (c.status === "Exited") {
       add("Exit", c.exitType === "Acquired" ? `Acquired by ${c.acquirer}` : c.exitType);
       add("Exit year", c.exitYear ?? "Unknown");
@@ -1103,6 +1451,7 @@
     if (focus) $("drawer-close").focus();
     writeURL();
     renderWafer();
+    if (net) renderNetwork();
   }
 
   function closeDrawer() {
@@ -1111,6 +1460,7 @@
     state.open = null;
     writeURL();
     renderWafer();
+    if (net) renderNetwork();
     if (lastFocus && document.contains(lastFocus)) lastFocus.focus();
   }
 
@@ -1127,11 +1477,12 @@
 
   function exportCSV() {
     const head = ["Company", "Status", "Website", "Technology", "Country", "Founded", "Description",
-      "Exit", "Year", "Value($M)", "Link"];
+      "Exit", "Year", "Value($M)", "Link", "Investors"];
     const lines = [head.join(",")];
     for (const c of sorted(companies.filter(x => matches(x)))) {
       lines.push([c.name, c.status, c.website, c.tech, c.country, c.founded, c.desc,
-        c.exit, c.exitYear, c.value, c.link || c.linkText].map(csvCell).join(","));
+        c.exit, c.exitYear, c.value, c.link || c.linkText,
+        c.investors.map(i => i.name).join("; ")].map(csvCell).join(","));
     }
     const blob = new Blob([lines.join("\n") + "\n"], { type: "text/csv;charset=utf-8" });
     const a = document.createElement("a");
@@ -1177,6 +1528,8 @@
     renderFounded();
     renderExits(list);
     renderTable(list);
+    renderInvestors();
+    renderNetwork();
   }
 
   async function main() {
@@ -1196,6 +1549,9 @@
     layoutWafer();
     buildControls();
     buildTableHead();
+    buildInvestorHead();
+    $("net-all").checked = state.netAll;
+    $("net-all").addEventListener("change", e => { state.netAll = e.target.checked; update(); });
     legend($("status-legend"), STATUSES.map(s => ({ label: s.key, color: s.color })));
     $("theme-toggle").textContent = `Theme: ${currentTheme()}`;
     $("theme-toggle").addEventListener("click", () => {

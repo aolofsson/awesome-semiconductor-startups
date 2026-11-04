@@ -37,6 +37,7 @@ BLOCKED_CODES = {401, 403, 405, 406, 409, 429, 503}
 STARTUP_FIELDS = ["Company", "Website", "Technology", "Country", "Founded", "Description"]
 ALUMNI_FIELDS = STARTUP_FIELDS + ["Exit", "Year", "Value($M)", "Link"]
 TECH_FIELDS = ["Technology", "Description"]
+INVESTOR_FIELDS = ["Company", "Investor", "Website"]
 
 COUNTRY_RE = re.compile(r"[A-Z]{2}")
 # Exit is either an exit type or an acquirer name, which may be multi-word
@@ -400,6 +401,50 @@ def validate_alumni(path, valid_tech, issues):
     return entries, seen_company
 
 
+def validate_investors(path, startup_names, issues):
+    """Validate investors.csv: one row per company-investor pair.
+
+    Company must be in startups.csv. Website is the investor's bare domain,
+    or NA for a private individual, and must be the same on every row for
+    that investor. Rows are sorted by Company, then Investor. Investor
+    websites are not fetched.
+    """
+    count = 0
+    site = {}
+    seen_pair = {}
+    prev = None
+    for n, row in read_rows(path, INVESTOR_FIELDS, issues):
+        c, inv, w = row["Company"], row["Investor"], row["Website"]
+        if not c or not inv:
+            issues.append(("ERROR", path, n, "Empty Company or Investor"))
+            continue
+        if c.lower() not in startup_names:
+            issues.append(("ERROR", path, n, f"Company not in startups.csv: {c}"))
+        pair = (c.lower(), inv.lower())
+        if pair in seen_pair:
+            issues.append(("ERROR", path, n, f"Duplicate pair: {c}, {inv} "
+                                             f"(first seen on line {seen_pair[pair]})"))
+            continue
+        seen_pair[pair] = n
+        if w != "NA":
+            domain, err = check_domain(w)
+            if err:
+                issues.append(("ERROR", path, n, f"Invalid Website: {w} - {err} (Investor: {inv})"))
+            else:
+                w = domain
+        first = site.setdefault(inv.lower(), (w, n))
+        if first[0] != w:
+            issues.append(("ERROR", path, n, f"Website {w} for {inv} differs from "
+                                             f"{first[0]} on line {first[1]}"))
+        key = (c.lower(), inv.lower())
+        if prev is not None and key < prev:
+            issues.append(("WARNING", path, n, f"Out of order: {c}, {inv} "
+                                               "(sort by Company, then Investor)"))
+        prev = key
+        count += 1
+    return count
+
+
 ###############################################################################
 # Parallel URL check
 ###############################################################################
@@ -517,6 +562,12 @@ def main():
     print("=" * 60)
     unverified = validate_startups("unverified.csv", valid_tech, issues)
     print(f"    {len(unverified)} valid rows (websites not checked)\n")
+
+    print("=" * 60)
+    print(" 3c. Validating investors.csv ...")
+    print("=" * 60)
+    n_inv = validate_investors("investors.csv", {e["company"].lower() for e in entries}, issues)
+    print(f"    {n_inv} valid rows (investor websites not checked)\n")
 
     print("=" * 60)
     if args.skip_urls:

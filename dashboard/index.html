@@ -34,7 +34,7 @@
 <form class="filters" id="filters" role="search" aria-label="Filter companies">
   <label class="search">
     <span class="sr-only">Search</span>
-    <input type="search" id="q" placeholder="Search name, description, acquirer" autocomplete="off">
+    <input type="search" id="q" placeholder="Search name, description, acquirer, investor" autocomplete="off">
   </label>
   <fieldset class="status-toggle" id="status-toggle">
     <legend class="sr-only">Status</legend>
@@ -73,6 +73,29 @@
         <tbody></tbody>
       </table>
     </div>
+  </section>
+
+  <section class="investors-panel" aria-labelledby="investors-h">
+    <div class="panel-head">
+      <h2 id="investors-h">Investors</h2>
+      <p class="note" id="investors-count"></p>
+    </div>
+    <div class="table-scroll investors-scroll">
+      <table id="investors-table">
+        <thead><tr></tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </section>
+
+  <section class="network-panel" aria-labelledby="network-h">
+    <div class="panel-head">
+      <h2 id="network-h">Ecosystem map</h2>
+      <p class="note" id="network-note">Investors (circles) linked to the startups they back (squares). Hover to trace connections, click an investor to filter. Drag to pan, Ctrl+scroll to zoom.</p>
+      <label class="net-toggle"><input type="checkbox" id="net-all"> Show investors with one company</label>
+    </div>
+    <div id="network" class="chart network"></div>
+    <div class="legend" id="network-legend"></div>
   </section>
 
   <section class="wafer-panel" aria-labelledby="wafer-h">
@@ -139,7 +162,7 @@
 </main>
 
 <footer class="colophon">
-  <p>Data: <code>startups.csv</code>, <code>alumni.csv</code> and <code>unverified.csv</code> in the repository, MIT licensed. Corrections and additions are welcome as pull requests.</p>
+  <p>Data: <code>startups.csv</code>, <code>alumni.csv</code>, <code>unverified.csv</code> and <code>investors.csv</code> in the repository, MIT licensed. Corrections and additions are welcome as pull requests.</p>
 </footer>
 
 <aside class="drawer" id="drawer" aria-labelledby="drawer-name" hidden>

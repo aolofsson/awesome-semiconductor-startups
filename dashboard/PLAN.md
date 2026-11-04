@@ -161,3 +161,65 @@ These were made during the build rather than asked about:
 - **Order:** "can you reorder the dashboard to start with the Companies".
   The table moved to the top, under the filters; it scrolls inside a box
   at most 72% of the window tall, so the charts follow one screen down.
+
+## Investors
+
+Request: "add an investors list with investor, link, and companies and
+also add a Force-Directed Network Graph (Ecosystem Map) to show
+connections between investors and startups".
+
+Data: `investors.csv` (`Company,Investor,Website`), one row per
+company–investor pair for active startups. Sources are limited to the
+startup's own website or the investor's own portfolio page. `Website` is
+the investor's verified domain, or `NA` for a private individual.
+
+**Where should the two new sections go?**
+
+- After Companies **(chosen)**: Companies, Investors, Ecosystem map, then
+  the wafer and other charts.
+- At the end, after Exits.
+
+**What should the ecosystem map show by default?**
+
+- Investors with 2+ companies **(chosen)**, with a toggle to show all.
+- Everything.
+- Top 50 investors.
+
+**Should investors also appear in the README?**
+
+- Dashboard only **(chosen)**.
+- An Investors column in the startups table.
+- A separate Investors table.
+
+Design:
+
+- **Investors list:** sortable table of Investor, Website, number of
+  companies and the companies themselves. It lists the investors of the
+  currently filtered companies; clicking one adds an investor filter (a
+  chip, and `?investor=` in the URL) that narrows every view to that
+  portfolio. The company drawer gains an Investors row.
+- **Ecosystem map:** a bipartite d3-force graph, with companies as
+  squares like the wafer dies and investors as circles sized by number
+  of companies. The layout is computed in a fixed number of ticks before
+  drawing, so it is stable and does not animate. Hovering lights up a
+  node's neighbours. Clicking an investor filters; clicking a company
+  opens the drawer. Nodes outside the current filters go dark. Only the
+  largest investors are labelled. Nodes use ink tones rather than status
+  colours, because every node is an active company.
+- **Checks:** `check.py` validates the header, that every company is in
+  `startups.csv`, that each website is a domain or `NA` and the same on
+  every row for an investor, that there are no duplicate pairs, and the
+  sort order.
+
+Built as planned. Build notes:
+
+- `investors.csv` is optional to the page: if it fails to load, the two
+  sections say so and everything else works.
+- The investor filter is one URL parameter per investor
+  (`?investor=Intel%20Capital&investor=...`), because names can contain
+  commas. `?net=all` shows every investor on the map.
+- Search also matches investor names, the CSV export gains an Investors
+  column, and the company drawer lists its investors as buttons that filter.
+- Map labels sit in a layer above the nodes and are placed right, left,
+  above or below their node; a label that fits nowhere is left to the
+  tooltip. Plain scrolling scrolls the page; Ctrl/Cmd + scroll zooms.
