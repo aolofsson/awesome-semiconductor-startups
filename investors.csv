@@ -1,8 +1,17 @@
 Company,Investor,Website
+2D Photonics,Bosch Ventures,bosch.ventures
+3D Glass Solutions,Cambium Capital,cambium.vc
 3D Glass Solutions,Lockheed Martin Ventures,lockheedmartin.com
 Active Layer Parametrics,Silicon Catalyst,siliconcatalyst.com
 Agentrys,Etna Labs,etnalabs.com
 Agentrys,MediaTek,mediatek.com
+Ahead Computing,Cambium Capital,cambium.vc
+Ahead Computing,General Innovation Capital Partners,generalinnovation.com
+Ahead Computing,Stata Capital Partners,statacapital.com
+AiNEKKO,Silicon Catalyst,siliconcatalyst.com
+Akhetonics,Matterwave Ventures,matterwave.vc
+AlixLabs,Forward.one,forward.one
+AlixLabs,Stephen Industries,stephenindustries.com
 Andapt,Atlantic Bridge,abven.com
 Andapt,Cisco,cisco.com
 Andapt,Intel Capital,intelcapital.com
@@ -24,6 +33,7 @@ Anello,Purdue Research Foundation,prf.org
 Anello,Santuri Ventures,santuriventures.com
 Anello,Trousdale Ventures,trousdale.vc
 Anello,Washington Harbour Partners,washingtonharbour.com
+Aniah,Supernova Invest,supernovainvest.com
 Applied Brain Research,Garage Capital,garage.vc
 Applied Brain Research,Silicon Catalyst,siliconcatalyst.com
 Applied Brain Research,Silicon Catalyst Angels,siliconcatalystangels.com
@@ -31,6 +41,8 @@ Applied Brain Research,Silicon Catalyst Ventures,sicatalystvc.com
 Applied Brain Research,Two Small Fish Ventures,twosmallfish.vc
 Arago,C4 Ventures,c4v.com
 Arago,Earlybird Venture Capital,earlybird.com
+Architect Labs,Kindred Ventures,kindredventures.com
+Arycs Technologies,Photon Ventures,photonventures.vc
 Aspinity,Amazon Alexa Fund,developer.amazon.com
 Aspinity,Anzu Partners,anzupartners.com
 Aspinity,Birchmere Ventures,birchmerevc.com
@@ -44,14 +56,29 @@ Astrus,Plug and Play,plugandplaytechcenter.com
 Astrus,Pradeep Sindhu,NA
 Astrus,Raymond Chik,NA
 Astrus,RiSC Capital,risc.capital
+Atom Computing,1517 Fund,1517fund.com
+Atom Computing,Alumni Ventures,av.vc
 Atom Computing,Lockheed Martin Ventures,lockheedmartin.com
+Attotude,Open Field Capital,ofcap.com
+Attotude,TGVP,tgvp.vc
+Attotude,Wing Venture Capital,wing.vc
+Avicena,Open Field Capital,ofcap.com
+Avicena,Prosperity7 Ventures,prosperity7vc.com
+Avicena,Samsung Catalyst Fund,samsungcatalyst.com
+Axelera,Samsung Catalyst Fund,samsungcatalyst.com
+Ayar Labs,Factorial,factorialfunds.com
+Ayar Labs,G Vision Capital,gvisioncap.com
+Ayar Labs,Light Street Capital,lightstreet.com
 Ayar Labs,Lockheed Martin Ventures,lockheedmartin.com
+Ayar Labs,Playground Global,playground.vc
 Ayar Labs,Silicon Catalyst,siliconcatalyst.com
+Ayar Labs,Silicon Catalyst Ventures,sicatalystvc.com
 Azimuth AI,AUM Ventures,aumvc.com
 Azimuth AI,Cyient,cyient.com
 Azimuth AI,Growth Factory,growthfactory.vc
 Azimuth AI,Jetha Global,jethaglobal.com
 Azimuth AI,Moneta Ventures,monetavc.com
+Baya Systems,Matrix Partners,matrix.vc
 Beam,Silicon Catalyst,siliconcatalyst.com
 Belfort,Anagram,anagram.xyz
 Belfort,Credibly Neutral,crediblyneutral.com
@@ -71,10 +98,15 @@ BoolSi,Coalition Ventures,coalition.vc
 BoolSi,Fifth Quarter Ventures,fifthquarter.vc
 BoolSi,Fine Structure Ventures,finestructure.vc
 BoolSi,Pillar VC,pillar.vc
+Brilliance RGB,Photon Ventures,photonventures.vc
 Bronco AI,8VC,8vc.com
 Bronco AI,Elad Gil,NA
 Bronco AI,SV Angel,svangel.com
+Cambridge Terahertz,Felicis,felicis.com
+Cambridge Terahertz,MetaVC Partners,metaventurepartners.com
 Cambridge Terahertz,Silicon Catalyst,siliconcatalyst.com
+Cambridge Terahertz,Silicon Catalyst Ventures,sicatalystvc.com
+Cambridge Terahertz,Stata Capital Partners,statacapital.com
 Celus,Capmont,cmont.com
 Celus,Earlybird Venture Capital,earlybird.com
 Celus,Plug and Play,plugandplaytechcenter.com
@@ -87,6 +119,7 @@ ChipAgents,MediaTek,mediatek.com
 ChipAgents,Micron,micron.com
 ChipAgents,Samsung,samsung.com
 Chipmind,Founderful,founderful.com
+ChipNexus,Cambium Capital,cambium.vc
 Circuit Mind,Blackhorn Ventures,blackhornvc.com
 Circuit Mind,Creative Ventures,creativeventures.vc
 Circuit Mind,Differential Ventures,differential.vc
@@ -95,6 +128,7 @@ Circuit Mind,Episode 1 Ventures,episode1.com
 Circuit Mind,In-Q-Tel,iqt.org
 Circuit Mind,Norwest Venture Partners,norwest.com
 Circuit Mind,Third Prime,thirdprime.vc
+Codasip,Matterwave Ventures,matterwave.vc
 Cognichip,Candou Ventures,candouventures.com
 Cognichip,FPV Ventures,fpvventures.com
 Cognichip,Lip-Bu Tan,NA
@@ -103,7 +137,15 @@ Cognichip,Mayfield,mayfield.com
 Cognichip,SBI Investment,sbinvestment.co.jp
 Cognichip,Seligman Ventures,seligman.com
 Cortisonic,Lockheed Martin Ventures,lockheedmartin.com
+d-Matrix,Entrada Ventures,entradaventures.com
+d-Matrix,Foothill Ventures,foothill.ventures
+d-Matrix,G Vision Capital,gvisioncap.com
+d-Matrix,Playground Global,playground.vc
+d-Matrix,Triatomic Capital,triatomic.ai
+Deteqt,Main Sequence Ventures,mseq.vc
 Diamond Quanta,Silicon Catalyst,siliconcatalyst.com
+Diraq,imec.xpand,imecxpand.com
+Diraq,Main Sequence Ventures,mseq.vc
 Dover,Hub Angels,hubangels.com
 Dover,Hyperplane Venture Capital,hyperplane.vc
 Dover,Qualcomm Ventures,qualcommventures.com
@@ -111,7 +153,11 @@ Dover,Silicon Catalyst,siliconcatalyst.com
 EdgeCortix,Global Hands-On VC,ghovc.com
 EdgeCortix,Renesas Electronics,renesas.com
 EdgeCortix,SBI Investment,sbinvestment.co.jp
+EdgeQ,5G Ventures,5gventures.gr
+EdgeQ,Fusion Fund,fusionfund.com
 EdgeQ,Lockheed Martin Ventures,lockheedmartin.com
+EFFECT Photonics,Matterwave Ventures,matterwave.vc
+EFFECT Photonics,Photon Ventures,photonventures.vc
 Efficient Computer,Eclipse,eclipse.capital
 Efficient Computer,Mana Ventures,mana.vc
 Efficient Computer,Overmatch Ventures,overmatch.vc
@@ -120,7 +166,10 @@ Efficient Computer,Triatomic Capital,triatomic.ai
 Efficient Computer,Union Square Ventures,usv.com
 Eliyan,Cisco Investments,ciscoinvestments.com
 Eliyan,Lumentum,lumentum.com
+Eliyan,Open Field Capital,ofcap.com
+Eliyan,Samsung Catalyst Fund,samsungcatalyst.com
 Eliyan,Seligman Ventures,seligman.com
+Eliyan,TGVP,tgvp.vc
 EnCharge AI,AlleyCorp,alleycorp.com
 EnCharge AI,Alumni Ventures,av.vc
 EnCharge AI,Anzu Partners,anzupartners.com
@@ -128,6 +177,8 @@ EnCharge AI,E14 Fund,e14.vc
 EnCharge AI,S5V,s5v.com
 EnCharge AI,Scout Ventures,scout.vc
 EnCharge AI,Silicon Catalyst Angels,siliconcatalystangels.com
+Enlightra,Asymmetry Ventures,asymmetry.vc
+Enlightra,TRAC,trac.vc
 enzzo,AI Studio Fund (Mayfield / Pioneer Square Labs),mayfield.com
 enzzo,Pioneer Square Ventures,psl.com
 EPIC Microsystems,A&E Investments,aeinvestments.com
@@ -141,6 +192,7 @@ Equal1,Elkstone,elkstonepartners.com
 Equal1,Ireland Strategic Investment Fund,isif.ie
 Equal1,Matterwave Ventures,matterwave.vc
 Eridan,Silicon Catalyst,siliconcatalyst.com
+Eridan,Silicon Catalyst Ventures,sicatalystvc.com
 Eridu AI,Black Opal Ventures,blackopalventures.com
 Eridu AI,Bosch Ventures,bosch.ventures
 Eridu AI,Capricorn Investment Group,capricornllc.com
@@ -175,6 +227,7 @@ Etched,Ben Spector,NA
 Etched,Fei-Fei Li,NA
 Etched,Geoffrey Hinton,NA
 Etched,Hudson River Trading,hudsonrivertrading.com
+Etched,Hummingbird Ventures,hummingbird.vc
 Etched,Irwan Bello,NA
 Etched,Jane Street,janestreet.com
 Etched,Jerry Tworek,NA
@@ -193,7 +246,7 @@ Etched,Tri Dao,NA
 Etched,VentureTech Alliance,vtalliance.com
 Ethernovia,AMD,amd.com
 Ethernovia,Fall Line Capital,fall-line-capital.com
-Ethernovia,Maverick Silicon,maverickcapital.com
+Ethernovia,Maverick Capital,maverickcapital.com
 Ethernovia,Porsche SE,porsche-se.com
 Ethernovia,Qualcomm Ventures,qualcommventures.com
 Ethernovia,Socratic Partners,socraticpartners.com
@@ -202,6 +255,7 @@ Ethernovia,VentureTech Alliance,vtalliance.com
 Ethernovia,Western Digital,westerndigital.com
 Exo Imaging,Action Potential Venture Capital,ap-vc.com
 Exo Imaging,BOLD Capital Partners,boldcap.com
+Exo Imaging,Creative Ventures,creativeventures.vc
 Exo Imaging,Qubit Health Capital,qubithealth.com
 Exo Imaging,Sands Capital,sandscapital.com
 Extropic,Buckley Ventures,buckleyventures.com
@@ -226,11 +280,15 @@ Falcomm,Draper Cygnus,drapercygnus.vc
 Falcomm,Helium-3 Ventures,helium-3ventures.com
 Falcomm,Little Green Bamboo,littlegreenbamboo.com
 Falcomm,Squadra Ventures,squadra.vc
+femtoAI,Fine Structure Ventures,finestructure.vc
+Finwave Semiconductor,Fine Structure Ventures,finestructure.vc
+Finwave Semiconductor,Foothill Ventures,foothill.ventures
 Flow Computing,Butterfly Ventures,butterfly.vc
 Flow Computing,FOV Ventures,fov.ventures
 Flow Computing,Sarsia,sarsia.com
 Flow Computing,Stephen Industries,stephenindustries.com
 Flow Computing,Superhero Capital,superherocapital.com
+Flux,8VC,8vc.com
 FMC,Air Liquide,airliquide.com
 FMC,Bosch Ventures,bosch.ventures
 FMC,eCAPITAL,ecapital.vc
@@ -253,11 +311,17 @@ Fractile,Founders Fund,foundersfund.com
 Fractile,Kindred Capital,kindredcapital.vc
 Fractile,NATO Innovation Fund,nif.fund
 Fractile,Oxford Science Enterprises,oxfordscienceenterprises.com
+Furiosa,IMM Investment,imminvestment.com
 Generation Alpha Transistor,Berkeley SkyDeck,skydeck.berkeley.edu
 Generation Alpha Transistor,Matrix Partners,matrix.vc
 Generation Alpha Transistor,Root Ventures,root.vc
 Gigantor Technologies,Silicon Catalyst,siliconcatalyst.com
+HiLight Semiconductor,Atlantic Bridge,abven.com
+HYFIX,Catapult Ventures,catapult.vc
+HyperLight,Foothill Ventures,foothill.ventures
 InCore Semi,Peak XV Partners,peakxv.com
+iNGage,Supernova Invest,supernovainvest.com
+Innatera,Matterwave Ventures,matterwave.vc
 Ipronics,Amadeus Capital Partners,amadeuscapital.com
 Ipronics,Bosch Ventures,bosch.ventures
 Ipronics,Build Collective,buildc.com
@@ -265,13 +329,14 @@ Ipronics,Catalight,catalight.uni-jena.de
 Ipronics,Criteria Venture Tech,criteriaventuretech.com
 Ipronics,Fine Structure Ventures,finestructure.vc
 Ipronics,Light Street Capital,lightstreet.com
-Ipronics,Maverick Silicon,maverickcapital.com
+Ipronics,Maverick Capital,maverickcapital.com
 Ipronics,NVIDIA,nvidia.com
 Ipronics,The Tate Family Trust,NA
 Ipronics,Triatomic Capital,triatomic.ai
 Jitx,Sequoia Capital,sequoiacap.com
 Jitx,Y Combinator,ycombinator.com
 Jmem Tek,Silicon Catalyst,siliconcatalyst.com
+Jmem Tek,Silicon Catalyst Ventures,sicatalystvc.com
 Kandou AI,Bessemer Venture Partners,bvp.com
 Kandou AI,Capital Group,capitalgroup.com
 Kandou AI,Climb Ventures,climbventures.com
@@ -279,7 +344,7 @@ Kandou AI,DC Investments,dcinvestmentpartners.com
 Kandou AI,Fathom Fund,ff.vc
 Kandou AI,Fayeweather Capital Partners,fayerweathercapital.com
 Kandou AI,Forestay Capital,forestay.vc
-Kandou AI,Maverick Silicon,maverickcapital.com
+Kandou AI,Maverick Capital,maverickcapital.com
 Kandou AI,Raging Capital Ventures,ragingcapital.com
 Kandou AI,SoftBank Group,group.softbank
 Kandou AI,Swisscanto,swisscanto.com
@@ -295,12 +360,19 @@ Kepler Computing,NGP,ngpcap.com
 Kepler Computing,Pat Gelsinger,NA
 Kepler Computing,Scott Gray,NA
 Kepler Computing,Slow Ventures,slow.co
+Lace Lithography,Vsquared Ventures,vsquared.vc
 Lemurian Labs,Silicon Catalyst,siliconcatalyst.com
 Lightmatter,Lockheed Martin Ventures,lockheedmartin.com
+Lightmatter,Matrix Partners,matrix.vc
+Lightmatter,Spark Capital,sparkcapital.com
+LightXcelerate,Foothill Ventures,foothill.ventures
+LightXcelerate,G Vision Capital,gvisioncap.com
 Literal Labs,Cambridge Future Tech,camfuturetech.com
 Literal Labs,Mercuri,mercuri.vc
 Literal Labs,SVV (Sure Valley Ventures),svv.ai
+Lumai,Photon Ventures,photonventures.vc
 Lumotive,East Bridge Capital,eastbridgecapital.com
+Lumotive,Grazia Equity,grazia.com
 Lumotive,ITHCA,ithca.om
 Lumotive,MetaVC Partners,metaventurepartners.com
 Lumotive,Samsung,samsung.com
@@ -318,9 +390,15 @@ MangoBoost,Stonebridge Ventures,stonebridgeventures.vc
 Matx,Jane Street,janestreet.com
 Matx,Situational Awareness LP,situational-awareness.ai
 Matx,Spark Capital,sparkcapital.com
+Matx,SV Angel,svangel.com
 Matx,Triatomic Capital,triatomic.ai
+Menlo Microsystems,Build Collective,buildc.com
 Mentium Technologies,Silicon Catalyst,siliconcatalyst.com
+Mentium Technologies,Silicon Catalyst Ventures,sicatalystvc.com
+Metalenz,Foothill Ventures,foothill.ventures
+MicroAlign,Photon Ventures,photonventures.vc
 mmTron,Silicon Catalyst,siliconcatalyst.com
+mmTron,Silicon Catalyst Ventures,sicatalystvc.com
 Morphing Machines,DeVC,devc.com
 Morphing Machines,Golden Sparrow Ventures,goldensparrow.vc
 Morphing Machines,Hero Enterprise,herocorp.com
@@ -346,24 +424,35 @@ Movandi,Celesta Capital,celesta.vc
 Movandi,Cota Capital,cotacapital.com
 Movandi,DNX Ventures,dnx.vc
 Movandi,Murata,murata.com
+Movellus,Candou Ventures,candouventures.com
+Movellus,Stata Capital Partners,statacapital.com
 mPower Technology,Lockheed Martin Ventures,lockheedmartin.com
 Mueon,Geodesic Capital,geodesiccap.com
 Mueon,In-Q-Tel,iqt.org
 Mueon,Intel Capital,intelcapital.com
 Mueon,M Ventures,m-ventures.com
-Mueon,Maverick Silicon,maverickcapital.com
+Mueon,Maverick Capital,maverickcapital.com
 Mueon,Oregon Venture Fund,oregonventurefund.com
 Mueon,Wellington Funds,wellington.com
+Mythic,Catapult Ventures,catapult.vc
 Mythic,Lockheed Martin Ventures,lockheedmartin.com
+Nanusens,Criteria Venture Tech,criteriaventuretech.com
 NcodiN,Earlybird Venture Capital,earlybird.com
 NcodiN,Elaia,elaia.com
-NcodiN,Maverick Silicon,maverickcapital.com
+NcodiN,Maverick Capital,maverickcapital.com
 NcodiN,OVNI Capital,ovni.capital
 NcodiN,Photon Ventures,photonventures.vc
 NcodiN,Verve Ventures,verve.vc
+Netpreme,E14 Fund,e14.vc
 Netrasemi,Unicorn India Ventures,unicornivc.com
 Netrasemi,Zoho,zoho.com
+Neurophos,Bosch Ventures,bosch.ventures
+Neurophos,MetaVC Partners,metaventurepartners.com
 Neurophos,Silicon Catalyst,siliconcatalyst.com
+Nexstrom,Foothill Ventures,foothill.ventures
+NextSilicon,Amiti Ventures,amiti.vc
+NextSilicon,General Innovation Capital Partners,generalinnovation.com
+NextSilicon,Playground Global,playground.vc
 Niobium Microsystems,Alumni Ventures,av.vc
 Niobium Microsystems,Fusion Fund,fusionfund.com
 Niobium Microsystems,Galois,galois.com
@@ -371,6 +460,9 @@ Niobium Microsystems,Korea Development Bank,kdb.co.kr
 Niobium Microsystems,Morgan Creek,morgancreekcap.com
 Niobium Microsystems,Rev1 Ventures,rev1ventures.com
 Niobium Microsystems,Silicon Catalyst,siliconcatalyst.com
+Niobium Microsystems,Silicon Catalyst Ventures,sicatalystvc.com
+NLM Photonics,Oregon Venture Fund,oregonventurefund.com
+Normal Computing,Samsung Catalyst Fund,samsungcatalyst.com
 Nuvacore,Sequoia Capital,sequoiacap.com
 Olix,Arm,arm.com
 Olix,Crane,crane.vc
@@ -382,12 +474,17 @@ Olix,Phoenix Court,phoenixcourt.vc
 Olix,Plural,plural.vc
 Olix,Reed Hastings,NA
 Olix,Transition,transition.vc
+OmniDesign,Foothill Ventures,foothill.ventures
 One Silicon Chip Photonics,Silicon Catalyst,siliconcatalyst.com
 OpenLight,Capricorn Investment Group,capricornllc.com
+OpenLight,Catapult Ventures,catapult.vc
 OpenLight,Matter Venture Partners,mattervp.com
 OpenLight,Mayfield,mayfield.com
 OpenLight,Xora Innovation,xora.vc
 OpenMachine,Mozilla Ventures,mozilla.vc
+Oso Semiconductor,Entrada Ventures,entradaventures.com
+Owl,Silicon Catalyst,siliconcatalyst.com
+Owl,Silicon Catalyst Ventures,sicatalystvc.com
 Oxmiq,AM Green,amgreen.com
 Oxmiq,CDIB Capital Group,cdibcapitalgroup.com
 Oxmiq,Darwin,darwinventures.com
@@ -399,12 +496,20 @@ Oxmiq,Pegatron Venture Capital,pegatroncorp.com
 Oxmiq,Razer,razer.com
 Oxmiq,Samsung Catalyst Fund,samsungcatalyst.com
 Oxmiq,Tenstorrent,tenstorrent.com
+Paragraf,Cambridge Angels,cambridgeangels.com
+Paragraf,Open Field Capital,ofcap.com
 Phoenix Semiconductor,Lockheed Martin Ventures,lockheedmartin.com
+planqc,UVC Partners,uvcpartners.com
+Point2 Technology,Bosch Ventures,bosch.ventures
+Polaris EO,Cambium Capital,cambium.vc
 Polyn Technology,Silicon Catalyst,siliconcatalyst.com
 Powerlattice,BlueRun Ventures,brv.com
 Powerlattice,Celesta Capital,celesta.vc
 Powerlattice,G Vision Capital,gvisioncap.com
 Powerlattice,Playground Global,playground.vc
+PQShield,Crane,crane.vc
+PQShield,Kindred Capital,kindredcapital.vc
+PragmatiC,Prosperity7 Ventures,prosperity7vc.com
 proteanTecs,Addition,addition.com
 proteanTecs,Advantest,advantest.com
 proteanTecs,Arm,arm.com
@@ -416,6 +521,7 @@ proteanTecs,Intel Capital,intelcapital.com
 proteanTecs,MediaTek,mediatek.com
 proteanTecs,MUFG,mufgamericas.com
 proteanTecs,Porsche SE,porsche-se.com
+proteanTecs,Samsung Catalyst Fund,samsungcatalyst.com
 proteanTecs,Samsung Ventures,samsungventure.co.kr
 proteanTecs,Siemens,siemens.com
 proteanTecs,TGVP,tgvp.vc
@@ -425,7 +531,12 @@ proteanTecs,Zeev Ventures,zeevventures.com
 PseudolithIC,Entrada Ventures,entradaventures.com
 PseudolithIC,Foothill Ventures,foothill.ventures
 PseudolithIC,Uncork Capital,uncorkcapital.com
+PsiQuantum,General Innovation Capital Partners,generalinnovation.com
+PsiQuantum,Metaplanet,metaplanet.com
+PsiQuantum,Open Field Capital,ofcap.com
+PsiQuantum,Playground Global,playground.vc
 Q-Pixel,Silicon Catalyst,siliconcatalyst.com
+Q-Pixel,Silicon Catalyst Ventures,sicatalystvc.com
 Qant,Cherry Ventures,cherry.vc
 Qant,Grazia Equity,grazia.com
 Qant,imec.xpand,imecxpand.com
@@ -450,15 +561,23 @@ Qualinx,Forward.one,forward.one
 Qualinx,InnovationQuarter,innovationquarter.nl
 Qualinx,Invest-NL,invest-nl.nl
 Qualinx,Waterman Ventures,watermanventures.nl
+Quandela,Omnes Capital,omnescapital.com
+Quantum Brilliance,Jelix Ventures,jelix.vc
+QuantWare,Forward.one,forward.one
+QuantWare,In-Q-Tel,iqt.org
 Quera Computing,Google,google.com
 Quera Computing,NVentures,nvidia.com
 Quera Computing,SoftBank Vision Fund 2,visionfund.com
 Quera Computing,Valor Equity Partners,valorep.com
+Quilter,Build Collective,buildc.com
+Quintessent,Entrada Ventures,entradaventures.com
+Quintessent,Foothill Ventures,foothill.ventures
 QuiX Quantum,EIC Fund,eic.ec.europa.eu
 QuiX Quantum,Forward.one,forward.one
 QuiX Quantum,Invest-NL,invest-nl.nl
 QuiX Quantum,Oost NL,oostnl.nl
 QuiX Quantum,Photon Ventures,photonventures.vc
+Quobly,Supernova Invest,supernovainvest.com
 Raaam,IAG Capital Partners,iagcapitalpartners.com
 Raaam,J-Ventures,j-ventures.com
 Raaam,LIFTT,liftt.com
@@ -467,9 +586,13 @@ Raaam,Serpentine Ventures,serpentine.vc
 Raaam,Silicon Catalyst,siliconcatalyst.com
 Raaam,Silicon Catalyst Angels,siliconcatalystangels.com
 Raaam,Silicon Catalyst Ventures,sicatalystvc.com
+Raana Semiconductors,IIMA Ventures,iimaventures.com
+Ramon Space,Deep Insight,deepinsight.co.il
 Ramon Space,Grove Ventures,grovevc.com
 Ramon Space,Stage One Ventures,stageonevc.com
+Ramon Space,UMC Capital,umccapital.com
 Rebellions,Aramco,aramcoventures.com
+Rebellions,BonAngels,bonangels.net
 Rebellions,DG Daiwa Ventures (DGDV),dg-daiwa-v.com
 Rebellions,IMM Investment,imminvestment.com
 Rebellions,Kindred Ventures,kindredventures.com
@@ -477,11 +600,17 @@ Rebellions,Pavilion Capital,pavilioncapital.com
 Rebellions,SK hynix,skhynix.com
 Rebellions,SK Telecom,sktelecom.com
 RED Semiconductor,Silicon Catalyst,siliconcatalyst.com
+RED Semiconductor,Silicon Catalyst Ventures,sicatalystvc.com
 Ricursive Intelligence,DST Global,dst.global
+Ricursive Intelligence,Felicis,felicis.com
 Ricursive Intelligence,Lightspeed Venture Partners,lsvp.com
 Ricursive Intelligence,NVentures,nvidia.com
 Ricursive Intelligence,Sequoia Capital,sequoiacap.com
+Riverlane,Amadeus Capital Partners,amadeuscapital.com
+Sagence AI,Cambium Capital,cambium.vc
+Sagence AI,Khosla Ventures,khoslaventures.com
 Salience Labs,Silicon Catalyst,siliconcatalyst.com
+Salience Labs,Silicon Catalyst Ventures,sicatalystvc.com
 SambaNova,Atlantic Bridge,abven.com
 SambaNova,Battery Ventures,battery.com
 SambaNova,BlackRock,blackrock.com
@@ -512,8 +641,11 @@ Scintil,NGP,ngpcap.com
 Scintil,NVIDIA,nvidia.com
 Scintil,Supernova Invest,supernovainvest.com
 Scintil,Yotta Capital Partners,yottacapital.fr
+SEEQC,Cambium Capital,cambium.vc
 Semidynamics,SETT (Sociedad Española para la Transformación Tecnológica),sett.gob.es
 Semidynamics,SK hynix,skhynix.com
+Semron,OTB Ventures,otb.vc
+SiFive,Prosperity7 Ventures,prosperity7vc.com
 Sigmantic AI,Y Combinator,ycombinator.com
 SigmaSense,Silicon Catalyst,siliconcatalyst.com
 Silicon Box,BRV,brv.com
@@ -533,13 +665,23 @@ SiMa.ai,Amplify Partners,amplifypartners.com
 SiMa.ai,Dell Technologies Capital,delltechnologiescapital.com
 SiMa.ai,Wing Venture Capital,wing.vc
 SimplEx Micro,Silicon Catalyst,siliconcatalyst.com
+Singular Photonics,Cambridge Angels,cambridgeangels.com
 SiPearl,Arm,arm.com
 SiPearl,Bull,bull.com
 SiPearl,Cathay Venture,cathayholdings.com
+SisuSemi,Butterfly Ventures,butterfly.vc
+SMART Photonics,Photon Ventures,photonventures.vc
+Snowcap Compute,Cambium Capital,cambium.vc
+Snowcap Compute,Playground Global,playground.vc
+Snowcap Compute,Vsquared Ventures,vsquared.vc
 Sofant Technologies,Silicon Catalyst,siliconcatalyst.com
+Space Forge,Helium-3 Ventures,helium-3ventures.com
+Spark Micro,Silicon Catalyst,siliconcatalyst.com
 Sparxity,Silicon Catalyst,siliconcatalyst.com
+Sphere Semi,Acme Capital,acme.vc
 Spherical,Antler,antler.co
 Spherical,UNIIQ,uniiq.nl
+SweGaN,Atlantic Bridge,abven.com
 Syenta,Investible,investible.com
 Syenta,Jelix Ventures,jelix.vc
 Syenta,Playground Global,playground.vc
@@ -551,20 +693,29 @@ Synthara,OTB Ventures,otb.vc
 Synthara,Silicon Catalyst,siliconcatalyst.com
 Synthara,Vsquared Ventures,vsquared.vc
 Synthara,Zürcher Kantonalbank,zkb.ch
+Syntiant,Atlantic Bridge,abven.com
+Syntiant,Bosch Ventures,bosch.ventures
 Tandem PV,Constellation Technology Ventures,constellationenergy.com
 Tandem PV,Eclipse,eclipse.capital
 Tandem PV,New Climate Ventures,newclimateventures.com
 Tandem PV,Planetary Technologies,planetarytech.earth
 Tandem PV,Prime Coalition,primecoalition.org
 Tandem PV,Uncorrelated Ventures,uncorrelated.com
+Tattvam AI,Seedcamp,seedcamp.com
+Tensordyne,Bosch Ventures,bosch.ventures
+Tenstorrent,Samsung Catalyst Fund,samsungcatalyst.com
 Teradar,Lockheed Martin Ventures,lockheedmartin.com
 TeraSpatial,Silicon Catalyst,siliconcatalyst.com
+Tetramem,Foothill Ventures,foothill.ventures
+Thinktrans Semiconductor,Bosch Ventures,bosch.ventures
+Thintronics,TGVP,tgvp.vc
 TriEye,Deep Insight,deepinsight.co.il
 TriEye,Grove Ventures,grovevc.com
 TriEye,Intel Capital,intelcapital.com
 TriEye,Porsche Ventures,porsche.ventures
 TriEye,Samsung,samsung.com
 TriEye,Varana Capital,varanacapital.com
+TUSK IC,Matterwave Ventures,matterwave.vc
 Ubilite,Roadmap Capital,roadmapcapitalinc.com
 Ubitium,Florian Seibel,NA
 Ubitium,Ibex Investors,ibexinvestors.com
@@ -572,8 +723,11 @@ Ubitium,Inflection,inflection.fund
 Ubitium,KBC,kbc.com
 Ubitium,OpenOcean,openocean.vc
 Ubitium,Runa Capital,runacap.com
+Unconventional AI,E14 Fund,e14.vc
+Unconventional AI,Felicis,felicis.com
+Unconventional AI,Playground Global,playground.vc
 Upscale AI,Intel Capital,intelcapital.com
-Upscale AI,Maverick Silicon,maverickcapital.com
+Upscale AI,Maverick Capital,maverickcapital.com
 Upscale AI,Mayfield,mayfield.com
 Upscale AI,NVIDIA,nvidia.com
 Upscale AI,Premji Invest,premjiinvest.com
@@ -596,6 +750,9 @@ Vayyar,Walden Riverwood,celesta.vc
 Vector Photonics,Clean Growth Fund,cleangrowthfund.com
 Vector Photonics,Equity Gap,equitygap.co.uk
 Vector Photonics,Foresight Williams,foresight.group
+Vertical Semiconductor,Playground Global,playground.vc
+Vervesemi,Unicorn India Ventures,unicornivc.com
+Vinci,Khosla Ventures,khoslaventures.com
 Visibl Semiconductors,Y Combinator,ycombinator.com
 VisIC Technologies,Silicon Catalyst,siliconcatalyst.com
 Volantis Semiconductor,Alex Wang,NA
@@ -618,11 +775,16 @@ Vsora,Omnes Capital,omnescapital.com
 Vsora,Otium Capital,otiumcapital.com
 Vsora,XAnge,xange.vc
 weeteq,Silicon Catalyst,siliconcatalyst.com
+weeteq,Silicon Catalyst Ventures,sicatalystvc.com
 Xcelerium,Silicon Catalyst,siliconcatalyst.com
+Xcelerium,Silicon Catalyst Ventures,sicatalystvc.com
+xLight,Open Field Capital,ofcap.com
+xLight,Playground Global,playground.vc
 Xscape Photonics,Addition,addition.com
 Xscape Photonics,Cisco,cisco.com
 Xscape Photonics,IAG Capital Partners,iagcapitalpartners.com
 Xscape Photonics,NVIDIA,nvidia.com
+Xsight Labs,Valor Equity Partners,valorep.com
 Zendar,Array VC,array.vc
 Zendar,Blue Ivy Ventures,blueivyventures.com
 Zendar,Coatue,coatue.com
@@ -630,11 +792,16 @@ Zendar,Khosla Ventures,khoslaventures.com
 Zendar,TRAC,trac.vc
 Zendar,Y Combinator,ycombinator.com
 Zepsor,Silicon Catalyst,siliconcatalyst.com
+Zepsor,Silicon Catalyst Ventures,sicatalystvc.com
 Zero Point Motion,Foresight Group,foresight.group
 Zero Point Motion,Science Creates Ventures,sciencecreates.co.uk
 Zero Point Motion,Verve Ventures,verve.vc
 ZeroASIC,Lockheed Martin Ventures,lockheedmartin.com
 ZeroASIC,Stata Capital Partners,statacapital.com
+ZeroPoint,Matterwave Ventures,matterwave.vc
+zeroRISC,Cambridge Angels,cambridgeangels.com
+zeroRISC,Stata Capital Partners,statacapital.com
 Zettascale Computing,Olive Tree Capital,olivetreecapital.com
 Zettascale Computing,Soma Capital,somacap.com
 Zettascale Computing,Y Combinator,ycombinator.com
+Zoo,E1 Ventures,e1.vc
