@@ -1,7 +1,7 @@
 #!/bin/sh
 # Regenerate dashboard/preview.png, the clickable image at the top of the
-# README. Serves the repository locally, captures the dashboard's panels in
-# headless Chrome and arranges them. Needs python3 with Pillow, Node 22+ and
+# README. Serves the repository locally, captures the dashboard's panels
+# (including the ecosystem map) in headless Chrome and arranges them. Needs python3 with Pillow, Node 22+ and
 # google-chrome. Run from anywhere; takes about 15 seconds.
 set -e
 cd "$(dirname "$0")/../.."

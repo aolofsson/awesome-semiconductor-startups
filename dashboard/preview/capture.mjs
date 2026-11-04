@@ -27,7 +27,7 @@ await send("Page.navigate", { url });
 await sleep(6000);
 const sels = { figures: "#figures", wafer: ".wafer-panel", tech: ".tech-panel", map: ".map-panel",
   founded: ".founded-panel", exityear: "#exit-year-chart", exitvalue: "#exit-value-chart",
-  acquirers: "#acquirer-chart", age: "#age-chart" };
+  acquirers: "#acquirer-chart", age: "#age-chart", network: ".network-panel" };
 const r = await send("Runtime.evaluate", { returnByValue: true, expression: `(() => {
   const out = {}; const s = ${JSON.stringify(sels)};
   for (const [k, q] of Object.entries(s)) { const el = q.startsWith('#') && !['#figures'].includes(q) ? document.querySelector(q).closest('figure') : document.querySelector(q);

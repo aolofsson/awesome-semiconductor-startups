@@ -1,6 +1,6 @@
 # Database of Awesome Semiconductor Startups
 
-[![Dashboard: wafer map, technology, country, founding-year and exit charts](dashboard/preview.png)](https://aolofsson.github.io/awesome-semiconductor-startups/dashboard/)
+[![Dashboard: wafer map, technology, country, founding-year and exit charts, and the investor ecosystem map](dashboard/preview.png)](https://aolofsson.github.io/awesome-semiconductor-startups/dashboard/)
 
 Search, filter and chart the whole database, including exits, in the
 [interactive dashboard](https://aolofsson.github.io/awesome-semiconductor-startups/dashboard/).
