@@ -121,6 +121,7 @@ SOFTWARE.
 |[Attotude](https://attotude.com) | NETWORKING | 2024 | US |Waveguide interconnects for AI data centers |
 |[Aule Technologies](https://auletechnologies.com) | EDA | 2022 | US |AI/physics based design platform |
 |[Avicena](https://avicena.tech) | PHOTONICS | 2019 | US |Optical uLed interconnect technology |
+|[Avronna](https://avronna.com) | EDA | 2022 | US |AI for chip design and verification |
 |[Axelera](https://axelera.ai) | AI | 2021 | NL |Low power AI edge processors |
 |[Axonne](https://axonne.com) | NETWORKING | 2018 | US |Automotive Ethernet PHYs |
 |[Ayar Labs](https://ayarlabs.com) | PHOTONICS | 2015 | US |Electronic-photonic communication chip sets |
@@ -181,6 +182,7 @@ SOFTWARE.
 |[EnCharge AI](https://enchargeai.com) | AI | 2021 | US |AI processing platform |
 |[Enlightra](https://enlightra.com) | PHOTONICS | 2017 | CH |Optical microresonator technology |
 |[enzzo](https://enzzo.ai) | EDA | 2024 | US |AI driven hardware development |
+|[EPIC Microsystems](https://epicmicro.com) | ANALOG | 2024 | US |Hybrid switched-capacitor power delivery for AI servers |
 |[Equal1](https://equal1.com) | QUANTUM | 2017 | IE |Silicon spin qubits for scalable quantum computing |
 |[Eridan](https://eridan.io) | RF | 2013 | US |RF front end for wireless telecommunications |
 |[Eridu AI](https://eridu.ai) | PHOTONICS | 2023 | US |Photonics based AI acceleration |

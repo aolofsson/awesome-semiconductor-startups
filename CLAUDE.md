@@ -87,9 +87,13 @@ build system and no CI.
   alumni websites are not fetched. A company may not be in both files.
 - Both `startups.csv` and `alumni.csv` are in case-insensitive alphabetical
   order by Company; insert new rows in their place.
-- `investors.csv`: a pair is only added when the startup's own website or the
-  investor's own portfolio page names it (not press, filings or aggregators
-  such as Crunchbase). `Company` must be in `startups.csv`. `Website` is the
+- `investors.csv`: a pair is only added when the startup's own website, the
+  investor's own portfolio page, or the startup's official funding
+  announcement names it (not third-party press, filings or aggregators such as
+  Crunchbase). A funding announcement counts wherever it is posted (for
+  example republished on a co-investor's site) as long as it is the
+  company's own release, quoting the company, and it covers every investor
+  it names. `Company` must be in `startups.csv`. `Website` is the
   investor's bare domain, checked by loading its homepage and finding the
   investor's name there, and is the same on every row for that investor;
   `NA` only for a private individual. Sorted by Company, then Investor, case
