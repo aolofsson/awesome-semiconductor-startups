@@ -148,6 +148,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 |[Build4Sim Inc](https://build4sim.com) | EDA | 2025 | US |Accelerating Spice simulation |
 |[cadlab.io](https://cadlab.io) | EDA | 2015 | US |Collaboration tools for PCB design |
 |[Cadstrom](https://cadstrom.io) | EDA | 2023 | CA |AI based PCB design |
+|[Cambridge GaN Devices](https://camgandevices.com) | ANALOG | 2016 | GB |Fabless GaN power transistors and ICs |
 |[Cambridge Terahertz](https://thzcorp.com) | SENSORS | 2023 | US |Terahertz imaging sensors for threat detection |
 |[cassia.ai](https://cassia.ai) | AI | 2021 | US |AI Hardware IP |
 |[Celera Semiconductor](https://celeratechnologies.com) | EDA | 2018 | US |Automated analog/mixed-signal IC development tool |
@@ -271,6 +272,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 |[Mesa Quantum](https://mesaquantum.com) | QUANTUM | 2023 | US |Quantum sensing for GPS |
 |[Metalenz](https://metalenz.com) | PHOTONICS | 2016 | US |Metasurface flat optics made in semiconductor foundries |
 |[MicroAlign](https://microalign.nl) | PHOTONICS | 2021 | NL |Actively aligned fiber arrays for photonic chips |
+|[Mindgrove](https://mindgrovetech.in) | ASIC | 2021 | IN |Fabless SoCs for IoT and edge vision devices |
 |[Mintneuro](https://mintneuro.com) | HEALTH | 2015 | GB |Neural implants |
 |[mmTron](https://mmtron.com) | RF | 2020 | US |Millimeter-wave MMICs for satcom, 5G and defense |
 |[Mobilint](https://mobilint.com) | AI | 2019 | KR |AI inference accelerators |
@@ -306,8 +308,10 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 |[OniO](https://onio.com) | RF | 2019 | NO |Wireless micro controller |
 |[OpenLight](https://openlightphotonics.com) | PHOTONICS | 2022 | US |Silicon photonics platform and custom PICs |
 |[OpenMachine](https://openmachine.ai) | AI | 2022 | US |High-performance AI engines for your chip, chiplet, RISC-V SoC, ASIC, and FPGA |
+|[Opsydia](https://opsydia.com) | PHOTONICS | 2017 | GB |Laser-written waveguides in glass for optical interconnects |
 |[Optalysys](https://optalysys.com) | PHOTONICS | 2013 | GB |Optical computing next-gen cryptography |
 |[optoML](https://optoml.ai) | AI | 2024 | SG |Low power AI processors |
+|[ORCA Computing](https://orcacomputing.com) | QUANTUM | 2019 | GB |Photonic quantum computers built from fibre-based modules |
 |[Oso Semiconductor](https://ososemi.com) | RF | 2022 | US |Low power RF chip set |
 |[Owl](https://owlai.us) | SENSORS | 2018 | US |Monocular 3D thermal ranging solutions |
 |[Oxford Quantum Circuits](https://oxfordquantumcircuits.com) | QUANTUM | 2017 | GB |Quantum computing platform |
@@ -318,7 +322,9 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 |[Paragraf](https://paragraf.com) | SENSORS | 2018 | GB |Graphene-based sensors and electronics |
 |[persimmons](https://persimmons.ai) | AI | 2023 | US |Flexible, low-power generative AI inference system |
 |[Phanofi](https://phanofi.com) | PHOTONICS | 2022 | DK |Optical transceivers for data centers & HPC |
+|[Phinity Labs](https://phinity.ai) | EDA | 2025 | US |AI agents that design, verify and tape out chips |
 |[Phoenix Semiconductor](https://phoenixsemicorp.com) | ASIC | 2023 | US |Drop in replacements for discontinued devices |
+|[PhovIR](https://phovir.com) | SENSORS | 2023 | GB |Chip-scale MEMS near-infrared sensors for molecular sensing |
 |[Picocom](https://picocom.com) | RF | 2019 | GB |Semiconductor products for 5G infrastructure |
 |[Piris Labs](https://pirislabs.io) | AI | 2025 | US |Optical inference engine |
 |[Plaid Semiconductor](https://plaidsemi.com) | CHIPLETS | 2023 | US |Interposers for chiplet integration |
@@ -346,6 +352,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 |[Quandela](https://quandela.com) | QUANTUM | 2017 | FR |Photonic quantum computers and single-photon sources |
 |[Quantum Brilliance](https://quantumbrilliance.com) | QUANTUM | 2019 | AU |Room-temperature diamond quantum chips |
 |[Quantum Motion](https://quantummotion.com) | QUANTUM | 2017 | GB |Scalable quantum computer architectural technology |
+|[Quantum Source](https://qs-labs.com) | QUANTUM | 2021 | IL |Photonic quantum computers using photon-atom gates |
 |[QuantWare](https://quantware.com) | QUANTUM | 2021 | NL |Superconducting quantum processors |
 |[Quera Computing](https://quera.com) | QUANTUM | 2018 | US |Neutral atom based quantum computers |
 |[Quilter](https://quilter.ai) | EDA | 2020 | US |AI driven PCB design |
@@ -473,6 +480,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 |[zeroRISC](https://zerorisc.com) | SECURITY | 2023 | US |Open source Root-of-Trust platform |
 |[Zettascale Computing](https://zscc.ai) | AI | 2024 | US |Reconfigurable chips for AI |
 |[Zoo](https://zoo.dev) | EDA | 2021 | US |AI driven CAD |
+|[ZuriQ](https://zuriq.com) | QUANTUM | 2024 | CH |Trapped-ion quantum computers using 2D Penning micro-traps |
 
 ## Alumni
 
@@ -486,6 +494,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 |Alif Semiconductor | AI | US | Analog Devices | 2026 | 1350 | [Source](https://www.sec.gov/Archives/edgar/data/0000006281/000119312526385938/d924057dex991.htm) |
 |Alphawave | NETWORKING | CA | IPO | 2021 | 4300 | [Source](https://www.marketwatch.com/story/chip-maker-alphawave-set-for-4-3-billion-london-ipo-after-shunning-the-nasdaq-11620840007) |
 |Altair Semiconductor | SENSORS | IL | Sony | 2016 | 212 | [Source](https://www.sec.gov/Archives/edgar/data/0000313838/000115752316004276/a51265604.htm) |
+|Ambiq | ASIC | US | IPO | 2025 | 656 | [Source](https://techcrunch.com/2025/07/30/kleiner-perkins-backed-ambiq-pops-on-ipo-debut/) |
 |Ambric | HPC | US | Shutdown | 2008 | 0 | [Source](https://www.oregonlive.com/siliconforest/2008/11/ambric_suspends_operation_plan.html) |
 |Ampere Computing | HPC | US | Softbank | 2025 | 6500 | [Source](https://www.forbes.com/sites/moorinsights/2025/03/21/softbank-is-acquiring-ampere-what-are-the-implications/) |
 |Annapurna Labs | HPC | IL | Amazon | 2015 | 350 | [Source](https://www.datacenterknowledge.com/data-center-chips/amazon-buys-stealthy-israeli-chip-startup-annapurna-labs) |

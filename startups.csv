@@ -59,6 +59,7 @@ Bronco AI,bronco.ai,EDA,US,2022,AI tools for chip development
 Build4Sim Inc,build4sim.com,EDA,US,2025,Accelerating Spice simulation
 cadlab.io,cadlab.io,EDA,US,2015,Collaboration tools for PCB design
 Cadstrom,cadstrom.io,EDA,CA,2023,AI based PCB design
+Cambridge GaN Devices,camgandevices.com,ANALOG,GB,2016,Fabless GaN power transistors and ICs
 Cambridge Terahertz,thzcorp.com,SENSORS,US,2023,Terahertz imaging sensors for threat detection
 cassia.ai,cassia.ai,AI,US,2021,AI Hardware IP
 Celera Semiconductor,celeratechnologies.com,EDA,US,2018,Automated analog/mixed-signal IC development tool
@@ -182,6 +183,7 @@ Mentium Technologies,mentium.tech,AI,US,2017,AI co-processor chips for space and
 Mesa Quantum,mesaquantum.com,QUANTUM,US,2023,Quantum sensing for GPS
 Metalenz,metalenz.com,PHOTONICS,US,2016,Metasurface flat optics made in semiconductor foundries
 MicroAlign,microalign.nl,PHOTONICS,NL,2021,Actively aligned fiber arrays for photonic chips
+Mindgrove,mindgrovetech.in,ASIC,IN,2021,Fabless SoCs for IoT and edge vision devices
 Mintneuro,mintneuro.com,HEALTH,GB,2015,Neural implants
 mmTron,mmtron.com,RF,US,2020,"Millimeter-wave MMICs for satcom, 5G and defense"
 Mobilint,mobilint.com,AI,KR,2019,AI inference accelerators
@@ -217,8 +219,10 @@ One Silicon Chip Photonics,onesiliconchipphotonics.com,PHOTONICS,CA,2016,Optical
 OniO,onio.com,RF,NO,2019,Wireless micro controller
 OpenLight,openlightphotonics.com,PHOTONICS,US,2022,Silicon photonics platform and custom PICs
 OpenMachine,openmachine.ai,AI,US,2022,"High-performance AI engines for your chip, chiplet, RISC-V SoC, ASIC, and FPGA"
+Opsydia,opsydia.com,PHOTONICS,GB,2017,Laser-written waveguides in glass for optical interconnects
 Optalysys,optalysys.com,PHOTONICS,GB,2013,Optical computing next-gen cryptography
 optoML,optoml.ai,AI,SG,2024,Low power AI processors
+ORCA Computing,orcacomputing.com,QUANTUM,GB,2019,Photonic quantum computers built from fibre-based modules
 Oso Semiconductor,ososemi.com,RF,US,2022,Low power RF chip set
 Owl,owlai.us,SENSORS,US,2018,Monocular 3D thermal ranging solutions
 Oxford Quantum Circuits,oxfordquantumcircuits.com,QUANTUM,GB,2017,Quantum computing platform
@@ -229,7 +233,9 @@ par.tcl,partcl.com,EDA,US,2024,Physics based eda tools
 Paragraf,paragraf.com,SENSORS,GB,2018,Graphene-based sensors and electronics
 persimmons,persimmons.ai,AI,US,2023,"Flexible, low-power generative AI inference system"
 Phanofi,phanofi.com,PHOTONICS,DK,2022,Optical transceivers for data centers & HPC
+Phinity Labs,phinity.ai,EDA,US,2025,"AI agents that design, verify and tape out chips"
 Phoenix Semiconductor,phoenixsemicorp.com,ASIC,US,2023,Drop in replacements for discontinued devices
+PhovIR,phovir.com,SENSORS,GB,2023,Chip-scale MEMS near-infrared sensors for molecular sensing
 Picocom,picocom.com,RF,GB,2019,Semiconductor products for 5G infrastructure
 Piris Labs,pirislabs.io,AI,US,2025,Optical inference engine
 Plaid Semiconductor,plaidsemi.com,CHIPLETS,US,2023,Interposers for chiplet integration
@@ -257,6 +263,7 @@ QuamCore,quamcore.com,QUANTUM,IL,2022,Quantum processors for million-qubit scale
 Quandela,quandela.com,QUANTUM,FR,2017,Photonic quantum computers and single-photon sources
 Quantum Brilliance,quantumbrilliance.com,QUANTUM,AU,2019,Room-temperature diamond quantum chips
 Quantum Motion,quantummotion.com,QUANTUM,GB,2017,Scalable quantum computer architectural technology
+Quantum Source,qs-labs.com,QUANTUM,IL,2021,Photonic quantum computers using photon-atom gates
 QuantWare,quantware.com,QUANTUM,NL,2021,Superconducting quantum processors
 Quera Computing,quera.com,QUANTUM,US,2018,Neutral atom based quantum computers
 Quilter,quilter.ai,EDA,US,2020,AI driven PCB design
@@ -384,3 +391,4 @@ ZeroPoint,zeropoint-tech.com,MEMORY,US,2015,Memory compression technology
 zeroRISC,zerorisc.com,SECURITY,US,2023,Open source Root-of-Trust platform
 Zettascale Computing,zscc.ai,AI,US,2024,Reconfigurable chips for AI
 Zoo,zoo.dev,EDA,US,2021,AI driven CAD
+ZuriQ,zuriq.com,QUANTUM,CH,2024,Trapped-ion quantum computers using 2D Penning micro-traps
