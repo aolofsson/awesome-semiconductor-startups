@@ -6,7 +6,7 @@ same size across the collage.
 
 Layout:
   row 1: wafer | technology | map over founded-per-year
-  row 2: ecosystem map | the four exit charts in a 2x2 grid
+  row 2: the four exit charts in a 2x2 grid | ecosystem map
 """
 import sys
 from PIL import Image
@@ -30,8 +30,9 @@ for k in ("wafer", "tech"):
     canvas.paste(r[k], (x, PAD)); x += r[k].width + GAP
 canvas.paste(r["map"], (x, PAD)); canvas.paste(r["founded"], (x, PAD + r["map"].height + GAP))
 y2 = PAD + H1 + GAP
-canvas.paste(r["network"], (PAD, y2))
-gx = PAD + r["network"].width + GAP
+# The network goes flush with the right margin; the exit grid takes the left.
+canvas.paste(r["network"], (W - PAD - r["network"].width, y2))
+gx = PAD
 # Centre the exit grid vertically beside the taller network panel.
 y = y2 + (H2 - grid_h) // 2
 for row, h in zip(grid, row_h):
