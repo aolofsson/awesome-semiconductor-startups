@@ -93,6 +93,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 |[Abacus Semiconductor](https://abacus-semi.com) | HPC | 2020 | US |HPC silicon systems |
 |[AccelerComm](https://accelercomm.com) | RF | 2016 | GB |5G physical layer for high-performance networks |
 |[Active Layer Parametrics](https://alpinc.net) | MFG | 2014 | US |Electrical depth-profiling metrology for semiconductor layers |
+|[Aerogen Systems](https://aerogensystems.com) | MFG | 2026 | US |Tool-integrated contamination control for chip fabs |
 |[Agentrys](https://agentrys.ai) | EDA | 2025 | US |Self-Improving Agentic Design Automation Toward Autonomous Design |
 |[Agile Analog](https://agileanalog.com) | EDA | 2017 | GB |Automating design of analog circuitry |
 |[Agita Labs](https://agitalabs.com) | SECURITY | 2018 | US |Processing security technology/IP |
@@ -112,6 +113,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 |[Aniah](https://aniah.fr) | EDA | 2019 | FR |Circuit analysis software |
 |[Applied Brain Research](https://appliedbrainresearch.com) | AI | 2013 | CA |AI solutions for edge devices |
 |[Arago](https://arago.inc) | PHOTONICS | 2024 | FR |Photonic computing platform |
+|[Archgen Labs](https://archgen.tech) | EDA | 2026 | US |AI agent for physical design of 3D-stacked chips |
 |[Architect Labs](https://architectlabs.com) | EDA | 2025 | US |AI system that designs and verifies custom chips |
 |[Argus Space](https://argus-space.ch) | RF | 2024 | CH |Satcomm telecommunications and radar |
 |[Arycs Technologies](https://arycs-tech.com) | PHOTONICS | 2026 | US |Coherent DSP and silicon photonics optical engines |
@@ -123,6 +125,8 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 |[Atmosic](https://atmosic.com) | RF | 2016 | US |Battery free wireless devices |
 |[Atom Computing](https://atom-computing.com) | QUANTUM | 2018 | US |Quantum computers based on optically trapped neutral atoms |
 |[Atoms AI](https://atomsai.net) | EDA | 2024 | US |AI driven verification |
+|[atopile](https://atopile.io) | EDA | 2023 | US |Language and tools to design PCBs as code |
+|[Atrisa](https://atrisa.ai) | EDA | 2026 | US |AI agents for analog circuit design |
 |[Attotude](https://attotude.com) | NETWORKING | 2024 | US |Waveguide interconnects for AI data centers |
 |[Aule Technologies](https://auletechnologies.com) | EDA | 2022 | US |AI/physics based design platform |
 |[Avicena](https://avicena.tech) | PHOTONICS | 2019 | US |Optical uLed interconnect technology |
@@ -132,6 +136,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 |[Ayar Labs](https://ayarlabs.com) | PHOTONICS | 2015 | US |Electronic-photonic communication chip sets |
 |[Ayo Semiconductor](https://ayosemi.com) | PHOTONICS | 2024 | US |Photonic AI acceleration using novel photonic processes |
 |[Azimuth AI](https://azimuth-ai.com) | ASIC | 2023 | US |Edge AI ASICs |
+|[Baud](https://baudlabs.ai) | AI | 2026 | US |Multiplier-free ASIC for AI training and inference |
 |[Baya Systems](https://bayasystems.com) | CHIPLETS | 2023 | US |Chiplet Based Semiconductor Design |
 |[Beacon Photonics](https://beaconphotonics.com) | PHOTONICS | 2023 | US |Integrated photonics platform |
 |[Beam](https://beamshaping.io) | RF | 2015 | IL |Phased array antennas |
@@ -166,14 +171,15 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 |[ChipNexus](https://chipnexus.ai) | EDA | 2023 | US |AI agents for chip design automation |
 |[Circuit Mind](https://circuitmind.io) | EDA | 2018 | GB |PCB design tools |
 |[CircuitLeap.ai](https://circuitleap.ai) | EDA | 2024 | PT |Automated analog design with GPU and AI |
-|[Classiq](https://classiq.io) | EDA | 2020 | IL |Quantum computing software |
 |[Codasip](https://codasip.com) | RISC-V | 2014 | DE |Supplier of RISC-V IP cores |
 |[Cognichip](https://cognichip.ai) | EDA | 2024 | US |AI platform for chip design |
+|[CopperPilot](https://copperpilot.ai) | EDA | 2025 | US |AI agent for circuit board design |
 |[Cornami](https://cornami.com) | HPC | 2011 | US |Acceleration for full homomorphic encryption |
 |[Cortisonic](https://cortisonic.com) | AI | 2025 | AU |Edge AI chips built from nanomechanical oscillators |
 |[Cyrillic](https://cyrillic.tech) | AI | 2024 | IT |Perception system for physical AI |
 |[d-Matrix](https://d-matrix.ai) | AI | 2019 | US |Computing platform for data center AI inference |
 |[DASH Tech IC](https://dashtechic.com) | HPC | 2021 | US |Flexible processors for embedded applications |
+|[DeepSim](https://deepsim.io) | EDA | 2020 | US |AI-based thermal simulator for chip design |
 |[DeepX](https://deepx.ai) | AI | 2018 | KR |AI processors |
 |[DeGirum](https://degirum.ai) | AI | 2017 | US |AI platform for edge applications |
 |[Denpaflux](https://denpaflux.com) | EDA | 2022 | DE |EMC analysis platform for design engineering teams |
@@ -182,6 +188,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 |[Diamond Quanta](https://diamondquanta.com) | MFG | 2024 | US |Engineered diamond materials and devices |
 |[Diode Computers](https://diode.computer) | EDA | 2024 | US |AI based PCB design |
 |[Diraq](https://diraq.com) | QUANTUM | 2021 | AU |Silicon spin-qubit quantum computers |
+|[Discovered Materials](https://discoveredmaterials.com) | MFG | 2026 | US |AI agents that discover materials for semiconductors |
 |[Dnotitia](https://dnotitia.com) | AI | 2023 | KR |AI processors |
 |[Dover](https://dovermicrosystems.com) | SECURITY | 2017 | US |SoC security IP |
 |[EdgeCortix](https://edgecortix.com) | AI | 2019 | US |AI accelerators for edge devices |
@@ -223,17 +230,21 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 |[Gowin](https://gowinsemi.com) | FPGA | 2014 | CN |FPGA chip products |
 |[Gyrfalcon](https://gyrfalcontech.ai) | AI | 2017 | US |Low-power AI accelerator chips |
 |[HaiLa](https://haila.io) | RF | 2017 | CA |Low power wireless communication for IoT |
+|[Hardware Intelligence](https://hardwareintelligence.ai) | EDA | 2026 | US |AI tools for chip simulation waveform capture and debug |
 |[HawAI.tech](https://hawai.tech) | AI | 2019 | FR |AI accelerators |
 |[Heronic](https://heronic.ai) | EDA | 2024 | GB |Automated generation of bespoke AI accelerators |
 |[HiLight Semiconductor](https://hilight-semi.com) | ANALOG | 2012 | GB |Analog and mixed-signal CMOS ICs for optical communications |
+|[Hiveware](https://hiveware.io) | EDA | 2023 | IL |SystemVerilog simulator for SoC verification |
 |[HYFIX](https://hyfix.ai) | ASIC | 2022 | US |Positioning and control chips for drones and robots |
 |[HyperAccel](https://hyperaccel.ai) | AI | 2023 | KR |AI processors and server solutions for LLM/Gen AI |
 |[HyperCIM](https://hypercim.com) | AI | 2023 | GB |Optimized compute in memory architecture |
 |[HyperLight](https://hyperlightcorp.com) | PHOTONICS | 2018 | US |Thin-film lithium niobate photonic integrated circuits |
+|[IC Optimize](https://ic-optimize.com) | EDA | 2025 | DK |Analog circuit sizing and optimization tools |
 |[InCore Semi](https://incoresemi.com) | RISC-V | 2018 | IN |RISC-V IP cores |
 |[iNGage](https://ingage-mems.com) | MEMS | 2025 | FR |MEMS gyros and inertial navigation sensors |
 |[Ingonyama](https://ingonyama.com) | SECURITY | 2021 | IL |Hardware accelerators for cryptographic computation |
 |[Innatera](https://innatera.com) | AI | 2018 | NL |Neuromorphic processors |
+|[Inversion Semiconductor](https://inversionsemi.com) | MFG | 2024 | US |Lithography light source using compact accelerators |
 |[Ipronics](https://ipronics.com) | PHOTONICS | 2019 | ES |Programmable photonics products |
 |[Jeeva Wireless](https://jeevawireless.com) | RF | 2015 | US |Battery-free wireless sensing technology |
 |[Jitx](https://jitx.com) | EDA | 2016 | US |PCB design tools |
@@ -261,6 +272,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 |[Lumotive](https://lumotive.com) | PHOTONICS | 2017 | US |Optical beam forming sensors |
 |[Lux Semiconductors](https://luxsemiconductors.com) | MFG | 2017 | US |Metal package substrates and interposers for chiplets |
 |[Lyte AI](https://lyte.ai) | AI | 2021 | US |Perception layer for physical AI |
+|[Mach42](https://mach42.ai) | EDA | 2019 | GB |AI surrogate models for analog circuit verification |
 |[Magics Technologies](https://magics.tech) | SPACE | 2015 | BE |Radiation-hardened ICs for space systems and nuclear infrastructure |
 |[Maieutic Semiconductors](https://maieuticsemi.com) | EDA | 2025 | IN |Generative AI copilot for analog chip design |
 |[Majestic Labs](https://majestic-labs.ai) | AI | 2023 | IL |AI processor |
@@ -276,6 +288,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 |[Mintneuro](https://mintneuro.com) | HEALTH | 2015 | GB |Neural implants |
 |[mmTron](https://mmtron.com) | RF | 2020 | US |Millimeter-wave MMICs for satcom, 5G and defense |
 |[Mobilint](https://mobilint.com) | AI | 2019 | KR |AI inference accelerators |
+|[MooresLabAI](https://mooreslab.ai) | EDA | 2025 | US |AI agents for chip design verification |
 |[Morphing Machines](https://morphing.in) | HPC | 2006 | IN |Reconfigurable processors |
 |[Morse Micro](https://morsemicro.com) | RF | 2016 | AU |Low-power Wi-Fi chips |
 |[Mosaic SoC](https://mosaicsoc.ch) | ASIC | 2024 | CH |Specialized chips designed for AR glasses |
@@ -369,6 +382,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 |[Rebellions](https://rebellions.ai) | AI | 2020 | KR |AI processors |
 |[RED Semiconductor](https://redsemiconductor.com) | HPC | 2021 | GB |Processor technology |
 |[Redwood EDA](https://redwoodeda.com) | EDA | 2015 | US |Transaction level hardware design platform |
+|[Resin Technologies](https://resineda.com) | EDA | 2026 | US |AI-native PCB design tool |
 |[Retym](https://retym.com) | AI | 2021 | US |Stealth |
 |[Ricursive Intelligence](https://ricursive.com) | EDA | 2025 | US |AI models to automate all stages of chip design and verification |
 |[RISE](https://rise-da.com) | EDA | 2024 | US |Design and verification productivity platform |
@@ -395,6 +409,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 |[Silicon Box](https://silicon-box.com) | MFG | 2021 | SG |Semiconductor design and device integration services |
 |[SiliconSpace](https://siliconspace.org) | EDA | 2025 | US |Cloud based EDA platform |
 |[Silimate](https://silimate.com) | EDA | 2023 | US |Co-pilot for chip designers |
+|[siliXon](https://silixon.io) | EDA | 2025 | GB |PCB designs generated from plain-English prompts |
 |[Silogy](https://silogy.io) | EDA | 2023 | US |Collaborative platform for integrated circuit design |
 |[SiMa.ai](https://sima.ai) | AI | 2018 | US |AI processing for edge devices |
 |[Simbricks](https://simbricks.io) | EDA | 2024 | DE |Heterogeneous hardware design and verification platform |
@@ -413,12 +428,15 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 |[Speedata](https://speedata.io) | AI | 2019 | IL |Analytics Processing Unit to accelerate big data |
 |[Sphere Semi](https://spheresemi.com) | ANALOG | 2024 | US |AI-designed RF and mixed-signal chips and IP |
 |[Spherical](https://spherical-systems.com) | SPACE | 2022 | NL |Satellite power & control with in-house silicon design |
+|[Standard Machines](https://standardmachines.com) | EDA | 2026 | US |Training environments for AI models that design chips |
 |[StarFive](https://starfivetech.com) | RISC-V | 2018 | CN |RISC-V processor core IP and devices |
 |[Stathera](https://stathera.com) | MEMS | 2015 | CA |MEMS timing devices |
 |[Swave](https://swave.io) | PHOTONICS | 2022 | BE |Holographic chips based on diffractive photonics |
 |[SweGaN](https://swegan.se) | MFG | 2014 | SE |GaN-on-SiC epitaxial wafers |
 |[Syenta](https://syenta.com) | MFG | 2022 | AU |Electrochemical process for chip interconnects |
+|[Sygaldry](https://sygaldry.com) | QUANTUM | 2024 | US |Quantum computers combining multiple qubit types |
 |[SylvarisAI](https://sylvaris.ai) | EDA | 2025 | US |Agentic AI platform for chip verification |
+|[Synapse Semiconductor](https://synapsesemi.org) | SENSORS | 2026 | US |Vision sensor chip that filters data in the pixels |
 |[Synseis](https://synseis.com) | EDA | 2025 | US |AI agents that turn ideas into RTL and FPGA builds |
 |[Synthara](https://synthara.ai) | AI | 2020 | CH |In memory computation chips for AI |
 |[Syntiant](https://syntiant.com) | AI | 2017 | US |Neuromorphic processing for edge devices |
@@ -514,6 +532,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 |Celestial AI | PHOTONICS | US | Marvell | 2025 | 3250 | [Source](https://finance.yahoo.com/news/marvell-buy-chip-startup-celestial-210837707.html) |
 |Cerebras | HPC | US | IPO | 2026 | 64000 | [Source](https://www.investors.com/news/technology/cerebras-stock-possible-index-inclusion/) |
 |Chipstack | EDA | US | Cadence | 2025 | NA | [Source](https://www.design-reuse.com/news/202529654-cadence-welcomes-chipstack/) |
+|Classiq | EDA | IL | Intel | 2026 | 1900 | [Source](https://www.sec.gov/Archives/edgar/data/0000050863/000005086326000191/intc-20260926.htm) |
 |Clearspeed | HPC | GB | IPO | 2007 | 20 | [Source](https://en.wikipedia.org/wiki/ClearSpeed) |
 |Condor Computing | RISC-V | US | Shutdown | 2026 | 0 | [Source](https://www.jonpeddie.com/news/condor-flies-no-more/) |
 |Cycuity | EDA | US | Arteris | 2025 | NA | [Source](https://www.globenewswire.com/news-release/2025/12/11/3204295/0/en/Arteris-to-Expand-Portfolio-with-Acquisition-of-Cycuity-a-Leader-in-Semiconductor-Cybersecurity-Assurance.html) |

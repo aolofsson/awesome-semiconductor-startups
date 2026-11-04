@@ -85,6 +85,9 @@ build system and no CI.
   `Exit,Year,Value($M),Link` with a source link. In `alumni.csv`, `Website`
   and `Founded` may be `NA` (a dead or redirected site, an unsourced year);
   alumni websites are not fetched. A company may not be in both files.
+- For a company sourced from Y Combinator with no sourced founding year,
+  use the year of its YC batch (e.g. Winter 2025 → 2025). A sourced year,
+  including the one YC's page shows, takes precedence.
 - Both `startups.csv` and `alumni.csv` are in case-insensitive alphabetical
   order by Company; insert new rows in their place.
 - `investors.csv`: a pair is only added when the startup's own website, the
