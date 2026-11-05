@@ -1,23 +1,37 @@
 Company,Website,Technology,Country,Founded,Description,Exit,Year,Value($M),Link
 Acacia,acacia-inc.com,PHOTONICS,US,2009,Coherent optical interconnect modules and DSPs,IPO,2016,1000,https://www.bizjournals.com/boston/news/2016/12/29/the-best-performing-ipo-nationwide-of-2016-is.html
+Active-Semi,active-semi.com,ANALOG,US,2004,Programmable analog and mixed-signal power management ICs,Qorvo,2019,309,https://www.sec.gov/Archives/edgar/data/1604778/000160477819000053/qorvo2019062910-q.htm
+ADD Semiconductor,addsemi.com,NETWORKING,ES,2001,Narrowband power line communication SoCs for smart metering,Atmel,2011,NA,https://www.sec.gov/Archives/edgar/data/872448/000110465911059543/a11-28851_1ex99d1.htm
 Adesto Technologies,NA,MEMORY,US,2006,Non-volatile memory and IoT chips,IPO,2015,87,https://www.sec.gov/Archives/edgar/data/1395848/000119312515354389/d895458d424b4.htm
 Advanced Circuit Pursuit,NA,RF,CH,NA,RF CMOS transceivers for cellular IoT,Sequans,2025,NA,https://www.walderwyss.com/en/news/2025-01-28_sequans-acquires-acp-advanced-circuit-pursuit-ag
+Advasense,advasense.com,SENSORS,IL,2004,CMOS image sensors for mobile phone cameras,Pixim,2011,NA,https://securitytoday.com/articles/2011/06/16/pixim-acquires-developer-of-innovative-image-sensor-technology.aspx
 Aeluma,aeluma.com,SENSORS,US,2019,Compound semiconductor sensors on large silicon wafers,SPAC,2021,NA,https://www.sec.gov/Archives/edgar/data/1828805/000121390021034503/ea143207-8k_aelumainc.htm
+Ageia,ageia.com,HPC,US,2002,PhysX physics processing unit chips for games,Nvidia,2008,NA,https://www.sec.gov/Archives/edgar/data/1045810/000104581008000003/q408pressrelease.htm
 Agnilux,agnilux.com,HPC,US,NA,Server processor startup from ex-PA Semi engineers,Google,2010,NA,https://techcrunch.com/2010/04/20/google-agnilux-apple
 Akeana,akeana.com,RISC-V,US,2021,RISC-V CPU and System IP,Qualcomm,2026,NA,https://dealroom.co/news/164707-qualcomm-buys-risc-v-startup-akeana-to-push-into-ai-and-data-center-chip/
+Akros Silicon,akrossilicon.com,ANALOG,US,NA,Power over Ethernet and isolated power management ICs,Kinetic Technologies,2015,NA,https://kinet-ic.com/kinetic-technologies-announces-acquisition-of-akros-silicon
+Akustica,akustica.com,MEMS,US,2001,CMOS MEMS microphones,Bosch,2009,NA,http://web.archive.org/web/20110324191223/http://www.akustica.com/company/documents/PressRelease-BoschAcquistionofAkustica.pdf
 Alif Semiconductor,alifsemi.com,AI,US,2019,Integrated SoC for AI at the edge,Analog Devices,2026,1350,https://www.sec.gov/Archives/edgar/data/0000006281/000119312526385938/d924057dex991.htm
 Alpha & Omega Semiconductor,aosmd.com,ANALOG,US,2000,Power MOSFETs and power management ICs,IPO,2010,391,https://www.sec.gov/Archives/edgar/data/1387467/000119312510097709/d424b4.htm
 Alphawave,awavesemi.com,NETWORKING,CA,2017,High-speed SerDes connectivity IP and chiplets,IPO,2021,4300,https://www.marketwatch.com/story/chip-maker-alphawave-set-for-4-3-billion-london-ipo-after-shunning-the-nasdaq-11620840007
 Altair Semiconductor,altair-semi.com,SENSORS,IL,2005,LTE baseband and RF chipsets,Sony,2016,212,https://www.sec.gov/Archives/edgar/data/0000313838/000115752316004276/a51265604.htm
+Altatech Semiconductor,altatech-sc.com,MFG,FR,2004,"CVD, wafer inspection and nanoprinting equipment",Soitec,2012,20,https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2012/02/FCACT017390_20120201.pdf
+Altos Design Automation,NA,EDA,US,2005,Standard cell and memory library characterization tools,Cadence,2011,NA,http://web.archive.org/web/20120609191315/http://www.cadence.com/cadence/newsroom/press_releases/Pages/pr.aspx?xml=051011_altos&CMP=home
+Alvand Technologies,alvandtech.com,ANALOG,US,2005,High-speed data converter (ADC/DAC) IP,IDT,2012,NA,https://www.sec.gov/Archives/edgar/data/703361/000070336112000036/exhibit991pressrelease.htm
+Amalfi Semiconductor,amalfisemi.com,RF,US,2003,RF CMOS power amplifiers for mobile phones,RFMD,2012,48,https://www.sec.gov/Archives/edgar/data/911160/000091116012000038/a991pressrelease11-5x2012.htm
 Ambarella,ambarella.com,AI,US,2004,Video and AI vision processors,IPO,2012,157,https://www.sec.gov/Archives/edgar/data/1280263/000119312512419104/d193541d424b4.htm
 Ambiq,ambiq.com,ASIC,US,2010,Ultra-low-power SoCs for battery-powered edge devices,IPO,2025,656,https://techcrunch.com/2025/07/30/kleiner-perkins-backed-ambiq-pops-on-ipo-debut/
 Ambric,ambric.com,HPC,US,2003,Massively parallel processor array chips,Shutdown,2008,0,https://www.oregonlive.com/siliconforest/2008/11/ambric_suspends_operation_plan.html
 Ampere Computing,amperecomputing.com,HPC,US,2017,Cloud native manycore CPUs,Softbank,2025,6500,https://www.forbes.com/sites/moorinsights/2025/03/21/softbank-is-acquiring-ampere-what-are-the-implications/
+AnaFocus,anafocus.com,SENSORS,ES,2001,CMOS image sensors and vision systems-on-chip,E2V,2014,39,https://optics.org/news/5/8/2
+Anchor Bay Technologies,NA,ASIC,US,NA,Video processing ICs for digital TV and home theater,Silicon Image,2011,4,https://www.sec.gov/Archives/edgar/data/1003214/000100321411000018/form10-q.htm
 Annapurna Labs,annapurnalabs.com,HPC,IL,2011,Arm-based server and cloud infrastructure SoCs,Amazon,2015,350,https://www.datacenterknowledge.com/data-center-chips/amazon-buys-stealthy-israeli-chip-startup-annapurna-labs
 Anobit,anobit.com,MEMORY,IL,2006,Flash memory signal processing controllers,Apple,2012,500,https://techcrunch.com/2012/01/11/why-apple-bought-anobit
 Applied Optoelectronics,ao-inc.com,PHOTONICS,US,1997,Lasers and optical transceivers for data centers and cable TV,IPO,2013,126,https://www.sec.gov/Archives/edgar/data/1158114/000104746913009310/a2216811z424b4.htm
 Aquantia,aquantia.com,NETWORKING,US,2004,Multi-gigabit Ethernet PHY transceivers,Marvell,2019,452,https://www.thestreet.com/investing/earnings/marvell-technology-to-purchase-aquantia-14949381
 Arbe,arberobotics.com,SENSORS,IL,2015,4D imaging radar chipsets for vehicles,SPAC,2021,525,https://en.globes.co.il/en/article-arbe-robotics-lists-on-nasdaq-friday-as-spac-merger-completed-1001386505
+Arioso Systems,arioso-systems.com,MEMS,DE,2019,MEMS micro speakers for hearables and wearables,Bosch,2022,NA,https://bosch-presse.de/pressportal/de/en/mems-micro-speaker-bosch-expands-sensor-business-for-consumer-electronics-239809.html
+Arithmatica,arithmatica.com,EDA,US,NA,Datapath synthesis tools and arithmetic silicon IP,Forte Design Systems,2009,NA,https://www.design-reuse.com/news/21637/forte-arithmatica-datapath.html
 Arteris,arteris.com,EDA,US,2004,Network-on-chip interconnect IP for SoCs,IPO,2021,546,https://www.sec.gov/Archives/edgar/data/1667011/000119312521311263/d52087d424b4.htm
 Astera,asteralabs.com,HPC,US,2017,High performance connectivity semiconductor solutions,IPO,2024,9500,https://uk.investing.com/news/stock-market-news/astera-labs-ai-stock-and-supplier-to-nvidia-amd-intel-and-amazon-surges-72-in-nasdaq-debut-3395508
 Athos Silicon,athossilicon.com,CHIPLETS,US,2025,Chiplet platform for automotive/safety critical applications,Shutdown,2026,0,https://www.eetimes.com/mercedes-spinout-athos-closes-its-doors/
@@ -25,31 +39,49 @@ Atlantic Quantum,atlantic-quantum.com,QUANTUM,US,2022,Scalable quantum computers
 Atomera,atomera.com,MFG,US,2001,Transistor materials technology licensed to fabs,IPO,2016,91,https://www.sec.gov/Archives/edgar/data/1420520/000161577416006608/s103837_424b4.htm
 Audience,NA,ANALOG,US,2000,Voice and audio processors for mobile devices,IPO,2012,371,https://www.sec.gov/Archives/edgar/data/1201663/000119312512223534/d229773d424b4.htm
 Axis Semiconductor,NA,HPC,US,2007,,Shutdown,2022,0,Private Communication
+Azuro,azuro.com,EDA,US,2002,Clock tree synthesis and clock concurrent optimization tools,Cadence,2011,NA,https://design-reuse.com/news/26855/cadence-azuro-acquisition.html
 Banias,baniaslabs.com,PHOTONICS,IL,2020,Optical DSP chips for data center links,Alphawave,2022,240,https://www.calcalistech.com/ctechnews/article/hynfz2sxs
 BCD Semiconductor,NA,ANALOG,CN,2000,Analog power management ICs,IPO,2011,186,https://www.sec.gov/Archives/edgar/data/1289814/000119312511016485/d424b4.htm
 Blaize,blaize.com,AI,US,2010,Graph streaming processor for AI applications,SPAC,2025,1330,https://www.sec.gov/Archives/edgar/data/1871638/000119312525008517/d903961d8k.htm
 Blue Cheetah Analog,bcanalog.com,CHIPLETS,US,2018,Customizable die-to-die interconnect solutions,Tenstorrent,2025,NA,https://tenstorrent.com/vision/tenstorrent-acquires-blue-cheetah-analog-design
 BrainChip,brainchip.com,AI,AU,2004,Neuromorphic edge AI processors,SPAC,2015,NA,https://www.businessnews.com.au/article/BrainChip-makes-strong-ASX-debut
+BridgeCo,NA,RF,US,2000,Networked audio SoCs with Wi-Fi for consumer audio products,SMSC,2011,40,https://www.sec.gov/Archives/edgar/data/93384/000114036111028972/ex99_1.htm
+bTendo,btendo.com,MEMS,IL,2006,MEMS scanning laser projection engines for embedded pico projectors,STMicroelectronics,2012,NA,https://www.sec.gov/Archives/edgar/data/932787/000094787112000690/ss156021_6k.htm
+Caliopa,caliopa.com,PHOTONICS,BE,2009,Silicon photonics optical transceivers,Huawei,2013,NA,https://www.lightwaveonline.com/business/mergers-acquisitions/article/16658193/huawei-buys-silicon-photonics-startup-caliopa
 Calxeda,calxeda.com,HPC,US,2008,Arm-based server SoCs,Shutdown,2013,0,https://semiengineering.com/chip-startup-shuts-doors/
 Cambricon,cambricon.com,AI,CN,2016,AI processor chips for cloud and edge,IPO,2020,12100,https://en.lingang.gov.cn/html/website/lg/English/Home/OrientalICPort/Enterprises/c1648996112296636417.html
+Carbon Design Systems,carbondesignsystems.com,EDA,US,2002,Cycle-accurate virtual prototyping and model generation tools,ARM,2015,NA,https://www.sec.gov/Archives/edgar/data/1057997/000095010315008527/dp60883_6k.htm
+Celeno Communications,NA,RF,IL,2005,Wi-Fi chipsets and software for home and enterprise networks,Renesas,2021,315,https://www.renesas.com/en/about/newsroom/renesas-acquires-celeno-expand-connectivity-portfolio
 Celestial AI,celestial.ai,PHOTONICS,US,2020,Photonic fabric optical interconnect technology,Marvell,2025,3250,https://finance.yahoo.com/news/marvell-buy-chip-startup-celestial-210837707.html
+Celestial Semiconductor,celestialsemi.com,ASIC,CN,2004,ARM-based media processor SoCs for set-top boxes and IPTV,Cavium,2011,55,https://www.sec.gov/Archives/edgar/data/1175609/000119312511018993/dex991.htm
 Cerebras,cerebras.net,HPC,US,2016,Wafer scale processors,IPO,2026,64000,https://www.investors.com/news/technology/cerebras-stock-possible-index-inclusion/
+ChipSensors,chipsensors.com,SENSORS,IE,2005,"Single-chip CMOS temperature, humidity and gas sensors",Silicon Labs,2010,10,https://www.sec.gov/Archives/edgar/data/1038074/000104746911000733/a2201799z10-k.htm
 Chipstack,chipstack.com,EDA,US,2023,AI based chip design methodology,Cadence,2025,NA,https://www.design-reuse.com/news/202529654-cadence-welcomes-chipstack/
+CICLON Semiconductor,ciclonsemi.com,ANALOG,US,2005,NexFET power MOSFETs and RF LDMOS devices,Texas Instruments,2009,104,https://www.sec.gov/Archives/edgar/data/97476/000009747609000041/d10q.htm
+ClariPhy Communications,NA,NETWORKING,US,2002,Coherent DSP SoCs for long-haul and metro optical networks,Inphi,2016,275,https://www.sec.gov/Archives/edgar/data/1160958/000143774916040761/ex99-1.htm
 Classiq,classiq.io,EDA,IL,2020,Quantum computing software,Intel,2026,1900,https://www.sec.gov/Archives/edgar/data/0000050863/000005086326000191/intc-20260926.htm
 Clearspeed,clearspeed.com,HPC,GB,2002,SIMD coprocessors for high-performance computing,IPO,2007,20,https://en.wikipedia.org/wiki/ClearSpeed
+CMOSIS,cmosis.com,SENSORS,BE,2007,"CMOS image sensors for machine vision, cinema and medical",TA Associates,2013,NA,https://www.privateequitywire.co.uk/cmosis-be-acquired-ta-associates/
 Condor Computing,condorcomputing.com,RISC-V,US,2023,High performance RISC-V processors,Shutdown,2026,0,https://www.jonpeddie.com/news/condor-flies-no-more/
+CopperGate Communications,copper-gate.com,NETWORKING,IL,2000,HomePNA and wireline home networking chips,Sigma Designs,2009,160,https://www.sec.gov/Archives/edgar/data/790715/000143774909001437/ex99-1.htm
 Credo,credosemi.com,NETWORKING,US,2008,High-speed SerDes and connectivity chips,IPO,2022,1630,https://www.sec.gov/Archives/edgar/data/1807794/000162828022001369/credotechnologygroup424b4.htm
+Crocus Technology,crocus-technology.com,SENSORS,US,2006,TMR magnetic sensors,Allegro,2023,420,https://www.sec.gov/Archives/edgar/data/866291/000095010323011726/dp197539_ex9901.htm
+Crystal IS,crystal-is.com,PHOTONICS,US,1997,UV-C LEDs on single-crystal aluminum nitride substrates,Asahi Kasei,2012,NA,https://www.asahi-kasei.co.jp/asahi/en/news/2011/e120111.html
 Cycuity,cycuity.com,EDA,US,2014,Security EDA design and verification solutions,Arteris,2025,NA,https://www.globenewswire.com/news-release/2025/12/11/3204295/0/en/Arteris-to-Expand-Portfolio-with-Acquisition-of-Cycuity-a-Leader-in-Semiconductor-Cybersecurity-Assurance.html
 Dfiant,dfiant.works,EDA,US,2022,Chip design tools,Shutdown,2026,0,https://www.linkedin.com/posts/oron-port_opentowork-share-7513883795054313473-Yzod/
 Diakopto,diakopto.com,EDA,US,2017,IC parasitic and interconnect analysis tools,Ansys,2023,NA,https://www.prnewswire.com/news-releases/ansys-signs-definitive-agreement-to-acquire-diakopto-expands-multiphysics-simulation-portfolio-for-semiconductor-designers-301826540.html
+DisplayLink,displaylink.com,ASIC,GB,2003,USB and network display compression chips for docking stations,Synaptics,2020,305,https://www.sec.gov/Archives/edgar/data/817720/000119312520195483/d869998dex991.htm
 DreamBig,dreambigsemi.com,CHIPLETS,US,2019,Chiplet based ASIC platform,ARM,2025,265,https://www.eetimes.com/arms-dreambig-acquisition-reignites-in-house-chip-prospects/
 Dust Photonics,dustphotonics.com,PHOTONICS,IL,2017,Small footprint integrate photonics transceivers,Credo,2026,1300,https://www.datacenterdynamics.com/en/news/credo-technology-group-acquires-dustphotonics-in-13bn-cash-and-stock-deal/
 Efabless,efabless.com,ASIC,US,2011,Community powered ASIC platform,Shutdown,2025,0,https://www.tomshardware.com/tech-industry/semiconductors/efabless-shuts-down-fate-of-tiny-tapeout-chip-production-projects-unclear
 Element14,e-14.com,NETWORKING,GB,1999,DSL chipsets spun out of Acorn Computers,Broadcom,2000,600,https://www.eetimes.com/broadcom-acquires-element-14-for-600-million-enters-adsl-chip-market/
+Elenion Technologies,elenion.com,PHOTONICS,US,2014,Silicon photonics design platform and optical engines,Nokia,2020,NA,https://www.nokia.com/newsroom/nokia-to-acquire-elenion-to-improve-economics-of-advanced-optical-connectivity-solutions/
 Empower,empowersemi.com,ANALOG,US,2014,Integrated voltage regulators and silicon capacitors,Analog Devices,2026,1500,https://www.bostonglobe.com/2026/05/19/business/analog-devices-acquire-empower/
 Enosemi,enosemi.com,PHOTONICS,US,2023,Photonics subsystems,AMD,2025,NA,https://techcrunch.com/2025/05/28/amd-buys-silicon-photonics-startup-enosemi-to-fuel-its-ai-ambitions/
+Enpirion,enpirion.com,ANALOG,US,2001,Power SoC DC-DC converters with integrated inductors,Altera,2013,134,https://blogs.451research.com/semiconductors/altera-moves-into-power-management-with-134m-enpirion-buy/index.html
 Esperanto,esperanto.ai,HPC,US,2014,Manycore RISC-V compute platform,Shutdown,2025,0,https://www.eetimes.com/ai-startup-esperanto-winds-down-silicon-business/
 Espressif,espressif.com,SENSORS,CN,2008,Wi-Fi and Bluetooth IoT microcontrollers,IPO,2019,1800,https://www.cnx-software.com/2019/07/25/espressif-systems-gets-listed-on-the-shanghai-stock-market/
+Eta Devices,etadevices.com,RF,US,2010,Power amplifier efficiency technology for base stations,Nokia,2016,NA,https://www.sec.gov/Archives/edgar/data/924613/000110465917006092/a17-3694_16k.htm
 Everspin,everspin.com,MEMORY,US,2008,MRAM memory chips,IPO,2016,100,https://www.sec.gov/Archives/edgar/data/1438423/000119312516733396/d180963d424b4.htm
 Excellicon,excellicon.com,EDA,US,2009,Timing constraint authoring and verification tools,Siemens,2025,NA,https://news.siemens.com/en-us/siemens-to-acquire-excellicon/
 Ferric,ferric.com,ANALOG,US,2010,Single-chip power converters,Onsemi,2026,600,https://www.onsemi.com/company/newsroom/news-and-insights/onsemi-to-acquire-ferric-establishing-leadership-in-power-delivery-for-next-generation-ai-processors
@@ -57,28 +89,38 @@ Flex Logix,flex-logix.com,FPGA,US,2014,Embedded FPGA IP,Analog Devices,2024,NA,h
 Fungible,fungible.com,HPC,US,2015,Data processing units for data centers,Microsoft,2023,190,https://blocksandfiles.com/2022/12/13/fungible-sold-to-microsoft-for-190-million/
 GaN Systems,gansystems.com,ANALOG,CA,2008,Gallium nitride power transistors,Infineon,2023,830,https://www.infineon.com/cms/en/about-infineon/press/press-releases/2023/INFXX202303-073.html
 Genapsys,genapsys.com,HEALTH,US,2010,Semiconductor chip-based DNA sequencing,Shutdown,2022,0,https://cases.ra.kroll.com/genapsys/Home-Index
+Gigle Networks,gigle.biz,NETWORKING,ES,2005,Powerline home networking chips,Broadcom,2010,75,https://prnewswire.com/news-releases/broadcom-corporation-to-acquire-gigle-networks-inc-109862534.html
 GrAI Matter Labs,graimatterlabs.ai,AI,FR,2016,Programmable neuromorphic computing chips,Snap,2023,NA,https://www.eetimes.com/has-grai-matter-labs-been-snapped-up-by-snap-inc/
 Graphcore,graphcore.ai,AI,UK,2016,Intelligence processing unit for AI applications,Softbank,2024,600,https://siliconangle.com/?p=663500
 GreenWaves Technologies,greenwaves-technologies.com,AI,FR,2014,Low power edge AI SoCs,Shutdown,2025,0,https://www.linkedin.com/feed/update/urn:li:activity:7313159925101166594/
 Groq,groq.com,AI,US,2016,AI processors,Nvidia,2025,20000,https://www.axios.com/2025/12/28/nvidia-groq-shareholders
 Habana Labs,habana.ai,AI,IL,2016,AI training and inference processors,Intel,2019,2000,https://www.forbes.com/sites/moorinsights/2019/12/16/intel-acquires-habana-labs-for-2b/?sh=27bc9bc319f9
 Hailo,hailo.ai,AI,IL,2017,AI acceleration for edge devices,Microchip,2026,NA,https://www.edge-ai-vision.com/2026/07/microchip-technology-signs-definitive-agreement-to-acquire-hailo/
+Heyday Integrated Circuits,heyday-ic.com,ANALOG,FR,2014,Isolated gate drivers for GaN and SiC power designs,Allegro,2022,21,https://www.sec.gov/Archives/edgar/data/866291/000086629122000052/algm-20220923.htm
 Hyperlume,hyperlume.com,PHOTONICS,CA,2022,Optical interconnect,Credo,2025,92,https://www.sec.gov/Archives/edgar/data/1807794/000162828026014017/crdo-20260131.htm
 Icera,icerasemi.com,RF,GB,2002,Software-defined cellular modem chips,Nvidia,2011,367,https://nvidianews.nvidia.com/news/nvidia-completes-acquisition-of-icera-a-leader-in-wireless-modem-rf-technology-6622906
+IDS Microchip,ids-microchip.com,RF,CH,1996,RFID reader and sensor-tag ICs,AMS,2012,NA,https://www.presseportal.de/pm/106148/2362964?langid=2
 Immedia,blinkforhome.com,ASIC,US,2009,Low power video chips for home security cameras,Amazon,2017,90,https://www.theverge.com/22704290/amazon-blink-ring-camera-doorbell-brands-smart-home-why
 Imperas,imperas.com,EDA,GB,2005,RISC-V processor models and simulation tools,Synopsys,2023,NA,https://www.design-reuse.com/news/55442/synopsys-imperas-acquisition.html
 Indie Semiconductor,indiesemi.com,SENSORS,US,2007,Automotive semiconductors for ADAS and in-cabin,SPAC,2020,1400,https://www.marketwatch.com/story/indie-semiconductor-to-go-public-through-spac-buyout-deal-that-values-company-at-14-billion-2020-12-15
+InfiniLED,infiniled.com,PHOTONICS,IE,2010,Low-power microLED displays,Meta,2016,NA,https://www.irishtimes.com/business/technology/oculus-acquires-cork-based-infiniled-1.2829574
 Innovium,innovium.com,NETWORKING,US,2014,Ethernet switch chips for cloud data centers,Marvell,2021,1100,https://techcrunch.com/2021/08/03/marvell-nabs-innovium-for-1-1b-as-it-delves-deeper-into-cloud-ethernet-switches/
 Innoviz,innoviz.tech,SENSORS,IL,2016,Solid-state lidar sensors for autonomous vehicles,SPAC,2021,1376,https://www.sec.gov/Archives/edgar/data/1835654/000119312521225925/d164869df1.htm
 Inphi,NA,NETWORKING,US,2000,High-speed analog and mixed-signal interconnect chips,IPO,2010,368,https://www.sec.gov/Archives/edgar/data/1160958/000119312510257363/d424b4.htm
 Insightness,insightness.com,SENSORS,CH,2014,Event-based vision sensors,Sony,2019,NA,https://www.eenewseurope.com/en/sony-acquires-swiss-vision-sensor-firm
 Inspire Semi,inspiresemi.com,HPC,US,2020,Manycore CPU on a chip,SPAC,2022,NA,https://www.thetechoutlook.com/press-release/inspiresemi-announces-completion-of-qualifying-transaction/
 Intchains,intchains.com,HPC,CN,2017,ASICs for blockchain computing,IPO,2023,479,https://www.sec.gov/Archives/edgar/data/1895597/000119312523072887/d204090d424b4.htm
+Intermolecular,intermolecular.com,MFG,US,2004,Combinatorial materials R&D platform for chip process development,IPO,2011,400,https://www.sec.gov/Archives/edgar/data/1311241/000104746911009685/a2206462z424b4.htm
+Intrinsity,intrinsity.com,HPC,US,1997,High-speed processor cores using Fast14 dynamic logic,Apple,2010,121,https://www.halfhill.com/mpr/2010/M17_Apple.pdf
 InvenSense,NA,MEMS,US,2003,MEMS motion sensors,IPO,2011,706,https://www.sec.gov/Archives/edgar/data/1294924/000119312511313540/d72246d424b4.htm
 IQM Quantum Computers,meetiqm.com,QUANTUM,FI,2018,Superconducting quantum computers,SPAC,2026,NA,https://www.sec.gov/Archives/edgar/data/2113060/000119312526292513/d61136dex991.htm
+Jasper Design Automation,jasper-da.com,EDA,US,1999,Formal verification software for chip design,Cadence,2014,170,https://www.sec.gov/Archives/edgar/data/813672/000081367214000013/a10-qcdns03292014.htm
+Javelin Semiconductor,javelinsemi.com,RF,US,2007,CMOS power amplifiers for 3G handsets,Avago,2013,37,https://www.sec.gov/Archives/edgar/data/1441634/000144163413000005/avgo-05052013x10q.htm
+Jennic,jennic.com,RF,GB,1996,Low-power ZigBee and IEEE 802.15.4 wireless chips,NXP,2010,12,https://us.design-reuse.com/news/23985/jennic-nxp-acquisition.html
 Kalray,kalrayinc.com,HPC,FR,2008,Manycore processors for data centers and embedded,IPO,2018,NA,https://www.euronext.com/en/about/media/euronext-press-releases/kalray-sintroduit-sur-euronext-growth
 Kameleon,kameleonsec.com,HPC,IL,NA,Hardware security processors for data centers,Ramon Space,2022,NA,Private Communication
 Kinara,kinara.ai,AI,US,2014,Accelerating LLMs and Vision AI at the Edge,NXP,2025,307,https://evertiq.com/design/2025-10-28-nxp-completes-acquisitions-of-aviva-links-and-kinara
+Leaba Semiconductor,NA,NETWORKING,IL,2014,Fabless networking switch silicon,Cisco,2016,320,https://blogs.cisco.com/news/networking-semiconductors-news
 Lightelligence,lightelligence.ai,PHOTONICS,US,2017,Optical computing platform,IPO,2026,306,https://www.scmp.com/tech/tech-trends/article/3351551/lightelligence-jumps-hong-kong-debut-amid-ai-driven-demand-photonics-chips
 Lighton,lighton.ai,PHOTONICS,FR,2015,Optical computing platform,IPO,2024,65,https://www.reuters.com/technology/artificial-intelligence/frances-lighton-says-valued-65-mln-euronext-ipo-2024-11-21/
 LintrinsIC,lintrinsicsemi.com,RF,US,2021,Fast RF switches,Marki Microwave,2026,NA,https://markimicrowave.com/company/news-events/marki-microwave-acquires-lintrins-ic-semiconductors
@@ -88,57 +130,100 @@ Lyric,lyricsemiconductor.com,SENSORS,US,2006,Probability processing chips,Analog
 Mathstar,mathstar.com,HPC,US,1999,Field programmable object array chips,Shutdown,2008,0,https://www.oregonlive.com/business/2008/05/mathstar_calls_it_quits.html
 Maxeda,NA,EDA,,NA,Floorplanning software for chip physical design,Synopsys,2023,NA,https://www.synopsys.com/company/acquisitions.html
 MaxLinear,maxlinear.com,RF,US,2003,RF and mixed-signal broadband communication chips,IPO,2010,569,https://www.sec.gov/Archives/edgar/data/1288469/000119312510065121/d424b4.htm
+Merus Audio,merus-audio.com,ANALOG,DK,2010,Multilevel Class-D audio amplifier ICs,Infineon,2018,NA,https://web.archive.org/web/20180828184112/https://www.infineon.com/cms/en/about-infineon/press/press-releases/2018/INFXX201802-029.html
 Minima,minimaprocessor.com,ASIC,FI,2016,Near-threshold voltage low power processor IP,Bosch,2022,NA,https://www.acuity.co.uk/successes/acuity-advises-minima-on-its-sale-to-bosch/
 MixComm,mixcomm.com,RF,US,2017,mmWave beamforming front-end ICs for 5G and satcom,Sivers,2021,155,https://www.eetimes.com/mixcomm-acquired-by-sivers-semiconductors/
 Mobix Labs,mobixlabs.com,RF,US,2020,mmWave wireless and connectivity chips,SPAC,2023,NA,https://www.sec.gov/Archives/edgar/data/1855467/000110465923129265/tm2333677d1_ex99-1.htm
 Montage Technology,montage-tech.com,MEMORY,CN,2004,Memory interface chips,IPO,2013,339,https://www.sec.gov/Archives/edgar/data/1375514/000119312513379972/d502332d424b4.htm
 Movidius,movidius.com,SENSORS,IE,2005,Low power computer vision processors,Intel,2016,400,https://siliconangle.com/2016/09/06/intel-buys-movidius-to-boost-machine-vision/
 Nano Labs,NA,HPC,CN,2019,ASICs for high-throughput and blockchain computing,IPO,2022,647,https://www.sec.gov/Archives/edgar/data/1872302/000119312522192378/d33263d424b4.htm
+Nanoradio,nanoradio.com,RF,SE,2004,Low-power Wi-Fi chipsets for mobile devices,Samsung,2012,NA,https://design-reuse.com/news/29435/samsung-nanoradio-acquisition.html
+NanoSemi,nanosemitech.com,RF,US,2014,Machine-learning linearization IP for 5G radio power amplifiers,MaxLinear,2020,61,https://www.sec.gov/Archives/edgar/data/1288469/000128846920000224/mxl-20200930.htm
 Navitas,navitassemi.com,ANALOG,US,2013,GaN and SiC power semiconductors,SPAC,2021,1507,https://www.sec.gov/Archives/edgar/data/1821769/000119312521306726/d225525d8k.htm
 NeoPhotonics,NA,PHOTONICS,US,1996,Photonic integrated circuits for optical networks,IPO,2011,311,https://www.sec.gov/Archives/edgar/data/1227025/000119312511020885/d424b4.htm
 Nervana,nervanasys.com,AI,US,2014,Deep learning processors and cloud platform,Intel,2016,350,https://venturebeat.com/2016/08/09/intel-acquires-deep-learning-startup-nervana
+NetEffect,neteffect.com,NETWORKING,US,1998,iWARP RDMA 10 Gigabit Ethernet adapters and chips,Shutdown,2008,0,https://web.archive.org/web/20191115122940/https://www.hpcwire.com/2008/10/15/intel_grabs_neteffect_assets_becomes_iwarp_player/
+Neterion,neterion.com,NETWORKING,US,2001,10 Gigabit Ethernet controller silicon and adapters,Exar,2010,2,https://www.sec.gov/Archives/edgar/data/753568/000119312510137224/d10k.htm
+NetXen,netxen.com,NETWORKING,US,2002,10 Gigabit Ethernet intelligent NIC chips,QLogic,2009,21,https://www.sec.gov/Archives/edgar/data/918386/000089256909000526/a52351exv99w2.htm
 NeuReality,neureality.ai,AI,IL,2019,Purpose-built AI-centric architecture,Unconventional AI,2026,NA,https://www.calcalistech.com/ctechnews/article/rz4yeog9t
 NeuroBlade,neuroblade.com,AI,IL,2018,Accelerators for high throughput data analytics,Amazon,2025,NA,https://www.storagenewsletter.com/2025/10/23/aws-swallows-neuroblade/
+Newport Media,newportmediainc.com,RF,US,2005,"Mobile TV, Wi-Fi and Bluetooth SoCs",Atmel,2014,140,https://www.sec.gov/Archives/edgar/data/872448/000087244814000032/ex991-q314newsrelease.htm
+Nitero,nitero.com,RF,US,2010,60 GHz 802.11ad wireless chips for mobile devices,Shutdown,2017,0,https://ir.amd.com/news-events/press-releases/detail/760/amd-expands-technology-portfolio-to-drive-immersive
 nLIGHT,nlight.net,PHOTONICS,US,2000,Semiconductor and fiber lasers,IPO,2018,906,https://www.sec.gov/Archives/edgar/data/1124796/000104746918003223/a2235497z424b4.htm
+Novalux,novalux.com,PHOTONICS,US,1998,Extended-cavity surface-emitting lasers for laser displays,Arasor,2008,7,https://www.semiconductor-today.com/news_items/2008/JAN/ARASOR_110108.htm
 Novelda,novelda.com,RF,NO,2004,Wireless wideband for high resolution impulse radar,Shutdown,2024,0,https://vitalthings.com/en/vitalthings-as-takes-over-the-bankruptcy-estate-after-novelda-as/
 Nubis,nubis-inc.com,NETWORKING,US,2020,Optical communications technology,Ciena,2025,270,https://www.ciena.com/about/newsroom/press-releases/ciena-to-acquire-nubis-communications-to-expand-its-inside-the-data-center-strategy-and-further-address-growing-ai-workloads
 Nuvia,nuviainc.com,HPC,US,2019,Arm based server CPUs,Qualcomm,2021,1400,https://www.fiercewireless.com/devices/qualcomm-to-acquire-nuvia-for-1-4b
 Oculii,oculii.com,SENSORS,US,2014,AI software for imaging radar,Ambarella,2021,307,https://www.ambarella.com/news/ambarella-closes-acquisition-of-oculii/
+Ozmo Devices,ozmodevices.com,RF,US,2004,Ultra-low-power Wi-Fi Direct chips for battery-powered devices,Atmel,2012,NA,https://www.sec.gov/Archives/edgar/data/872448/000087244813000002/ex991-01.htm
 PA Semi,pasemi.com,HPC,US,2003,Low power Power Architecture processors,Apple,2008,278,https://www.cnet.com/tech/tech-industry/apple-acquires-low-power-chip-designer-pa-semi
+Parade Technologies,paradetech.com,NETWORKING,US,2005,"DisplayPort, HDMI and display interface chips",IPO,2011,300,https://en.zhonglun.com/news/trade/30088.html
+Passif Semiconductor,NA,RF,US,2007,Low-power Bluetooth LE radio chips,Apple,2013,NA,https://techcrunch.com/2013/08/01/apple-acquires-low-energy-chipmaker-passif-could-boost-passive-communication-efforts/
 Pensando,pensando.io,NETWORKING,US,2017,Programmable DPUs for cloud and edge,AMD,2022,1900,https://www.amd.com/en/press-releases/2022-05-26-amd-expands-data-center-solutions-capabilities-acquisition-pensando
+Peraso Technologies,peraso.com,RF,CA,2008,mmWave 5G and 60 GHz WiGig wireless chipsets,Shutdown,2020,0,https://www.sec.gov/Archives/edgar/data/890394/000156459022012981/prso-10k_20211231.htm
 Perceive,perceive.io,AI,US,2015,AI processing for edge devices,Amazon,2024,80,https://www.geekwire.com/2024/amazon-to-acquire-perceive-for-80m-from-xperi-expanding-its-ai-technology-for-edge-devices/
 Peregrine Semiconductor,NA,RF,US,1990,Silicon-on-sapphire RF switches and ICs,IPO,2012,450,https://www.sec.gov/Archives/edgar/data/880177/000119312512344077/d118905d424b4.htm
 Pharrowtech,pharrowtech.com,RF,BE,2018,RF ICs for high speed wireless links,Shutdown,2025,0,https://bits-chips.com/article/its-the-end-of-the-line-for-pharrowtech/
+Picochip,picochip.com,RF,GB,2000,Multi-core DSP SoCs for femtocell and small cell base stations,Mindspeed,2012,52,https://www.sec.gov/Archives/edgar/data/1224370/000119312512008950/d280395dex991.htm
 PrimeSense,primesense.com,SENSORS,IL,2005,3D depth sensing chips,Apple,2013,350,https://techcrunch.com/2013/11/24/apple-primesense-acquisition-confirmed
 Provigent,provigent.com,RF,IL,2000,Microwave backhaul modem chips,Broadcom,2011,360,https://en.globes.co.il/en/article-1000631723
 Quantenna,quantenna.com,RF,US,2006,Wi-Fi chipsets,Onsemi,2019,1070,https://www.sec.gov/Archives/edgar/data/1097864/000119312519088528/d929418dex991.htm
 Rain Neuromorphics,rain.ai,AI,US,2017,Brain-inspired hardware for AI applications,Shutdown,2026,0,https://www.digitaltoday.co.kr/en/view/90637/openai-buys-rain-ai-patents-to-speed-in-house-ai-chip-strategy
+Ralink Technology,ralinktech.com,RF,TW,2001,Wi-Fi chipsets,IPO,2008,NA,https://www.twse.com.tw/downloads/zh/about/company/factbook/2009/1.06.htm
 RDA Microelectronics,NA,RF,CN,2004,RF and mixed-signal chips for mobile phones,IPO,2010,456,https://www.sec.gov/Archives/edgar/data/1493637/000095012310103616/h03918b4e424b4.htm
+Redpine Signals,redpinesignals.com,RF,US,2001,Low-power Wi-Fi and Bluetooth wireless SoCs,Silicon Labs,2020,308,https://www.sec.gov/Archives/edgar/data/1038074/000110465920032179/tm2012364d1_ex99.htm
+Reno Sub-Systems,renosubsystems.com,MFG,US,2014,RF matching and power sub-systems for semiconductor process equipment,ASM International,2022,NA,https://bits-chips.com/article/asmi-acquires-rf-matching-subsystem-supplier-from-us/
+RivieraWaves,rivierawaves.com,RF,FR,NA,Bluetooth and Wi-Fi connectivity IP,CEVA,2014,12,https://www.design-reuse.com/news/34948/ceva-rivierawaves-acquisition.html
 Rivos,rivosinc.com,RISC-V,US,2021,Stealth,Meta,2025,2000,https://semiwiki.com/forum/threads/meta-is-acquiring-chip-startup-rivos-for-a-reported-2b-to-turbocharge-its-in-house-ai-chips-mtia-and-cut-its-heavy-reliance-on-nvidia.23756/
 RoboSense,robosense.ai,SENSORS,CN,2014,Advanced LiDAR sensing,IPO,2024,2470,https://www.cnbc.com/2024/01/05/robosense-technology-ipo-debuts-in-hong-kong-the-first-in-2024-.html
+Rocketick,rocketick.com,EDA,IL,2008,GPU and multicore accelerated RTL simulation software,Cadence,2016,40,https://en.globes.co.il/en/article-cadence-buys-chip-design-co-rocketick-for-40m-1001116678
 Sand 9,sand9.com,ASIC,US,2007,MEMS timing resonators,ADI,2015,30,https://www.eenewseurope.com/en/analog-devices-is-sand-9-buyer/
 Sapeon,sapeon.com,AI,KR,2022,AI processors,Rebellions,2024,NA,https://www.reuters.com/technology/artificial-intelligence/south-korean-ai-chip-makers-rebellions-sapeon-agree-merge-2024-08-18/
 Scantinel Photonics,scantinel.com,PHOTONICS,DE,2019,FMCW LiDAR on a photonic chip,Shutdown,2025,0,https://www.unternehmeredition.de/scantinel-photonics-beantragt-insolvenz/
 Semifive,semifive.com,ASIC,KR,2019,ASIC platform,IPO,2025,560,https://www.asiae.co.kr/en/article/2025122909325079692
+Semifore,semifore.com,EDA,US,2006,Register and hardware/software interface design automation tools,Arteris,2023,3,https://www.sec.gov/Archives/edgar/data/1667011/000166701123000015/aip-20230331.htm
 Sequans,sequans.com,RF,FR,2003,4G and 5G cellular IoT chips,IPO,2011,285,https://www.sec.gov/Archives/edgar/data/1383395/000119312511099660/d424b4.htm
+SiBEAM,sibeam.com,RF,US,2004,60 GHz CMOS chips for wireless HD video,Silicon Image,2011,26,https://www.sec.gov/Archives/edgar/data/1003214/000100321411000014/exhibit_99-01.htm
 SiByte,sibyte.com,ASIC,US,1998,MIPS processors for networking,Broadcom,2000,2000,https://www.eetimes.com/broadcom-acquires-mips-core-provider-sibyte
 SiCortex,sicortex.com,HPC,US,2003,Low power MIPS based supercomputers,Shutdown,2009,0,https://www.bizjournals.com/boston/blog/mass-high-tech/2009/05/supercomputer-firm-sicortex-closes-doors.html
 Silicon Hive,siliconhive.com,HPC,NL,2007,Parallel DSP processor IP for multimedia,Intel,2011,NA,https://www.theregister.com/2011/03/17/intel_buys_silicon_hive/
+Silicon Optix,siliconoptix.com,ASIC,US,2000,Video processing and image warping chips,IDT,2008,19,https://www.sec.gov/Archives/edgar/data/703361/000119312509021281/d10q.htm
 Soft Machines,softmachines.com,HPC,US,2006,Virtual core CPU architecture,Intel,2016,250,https://www.theregister.com/2016/09/09/intel_soft_machines/
+Solarflare,solarflare.com,NETWORKING,US,2001,"Low-latency Ethernet network adapters, controllers and software",Xilinx,2019,NA,https://www.sec.gov/Archives/edgar/data/743988/000074398819000009/exhibit991pressrelease4-24.htm
+Soraa,soraa.com,PHOTONICS,US,2008,GaN-on-GaN LEDs and full-spectrum LED lamps,Shutdown,2020,0,https://www.semiconductor-today.com/news_items/2020/mar/soraa-240320.shtml
 Stream Processors,streamprocessors.com,HPC,US,2004,Programmable stream processor DSPs,Shutdown,2009,0,https://venturebeat.com/2009/11/07/chip-design-firm-stream-processors-shutting-down-and-selling-assets/
 Stretch,stretchinc.com,HPC,US,2002,Software configurable processors,Exar,2014,NA,https://www.prnewswire.com/news-releases/exar-acquires-stretch-incorporated-240074341.html
+Sunrise Micro Devices,sunrisemicro.com,RF,US,2009,Sub-1V Bluetooth Smart radio IP,ARM,2015,NA,https://www.design-reuse.com/news/37135/arm-announces-acquisition-of-wicentric-and-sunrise-micro-devices.html
 SWIR Vision Systems,swirvisionsystems.com,SENSORS,US,2018,Image sensors for short-wave infrared cameras,Onsemi,2024,NA,https://www.onsemi.com/company/newsroom/news-and-insights/onsemi-enhances-intelligent-sensing-portfolio-with-acquisition-of-swir-vision-systems
+Synfora,synfora.com,EDA,US,2003,C/C++ high-level synthesis tools,Synopsys,2010,NA,https://prnewswire.com/news-releases/synopsys-acquires-high-level-synthesis-technology-from-synfora-inc-96084444.html
 Taalas,taalas.com,AI,CA,2023,Automated generation of AI hardware,AMD,2026,NA,https://ir.amd.com/news-events/press-releases/detail/1296/amd-acquires-taalas-to-advance-compute-solutions-for-rapidly-growing-ai-inference-market
 Tabula,tabula.com,FPGA,US,2003,3D programmable logic devices,Shutdown,2015,0,https://semiwiki.com/fpga/4232-tabula-closes-its-doors/
 Tensil.ai,tensil.ai,AI,US,2019,Open source ML accelerators for FPGAs,NA,2022,NA,Private Communication
 Teramount,teramount.com,MFG,IL,2013,Packaging technology for photonic devices,Molex,2026,430,https://www.calcalistech.com/ctechnews/article/b1intlan11l#google_vignette
+Terasquare,NA,NETWORKING,KR,2010,CMOS high-speed interface chips for 100G Ethernet and InfiniBand,GigOptix,2015,4,https://www.sec.gov/Archives/edgar/data/1432150/000119312515325028/d10008dex991.htm
 Tilera,tilera.com,HPC,US,2004,Manycore processors,Ezchip,2014,50,https://www.prnewswire.com/news-releases/ezchip-completes-acquisition-of-tilera-a-leader-in-high-performance-multi-core-processors-281754771.html
+Touchdown Technologies,NA,MFG,US,NA,MEMS probe cards for wafer test,Shutdown,2009,0,https://www.sec.gov/Archives/edgar/data/1352341/000119312509131323/d8k.htm
+Touchstone Semiconductor,touchstonesemi.com,ANALOG,US,2010,Low-power analog ICs,Shutdown,2014,0,https://news.silabs.com/2014-03-03-Silicon-Labs-Acquires-Low-Power-Analog-IC-Products
+TPACK,tpack.net,NETWORKING,DK,2001,Packet and OTN mapping and switching silicon IP for FPGAs,AppliedMicro,2010,32,https://www.sec.gov/Archives/edgar/data/711065/000119312510195049/dex991.htm
 Untether,untether.ai,AI,CA,2018,AI processing devices,Shutdown,2025,0,https://insolvencyinsider.ca/p/untether-ai-files-for-bankruptcy-following-amd-talent-acquisition-deal
 Upmem,upmem.com,AI,FR,2015,In memory processing devices for big data and AI,Qualcomm,2025,NA,https://arxiv.org/html/2510.15927v1
 Upverter,upverter.com,EDA,CA,2010,Browser based PCB design tools,Altium,2017,NA,https://betakit.com/altium-acquires-toronto-based-product-design-platform-upverter/
 Valens,valens.com,NETWORKING,IL,2006,High-speed connectivity chips for audio-video and automotive,SPAC,2021,1100,"https://www.calcalistech.com/ctech/articles/0,7340,L-3918696,00.html"
 Ventana,ventanamicro.com,RISC-V,US,2018,RISC-V CPU cores and compute subsystems,Qualcomm,2025,NA,https://www.crn.com/news/components-peripherals/2025/qualcomm-acquires-risc-v-chip-designer-ventana-to-boost-cpu-capabilities
+VirtenSys,virtensys.com,NETWORKING,GB,2005,PCIe I/O virtualization and sharing silicon,Micron,2012,NA,https://electronicspecifier.com/news/analysis/micron-announces-agreement-to-acquire-virtensys
+Vivante,vivantecorp.com,EDA,US,2004,Embedded GPU and graphics processor IP cores,VeriSilicon,2015,NA,https://us.design-reuse.com/news/38446/verisilicon-vivante-acquisition.html
+ViXS Systems,vixs.com,ASIC,CA,2001,Video transcoding and media processor SoCs,SPAC,2013,NA,https://prnewswire.com/news-releases/vixs-reports-fiscal-2014-first-quarter-results-212836221.html
+VT Silicon,NA,RF,US,NA,SiGe RF front-end ICs and power amplifiers for 4G mobile devices,Microsemi,2010,NA,https://www.sec.gov/Archives/edgar/data/310568/000119312510267180/d10k.htm
 VyperCore,vypercore.com,RISC-V,UK,2022,RISC-V processors,Shutdown,2025,0,https://find-and-update.company-information.service.gov.uk/company/14244622
 Wavious,wavious.com,HPC,US,2015,Chiplets and memory interface PHY IP,Apple,2022,NA,Private Communication
+Wilocity,wilocity.com,RF,IL,2007,60 GHz WiGig (802.11ad) chipsets,Qualcomm,2014,NA,https://www.electronicdesign.com/technologies/test-measurement/article/21204392/qualcomm-acquires-wilocity-for-60-ghz-wigig-technology
+Wintegra,wintegra.com,NETWORKING,US,2000,Access network processors for carrier equipment,PMC-Sierra,2010,240,https://www.sec.gov/Archives/edgar/data/767920/000119312510236811/d8k.htm
+WiSpry,wispry.com,RF,US,2002,Tunable RF MEMS components for mobile antennas,AAC Technologies,2015,NA,https://www.acnnewswire.com/press-release/english/22258/aac-technologies-acquires-wispry---boosting-its-position-as-an-rf-solutions-provider
 Xanadu,xanadu.ai,PHOTONICS,CA,2016,Photonic based quantum computer,SPAC,2026,3400,https://www.stockwatch.com/News/Item/Z-C!XNDU-3800089/C/XNDU?fmt=orig
+Xelerated,xelerated.com,NETWORKING,SE,2000,Network processors and programmable Ethernet switches,Marvell,2012,NA,https://investor.marvell.com/news-events/press-releases/detail/642/marvell-acquires-xelerated
+Zensys,zen-sys.com,RF,US,1999,Z-Wave wireless chips for home control,Sigma Designs,2008,13,https://www.sec.gov/Archives/edgar/data/790715/000143774909000324/sigma_10k-013109.htm
+Zenverge,zenverge.com,ASIC,US,2006,HD video transcoding and content processing ICs,Freescale,2014,NA,https://telecomlead.com/telecom-chips/freescale-acquires-hd-content-processing-ics-vendor-zenverge-54729
+ZeroG Wireless,NA,RF,US,2006,Low-power Wi-Fi chips and modules for embedded systems,Microchip,2010,NA,https://www.sec.gov/Archives/edgar/data/827054/000082705410000032/ex99_2.htm
 zGlue,zglue.com,CHIPLETS,US,2014,Chiplet integration platform for custom chips,Shutdown,2021,0,https://www.irishtimes.com/business/innovation/2023/07/27/chinese-ingenuity-is-tested-as-semiconductor-sanctions-bite
+Zilker Labs,zilkerlabs.com,ANALOG,US,2003,Digital power management and conversion ICs,Intersil,2008,NA,https://www.sec.gov/Archives/edgar/data/1096325/000119312509013122/dex991.htm
+Ziptronix,ziptronix.com,MFG,US,2000,Low-temperature direct and hybrid wafer bonding for 3D ICs,Tessera,2015,39,https://www.sec.gov/Archives/edgar/data/1261694/000119312515305516/d62217dex991.htm

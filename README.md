@@ -508,24 +508,38 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 | Company | Technology | Country |  Exit   | Year   | Value($M) | Link |
 |---------|------------|---------| ------- | ------ | ------|------|
 |Acacia | PHOTONICS | US | IPO | 2016 | 1000 | [Source](https://www.bizjournals.com/boston/news/2016/12/29/the-best-performing-ipo-nationwide-of-2016-is.html) |
+|Active-Semi | ANALOG | US | Qorvo | 2019 | 309 | [Source](https://www.sec.gov/Archives/edgar/data/1604778/000160477819000053/qorvo2019062910-q.htm) |
+|ADD Semiconductor | NETWORKING | ES | Atmel | 2011 | NA | [Source](https://www.sec.gov/Archives/edgar/data/872448/000110465911059543/a11-28851_1ex99d1.htm) |
 |Adesto Technologies | MEMORY | US | IPO | 2015 | 87 | [Source](https://www.sec.gov/Archives/edgar/data/1395848/000119312515354389/d895458d424b4.htm) |
 |Advanced Circuit Pursuit | RF | CH | Sequans | 2025 | NA | [Source](https://www.walderwyss.com/en/news/2025-01-28_sequans-acquires-acp-advanced-circuit-pursuit-ag) |
+|Advasense | SENSORS | IL | Pixim | 2011 | NA | [Source](https://securitytoday.com/articles/2011/06/16/pixim-acquires-developer-of-innovative-image-sensor-technology.aspx) |
 |Aeluma | SENSORS | US | SPAC | 2021 | NA | [Source](https://www.sec.gov/Archives/edgar/data/1828805/000121390021034503/ea143207-8k_aelumainc.htm) |
+|Ageia | HPC | US | Nvidia | 2008 | NA | [Source](https://www.sec.gov/Archives/edgar/data/1045810/000104581008000003/q408pressrelease.htm) |
 |Agnilux | HPC | US | Google | 2010 | NA | [Source](https://techcrunch.com/2010/04/20/google-agnilux-apple) |
 |Akeana | RISC-V | US | Qualcomm | 2026 | NA | [Source](https://dealroom.co/news/164707-qualcomm-buys-risc-v-startup-akeana-to-push-into-ai-and-data-center-chip/) |
+|Akros Silicon | ANALOG | US | Kinetic Technologies | 2015 | NA | [Source](https://kinet-ic.com/kinetic-technologies-announces-acquisition-of-akros-silicon) |
+|Akustica | MEMS | US | Bosch | 2009 | NA | [Source](http://web.archive.org/web/20110324191223/http://www.akustica.com/company/documents/PressRelease-BoschAcquistionofAkustica.pdf) |
 |Alif Semiconductor | AI | US | Analog Devices | 2026 | 1350 | [Source](https://www.sec.gov/Archives/edgar/data/0000006281/000119312526385938/d924057dex991.htm) |
 |Alpha & Omega Semiconductor | ANALOG | US | IPO | 2010 | 391 | [Source](https://www.sec.gov/Archives/edgar/data/1387467/000119312510097709/d424b4.htm) |
 |Alphawave | NETWORKING | CA | IPO | 2021 | 4300 | [Source](https://www.marketwatch.com/story/chip-maker-alphawave-set-for-4-3-billion-london-ipo-after-shunning-the-nasdaq-11620840007) |
 |Altair Semiconductor | SENSORS | IL | Sony | 2016 | 212 | [Source](https://www.sec.gov/Archives/edgar/data/0000313838/000115752316004276/a51265604.htm) |
+|Altatech Semiconductor | MFG | FR | Soitec | 2012 | 20 | [Source](https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2012/02/FCACT017390_20120201.pdf) |
+|Altos Design Automation | EDA | US | Cadence | 2011 | NA | [Source](http://web.archive.org/web/20120609191315/http://www.cadence.com/cadence/newsroom/press_releases/Pages/pr.aspx?xml=051011_altos&CMP=home) |
+|Alvand Technologies | ANALOG | US | IDT | 2012 | NA | [Source](https://www.sec.gov/Archives/edgar/data/703361/000070336112000036/exhibit991pressrelease.htm) |
+|Amalfi Semiconductor | RF | US | RFMD | 2012 | 48 | [Source](https://www.sec.gov/Archives/edgar/data/911160/000091116012000038/a991pressrelease11-5x2012.htm) |
 |Ambarella | AI | US | IPO | 2012 | 157 | [Source](https://www.sec.gov/Archives/edgar/data/1280263/000119312512419104/d193541d424b4.htm) |
 |Ambiq | ASIC | US | IPO | 2025 | 656 | [Source](https://techcrunch.com/2025/07/30/kleiner-perkins-backed-ambiq-pops-on-ipo-debut/) |
 |Ambric | HPC | US | Shutdown | 2008 | 0 | [Source](https://www.oregonlive.com/siliconforest/2008/11/ambric_suspends_operation_plan.html) |
 |Ampere Computing | HPC | US | Softbank | 2025 | 6500 | [Source](https://www.forbes.com/sites/moorinsights/2025/03/21/softbank-is-acquiring-ampere-what-are-the-implications/) |
+|AnaFocus | SENSORS | ES | E2V | 2014 | 39 | [Source](https://optics.org/news/5/8/2) |
+|Anchor Bay Technologies | ASIC | US | Silicon Image | 2011 | 4 | [Source](https://www.sec.gov/Archives/edgar/data/1003214/000100321411000018/form10-q.htm) |
 |Annapurna Labs | HPC | IL | Amazon | 2015 | 350 | [Source](https://www.datacenterknowledge.com/data-center-chips/amazon-buys-stealthy-israeli-chip-startup-annapurna-labs) |
 |Anobit | MEMORY | IL | Apple | 2012 | 500 | [Source](https://techcrunch.com/2012/01/11/why-apple-bought-anobit) |
 |Applied Optoelectronics | PHOTONICS | US | IPO | 2013 | 126 | [Source](https://www.sec.gov/Archives/edgar/data/1158114/000104746913009310/a2216811z424b4.htm) |
 |Aquantia | NETWORKING | US | Marvell | 2019 | 452 | [Source](https://www.thestreet.com/investing/earnings/marvell-technology-to-purchase-aquantia-14949381) |
 |Arbe | SENSORS | IL | SPAC | 2021 | 525 | [Source](https://en.globes.co.il/en/article-arbe-robotics-lists-on-nasdaq-friday-as-spac-merger-completed-1001386505) |
+|Arioso Systems | MEMS | DE | Bosch | 2022 | NA | [Source](https://bosch-presse.de/pressportal/de/en/mems-micro-speaker-bosch-expands-sensor-business-for-consumer-electronics-239809.html) |
+|Arithmatica | EDA | US | Forte Design Systems | 2009 | NA | [Source](https://www.design-reuse.com/news/21637/forte-arithmatica-datapath.html) |
 |Arteris | EDA | US | IPO | 2021 | 546 | [Source](https://www.sec.gov/Archives/edgar/data/1667011/000119312521311263/d52087d424b4.htm) |
 |Astera | HPC | US | IPO | 2024 | 9500 | [Source](https://uk.investing.com/news/stock-market-news/astera-labs-ai-stock-and-supplier-to-nvidia-amd-intel-and-amazon-surges-72-in-nasdaq-debut-3395508) |
 |Athos Silicon | CHIPLETS | US | Shutdown | 2026 | 0 | [Source](https://www.eetimes.com/mercedes-spinout-athos-closes-its-doors/) |
@@ -533,31 +547,49 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 |Atomera | MFG | US | IPO | 2016 | 91 | [Source](https://www.sec.gov/Archives/edgar/data/1420520/000161577416006608/s103837_424b4.htm) |
 |Audience | ANALOG | US | IPO | 2012 | 371 | [Source](https://www.sec.gov/Archives/edgar/data/1201663/000119312512223534/d229773d424b4.htm) |
 |Axis Semiconductor | HPC | US | Shutdown | 2022 | 0 | Private Communication |
+|Azuro | EDA | US | Cadence | 2011 | NA | [Source](https://design-reuse.com/news/26855/cadence-azuro-acquisition.html) |
 |Banias | PHOTONICS | IL | Alphawave | 2022 | 240 | [Source](https://www.calcalistech.com/ctechnews/article/hynfz2sxs) |
 |BCD Semiconductor | ANALOG | CN | IPO | 2011 | 186 | [Source](https://www.sec.gov/Archives/edgar/data/1289814/000119312511016485/d424b4.htm) |
 |Blaize | AI | US | SPAC | 2025 | 1330 | [Source](https://www.sec.gov/Archives/edgar/data/1871638/000119312525008517/d903961d8k.htm) |
 |Blue Cheetah Analog | CHIPLETS | US | Tenstorrent | 2025 | NA | [Source](https://tenstorrent.com/vision/tenstorrent-acquires-blue-cheetah-analog-design) |
 |BrainChip | AI | AU | SPAC | 2015 | NA | [Source](https://www.businessnews.com.au/article/BrainChip-makes-strong-ASX-debut) |
+|BridgeCo | RF | US | SMSC | 2011 | 40 | [Source](https://www.sec.gov/Archives/edgar/data/93384/000114036111028972/ex99_1.htm) |
+|bTendo | MEMS | IL | STMicroelectronics | 2012 | NA | [Source](https://www.sec.gov/Archives/edgar/data/932787/000094787112000690/ss156021_6k.htm) |
+|Caliopa | PHOTONICS | BE | Huawei | 2013 | NA | [Source](https://www.lightwaveonline.com/business/mergers-acquisitions/article/16658193/huawei-buys-silicon-photonics-startup-caliopa) |
 |Calxeda | HPC | US | Shutdown | 2013 | 0 | [Source](https://semiengineering.com/chip-startup-shuts-doors/) |
 |Cambricon | AI | CN | IPO | 2020 | 12100 | [Source](https://en.lingang.gov.cn/html/website/lg/English/Home/OrientalICPort/Enterprises/c1648996112296636417.html) |
+|Carbon Design Systems | EDA | US | ARM | 2015 | NA | [Source](https://www.sec.gov/Archives/edgar/data/1057997/000095010315008527/dp60883_6k.htm) |
+|Celeno Communications | RF | IL | Renesas | 2021 | 315 | [Source](https://www.renesas.com/en/about/newsroom/renesas-acquires-celeno-expand-connectivity-portfolio) |
 |Celestial AI | PHOTONICS | US | Marvell | 2025 | 3250 | [Source](https://finance.yahoo.com/news/marvell-buy-chip-startup-celestial-210837707.html) |
+|Celestial Semiconductor | ASIC | CN | Cavium | 2011 | 55 | [Source](https://www.sec.gov/Archives/edgar/data/1175609/000119312511018993/dex991.htm) |
 |Cerebras | HPC | US | IPO | 2026 | 64000 | [Source](https://www.investors.com/news/technology/cerebras-stock-possible-index-inclusion/) |
+|ChipSensors | SENSORS | IE | Silicon Labs | 2010 | 10 | [Source](https://www.sec.gov/Archives/edgar/data/1038074/000104746911000733/a2201799z10-k.htm) |
 |Chipstack | EDA | US | Cadence | 2025 | NA | [Source](https://www.design-reuse.com/news/202529654-cadence-welcomes-chipstack/) |
+|CICLON Semiconductor | ANALOG | US | Texas Instruments | 2009 | 104 | [Source](https://www.sec.gov/Archives/edgar/data/97476/000009747609000041/d10q.htm) |
+|ClariPhy Communications | NETWORKING | US | Inphi | 2016 | 275 | [Source](https://www.sec.gov/Archives/edgar/data/1160958/000143774916040761/ex99-1.htm) |
 |Classiq | EDA | IL | Intel | 2026 | 1900 | [Source](https://www.sec.gov/Archives/edgar/data/0000050863/000005086326000191/intc-20260926.htm) |
 |Clearspeed | HPC | GB | IPO | 2007 | 20 | [Source](https://en.wikipedia.org/wiki/ClearSpeed) |
+|CMOSIS | SENSORS | BE | TA Associates | 2013 | NA | [Source](https://www.privateequitywire.co.uk/cmosis-be-acquired-ta-associates/) |
 |Condor Computing | RISC-V | US | Shutdown | 2026 | 0 | [Source](https://www.jonpeddie.com/news/condor-flies-no-more/) |
+|CopperGate Communications | NETWORKING | IL | Sigma Designs | 2009 | 160 | [Source](https://www.sec.gov/Archives/edgar/data/790715/000143774909001437/ex99-1.htm) |
 |Credo | NETWORKING | US | IPO | 2022 | 1630 | [Source](https://www.sec.gov/Archives/edgar/data/1807794/000162828022001369/credotechnologygroup424b4.htm) |
+|Crocus Technology | SENSORS | US | Allegro | 2023 | 420 | [Source](https://www.sec.gov/Archives/edgar/data/866291/000095010323011726/dp197539_ex9901.htm) |
+|Crystal IS | PHOTONICS | US | Asahi Kasei | 2012 | NA | [Source](https://www.asahi-kasei.co.jp/asahi/en/news/2011/e120111.html) |
 |Cycuity | EDA | US | Arteris | 2025 | NA | [Source](https://www.globenewswire.com/news-release/2025/12/11/3204295/0/en/Arteris-to-Expand-Portfolio-with-Acquisition-of-Cycuity-a-Leader-in-Semiconductor-Cybersecurity-Assurance.html) |
 |Dfiant | EDA | US | Shutdown | 2026 | 0 | [Source](https://www.linkedin.com/posts/oron-port_opentowork-share-7513883795054313473-Yzod/) |
 |Diakopto | EDA | US | Ansys | 2023 | NA | [Source](https://www.prnewswire.com/news-releases/ansys-signs-definitive-agreement-to-acquire-diakopto-expands-multiphysics-simulation-portfolio-for-semiconductor-designers-301826540.html) |
+|DisplayLink | ASIC | GB | Synaptics | 2020 | 305 | [Source](https://www.sec.gov/Archives/edgar/data/817720/000119312520195483/d869998dex991.htm) |
 |DreamBig | CHIPLETS | US | ARM | 2025 | 265 | [Source](https://www.eetimes.com/arms-dreambig-acquisition-reignites-in-house-chip-prospects/) |
 |Dust Photonics | PHOTONICS | IL | Credo | 2026 | 1300 | [Source](https://www.datacenterdynamics.com/en/news/credo-technology-group-acquires-dustphotonics-in-13bn-cash-and-stock-deal/) |
 |Efabless | ASIC | US | Shutdown | 2025 | 0 | [Source](https://www.tomshardware.com/tech-industry/semiconductors/efabless-shuts-down-fate-of-tiny-tapeout-chip-production-projects-unclear) |
 |Element14 | NETWORKING | GB | Broadcom | 2000 | 600 | [Source](https://www.eetimes.com/broadcom-acquires-element-14-for-600-million-enters-adsl-chip-market/) |
+|Elenion Technologies | PHOTONICS | US | Nokia | 2020 | NA | [Source](https://www.nokia.com/newsroom/nokia-to-acquire-elenion-to-improve-economics-of-advanced-optical-connectivity-solutions/) |
 |Empower | ANALOG | US | Analog Devices | 2026 | 1500 | [Source](https://www.bostonglobe.com/2026/05/19/business/analog-devices-acquire-empower/) |
 |Enosemi | PHOTONICS | US | AMD | 2025 | NA | [Source](https://techcrunch.com/2025/05/28/amd-buys-silicon-photonics-startup-enosemi-to-fuel-its-ai-ambitions/) |
+|Enpirion | ANALOG | US | Altera | 2013 | 134 | [Source](https://blogs.451research.com/semiconductors/altera-moves-into-power-management-with-134m-enpirion-buy/index.html) |
 |Esperanto | HPC | US | Shutdown | 2025 | 0 | [Source](https://www.eetimes.com/ai-startup-esperanto-winds-down-silicon-business/) |
 |Espressif | SENSORS | CN | IPO | 2019 | 1800 | [Source](https://www.cnx-software.com/2019/07/25/espressif-systems-gets-listed-on-the-shanghai-stock-market/) |
+|Eta Devices | RF | US | Nokia | 2016 | NA | [Source](https://www.sec.gov/Archives/edgar/data/924613/000110465917006092/a17-3694_16k.htm) |
 |Everspin | MEMORY | US | IPO | 2016 | 100 | [Source](https://www.sec.gov/Archives/edgar/data/1438423/000119312516733396/d180963d424b4.htm) |
 |Excellicon | EDA | US | Siemens | 2025 | NA | [Source](https://news.siemens.com/en-us/siemens-to-acquire-excellicon/) |
 |Ferric | ANALOG | US | Onsemi | 2026 | 600 | [Source](https://www.onsemi.com/company/newsroom/news-and-insights/onsemi-to-acquire-ferric-establishing-leadership-in-power-delivery-for-next-generation-ai-processors) |
@@ -565,28 +597,38 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 |Fungible | HPC | US | Microsoft | 2023 | 190 | [Source](https://blocksandfiles.com/2022/12/13/fungible-sold-to-microsoft-for-190-million/) |
 |GaN Systems | ANALOG | CA | Infineon | 2023 | 830 | [Source](https://www.infineon.com/cms/en/about-infineon/press/press-releases/2023/INFXX202303-073.html) |
 |Genapsys | HEALTH | US | Shutdown | 2022 | 0 | [Source](https://cases.ra.kroll.com/genapsys/Home-Index) |
+|Gigle Networks | NETWORKING | ES | Broadcom | 2010 | 75 | [Source](https://prnewswire.com/news-releases/broadcom-corporation-to-acquire-gigle-networks-inc-109862534.html) |
 |GrAI Matter Labs | AI | FR | Snap | 2023 | NA | [Source](https://www.eetimes.com/has-grai-matter-labs-been-snapped-up-by-snap-inc/) |
 |Graphcore | AI | UK | Softbank | 2024 | 600 | [Source](https://siliconangle.com/?p=663500) |
 |GreenWaves Technologies | AI | FR | Shutdown | 2025 | 0 | [Source](https://www.linkedin.com/feed/update/urn:li:activity:7313159925101166594/) |
 |Groq | AI | US | Nvidia | 2025 | 20000 | [Source](https://www.axios.com/2025/12/28/nvidia-groq-shareholders) |
 |Habana Labs | AI | IL | Intel | 2019 | 2000 | [Source](https://www.forbes.com/sites/moorinsights/2019/12/16/intel-acquires-habana-labs-for-2b/?sh=27bc9bc319f9) |
 |Hailo | AI | IL | Microchip | 2026 | NA | [Source](https://www.edge-ai-vision.com/2026/07/microchip-technology-signs-definitive-agreement-to-acquire-hailo/) |
+|Heyday Integrated Circuits | ANALOG | FR | Allegro | 2022 | 21 | [Source](https://www.sec.gov/Archives/edgar/data/866291/000086629122000052/algm-20220923.htm) |
 |Hyperlume | PHOTONICS | CA | Credo | 2025 | 92 | [Source](https://www.sec.gov/Archives/edgar/data/1807794/000162828026014017/crdo-20260131.htm) |
 |Icera | RF | GB | Nvidia | 2011 | 367 | [Source](https://nvidianews.nvidia.com/news/nvidia-completes-acquisition-of-icera-a-leader-in-wireless-modem-rf-technology-6622906) |
+|IDS Microchip | RF | CH | AMS | 2012 | NA | [Source](https://www.presseportal.de/pm/106148/2362964?langid=2) |
 |Immedia | ASIC | US | Amazon | 2017 | 90 | [Source](https://www.theverge.com/22704290/amazon-blink-ring-camera-doorbell-brands-smart-home-why) |
 |Imperas | EDA | GB | Synopsys | 2023 | NA | [Source](https://www.design-reuse.com/news/55442/synopsys-imperas-acquisition.html) |
 |Indie Semiconductor | SENSORS | US | SPAC | 2020 | 1400 | [Source](https://www.marketwatch.com/story/indie-semiconductor-to-go-public-through-spac-buyout-deal-that-values-company-at-14-billion-2020-12-15) |
+|InfiniLED | PHOTONICS | IE | Meta | 2016 | NA | [Source](https://www.irishtimes.com/business/technology/oculus-acquires-cork-based-infiniled-1.2829574) |
 |Innovium | NETWORKING | US | Marvell | 2021 | 1100 | [Source](https://techcrunch.com/2021/08/03/marvell-nabs-innovium-for-1-1b-as-it-delves-deeper-into-cloud-ethernet-switches/) |
 |Innoviz | SENSORS | IL | SPAC | 2021 | 1376 | [Source](https://www.sec.gov/Archives/edgar/data/1835654/000119312521225925/d164869df1.htm) |
 |Inphi | NETWORKING | US | IPO | 2010 | 368 | [Source](https://www.sec.gov/Archives/edgar/data/1160958/000119312510257363/d424b4.htm) |
 |Insightness | SENSORS | CH | Sony | 2019 | NA | [Source](https://www.eenewseurope.com/en/sony-acquires-swiss-vision-sensor-firm) |
 |Inspire Semi | HPC | US | SPAC | 2022 | NA | [Source](https://www.thetechoutlook.com/press-release/inspiresemi-announces-completion-of-qualifying-transaction/) |
 |Intchains | HPC | CN | IPO | 2023 | 479 | [Source](https://www.sec.gov/Archives/edgar/data/1895597/000119312523072887/d204090d424b4.htm) |
+|Intermolecular | MFG | US | IPO | 2011 | 400 | [Source](https://www.sec.gov/Archives/edgar/data/1311241/000104746911009685/a2206462z424b4.htm) |
+|Intrinsity | HPC | US | Apple | 2010 | 121 | [Source](https://www.halfhill.com/mpr/2010/M17_Apple.pdf) |
 |InvenSense | MEMS | US | IPO | 2011 | 706 | [Source](https://www.sec.gov/Archives/edgar/data/1294924/000119312511313540/d72246d424b4.htm) |
 |IQM Quantum Computers | QUANTUM | FI | SPAC | 2026 | NA | [Source](https://www.sec.gov/Archives/edgar/data/2113060/000119312526292513/d61136dex991.htm) |
+|Jasper Design Automation | EDA | US | Cadence | 2014 | 170 | [Source](https://www.sec.gov/Archives/edgar/data/813672/000081367214000013/a10-qcdns03292014.htm) |
+|Javelin Semiconductor | RF | US | Avago | 2013 | 37 | [Source](https://www.sec.gov/Archives/edgar/data/1441634/000144163413000005/avgo-05052013x10q.htm) |
+|Jennic | RF | GB | NXP | 2010 | 12 | [Source](https://us.design-reuse.com/news/23985/jennic-nxp-acquisition.html) |
 |Kalray | HPC | FR | IPO | 2018 | NA | [Source](https://www.euronext.com/en/about/media/euronext-press-releases/kalray-sintroduit-sur-euronext-growth) |
 |Kameleon | HPC | IL | Ramon Space | 2022 | NA | Private Communication |
 |Kinara | AI | US | NXP | 2025 | 307 | [Source](https://evertiq.com/design/2025-10-28-nxp-completes-acquisitions-of-aviva-links-and-kinara) |
+|Leaba Semiconductor | NETWORKING | IL | Cisco | 2016 | 320 | [Source](https://blogs.cisco.com/news/networking-semiconductors-news) |
 |Lightelligence | PHOTONICS | US | IPO | 2026 | 306 | [Source](https://www.scmp.com/tech/tech-trends/article/3351551/lightelligence-jumps-hong-kong-debut-amid-ai-driven-demand-photonics-chips) |
 |Lighton | PHOTONICS | FR | IPO | 2024 | 65 | [Source](https://www.reuters.com/technology/artificial-intelligence/frances-lighton-says-valued-65-mln-euronext-ipo-2024-11-21/) |
 |LintrinsIC | RF | US | Marki Microwave | 2026 | NA | [Source](https://markimicrowave.com/company/news-events/marki-microwave-acquires-lintrins-ic-semiconductors) |
@@ -596,60 +638,103 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 |Mathstar | HPC | US | Shutdown | 2008 | 0 | [Source](https://www.oregonlive.com/business/2008/05/mathstar_calls_it_quits.html) |
 |Maxeda | EDA |  | Synopsys | 2023 | NA | [Source](https://www.synopsys.com/company/acquisitions.html) |
 |MaxLinear | RF | US | IPO | 2010 | 569 | [Source](https://www.sec.gov/Archives/edgar/data/1288469/000119312510065121/d424b4.htm) |
+|Merus Audio | ANALOG | DK | Infineon | 2018 | NA | [Source](https://web.archive.org/web/20180828184112/https://www.infineon.com/cms/en/about-infineon/press/press-releases/2018/INFXX201802-029.html) |
 |Minima | ASIC | FI | Bosch | 2022 | NA | [Source](https://www.acuity.co.uk/successes/acuity-advises-minima-on-its-sale-to-bosch/) |
 |MixComm | RF | US | Sivers | 2021 | 155 | [Source](https://www.eetimes.com/mixcomm-acquired-by-sivers-semiconductors/) |
 |Mobix Labs | RF | US | SPAC | 2023 | NA | [Source](https://www.sec.gov/Archives/edgar/data/1855467/000110465923129265/tm2333677d1_ex99-1.htm) |
 |Montage Technology | MEMORY | CN | IPO | 2013 | 339 | [Source](https://www.sec.gov/Archives/edgar/data/1375514/000119312513379972/d502332d424b4.htm) |
 |Movidius | SENSORS | IE | Intel | 2016 | 400 | [Source](https://siliconangle.com/2016/09/06/intel-buys-movidius-to-boost-machine-vision/) |
 |Nano Labs | HPC | CN | IPO | 2022 | 647 | [Source](https://www.sec.gov/Archives/edgar/data/1872302/000119312522192378/d33263d424b4.htm) |
+|Nanoradio | RF | SE | Samsung | 2012 | NA | [Source](https://design-reuse.com/news/29435/samsung-nanoradio-acquisition.html) |
+|NanoSemi | RF | US | MaxLinear | 2020 | 61 | [Source](https://www.sec.gov/Archives/edgar/data/1288469/000128846920000224/mxl-20200930.htm) |
 |Navitas | ANALOG | US | SPAC | 2021 | 1507 | [Source](https://www.sec.gov/Archives/edgar/data/1821769/000119312521306726/d225525d8k.htm) |
 |NeoPhotonics | PHOTONICS | US | IPO | 2011 | 311 | [Source](https://www.sec.gov/Archives/edgar/data/1227025/000119312511020885/d424b4.htm) |
 |Nervana | AI | US | Intel | 2016 | 350 | [Source](https://venturebeat.com/2016/08/09/intel-acquires-deep-learning-startup-nervana) |
+|NetEffect | NETWORKING | US | Shutdown | 2008 | 0 | [Source](https://web.archive.org/web/20191115122940/https://www.hpcwire.com/2008/10/15/intel_grabs_neteffect_assets_becomes_iwarp_player/) |
+|Neterion | NETWORKING | US | Exar | 2010 | 2 | [Source](https://www.sec.gov/Archives/edgar/data/753568/000119312510137224/d10k.htm) |
+|NetXen | NETWORKING | US | QLogic | 2009 | 21 | [Source](https://www.sec.gov/Archives/edgar/data/918386/000089256909000526/a52351exv99w2.htm) |
 |NeuReality | AI | IL | Unconventional AI | 2026 | NA | [Source](https://www.calcalistech.com/ctechnews/article/rz4yeog9t) |
 |NeuroBlade | AI | IL | Amazon | 2025 | NA | [Source](https://www.storagenewsletter.com/2025/10/23/aws-swallows-neuroblade/) |
+|Newport Media | RF | US | Atmel | 2014 | 140 | [Source](https://www.sec.gov/Archives/edgar/data/872448/000087244814000032/ex991-q314newsrelease.htm) |
+|Nitero | RF | US | Shutdown | 2017 | 0 | [Source](https://ir.amd.com/news-events/press-releases/detail/760/amd-expands-technology-portfolio-to-drive-immersive) |
 |nLIGHT | PHOTONICS | US | IPO | 2018 | 906 | [Source](https://www.sec.gov/Archives/edgar/data/1124796/000104746918003223/a2235497z424b4.htm) |
+|Novalux | PHOTONICS | US | Arasor | 2008 | 7 | [Source](https://www.semiconductor-today.com/news_items/2008/JAN/ARASOR_110108.htm) |
 |Novelda | RF | NO | Shutdown | 2024 | 0 | [Source](https://vitalthings.com/en/vitalthings-as-takes-over-the-bankruptcy-estate-after-novelda-as/) |
 |Nubis | NETWORKING | US | Ciena | 2025 | 270 | [Source](https://www.ciena.com/about/newsroom/press-releases/ciena-to-acquire-nubis-communications-to-expand-its-inside-the-data-center-strategy-and-further-address-growing-ai-workloads) |
 |Nuvia | HPC | US | Qualcomm | 2021 | 1400 | [Source](https://www.fiercewireless.com/devices/qualcomm-to-acquire-nuvia-for-1-4b) |
 |Oculii | SENSORS | US | Ambarella | 2021 | 307 | [Source](https://www.ambarella.com/news/ambarella-closes-acquisition-of-oculii/) |
+|Ozmo Devices | RF | US | Atmel | 2012 | NA | [Source](https://www.sec.gov/Archives/edgar/data/872448/000087244813000002/ex991-01.htm) |
 |PA Semi | HPC | US | Apple | 2008 | 278 | [Source](https://www.cnet.com/tech/tech-industry/apple-acquires-low-power-chip-designer-pa-semi) |
+|Parade Technologies | NETWORKING | US | IPO | 2011 | 300 | [Source](https://en.zhonglun.com/news/trade/30088.html) |
+|Passif Semiconductor | RF | US | Apple | 2013 | NA | [Source](https://techcrunch.com/2013/08/01/apple-acquires-low-energy-chipmaker-passif-could-boost-passive-communication-efforts/) |
 |Pensando | NETWORKING | US | AMD | 2022 | 1900 | [Source](https://www.amd.com/en/press-releases/2022-05-26-amd-expands-data-center-solutions-capabilities-acquisition-pensando) |
+|Peraso Technologies | RF | CA | Shutdown | 2020 | 0 | [Source](https://www.sec.gov/Archives/edgar/data/890394/000156459022012981/prso-10k_20211231.htm) |
 |Perceive | AI | US | Amazon | 2024 | 80 | [Source](https://www.geekwire.com/2024/amazon-to-acquire-perceive-for-80m-from-xperi-expanding-its-ai-technology-for-edge-devices/) |
 |Peregrine Semiconductor | RF | US | IPO | 2012 | 450 | [Source](https://www.sec.gov/Archives/edgar/data/880177/000119312512344077/d118905d424b4.htm) |
 |Pharrowtech | RF | BE | Shutdown | 2025 | 0 | [Source](https://bits-chips.com/article/its-the-end-of-the-line-for-pharrowtech/) |
+|Picochip | RF | GB | Mindspeed | 2012 | 52 | [Source](https://www.sec.gov/Archives/edgar/data/1224370/000119312512008950/d280395dex991.htm) |
 |PrimeSense | SENSORS | IL | Apple | 2013 | 350 | [Source](https://techcrunch.com/2013/11/24/apple-primesense-acquisition-confirmed) |
 |Provigent | RF | IL | Broadcom | 2011 | 360 | [Source](https://en.globes.co.il/en/article-1000631723) |
 |Quantenna | RF | US | Onsemi | 2019 | 1070 | [Source](https://www.sec.gov/Archives/edgar/data/1097864/000119312519088528/d929418dex991.htm) |
 |Rain Neuromorphics | AI | US | Shutdown | 2026 | 0 | [Source](https://www.digitaltoday.co.kr/en/view/90637/openai-buys-rain-ai-patents-to-speed-in-house-ai-chip-strategy) |
+|Ralink Technology | RF | TW | IPO | 2008 | NA | [Source](https://www.twse.com.tw/downloads/zh/about/company/factbook/2009/1.06.htm) |
 |RDA Microelectronics | RF | CN | IPO | 2010 | 456 | [Source](https://www.sec.gov/Archives/edgar/data/1493637/000095012310103616/h03918b4e424b4.htm) |
+|Redpine Signals | RF | US | Silicon Labs | 2020 | 308 | [Source](https://www.sec.gov/Archives/edgar/data/1038074/000110465920032179/tm2012364d1_ex99.htm) |
+|Reno Sub-Systems | MFG | US | ASM International | 2022 | NA | [Source](https://bits-chips.com/article/asmi-acquires-rf-matching-subsystem-supplier-from-us/) |
+|RivieraWaves | RF | FR | CEVA | 2014 | 12 | [Source](https://www.design-reuse.com/news/34948/ceva-rivierawaves-acquisition.html) |
 |Rivos | RISC-V | US | Meta | 2025 | 2000 | [Source](https://semiwiki.com/forum/threads/meta-is-acquiring-chip-startup-rivos-for-a-reported-2b-to-turbocharge-its-in-house-ai-chips-mtia-and-cut-its-heavy-reliance-on-nvidia.23756/) |
 |RoboSense | SENSORS | CN | IPO | 2024 | 2470 | [Source](https://www.cnbc.com/2024/01/05/robosense-technology-ipo-debuts-in-hong-kong-the-first-in-2024-.html) |
+|Rocketick | EDA | IL | Cadence | 2016 | 40 | [Source](https://en.globes.co.il/en/article-cadence-buys-chip-design-co-rocketick-for-40m-1001116678) |
 |Sand 9 | ASIC | US | ADI | 2015 | 30 | [Source](https://www.eenewseurope.com/en/analog-devices-is-sand-9-buyer/) |
 |Sapeon | AI | KR | Rebellions | 2024 | NA | [Source](https://www.reuters.com/technology/artificial-intelligence/south-korean-ai-chip-makers-rebellions-sapeon-agree-merge-2024-08-18/) |
 |Scantinel Photonics | PHOTONICS | DE | Shutdown | 2025 | 0 | [Source](https://www.unternehmeredition.de/scantinel-photonics-beantragt-insolvenz/) |
 |Semifive | ASIC | KR | IPO | 2025 | 560 | [Source](https://www.asiae.co.kr/en/article/2025122909325079692) |
+|Semifore | EDA | US | Arteris | 2023 | 3 | [Source](https://www.sec.gov/Archives/edgar/data/1667011/000166701123000015/aip-20230331.htm) |
 |Sequans | RF | FR | IPO | 2011 | 285 | [Source](https://www.sec.gov/Archives/edgar/data/1383395/000119312511099660/d424b4.htm) |
+|SiBEAM | RF | US | Silicon Image | 2011 | 26 | [Source](https://www.sec.gov/Archives/edgar/data/1003214/000100321411000014/exhibit_99-01.htm) |
 |SiByte | ASIC | US | Broadcom | 2000 | 2000 | [Source](https://www.eetimes.com/broadcom-acquires-mips-core-provider-sibyte) |
 |SiCortex | HPC | US | Shutdown | 2009 | 0 | [Source](https://www.bizjournals.com/boston/blog/mass-high-tech/2009/05/supercomputer-firm-sicortex-closes-doors.html) |
 |Silicon Hive | HPC | NL | Intel | 2011 | NA | [Source](https://www.theregister.com/2011/03/17/intel_buys_silicon_hive/) |
+|Silicon Optix | ASIC | US | IDT | 2008 | 19 | [Source](https://www.sec.gov/Archives/edgar/data/703361/000119312509021281/d10q.htm) |
 |Soft Machines | HPC | US | Intel | 2016 | 250 | [Source](https://www.theregister.com/2016/09/09/intel_soft_machines/) |
+|Solarflare | NETWORKING | US | Xilinx | 2019 | NA | [Source](https://www.sec.gov/Archives/edgar/data/743988/000074398819000009/exhibit991pressrelease4-24.htm) |
+|Soraa | PHOTONICS | US | Shutdown | 2020 | 0 | [Source](https://www.semiconductor-today.com/news_items/2020/mar/soraa-240320.shtml) |
 |Stream Processors | HPC | US | Shutdown | 2009 | 0 | [Source](https://venturebeat.com/2009/11/07/chip-design-firm-stream-processors-shutting-down-and-selling-assets/) |
 |Stretch | HPC | US | Exar | 2014 | NA | [Source](https://www.prnewswire.com/news-releases/exar-acquires-stretch-incorporated-240074341.html) |
+|Sunrise Micro Devices | RF | US | ARM | 2015 | NA | [Source](https://www.design-reuse.com/news/37135/arm-announces-acquisition-of-wicentric-and-sunrise-micro-devices.html) |
 |SWIR Vision Systems | SENSORS | US | Onsemi | 2024 | NA | [Source](https://www.onsemi.com/company/newsroom/news-and-insights/onsemi-enhances-intelligent-sensing-portfolio-with-acquisition-of-swir-vision-systems) |
+|Synfora | EDA | US | Synopsys | 2010 | NA | [Source](https://prnewswire.com/news-releases/synopsys-acquires-high-level-synthesis-technology-from-synfora-inc-96084444.html) |
 |Taalas | AI | CA | AMD | 2026 | NA | [Source](https://ir.amd.com/news-events/press-releases/detail/1296/amd-acquires-taalas-to-advance-compute-solutions-for-rapidly-growing-ai-inference-market) |
 |Tabula | FPGA | US | Shutdown | 2015 | 0 | [Source](https://semiwiki.com/fpga/4232-tabula-closes-its-doors/) |
 |Tensil.ai | AI | US | NA | 2022 | NA | Private Communication |
 |Teramount | MFG | IL | Molex | 2026 | 430 | [Source](https://www.calcalistech.com/ctechnews/article/b1intlan11l#google_vignette) |
+|Terasquare | NETWORKING | KR | GigOptix | 2015 | 4 | [Source](https://www.sec.gov/Archives/edgar/data/1432150/000119312515325028/d10008dex991.htm) |
 |Tilera | HPC | US | Ezchip | 2014 | 50 | [Source](https://www.prnewswire.com/news-releases/ezchip-completes-acquisition-of-tilera-a-leader-in-high-performance-multi-core-processors-281754771.html) |
+|Touchdown Technologies | MFG | US | Shutdown | 2009 | 0 | [Source](https://www.sec.gov/Archives/edgar/data/1352341/000119312509131323/d8k.htm) |
+|Touchstone Semiconductor | ANALOG | US | Shutdown | 2014 | 0 | [Source](https://news.silabs.com/2014-03-03-Silicon-Labs-Acquires-Low-Power-Analog-IC-Products) |
+|TPACK | NETWORKING | DK | AppliedMicro | 2010 | 32 | [Source](https://www.sec.gov/Archives/edgar/data/711065/000119312510195049/dex991.htm) |
 |Untether | AI | CA | Shutdown | 2025 | 0 | [Source](https://insolvencyinsider.ca/p/untether-ai-files-for-bankruptcy-following-amd-talent-acquisition-deal) |
 |Upmem | AI | FR | Qualcomm | 2025 | NA | [Source](https://arxiv.org/html/2510.15927v1) |
 |Upverter | EDA | CA | Altium | 2017 | NA | [Source](https://betakit.com/altium-acquires-toronto-based-product-design-platform-upverter/) |
 |Valens | NETWORKING | IL | SPAC | 2021 | 1100 | [Source](https://www.calcalistech.com/ctech/articles/0,7340,L-3918696,00.html) |
 |Ventana | RISC-V | US | Qualcomm | 2025 | NA | [Source](https://www.crn.com/news/components-peripherals/2025/qualcomm-acquires-risc-v-chip-designer-ventana-to-boost-cpu-capabilities) |
+|VirtenSys | NETWORKING | GB | Micron | 2012 | NA | [Source](https://electronicspecifier.com/news/analysis/micron-announces-agreement-to-acquire-virtensys) |
+|Vivante | EDA | US | VeriSilicon | 2015 | NA | [Source](https://us.design-reuse.com/news/38446/verisilicon-vivante-acquisition.html) |
+|ViXS Systems | ASIC | CA | SPAC | 2013 | NA | [Source](https://prnewswire.com/news-releases/vixs-reports-fiscal-2014-first-quarter-results-212836221.html) |
+|VT Silicon | RF | US | Microsemi | 2010 | NA | [Source](https://www.sec.gov/Archives/edgar/data/310568/000119312510267180/d10k.htm) |
 |VyperCore | RISC-V | UK | Shutdown | 2025 | 0 | [Source](https://find-and-update.company-information.service.gov.uk/company/14244622) |
 |Wavious | HPC | US | Apple | 2022 | NA | Private Communication |
+|Wilocity | RF | IL | Qualcomm | 2014 | NA | [Source](https://www.electronicdesign.com/technologies/test-measurement/article/21204392/qualcomm-acquires-wilocity-for-60-ghz-wigig-technology) |
+|Wintegra | NETWORKING | US | PMC-Sierra | 2010 | 240 | [Source](https://www.sec.gov/Archives/edgar/data/767920/000119312510236811/d8k.htm) |
+|WiSpry | RF | US | AAC Technologies | 2015 | NA | [Source](https://www.acnnewswire.com/press-release/english/22258/aac-technologies-acquires-wispry---boosting-its-position-as-an-rf-solutions-provider) |
 |Xanadu | PHOTONICS | CA | SPAC | 2026 | 3400 | [Source](https://www.stockwatch.com/News/Item/Z-C!XNDU-3800089/C/XNDU?fmt=orig) |
+|Xelerated | NETWORKING | SE | Marvell | 2012 | NA | [Source](https://investor.marvell.com/news-events/press-releases/detail/642/marvell-acquires-xelerated) |
+|Zensys | RF | US | Sigma Designs | 2008 | 13 | [Source](https://www.sec.gov/Archives/edgar/data/790715/000143774909000324/sigma_10k-013109.htm) |
+|Zenverge | ASIC | US | Freescale | 2014 | NA | [Source](https://telecomlead.com/telecom-chips/freescale-acquires-hd-content-processing-ics-vendor-zenverge-54729) |
+|ZeroG Wireless | RF | US | Microchip | 2010 | NA | [Source](https://www.sec.gov/Archives/edgar/data/827054/000082705410000032/ex99_2.htm) |
 |zGlue | CHIPLETS | US | Shutdown | 2021 | 0 | [Source](https://www.irishtimes.com/business/innovation/2023/07/27/chinese-ingenuity-is-tested-as-semiconductor-sanctions-bite) |
+|Zilker Labs | ANALOG | US | Intersil | 2008 | NA | [Source](https://www.sec.gov/Archives/edgar/data/1096325/000119312509013122/dex991.htm) |
+|Ziptronix | MFG | US | Tessera | 2015 | 39 | [Source](https://www.sec.gov/Archives/edgar/data/1261694/000119312515305516/d62217dex991.htm) |
 
 ## Unverified
 
