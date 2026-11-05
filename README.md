@@ -398,7 +398,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 |[Secqai](https://secqai.com) | QUANTUM | 2021 | GB |Quantum hardware |
 |[SEEQC](https://seeqc.com) | QUANTUM | 2019 | US |Digital superconducting chips for quantum computers |
 |[Semidynamics](https://semidynamics.com) | RISC-V | 2016 | ES |High performance RISC-V IP cores |
-|[Semify](https://semify-eda.com) | EDA | 2021 | DE |FPGA based platforms |
+|[Semify](https://semify-eda.com) | RISC-V | 2021 | AT |RISC-V platform for edge AI and physical AI devices |
 |[SemiQA](https://semiqa.com) | AI | 2025 | PL |Analog neural network chips for edge AI |
 |[SemiQon](https://semiqon.tech) | QUANTUM | 2023 | FI |Quantum processors |
 |[Semron](https://semron.ai) | AI | 2020 | DE |AI processing |
