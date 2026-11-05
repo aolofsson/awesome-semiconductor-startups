@@ -416,6 +416,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 |[SiMa.ai](https://sima.ai) | AI | 2018 | US |AI processing for edge devices |
 |[Simbricks](https://simbricks.io) | EDA | 2024 | DE |Heterogeneous hardware design and verification platform |
 |[SimplEx Micro](https://simplexmicro.com) | RISC-V | 2021 | US |RISC-V vector processor IP for edge AI |
+|[Simra](https://simratech.com) | EDA | 2026 | DE |AI agents for analog and mixed-signal chip design |
 |[Singular Photonics](https://singularphotonics.com) | SENSORS | 2024 | GB |High performance camera modules |
 |[SiPearl](https://sipearl.com) | HPC | 2019 | FR |Manycore processors |
 |[Siphox](https://siphoxhealth.com) | HEALTH | 2020 | US |Biosensing platform for personalized health |
