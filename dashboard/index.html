@@ -88,16 +88,6 @@
     </div>
   </section>
 
-  <section class="network-panel" aria-labelledby="network-h">
-    <div class="panel-head">
-      <h2 id="network-h">Ecosystem map</h2>
-      <p class="note" id="network-note">Investors (circles) linked to the startups they back (squares). Hover to trace connections, click an investor to filter. Drag to pan, Ctrl+scroll to zoom.</p>
-      <label class="net-toggle"><input type="checkbox" id="net-all"> Show investors with one company</label>
-    </div>
-    <div id="network" class="chart network"></div>
-    <div class="legend" id="network-legend"></div>
-  </section>
-
   <section class="wafer-panel" aria-labelledby="wafer-h">
     <div class="panel-head">
       <h2 id="wafer-h">The wafer</h2>
@@ -113,17 +103,6 @@
       <p class="note">Click a bar to filter. Hover to light up its dies.</p>
     </div>
     <div id="tech-chart" class="chart"></div>
-  </section>
-
-  <section class="map-panel" aria-labelledby="map-h">
-    <div class="panel-head">
-      <h2 id="map-h">By country</h2>
-      <p class="note">Click a country on the map or a bar to filter. The bars scroll.</p>
-    </div>
-    <div class="map-layout">
-      <div id="map" class="chart map"></div>
-      <div id="country-chart" class="chart country-scroll" tabindex="0" aria-label="Companies per country, scrollable"></div>
-    </div>
   </section>
 
   <section class="founded-panel" aria-labelledby="founded-h">
@@ -158,6 +137,27 @@
       </figure>
     </div>
     <div class="legend" id="exit-legend"></div>
+  </section>
+
+  <section class="map-panel" aria-labelledby="map-h">
+    <div class="panel-head">
+      <h2 id="map-h">By country</h2>
+      <p class="note">Click a country on the map or a bar to filter. The bars scroll.</p>
+    </div>
+    <div class="map-layout">
+      <div id="map" class="chart map"></div>
+      <div id="country-chart" class="chart country-scroll" tabindex="0" aria-label="Companies per country, scrollable"></div>
+    </div>
+  </section>
+
+  <section class="network-panel" aria-labelledby="network-h">
+    <div class="panel-head">
+      <h2 id="network-h">Ecosystem map</h2>
+      <p class="note" id="network-note">Investors (circles) linked to the startups they back (squares). Hover to trace connections, click an investor to filter. Drag to pan, Ctrl+scroll to zoom.</p>
+      <label class="net-toggle"><input type="checkbox" id="net-all"> Show investors with one company</label>
+    </div>
+    <div id="network" class="chart network"></div>
+    <div class="legend" id="network-legend"></div>
   </section>
 </main>
 
