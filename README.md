@@ -278,6 +278,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 |[Majestic Labs](https://majestic-labs.ai) | AI | 2023 | IL |AI processor |
 |[MangoBoost](https://mangoboost.io) | HPC | 2022 | US |Data processing units for data center |
 |[Matx](https://matx.com) | AI | 2022 | US |Platform for AGI |
+|[Melten](https://melten.ai) | EDA | 2026 | US |AI design agents that build custom chips from requirement to tested design |
 |[Memryx](https://memryx.com) | AI | 2019 | US |AI computing platform |
 |[Menlo Microsystems](https://menlomicro.com) | MEMS | 2016 | US |MEMS switches for RF and power |
 |[Mentium Technologies](https://mentium.tech) | AI | 2017 | US |AI co-processor chips for space and edge systems |
@@ -445,6 +446,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 |[Tandem PV](https://tandempv.com) | MFG | 2016 | US |Silicon solar panels |
 |[Tattvam AI](https://tattvamlabs.ai) | EDA | 2025 | GB |AI system that automates chip design tasks |
 |[Tensordyne](https://tensordyne.ai) | AI | 2017 | US |AI inference chips and systems |
+|[Tenspresso](https://tenspresso.com) | AI | 2026 | US |AI inference chips for long-context workloads |
 |[Tenstorrent](https://tenstorrent.com) | AI | 2016 | CA |AI processing devices |
 |[TenX Semi](https://tenxsemi.com) | EDA | 2025 | US |AI agents for chip design and verification |
 |[Teradar](https://teradar.com) | SENSORS | 2020 | US |Solid-state terahertz sensors for vehicles and defense |
