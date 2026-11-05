@@ -75,6 +75,14 @@ build system and no CI.
   $M. Take the share count from the closing 8-K / 6-K or the post-closing
   prospectus and link that filing; record the closing price and its source
   in the commit message.
+- For `Exit=IPO`, when no source states the first-day market cap, estimate
+  it the same way: first-day closing price (USD) × shares outstanding
+  immediately after the offering as stated in the final prospectus (the
+  424B4 / 424B1 "shares outstanding after this offering", excluding the
+  over-allotment option; for ADSs, ordinary shares ÷ the ADS ratio × the
+  ADS price). Link the prospectus; record the closing price and its source
+  in the commit message. A listing outside the US converts at that day's
+  exchange rate.
 - Description: one short sentence, no performance claims, roughly fits the
   80-character display width.
 - Inclusion criteria (from `header.md`): a startup (not steady state), a
