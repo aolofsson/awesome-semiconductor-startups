@@ -554,6 +554,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 |Blue Cheetah Analog | CHIPLETS | US | Tenstorrent | 2025 | NA | [Source](https://tenstorrent.com/vision/tenstorrent-acquires-blue-cheetah-analog-design) |
 |BrainChip | AI | AU | SPAC | 2015 | NA | [Source](https://www.businessnews.com.au/article/BrainChip-makes-strong-ASX-debut) |
 |BridgeCo | RF | US | SMSC | 2011 | 40 | [Source](https://www.sec.gov/Archives/edgar/data/93384/000114036111028972/ex99_1.htm) |
+|Butterfly VLSI | RF | IL | Texas Instruments | 1999 | 50 | [Source](https://www.eetimes.com/ti-to-acquire-butterfly-vlsi/) |
 |bTendo | MEMS | IL | STMicroelectronics | 2012 | NA | [Source](https://www.sec.gov/Archives/edgar/data/932787/000094787112000690/ss156021_6k.htm) |
 |Caliopa | PHOTONICS | BE | Huawei | 2013 | NA | [Source](https://www.lightwaveonline.com/business/mergers-acquisitions/article/16658193/huawei-buys-silicon-photonics-startup-caliopa) |
 |Calxeda | HPC | US | Shutdown | 2013 | 0 | [Source](https://semiengineering.com/chip-startup-shuts-doors/) |
