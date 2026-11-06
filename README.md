@@ -399,7 +399,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 |[Secqai](https://secqai.com) | QUANTUM | 2021 | GB |Quantum hardware |
 |[SEEQC](https://seeqc.com) | QUANTUM | 2019 | US |Digital superconducting chips for quantum computers |
 |[Semidynamics](https://semidynamics.com) | RISC-V | 2016 | ES |High performance RISC-V IP cores |
-|[Semify](https://semify-eda.com) | EDA | 2021 | DE |FPGA based platforms |
+|[Semify](https://semify-eda.com) | RISC-V | 2021 | AT |RISC-V platform for edge AI and physical AI devices |
 |[SemiQA](https://semiqa.com) | AI | 2025 | PL |Analog neural network chips for edge AI |
 |[SemiQon](https://semiqon.tech) | QUANTUM | 2023 | FI |Quantum processors |
 |[Semron](https://semron.ai) | AI | 2020 | DE |AI processing |
@@ -416,6 +416,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 |[SiMa.ai](https://sima.ai) | AI | 2018 | US |AI processing for edge devices |
 |[Simbricks](https://simbricks.io) | EDA | 2024 | DE |Heterogeneous hardware design and verification platform |
 |[SimplEx Micro](https://simplexmicro.com) | RISC-V | 2021 | US |RISC-V vector processor IP for edge AI |
+|[Simra](https://simratech.com) | EDA | 2026 | DE |AI agents for analog and mixed-signal chip design |
 |[Singular Photonics](https://singularphotonics.com) | SENSORS | 2024 | GB |High performance camera modules |
 |[SiPearl](https://sipearl.com) | HPC | 2019 | FR |Manycore processors |
 |[Siphox](https://siphoxhealth.com) | HEALTH | 2020 | US |Biosensing platform for personalized health |
