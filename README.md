@@ -458,6 +458,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 |[Trameto](https://trameto.com) | ANALOG | 2016 | GB |Energy harvesting PMICs |
 |[TriEye](https://trieye.tech) | SENSORS | 2017 | IL |Short-wave infrared imaging systems |
 |[TriMagnetix](https://trimagnetix.com) | HPC | 2023 | US |Nanomagnetic processors combining logic and memory |
+|[Tropic Square](https://tropicsquare.com) | SECURITY | 2020 | CZ |Open-architecture auditable secure element chips |
 |[Tsavorite Scalable Intelligence](https://tsavoritesi.com) | AI | 2023 | US |Composable AI processors |
 |[TUSK IC](https://tusk-ic.com) | RF | 2018 | BE |Ka-band mmWave CMOS beamformer chips for satellite antennas |
 |[TYLsemi](https://tylsemi.ai) | CHIPLETS | 2026 | US |Chiplets for AI infrastructure |
