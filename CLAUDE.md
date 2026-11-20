@@ -22,6 +22,7 @@ build system and no CI.
 
 ## Rules
 
+- Don't commit, only write commit message. I will commit all changes.
 - **Never edit `README.md` by hand.** Edit the CSVs or `header.md`, then run
   `python3 update.py`, which rewrites `README.md` in full. Commit the CSV
   change and the regenerated README together.
