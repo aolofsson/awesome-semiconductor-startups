@@ -52,6 +52,7 @@ Baya Systems,bayasystems.com,CHIPLETS,US,2023,Chiplet Based Semiconductor Design
 Beacon Photonics,beaconphotonics.com,PHOTONICS,US,2023,Integrated photonics platform
 Beam,beamshaping.io,RF,IL,2015,Phased array antennas
 Belfort,belfortlabs.com,SECURITY,BE,2025,Hardware for encrypted compute (FHE)
+Bharat Semi,bharatsemi.ai,SENSORS,IN,2021,Programmable image sensors with on-chip AI for edge vision
 Black Semiconductor,blacksemi.com,MFG,DE,2021,Graphene electronics/photonics translators
 Blueshift Memory,blueshiftmemory.com,MEMORY,GB,2016,High performance memory centric architecture
 Bluespec,bluespec.com,RISC-V,US,2003,RISC-V IP and System Development Tools
@@ -122,6 +123,7 @@ Euclyd,euclyd.ai,AI,NL,2024,AI inference silicon and systems
 Everactive,everactive.com,SENSORS,US,2012,Battery-less IoT sensing technology
 Exo Imaging,exo.inc,HEALTH,US,2015,Handheld ultrasound device
 Extropic,extropic.ai,AI,US,2022,Physics based generative AI
+Fab2,fab2.com,MFG,US,2022,Mass-produced small chip fabs and fab tools
 Fabric Cryptography,fabriccryptography.com,SECURITY,US,2021,Cryptography hardware accelerators
 Falcomm,myfalcomm.com,RF,US,2021,Solid state power amplifiers
 femtoAI,femto.ai,AI,US,2018,Sparse AI accelerator chips and model compression
@@ -195,6 +197,7 @@ Menlo Microsystems,menlomicro.com,MEMS,US,2016,MEMS switches for RF and power
 Mentium Technologies,mentium.tech,AI,US,2017,AI co-processor chips for space and edge systems
 Mesa Quantum,mesaquantum.com,QUANTUM,US,2023,Quantum sensing for GPS
 Metalenz,metalenz.com,PHOTONICS,US,2016,Metasurface flat optics made in semiconductor foundries
+MicroAlchemy,microalchemy.xyz,MFG,CA,2025,Fast-turnaround 1um prototype fab and open-source analog EDA
 MicroAlign,microalign.nl,PHOTONICS,NL,2021,Actively aligned fiber arrays for photonic chips
 Mindgrove,mindgrovetech.in,ASIC,IN,2021,Fabless SoCs for IoT and edge vision devices
 Mintneuro,mintneuro.com,HEALTH,GB,2015,Neural implants
@@ -384,6 +387,7 @@ Usound,usound.com,MEMS,AT,2012,Sound solutions based on MEMS technology
 Vaire Computing,vaire.co,ANALOG,GB,2021,Near zero energy computing
 Vayyar,vayyar.com,SENSORS,IL,2011,High resolution image sensors
 Vector Photonics,vectorphotonics.co.uk,PHOTONICS,GB,2020,Semiconductor lasers
+Velaura AI,velaura.ai,AI,US,2022,Ultra-low-power AI silicon and accelerator IP (formerly Auradine)
 VerifAI,verifai.ai,EDA,US,2020,AI assisted hardware design and verification
 Verifaix,verifaix.com,EDA,US,2024,AI assisted hardware design and verification
 Vertical Semiconductor,verticalsemi.com,ANALOG,US,2024,Vertical GaN power transistors

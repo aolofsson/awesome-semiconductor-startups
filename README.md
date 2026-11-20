@@ -141,6 +141,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 |[Beacon Photonics](https://beaconphotonics.com) | PHOTONICS | 2023 | US |Integrated photonics platform |
 |[Beam](https://beamshaping.io) | RF | 2015 | IL |Phased array antennas |
 |[Belfort](https://belfortlabs.com) | SECURITY | 2025 | BE |Hardware for encrypted compute (FHE) |
+|[Bharat Semi](https://bharatsemi.ai) | SENSORS | 2021 | IN |Programmable image sensors with on-chip AI for edge vision |
 |[Black Semiconductor](https://blacksemi.com) | MFG | 2021 | DE |Graphene electronics/photonics translators |
 |[Blueshift Memory](https://blueshiftmemory.com) | MEMORY | 2016 | GB |High performance memory centric architecture |
 |[Bluespec](https://bluespec.com) | RISC-V | 2003 | US |RISC-V IP and System Development Tools |
@@ -211,6 +212,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 |[Everactive](https://everactive.com) | SENSORS | 2012 | US |Battery-less IoT sensing technology |
 |[Exo Imaging](https://exo.inc) | HEALTH | 2015 | US |Handheld ultrasound device |
 |[Extropic](https://extropic.ai) | AI | 2022 | US |Physics based generative AI |
+|[Fab2](https://fab2.com) | MFG | 2022 | US |Mass-produced small chip fabs and fab tools |
 |[Fabric Cryptography](https://fabriccryptography.com) | SECURITY | 2021 | US |Cryptography hardware accelerators |
 |[Falcomm](https://myfalcomm.com) | RF | 2021 | US |Solid state power amplifiers |
 |[femtoAI](https://femto.ai) | AI | 2018 | US |Sparse AI accelerator chips and model compression |
@@ -284,6 +286,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 |[Mentium Technologies](https://mentium.tech) | AI | 2017 | US |AI co-processor chips for space and edge systems |
 |[Mesa Quantum](https://mesaquantum.com) | QUANTUM | 2023 | US |Quantum sensing for GPS |
 |[Metalenz](https://metalenz.com) | PHOTONICS | 2016 | US |Metasurface flat optics made in semiconductor foundries |
+|[MicroAlchemy](https://microalchemy.xyz) | MFG | 2025 | CA |Fast-turnaround 1um prototype fab and open-source analog EDA |
 |[MicroAlign](https://microalign.nl) | PHOTONICS | 2021 | NL |Actively aligned fiber arrays for photonic chips |
 |[Mindgrove](https://mindgrovetech.in) | ASIC | 2021 | IN |Fabless SoCs for IoT and edge vision devices |
 |[Mintneuro](https://mintneuro.com) | HEALTH | 2015 | GB |Neural implants |
@@ -473,6 +476,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 |[Vaire Computing](https://vaire.co) | ANALOG | 2021 | GB |Near zero energy computing |
 |[Vayyar](https://vayyar.com) | SENSORS | 2011 | IL |High resolution image sensors |
 |[Vector Photonics](https://vectorphotonics.co.uk) | PHOTONICS | 2020 | GB |Semiconductor lasers |
+|[Velaura AI](https://velaura.ai) | AI | 2022 | US |Ultra-low-power AI silicon and accelerator IP (formerly Auradine) |
 |[VerifAI](https://verifai.ai) | EDA | 2020 | US |AI assisted hardware design and verification |
 |[Verifaix](https://verifaix.com) | EDA | 2024 | US |AI assisted hardware design and verification |
 |[Vertical Semiconductor](https://verticalsemi.com) | ANALOG | 2024 | US |Vertical GaN power transistors |
@@ -559,6 +563,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 |BridgeCo | RF | US | SMSC | 2011 | 40 | [Source](https://www.sec.gov/Archives/edgar/data/93384/000114036111028972/ex99_1.htm) |
 |Butterfly VLSI | RF | IL | Texas Instruments | 1999 | 50 | [Source](https://www.eetimes.com/ti-to-acquire-butterfly-vlsi/) |
 |bTendo | MEMS | IL | STMicroelectronics | 2012 | NA | [Source](https://www.sec.gov/Archives/edgar/data/932787/000094787112000690/ss156021_6k.htm) |
+|C2i Semiconductors | ANALOG | IN | Infineon | 2026 | NA | [Source](https://www.infineon.com/press-release/2026/infpr202608-129) |
 |Caliopa | PHOTONICS | BE | Huawei | 2013 | NA | [Source](https://www.lightwaveonline.com/business/mergers-acquisitions/article/16658193/huawei-buys-silicon-photonics-startup-caliopa) |
 |Calxeda | HPC | US | Shutdown | 2013 | 0 | [Source](https://semiengineering.com/chip-startup-shuts-doors/) |
 |Cambricon | AI | CN | IPO | 2020 | 12100 | [Source](https://en.lingang.gov.cn/html/website/lg/English/Home/OrientalICPort/Enterprises/c1648996112296636417.html) |
