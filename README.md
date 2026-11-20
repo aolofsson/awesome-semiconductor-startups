@@ -365,6 +365,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 |[Qualinx](https://qualinx.io) | RF | 2015 | NL |IoT GNSS based tracking and connectivity |
 |[QuamCore](https://quamcore.com) | QUANTUM | 2022 | IL |Quantum processors for million-qubit scale |
 |[Quandela](https://quandela.com) | QUANTUM | 2017 | FR |Photonic quantum computers and single-photon sources |
+|[Quanfluence](https://quanfluence.com) | QUANTUM | 2021 | IN |Photonic quantum computers and optical hardware |
 |[Quantum Brilliance](https://quantumbrilliance.com) | QUANTUM | 2019 | AU |Room-temperature diamond quantum chips |
 |[Quantum Motion](https://quantummotion.com) | QUANTUM | 2017 | GB |Scalable quantum computer architectural technology |
 |[Quantum Source](https://qs-labs.com) | QUANTUM | 2021 | IL |Photonic quantum computers using photon-atom gates |
